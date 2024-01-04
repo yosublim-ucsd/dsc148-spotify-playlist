@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,214 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 12 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 |
 | 13 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 |
 | 14 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
-| 15 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
-| 16 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 |
+| 15 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 |
+| 16 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
 | 17 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 |
 | 18 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 |
 | 19 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
 | 50 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 |
 
-Snapshot ID: `MCxlMDhmMjExZjBkYmJkYzBmNTFiYjY4NWUzYWFkNTdmMGEwMTExMGJl`
+Snapshot ID: `MCwzMDM1MDVjZTgzMzcxOWYyNTU3ZmNlMjllNjExMzY3NWQ2Y2IwNGMy`

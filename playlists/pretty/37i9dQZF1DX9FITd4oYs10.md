@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,675 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,678 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 43 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
 | 44 | [Nós](https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:13 |
 | 45 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
-| 46 | [Esperar o Sol](https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 3:21 |
-| 47 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
+| 46 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
+| 47 | [Esperar o Sol](https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 3:21 |
 | 48 | [Aquela Fé](https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Nego Gallo](https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Roteiro Pra Aïnouz \(Vol\. 3\)](https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW) | 6:08 |
 | 49 | [Favela Vive 3](https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Favela Vive 3](https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF) | 8:19 |
 | 50 | [Miss](https://open.spotify.com/track/3CxiFRL9ehmQCGGpORlPAg) | [Cacife Gold](https://open.spotify.com/artist/456O7OAKFJzzVDKOcUMlHk), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Cacife Gold, Vol\. 1](https://open.spotify.com/album/1bhmo9qkQv9WrNVmby54Sp) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [The Cypher Deffect 2](https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [The Cypher Deffect 2](https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb) | 5:35 |
 | 60 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
 
-Snapshot ID: `MCw4NWEwNjc4MzUwMzg5YTRjODRkZDI1NWY5ZWE3N2JkNjkyZjliZTQ0`
+Snapshot ID: `MCw1MWQ1ZjExYzI4NjE3NGI5ZGZkMDMzMzU5ZmRjZTcyOGRmMjNhYmU4`

@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 391305,
+  "num_followers": 391367,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzA3MmJhYmY1ODZhMzhjMGY5ZDg3OGM3YmE5NDY4M2Y0MDA4Njg4",
+  "snapshot_id": "MCxmYzRiOGEwZjgzNDM0YmExMmI3MzZkMzI5NDZmNTgyZDEzMWMwYjYz",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Sings Heart Songs",
-        "url": "https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 123466,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 178973,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Sings Heart Songs",
+        "url": "https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 123466,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "You Never Even Called Me By My Name",
-      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "You're The One",
         "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 174693,
       "name": "Y'all Come Back Saloon",
       "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "You Never Even Called Me By My Name",
+      "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "The Very Best Of David Frizzell & Shelly West",
         "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 204386,
       "name": "You're The Reason God Made Oklahoma",
       "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2023-08-21 00:02:44",

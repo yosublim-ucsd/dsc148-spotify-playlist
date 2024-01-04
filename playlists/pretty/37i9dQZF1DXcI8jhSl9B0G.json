@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74378,
+  "num_followers": 74402,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzMzMzllNzAwMmQ0ZDY4OTQyOTgyMDNhMmZjZGYyODBmMTdjZmI1",
+  "snapshot_id": "MCwzMDAzNWQ1NTY1NGMyYWExNjExMWQ4MTg4ZTQxNWRiZWFjYzFlYTA1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Home to You",
+        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 213629,
+      "name": "Home to You",
+      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Home to You",
-        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
         {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 213629,
-      "name": "Home to You",
-      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 196772,
       "name": "Inappropriate Behaviour",
       "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Gypsy Tapes",
-        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 212585,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 223445,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Gypsy Tapes",
+        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 212585,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Future of an End",
-        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 188544,
       "name": "The Coffee Song",
       "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Future of an End",
+        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Where'd You Go",
         "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 219479,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     },
     {
       "added_at": "2023-11-30 13:00:00",

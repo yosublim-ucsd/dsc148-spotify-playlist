@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,955 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,978 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Endboss](https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:44 |
 | 50 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
 
-Snapshot ID: `MCwyMzIyY2Q5ZWRjMjJhZmEyYzEyMzI1ZmJmOGM1ZTY2NWU5MThhZjU3`
+Snapshot ID: `MCwyYTljY2QxYmFmOTY1ZGY5ZjdhMTQxMzA4YWI4YmZiMjE5ZjA2MjAx`

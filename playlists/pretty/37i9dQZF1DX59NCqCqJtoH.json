@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1178217,
+  "num_followers": 1178320,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQ4ZGI2OGIwZGM2ZjUyNjA5MGMyYjYzNDE4OTViYzQ1ZTU3NGEz",
+  "snapshot_id": "MCwwMDQ1YmUxM2Q2M2JlYjdiOWM2NzdlYTRjMDk2NjBjNDAxYzI4MDNj",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -139,8 +139,8 @@
     {
       "added_at": "2023-10-09 15:43:11",
       "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
         }
       ],
-      "duration_ms": 172137,
+      "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "added_at": "2023-11-06 23:14:40",
@@ -1521,6 +1521,22 @@
       "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
+    },
+    {
       "added_at": "2023-11-09 23:50:22",
       "album": {
         "name": "Stepdream",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "why didn't you call???",
         "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 196734,
       "name": "why didn't you call???",
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "grim",
-        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
-      },
-      "artists": [
-        {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
-        }
-      ],
-      "duration_ms": 134885,
-      "name": "fragment",
-      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
+        "name": "grim",
+        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
       "artists": [
         {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
         }
       ],
-      "duration_ms": 136686,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
+      "duration_ms": 134885,
+      "name": "fragment",
+      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
       },
@@ -1665,36 +1665,36 @@
       "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "trust exercises",
-        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29"
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 214002,
-      "name": "trust exercises",
-      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
+      "duration_ms": 161201,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de"
     },
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 148401,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     }
   ],
   "unique_name": "idk.",

@@ -4,7 +4,7 @@
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-433 songs - 18 hr 49 min
+436 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Husk](https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Husk](https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE) | 3:10 | 2023-10-09 |  |
 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 | 2023-10-09 |  |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2023-10-09 | 2023-11-07 |
+| [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-03 |  |
 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2023-10-09 | 2023-11-07 |
 | [Imagery Noir](https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Imagery Noir](https://open.spotify.com/album/1AuorWIwxQ0oM0S3G4skZG) | 2:39 | 2023-10-09 |  |
 | [Immersion](https://open.spotify.com/track/2n07NKEPbQ1ABTvhTGJcYj) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Immersion](https://open.spotify.com/album/2PitqdH877qhO9IIpPrKXi) | 2:24 | 2023-10-09 |  |
@@ -337,6 +338,7 @@
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2023-10-09 | 2023-11-07 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2023-10-09 | 2023-11-07 |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-10-09 |  |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-03 |  |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2023-10-09 | 2023-11-07 |
 | [Solkysst](https://open.spotify.com/track/0flcIAMaspYd4r5KIoZJ5L) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Solkysst](https://open.spotify.com/album/0QLhrApLnQX972jZsz8n5n) | 2:20 | 2023-10-09 | 2023-11-07 |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-10-09 |  |
@@ -379,6 +381,7 @@
 | [The Field](https://open.spotify.com/track/7Mas670FmorgBqp0GnZOHb) | [Leonard Gambrell](https://open.spotify.com/artist/3UjODKnwbU318wOJhcuxSG) | [The Field](https://open.spotify.com/album/3IboYSaQu2t0zoFU7BkG6Z) | 2:36 | 2023-10-09 | 2023-11-07 |
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2023-10-09 | 2023-11-07 |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2023-10-09 |  |
+| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-03 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-10-09 |  |
 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2023-12-18 |  |
 | [The Remedy](https://open.spotify.com/track/3LYU4JAT6xnEufa2BBwe89) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [The Remedy](https://open.spotify.com/album/6SNyV83OijPvIMf7BKxySb) | 2:54 | 2023-10-09 | 2023-11-07 |

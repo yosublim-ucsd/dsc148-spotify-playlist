@@ -4,7 +4,7 @@
 
 > Latin pop tracks you need to hear\. Cover: Rels B & Kenia OS
 
-413 songs - 21 hr 22 min
+414 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-03-03 | 2023-10-28 |
 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 | 2023-11-03 |  |
 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 | 2023-10-13 |  |
-| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-06-30 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 | 2023-12-29 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-06-30 | 2024-01-04 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-12-16 | 2022-07-09 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-22 | 2023-01-28 |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-08 | 2023-11-25 |

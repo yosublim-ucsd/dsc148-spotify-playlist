@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 175777,
       "name": "...Familiar Place",
       "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 181270,
       "name": "All The Way Back",
       "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 278256,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 197458,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/7zHItKmLm1pMO3GsxwJyJi"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 167812,
       "name": "Going Going Gone - Edit",
       "url": "https://open.spotify.com/track/60IxJQA2o7CJ5GFO7DTd9T"
@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Blue Cabinet",
+        "url": "https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD"
+      },
+      "artists": [
+        {
+          "name": "Bats",
+          "url": "https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244189,
+      "name": "Golden Spoon",
+      "url": "https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l"
+    },
+    {
+      "album": {
         "name": "Golden State",
         "url": "https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 264600,
       "name": "Golden State",
       "url": "https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 162101,
       "name": "Here Comes The Comeback",
       "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
@@ -3653,6 +3671,28 @@
     },
     {
       "album": {
+        "name": "Passing Sun",
+        "url": "https://open.spotify.com/album/103zyTkSJ2fNbHOjwNslR9"
+      },
+      "artists": [
+        {
+          "name": "Laney Tripp",
+          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
+        },
+        {
+          "name": "Jacob Cummings",
+          "url": "https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217295,
+      "name": "Passing Sun",
+      "url": "https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT"
+    },
+    {
+      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/2eVNTzudD6CJKpVzIJez8M"
       },
@@ -3900,6 +3940,24 @@
       "duration_ms": 187026,
       "name": "Right on Time - In Harmony",
       "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
+    },
+    {
+      "album": {
+        "name": "Garden Snake",
+        "url": "https://open.spotify.com/album/5ndQYno2ocWkZFdbsnNcmD"
+      },
+      "artists": [
+        {
+          "name": "John-Robert",
+          "url": "https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Road Trip",
+      "url": "https://open.spotify.com/track/7yXjeZ4Iw5R78hLXkRs3ku"
     },
     {
       "album": {
@@ -4282,7 +4340,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
@@ -5212,7 +5270,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 135233,
       "name": "We Know the Way Back Home",
       "url": "https://open.spotify.com/track/7pOqf0QrSk5bkRT4lj7vIM"

@@ -1,12 +1,12 @@
 {
   "description": "Breeze through your commute with these pop favorites. Cover: Tate McRae",
-  "num_followers": 273342,
+  "num_followers": 273339,
   "original_name": "Pop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDJiOTBmZDhiZjI5NDgzM2QyMWJmNzhmMDlkMzk5MzRmMDk5ZjMy",
+  "snapshot_id": "MCxmYzc4YmZjMGFkYTgzNzAwYjRjZDQ4YmQyZTE0MGQ3YmNiNDhlZTQ4",
   "tracks": [
     {
       "added_at": "2023-11-17 14:37:01",
@@ -493,28 +493,20 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-11-17 14:37:01",
+      "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Barbie World (with Aqua) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 109750,
-      "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+      "duration_ms": 143940,
+      "name": "run for the hills",
+      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -549,20 +541,28 @@
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
         }
       ],
-      "duration_ms": 143940,
-      "name": "run for the hills",
-      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1395,18 +1395,34 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1431,22 +1447,6 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
     },
     {
       "added_at": "2023-11-17 14:37:01",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-11-17 14:37:01",
       "album": {
-        "name": "Last Time I Saw You",
-        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216347,
-      "name": "Last Time I Saw You",
-      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
-    },
-    {
-      "added_at": "2023-11-17 14:37:01",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 187107,
       "name": "2 Be Loved (Am I Ready)",
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+    },
+    {
+      "added_at": "2023-11-17 14:37:01",
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": "2023-11-17 14:37:01",

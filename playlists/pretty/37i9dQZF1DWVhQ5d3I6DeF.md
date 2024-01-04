@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,900 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,222 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 |
 | 50 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 |
 
-Snapshot ID: `MCwyNDM1MGFlYjg2Mjk1ZTc0MDFmNTgwZDQwZWMzZmU4NGIxMjRkM2Q4`
+Snapshot ID: `MCw4N2Y4Y2YxMDQ4ZWVmMTdjN2FmYjdkYjEyYzNmNGFiMGU4NjVkMWE0`

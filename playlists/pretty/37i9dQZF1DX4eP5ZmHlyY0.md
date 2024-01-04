@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: Number\_i
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,243 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,402 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 43 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 |
 | 44 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 |
 | 45 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
-| 46 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
+| 46 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
 | 47 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
 | 48 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
 | 49 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 |
 | 50 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
 
-Snapshot ID: `MCxiM2YyOGI3MTQyMGEyMzBiMzNhMjJmZjExNTIxMzNiNWIzNTMwNTEw`
+Snapshot ID: `MCxkYWY2YmM2NGI4ODViMmMzMTBiYzJkMWNmYTg2YmNhMGE2YTAzZTNi`

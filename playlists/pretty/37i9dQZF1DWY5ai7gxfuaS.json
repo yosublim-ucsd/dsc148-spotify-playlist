@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 275007,
+  "num_followers": 275060,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M0NzExNDI2Y2NjMzMyNDA3ZTIyZjExNjVlMmQ1YWU3YmI0NjM2",
+  "snapshot_id": "MCwyMDJhZDEwZTcyOGE5NDJkYjI5M2M3YTUzZTEyY2FjYmQ0MzY2NjVj",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "MILF",
         "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
       },
@@ -459,26 +475,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "All Fine / eniF llA",
-        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        },
-        {
-          "name": "Get Scared",
-          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Puppet",
-      "url": "https://open.spotify.com/track/7fFp5wxVb3oJxthl73J1pT"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "SEWERSTAR",
         "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
       },
@@ -495,18 +491,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+        "name": "All Fine / eniF llA",
+        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        },
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
         }
       ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+      "duration_ms": 217500,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/7fFp5wxVb3oJxthl73J1pT"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -607,6 +607,22 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -731,22 +747,6 @@
       "duration_ms": 174758,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 235736,
-      "name": "Paranoid (Crash & Burn)",
-      "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Moot",
+        "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        },
+        {
+          "name": "Morgan Lander",
+          "url": "https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5"
+        }
+      ],
+      "duration_ms": 245664,
+      "name": "Moot",
+      "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "From Voodoo to Zen",
         "url": "https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 235500,
       "name": "Heaviness",
       "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "Moot",
-        "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
-      },
-      "artists": [
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
-        },
-        {
-          "name": "Morgan Lander",
-          "url": "https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5"
-        }
-      ],
-      "duration_ms": 245664,
-      "name": "Moot",
-      "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Heads Off",
-        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 271943,
-      "name": "Heads Off",
-      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Flowers of Evil",
         "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "They Fear Us",
-        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Animo",
         "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 195800,
       "name": "Animo",
       "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "They Fear Us",
+        "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1243,6 +1243,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1427,6 +1443,26 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Kings Today",
+        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
+      },
+      "artists": [
+        {
+          "name": "Sicksense",
+          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
+        },
+        {
+          "name": "Vicky Psarakis",
+          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
+        }
+      ],
+      "duration_ms": 235954,
+      "name": "Kings Today",
+      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "\u00c1mr",
         "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
       },
@@ -1467,22 +1503,18 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Kings Today",
-        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
+        "name": "Alone I...",
+        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
       },
       "artists": [
         {
-          "name": "Sicksense",
-          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
-        },
-        {
-          "name": "Vicky Psarakis",
-          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
+          "name": "Synthetic Blast",
+          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
         }
       ],
-      "duration_ms": 235954,
-      "name": "Kings Today",
-      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+      "duration_ms": 280549,
+      "name": "Alone I Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Alone I...",
-        "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
-      },
-      "artists": [
-        {
-          "name": "Synthetic Blast",
-          "url": "https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b"
-        }
-      ],
-      "duration_ms": 280549,
-      "name": "Alone I Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1547,6 +1563,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
+      },
+      "artists": [
+        {
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
+        }
+      ],
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1599,22 +1631,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
     },
     {
       "added_at": "2023-12-07 20:09:02",

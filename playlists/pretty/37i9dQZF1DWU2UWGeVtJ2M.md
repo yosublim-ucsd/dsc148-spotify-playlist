@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,234 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,266 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,18 +88,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 78 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 79 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
 | 80 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
-| 81 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
-| 82 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 |
+| 81 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 |
+| 82 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
 | 83 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
 | 84 | [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 |
-| 85 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
-| 86 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
+| 85 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
+| 86 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
 | 87 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 88 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 |
 | 89 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |
 | 90 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 91 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 |
-| 92 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
+| 91 | [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 |
+| 92 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 |
 | 93 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 94 | [Late \(Again\)](https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz) | 1:55 |
 | 95 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
 | 100 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 |
 
-Snapshot ID: `MCwzMjM0OWYyODNkMTUwNTI0NTgzNDNlNDc3ZWRiNTA5ZWI1NzkyNWZm`
+Snapshot ID: `MCxmYWI1ZjBkZTQwOTYzNzgzNTRmOWRlMjQ0ZTdmZmNhYjg1MmY5ZWMy`

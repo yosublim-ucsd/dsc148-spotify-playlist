@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 64820,
+  "num_followers": 64845,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2FmODRlNDQ3NWRjZjAxYWFlMTBhOWY1ZGYxNzUwYmIzZjNiOTJk",
+  "snapshot_id": "MCw5ZDZkOGMxZjJhNmRjZDI3MjFkZDc0ODJjZjdmMGZkMjYwMzU5NTA5",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 197280,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
     },
     {
       "added_at": "2023-10-06 06:00:00",

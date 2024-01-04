@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18939,
+  "num_followers": 18953,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mjk0OWFjMWE4ZjY3NjgwZWFjMjMyN2ZmMDJmMzNiYzNkOTk2M2Rl",
+  "snapshot_id": "MCxkN2FlYmY2YjdjNTFmMTA5MjM0MzI3OGY1ODY4YjlkYzBlNDliNGNh",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Voc\u00ea Sabe",
-        "url": "https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6"
+        "name": "Boca Aberta",
+        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
       },
       "artists": [
         {
-          "name": "TEG\u00ca",
-          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+          "name": "Reolamos",
+          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
         }
       ],
-      "duration_ms": 155750,
-      "name": "Voc\u00ea Sabe",
-      "url": "https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc"
+      "duration_ms": 200086,
+      "name": "Boca Aberta",
+      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Voc\u00ea Sabe",
+        "url": "https://open.spotify.com/album/73EzZvEoh8UVPo1Bn2xaG6"
+      },
+      "artists": [
+        {
+          "name": "TEG\u00ca",
+          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Voc\u00ea Sabe",
+      "url": "https://open.spotify.com/track/5KhLRmnp5eEJkfaU783YEc"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 201231,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Boca Aberta",
-        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
-      },
-      "artists": [
-        {
-          "name": "Reolamos",
-          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
-        }
-      ],
-      "duration_ms": 200086,
-      "name": "Boca Aberta",
-      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Bate Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
-      },
-      "artists": [
-        {
-          "name": "vicro",
-          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+      },
+      "artists": [
+        {
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
     },
     {
       "added_at": "2023-11-30 21:58:24",

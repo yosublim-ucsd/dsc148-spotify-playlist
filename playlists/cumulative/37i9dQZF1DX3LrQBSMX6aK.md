@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-105 songs - 1 day 0 hr 15 min
+106 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Tabla Solo In Ektal \- Live](https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 6:19 | 2021-12-07 | 2023-01-03 |
 | [Talam: Mahalakshmi Tala \- 9 1/2 Beats \- Pancha Nadai Pallavi \(Ragam Tanam Pallavi\)](https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [T.H\. Vinayakram](https://open.spotify.com/artist/6kF3zpdpcHSckhA72oPCGd), [Caroline](https://open.spotify.com/artist/6AzTL1nWrksi2yfFMM6bAn) | [Pancha Nadai Pallavi](https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p) | 31:15 | 2021-12-07 |  |
 | [The Divine Raga Durga \- Raga Turga \- Tala Ektaal Madhyalaya](https://open.spotify.com/track/1YXjfTxQoDK3TV0IqWcCjf) | [Anuradha Kuber](https://open.spotify.com/artist/6yDnNXnUF9Xgvy8lDCAOa1), [Rigved Deshpande](https://open.spotify.com/artist/3D4ciVOOjlZ8vA8h861db8) | [The Divine Raga Durga](https://open.spotify.com/album/0onWHTMDpbnZeDUo0QOB9U) | 28:04 | 2023-07-21 |  |
-| [Thumri \- Raag Khambawati](https://open.spotify.com/track/4Yo0CJZIaezK8eAybLsx8l) | [Sunanda Sharma](https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 14:50 | 2023-05-08 |  |
+| [Thumri \- Raag Khambawati](https://open.spotify.com/track/3XB645riWmBrwb63OFyIhN) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Sur Tarangini Part 2](https://open.spotify.com/album/17h9vZvPfXwBLB1jTQNjyx) | 14:50 | 2023-11-24 |  |
+| [Thumri \- Raag Khambawati](https://open.spotify.com/track/4Yo0CJZIaezK8eAybLsx8l) | [Sunanda Sharma](https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 14:50 | 2023-05-08 | 2024-01-04 |
 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 | 2021-12-07 | 2023-01-10 |
 | [Thunbam Nergayil](https://open.spotify.com/track/10G3lz19WDI0NZgXBniZZo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Bramhananadam](https://open.spotify.com/album/5jExejZsjI5bMUaXLvpgeJ) | 8:05 | 2021-12-07 | 2023-07-01 |
 | [Uthata Baaje](https://open.spotify.com/track/7uiEEmbfllma51hGSxAixq) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Uthata Baaje](https://open.spotify.com/album/1MRCml52wp8JIvqYzftE97) | 4:16 | 2023-04-05 | 2023-07-22 |

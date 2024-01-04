@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
-  "name": "Barack Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
+  "description": "Barack Obama&#x27;s favorite songs of 2023 plus somo of his favorite summer songs. Includes Summer 22, &amp; 21 editions + bonus tracks.",
+  "name": "Obama\u2019s Summer Playlist 2023 | Favorite Songs of 2023",
   "tracks": [
     {
       "album": {
@@ -17284,7 +17284,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 166440,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3fbTDuocnHvdpir8W9F9mT"
@@ -21841,6 +21841,28 @@
     },
     {
       "album": {
+        "name": "The Echo of Your Goodbye",
+        "url": "https://open.spotify.com/album/2NR3WhjiRaIfdyycJB7kQf"
+      },
+      "artists": [
+        {
+          "name": "Frank Mayor",
+          "url": "https://open.spotify.com/artist/3QR1SH1YXkCKI3z0mtsW1a"
+        },
+        {
+          "name": "V\u00edro",
+          "url": "https://open.spotify.com/artist/6bwHZO2yE6P4TrNu2uWMnM"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220115,
+      "name": "I Can't Wait Forever",
+      "url": "https://open.spotify.com/track/2JumCkCV16a4Nk6CccGGRb"
+    },
+    {
+      "album": {
         "name": "Head Under Water",
         "url": "https://open.spotify.com/album/0nTtYqBbIENrkv2iqQNOq4"
       },
@@ -23826,6 +23848,28 @@
       "duration_ms": 143322,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/7neP1B0gGOBbdZn6FIOhzf"
+    },
+    {
+      "album": {
+        "name": "Exulansis",
+        "url": "https://open.spotify.com/album/3JmumjBgev6X4Bw0YJKUW0"
+      },
+      "artists": [
+        {
+          "name": "El Baron La Perfeccion",
+          "url": "https://open.spotify.com/artist/51JTD1mlGA6OZFpTXGRvJX"
+        },
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261209,
+      "name": "Infidelidad",
+      "url": "https://open.spotify.com/track/1sCPTrzvqgHHVVcXswPvF5"
     },
     {
       "album": {
@@ -41015,6 +41059,24 @@
     },
     {
       "album": {
+        "name": "Show Yourself",
+        "url": "https://open.spotify.com/album/36GvXjbpm7YKV3w4odK6u6"
+      },
+      "artists": [
+        {
+          "name": "Dean Suzuki",
+          "url": "https://open.spotify.com/artist/70140N6W3u9zZd40hfp8J5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/18yoLoaIOeR2k7SFAhd5Pk"
+    },
+    {
+      "album": {
         "name": "Shurakato",
         "url": "https://open.spotify.com/album/67UXY0fp7IptL5DGe4pYZt"
       },
@@ -44278,7 +44340,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 230288,
       "name": "Supa Fly",
       "url": "https://open.spotify.com/track/65C2ZuMMQbIZNaSPX248pS"
@@ -46810,6 +46872,24 @@
       "duration_ms": 139428,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/41AOkJlfivoqLJkRB24gSg"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/4ivk0Rjuso8eDiGwCZz2Ib"
+      },
+      "artists": [
+        {
+          "name": "Marina Car\u00f3",
+          "url": "https://open.spotify.com/artist/7jc9nNFf6A5CCQWzhMaLNw"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/0tFYw23ZdowOMjqbPdQzls"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,449 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,454 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 14 | [As I](https://open.spotify.com/track/5I0Y8d1UZaHNWnRPtYrMum) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 6:22 |
 | 15 | [Get Over It](https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Get Over It](https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw) | 6:59 |
 | 16 | [Party Hard](https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 3:38 |
-| 17 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
+| 17 | [Things We Do for Love](https://open.spotify.com/track/6aK9ltNssyBsh0C6Q9ZsVZ) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH), [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD) | [Uk Garage Beats V4](https://open.spotify.com/album/0IhOfm65ovw4xuw8XXsef3) | 3:31 |
 | 18 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
-| 19 | [Things We Do for Love](https://open.spotify.com/track/6aK9ltNssyBsh0C6Q9ZsVZ) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH), [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD) | [Uk Garage Beats V4](https://open.spotify.com/album/0IhOfm65ovw4xuw8XXsef3) | 3:31 |
+| 19 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
 | 20 | [Me Nuh Deal Wid Dat](https://open.spotify.com/track/3WJcd5MR3tM4zgaOJVTGXV) | [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Me Nuh Deal Wid Dat](https://open.spotify.com/album/7bidDEdcAleSX40qHvxEd1) | 2:40 |
 | 21 | [Migraine Skank \- Main Mix](https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG) | [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy) | [Migraine Skank](https://open.spotify.com/album/6RhGWsbhsG19udkx5UotWT) | 3:06 |
 | 22 | [Tribal Skank \- Radio Mix](https://open.spotify.com/track/1o8waXzOEeUIAlsApWyLEp) | [Fr3e](https://open.spotify.com/artist/6sezwfsYnNgPPKvmv9FmoF) | [Tribal Skank](https://open.spotify.com/album/2waOIVyj1rWWRyBssmfAbt) | 3:44 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 53 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
 | 54 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
 | 55 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
-| 56 | [Red Devil](https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F) | [DJ Motu](https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx) | [Red Devil](https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK) | 4:12 |
-| 57 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
-| 58 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
-| 59 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw) | [Drmtrk II](https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID) | 2:24 |
-| 60 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |
+| 56 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
+| 57 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
+| 58 | [Red Devil](https://open.spotify.com/track/0uEprpXfrUkQoa9pPK7G0F) | [DJ Motu](https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx) | [Red Devil](https://open.spotify.com/album/6up4KMMrMWCoNq6qqMFMeK) | 4:12 |
+| 59 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |
+| 60 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw) | [Drmtrk II](https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID) | 2:24 |
 
-Snapshot ID: `MCw0NmU5N2VjZmM1MmY1MWNkZWYyMjMxOGNjNGY1ODJjNTgyZmFmNzIy`
+Snapshot ID: `MCw4YzMzOGM3ZWU5NmRjYzVjNGExMzA2YWYxZWE2ZjgwMDAxOTg2YTky`

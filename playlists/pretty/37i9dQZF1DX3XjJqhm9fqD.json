@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 84088,
+  "num_followers": 84121,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmZiODA4ZTRmYTE2NGMyZTkxOTY4OTZkYTVmNTcwYTcwY2Y4NDk5",
+  "snapshot_id": "MCxjODI5NmFiMDg3NDM4OTAzYWIzYjU0MDMwZWYzZTBhNTM5MGM0Yzhl",
   "tracks": [
     {
       "added_at": "2024-01-02 19:51:49",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "F\u00f2s",
-        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 234248,
-      "name": "Crush la",
-      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -991,30 +991,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
-        "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 199550,
-      "name": "Party Girls (feat. Buju Banton) - Micha\u00ebl Brun Dancehall Remix",
-      "url": "https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Chante ap ret chante",
         "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 170550,
       "name": "Guava",
       "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
+        "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 199550,
+      "name": "Party Girls (feat. Buju Banton) - Micha\u00ebl Brun Dancehall Remix",
+      "url": "https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
-      },
-      "artists": [
-        {
-          "name": "Beken",
-          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Kote'w Te Ye",
-      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Sol\u00e8y",
         "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 284991,
       "name": "HOLLOW.",
       "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "Troubadour",
+        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
+      },
+      "artists": [
+        {
+          "name": "Beken",
+          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Kote'w Te Ye",
+      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1467,6 +1467,38 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        },
+        {
+          "name": "Z The Vibe Doctor",
+          "url": "https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh"
+        },
+        {
+          "name": "Benny D",
+          "url": "https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu"
+        },
+        {
+          "name": "Machi",
+          "url": "https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy"
+        },
+        {
+          "name": "Julian Mendoza",
+          "url": "https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1523,22 +1555,6 @@
       "duration_ms": 194976,
       "name": "Nou Pare",
       "url": "https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
       },
       "artists": [
         {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+          "name": "Daniel Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1671,34 +1687,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI"
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
       "artists": [
         {
-          "name": "Daniel Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        },
-        {
-          "name": "Z The Vibe Doctor",
-          "url": "https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh"
-        },
-        {
-          "name": "Benny D",
-          "url": "https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu"
-        },
-        {
-          "name": "Machi",
-          "url": "https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy"
-        },
-        {
-          "name": "Julian Mendoza",
-          "url": "https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4"
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe"
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
+        "name": "Regr\u00e8",
+        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
+      },
+      "artists": [
+        {
+          "name": "Wood Terrib",
+          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
+        }
+      ],
+      "duration_ms": 229998,
+      "name": "Regr\u00e8",
+      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
-        "name": "Regr\u00e8",
-        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
-      },
-      "artists": [
-        {
-          "name": "Wood Terrib",
-          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
-        }
-      ],
-      "duration_ms": 229998,
-      "name": "Regr\u00e8",
-      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2024-01-02 19:51:49",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2024-01-02 19:51:49",
       "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
       },
       "artists": [
         {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
         }
       ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2024-01-02 19:51:49",
@@ -1911,6 +1895,22 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2024-01-02 19:51:49",
+      "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
     },
     {
       "added_at": "2024-01-02 19:51:49",

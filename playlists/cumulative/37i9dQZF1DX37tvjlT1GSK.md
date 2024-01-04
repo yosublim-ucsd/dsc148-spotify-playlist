@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García, Gabriel Ssoe en portada.
 
-344 songs - 18 hr 21 min
+344 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Un Rato](https://open.spotify.com/track/0iej2fZX8h0bzPg46JgtwG) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Un Rato](https://open.spotify.com/album/1DiTGpSzog7O7bWo6BzrBC) | 3:01 | 2022-12-02 | 2023-01-10 |
 | [Un Tigre En La Movida](https://open.spotify.com/track/1kvIMshewl3Qfo1xt4O7vH) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [Un Tigre En La Movida](https://open.spotify.com/album/4l1De9ioDhJmw2QbHGUOPs) | 4:32 | 2023-08-25 | 2023-09-09 |
 | [Una 45](https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Una 45](https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I) | 1:53 | 2023-03-17 |  |
-| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 | 2023-12-01 |  |
+| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 | 2023-12-01 |  |
 | [UNA CERVEZA](https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 4:39 | 2023-12-22 |  |
 | [Una en Un Millon](https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y) | [Amigos De La Cuadra](https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Niña Fiel](https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV) | 2:09 | 2023-01-20 | 2023-12-02 |
 | [Una Linda Mujer](https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Linda Mujer](https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J) | 3:02 | 2023-01-20 | 2023-03-18 |

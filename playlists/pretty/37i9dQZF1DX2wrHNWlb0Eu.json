@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 103255,
+  "num_followers": 103320,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU3NTNhOGYzN2Q4OTFlOGM4YTBlMGU0Y2I0MzIwMWM1YWE1ZTdi",
+  "snapshot_id": "MCxkNDZkM2U4YmY1YTAyNzE2ZDA2NjVhZjMxNTI3MDVlMDM2YTc3MTg1",
   "tracks": [
     {
       "added_at": "2023-10-06 07:11:21",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "Extraordinary",
-        "url": "https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz"
+        "name": "80 Kisses",
+        "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
       },
       "artists": [
         {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
         }
       ],
-      "duration_ms": 241983,
-      "name": "Extraordinary",
-      "url": "https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5"
+      "duration_ms": 227000,
+      "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "80 Kisses",
-        "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
+        "name": "Extraordinary",
+        "url": "https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz"
       },
       "artists": [
         {
-          "name": "Polycat",
-          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
         }
       ],
-      "duration_ms": 227000,
-      "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21",
-      "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
+      "duration_ms": 241983,
+      "name": "Extraordinary",
+      "url": "https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
-        "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 289777,
-      "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
-      "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
         "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 191392,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
       "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
+        "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 289777,
+      "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
+      "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 264000,
       "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
       "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (A Beautiful Ride)",
-        "url": "https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
-      "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 199500,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
       "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (A Beautiful Ride)",
+        "url": "https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
+      "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "Left Right And Something",
-        "url": "https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 322706,
-      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
-      "url": "https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "The First Album",
         "url": "https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (TEST ME)",
       "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "Left Right And Something",
+        "url": "https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 322706,
+      "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
+      "url": "https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -639,22 +639,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+        "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
       "artists": [
         {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+          "name": "Bow Maylada",
+          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
         },
         {
-          "name": "PP Krit",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+          "name": "GUYGEEGEE",
+          "url": "https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj"
         }
       ],
-      "duration_ms": 199333,
-      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
-      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
+      "duration_ms": 212500,
+      "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -675,22 +675,22 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
-        "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
       },
       "artists": [
         {
-          "name": "Bow Maylada",
-          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
         },
         {
-          "name": "GUYGEEGEE",
-          "url": "https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj"
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
         }
       ],
-      "duration_ms": 212500,
-      "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
+      "duration_ms": 199333,
+      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
+      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 183238,
-      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
         "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 183238,
+      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "begins",
         "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 231946,
       "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e27",
-        "url": "https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k"
-      },
-      "artists": [
-        {
-          "name": "Tony Phee",
-          "url": "https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN"
-        }
-      ],
-      "duration_ms": 292640,
-      "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
-      "url": "https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT"
-    },
-    {
-      "added_at": "2023-10-06 07:11:21",
-      "album": {
         "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
         "url": "https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2023-10-06 07:11:21",
       "album": {
-        "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
-        "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
+        "name": "\u0e01\u0e25\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+          "name": "Tony Phee",
+          "url": "https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN"
         }
       ],
-      "duration_ms": 245853,
-      "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
-      "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
+      "duration_ms": 292640,
+      "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
+      "url": "https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT"
     },
     {
       "added_at": "2023-10-06 07:11:21",
@@ -1687,6 +1671,22 @@
       "duration_ms": 193894,
       "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (UNEXPECTED)",
       "url": "https://open.spotify.com/track/0qMQZhDD8hjV7KvZ19Jm4n"
+    },
+    {
+      "added_at": "2023-10-06 07:11:21",
+      "album": {
+        "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

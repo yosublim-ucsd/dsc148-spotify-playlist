@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Young zetton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Brico Studio Cypher](https://open.spotify.com/track/3lWVYAxisByY8K1JvnrHWB) | [Musashi Village](https://open.spotify.com/artist/5IiIdN39rRyr7gRfWkunZ0), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd), [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [doc flawless](https://open.spotify.com/artist/7kQqFUxkHeDyqYlDDUtLvR), [i from tk](https://open.spotify.com/artist/3FbjqY5FIjrRWSUEiT6Dzv), [Task](https://open.spotify.com/artist/5bCG71EPaz4igg8gZOOPWB), [QN](https://open.spotify.com/artist/1kzKTFgS57UdgIKsIDuzj5) | [Brico Studio Cypher](https://open.spotify.com/album/0qYMbu27g2qDJjZrD74Zog) | 6:22 |
 | 100 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 |
 
-Snapshot ID: `MCwxNzc1NmMxNDU3MmZiNjUxMWEwMTY2MTllMTRlMjM4YjIyZjE2ODZh`
+Snapshot ID: `MCw5MDJkMDNiYjg0MjE4ZGNmMjNlNjMzMmEzMTZjY2U0NDQwM2I4MzQ1`

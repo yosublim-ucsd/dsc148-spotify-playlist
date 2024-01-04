@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2541313,
+  "num_followers": 2541800,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWY1ZmMzODU2MTM1NTRjNWUxMGRlY2EyYjc4NGZmMTRlNmRkY2Mz",
+  "snapshot_id": "MCxjMTNlZjk1OTAxNWQ5ZjI0ZWFmOTYzMmQ3NzRmMTE4MThmNjFkZTIz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1827,6 +1827,30 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 208601,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Upside Down (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
       },
@@ -1863,30 +1887,6 @@
       "duration_ms": 171904,
       "name": "Wings (I Won't Let You Down)",
       "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 208601,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1955,6 +1955,26 @@
       "duration_ms": 198867,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 213495,
+      "name": "The Sign (with CamelPhat)",
+      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2051,26 +2071,6 @@
       "duration_ms": 190217,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 213495,
-      "name": "The Sign (with CamelPhat)",
-      "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2451,30 +2451,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Like A Prayer",
         "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
@@ -2495,6 +2471,30 @@
       "duration_ms": 229337,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2607,22 +2607,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I Go Dancing (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6"
+        "name": "Numb (Alok Remix)",
+        "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         }
       ],
-      "duration_ms": 162545,
-      "name": "I Go Dancing (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3"
+      "duration_ms": 172913,
+      "name": "Numb - Alok Remix",
+      "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
     }
   ],
   "unique_name": "Power Hour",

@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Brianda en portada.",
-  "num_followers": 101072,
+  "num_followers": 101103,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzU1NTkwMzdhZGMzOTY0MjBkN2Q3ZTI0OWZjYTdjZjgwMzU0OTRj",
+  "snapshot_id": "MCw5ZTI2MzE4MmYxYjg1ZTQ0NjE1YzQwZTFlOGU3ZGU3YTAxNDRkYTRl",
   "tracks": [
     {
       "added_at": "2023-12-01 06:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Hoy Me Voy A Emborrachar",
-        "url": "https://open.spotify.com/album/46eaEef4bHoYLaVLj9iqLc"
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
       "artists": [
         {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Hoy Me Voy A Emborrachar",
-      "url": "https://open.spotify.com/track/3O6AIhv3Byai1T9U0bwaat"
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+        "name": "Hoy Me Voy A Emborrachar",
+        "url": "https://open.spotify.com/album/46eaEef4bHoYLaVLj9iqLc"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 189309,
-      "name": "Que Poca",
-      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
+      "duration_ms": 201000,
+      "name": "Hoy Me Voy A Emborrachar",
+      "url": "https://open.spotify.com/track/3O6AIhv3Byai1T9U0bwaat"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Quiz\u00e1s Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 275064,
-      "name": "Quiz\u00e1s Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Gente Gacha",
         "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 175285,
       "name": "Gente Gacha",
       "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Quiz\u00e1s Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 275064,
+      "name": "Quiz\u00e1s Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Soy de Parral",
-        "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 205825,
-      "name": "Soy de Parral",
-      "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Sesiones En Vivo Vol. 2",
         "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 206000,
       "name": "Contigo Aprend\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Soy de Parral",
+        "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 205825,
+      "name": "Soy de Parral",
+      "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
+        "name": "En Vivo: Irene del Rosario",
+        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 214414,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
         "name": "La Gitanilla",
         "url": "https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
-        "name": "En Vivo: Irene del Rosario",
-        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 214414,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
     },
     {
       "added_at": "2023-12-01 06:00:00",

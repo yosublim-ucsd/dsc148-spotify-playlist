@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,680 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,727 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 22 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 |
 | 23 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
 | 24 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
-| 25 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
+| 25 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
 | 26 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
-| 27 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
+| 27 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
 | 28 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 29 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
 | 30 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 90 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
 | 91 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 |
 | 92 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 |
-| 93 | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb) | 3:38 |
+| 93 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 |
 | 94 | [Preta de Quebrada](https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:26 |
-| 95 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 |
-| 96 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 |
-| 97 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
-| 98 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
+| 95 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 |
+| 96 | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb) | 3:38 |
+| 97 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
+| 98 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 | 99 | [Quem Vai Quem Vem](https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 3:03 |
 | 100 | [Delírio](https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Delírio](https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU) | 2:54 |
 
-Snapshot ID: `MCxhZDRjZjAzMjdlYWIyODI1Njg4OGZhZDYyZmQwZGZjN2NmMzFkOGEz`
+Snapshot ID: `MCw3NzZiMTJhYTBmYTE4NDliZmUyMzgyM2VmYjliZmE1MDQ0Mzc1YzA5`

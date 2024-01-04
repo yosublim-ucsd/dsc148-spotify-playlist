@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 131614,
+  "num_followers": 131637,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTNhOGYyZjU4NWJjNDVkNTY2MjBmMzNmMjI1NDU3ZjE3YjNjMTc5",
+  "snapshot_id": "MCwwMzJlYzQwNGExNTFkMDM3ZWYzYTg0NmIwNWE5MDFmM2FkOTMwMzE4",
   "tracks": [
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 169658,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
       },
@@ -1139,22 +1119,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Chase the Sun (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
       "artists": [
         {
-          "name": "Planet Funk",
-          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
         },
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
         }
       ],
-      "duration_ms": 258750,
-      "name": "Chase the Sun (Odd Mob Remix)",
-      "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
+      "duration_ms": 169658,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1175,6 +1155,26 @@
       "duration_ms": 248169,
       "name": "Waiting For Nothing",
       "url": "https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Chase the Sun (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
+      },
+      "artists": [
+        {
+          "name": "Planet Funk",
+          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Chase the Sun (Odd Mob Remix)",
+      "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
     }
   ],
   "unique_name": "Sunday Sessions",

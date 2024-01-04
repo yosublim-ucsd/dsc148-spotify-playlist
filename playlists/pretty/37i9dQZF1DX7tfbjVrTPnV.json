@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 200644,
+  "num_followers": 200729,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGUwMjczNGM5YjExZmE2YTk5ZWNmODJkYzZmOGRjZTdiYTk2MjMy",
+  "snapshot_id": "MCwyMGY5N2NmYmQ2NzdmOWVjODc1N2NkN2YwMTE1ODVmZDYyOTYwZjJm",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Out Among The Stars",
-        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Out Among the Stars",
-      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "John Prine",
         "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 272026,
       "name": "Hello in There",
       "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Out Among The Stars",
+        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Out Among the Stars",
+      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Do I Look Worried",
-      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
         "url": "https://open.spotify.com/album/1mLpBp6D3h869hhvLsb52a"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Do I Look Worried",
+      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Strangers Almanac",
         "url": "https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl"
       },
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Who's Gonna Take the Garbage Out (feat. Iris Dement)",
-        "url": "https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt"
+        "name": "Your Life Is a Record",
+        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Iris DeMent",
-          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
         }
       ],
-      "duration_ms": 161253,
-      "name": "Who's Gonna Take the Garbage Out (feat. Iris Dement)",
-      "url": "https://open.spotify.com/track/727Ric7BCNuahIETyOALEU"
+      "duration_ms": 189173,
+      "name": "Who You Thought I Was",
+      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Your Life Is a Record",
-        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
+        "name": "Who's Gonna Take the Garbage Out (feat. Iris Dement)",
+        "url": "https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
         }
       ],
-      "duration_ms": 189173,
-      "name": "Who You Thought I Was",
-      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+      "duration_ms": 161253,
+      "name": "Who's Gonna Take the Garbage Out (feat. Iris Dement)",
+      "url": "https://open.spotify.com/track/727Ric7BCNuahIETyOALEU"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 287933,
       "name": "Iowa (Traveling, Pt. 3)",
       "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Complicated Game",
-        "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Copper Canteen",
-      "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Complicated Game",
+        "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Copper Canteen",
+      "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
@@ -1639,26 +1659,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
       },
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Jerusalem",
-        "url": "https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs"
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5"
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+        "name": "Jerusalem",
+        "url": "https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs"
       },
       "artists": [
         {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+      "duration_ms": 236186,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1803,8 +1803,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
       },
       "artists": [
         {
@@ -1812,45 +1812,9 @@
           "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
         }
       ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Shine a Light: Field Recordings from the Great American Railroad",
-        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
-        }
-      ],
-      "duration_ms": 175783,
-      "name": "Rock Island Line",
-      "url": "https://open.spotify.com/track/4ngwge7Of6xRIdmqMHZoxb"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Happy Prisoner: The Bluegrass Sessions",
-        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1875,22 +1839,54 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
+        "name": "Happy Prisoner: The Bluegrass Sessions",
+        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
       },
       "artists": [
         {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
         }
       ],
-      "duration_ms": 186152,
-      "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
+      "duration_ms": 214293,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Shine a Light: Field Recordings from the Great American Railroad",
+        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
+      },
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Rock Island Line",
+      "url": "https://open.spotify.com/track/4ngwge7Of6xRIdmqMHZoxb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1935,18 +1931,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+      "duration_ms": 186152,
+      "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 149422,
+      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
+      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Most Messed Up",
         "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
       },
@@ -2067,26 +2087,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
-      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "First Rose of Spring",
         "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Love Wore A Halo (Back Before the War)",
         "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 220360,
       "name": "Love Wore A Halo (Back Before The War)",
       "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2167,42 +2167,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
-      },
-      "artists": [
-        {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/6T7XXP2wnOMgeEAyDhF03i"
       },
@@ -2223,6 +2187,42 @@
       "duration_ms": 338126,
       "name": "Mother, Son and Holy Ghost",
       "url": "https://open.spotify.com/track/0Sf4Miqjok7iImlzEaSKHq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+      },
+      "artists": [
+        {
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 203843,
-      "name": "House of the White Rose Boquet",
-      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 203843,
+      "name": "House of the White Rose Boquet",
+      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Lonely, The Lonesome & The Gone",
-        "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
-      },
-      "artists": [
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        }
-      ],
-      "duration_ms": 341293,
-      "name": "All The Trouble",
-      "url": "https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 198840,
       "name": "Whole Lotta Highway (With A Million Miles to Go)",
       "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Lonely, The Lonesome & The Gone",
+        "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 341293,
+      "name": "All The Trouble",
+      "url": "https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
-      },
-      "artists": [
-        {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Stitch of the World",
         "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
       },
@@ -2623,6 +2607,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s"
+      },
+      "artists": [
+        {
+          "name": "Martin Sexton",
+          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Just To Watch Maria Dance",
         "url": "https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY"
       },
@@ -2635,22 +2635,6 @@
       "duration_ms": 136489,
       "name": "Just To Watch Maria Dance",
       "url": "https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I Could Have Told You",
-        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "I Could Have Told You",
-      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2675,6 +2659,22 @@
       "duration_ms": 148960,
       "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I Could Have Told You",
+        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Could Have Told You",
+      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
     },
     {
       "added_at": "2023-08-11 04:00:00",

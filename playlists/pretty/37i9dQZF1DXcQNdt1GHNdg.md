@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,172 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,282 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Most Wanted](https://open.spotify.com/track/6UeMjHhzYnidHi7I4isoGg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Most Wanted](https://open.spotify.com/album/1t9DkDGq1ZHWt2jggPPUVm) | 3:04 |
 | 50 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 |
 
-Snapshot ID: `MCw2ZDRhOWJmMGRlYzI5NzhmOWU3YzJkYzAzYWI4MGEwMDU2NzU3NTE4`
+Snapshot ID: `MCxhMDEwYTcwYzk3MDFmODdlOTAxODE0ZTVlYTIxNjQ2ZTU5ODg2MTY2`

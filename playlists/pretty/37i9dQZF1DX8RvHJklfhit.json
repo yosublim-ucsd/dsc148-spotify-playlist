@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 173877,
+  "num_followers": 173906,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWYyMzUzNWM1MTA5YzQ5MTA3NWUzYzcyOTFlYjJkNjJkZjVjN2E5",
+  "snapshot_id": "MCwxODdmZTk5NmM2MTEzZmM4MGFiYzM1Mjg5YmJiYTc5ZWVlZTQ0MTc4",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 209403,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "American Spirits",
-      "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Confidently Lost",
         "url": "https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 209885,
       "name": "Confidently Lost",
       "url": "https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "American Spirits",
+      "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 241000,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "PSILOCIBINA",
-      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4gULoExlmk3JJFZgijqHNk"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 189176,
       "name": "Gala",
       "url": "https://open.spotify.com/track/0ykuiiJRJD5OasJuMH0DTV"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2023-10-12 20:02:07",

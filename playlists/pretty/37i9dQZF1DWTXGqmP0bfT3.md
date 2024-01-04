@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,659 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,969 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 36 | [Bulletproof](https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 2:57 |
 | 37 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 |
 | 38 | [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 |
-| 39 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 |
-| 40 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 |
+| 39 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 |
+| 40 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 |
 | 41 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
 | 42 | [Self\-Destruction](https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:26 |
 | 43 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 55 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
 | 56 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
 | 57 | [Drop Dead Cynical](https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe) | 3:17 |
-| 58 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
-| 59 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 |
-| 60 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
+| 58 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 |
+| 59 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
+| 60 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
 | 61 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
-| 62 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
+| 62 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
 | 63 | [Fields of Verdun](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 3:17 |
 | 64 | [Sweet True Lies](https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:26 |
 | 65 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 71 | [Blind And Frozen](https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx) | 5:04 |
 | 72 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 73 | [Remember Me](https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC) | 4:04 |
-| 74 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 |
-| 75 | [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 |
+| 74 | [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 |
+| 75 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 |
 | 76 | [Prophecy of Ragnarök](https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0) | 3:42 |
 | 77 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 78 | [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [The Nexus](https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki) | 3:16 |
 | 100 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
 
-Snapshot ID: `MCwxMGRhNzVkY2JlNzRiY2Q5MTVhOGRhZTUyMjhhNTI1MWFhNzVjNWNj`
+Snapshot ID: `MCw1MmQ1YmMxYTBlNTg2ZTFjY2U2M2Y2ZTM0ZGU1ZjlhNDNiYWQ5Y2Jk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,619 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,631 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 28 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 |
 | 29 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 30 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
-| 31 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
-| 32 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
+| 31 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
+| 32 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
 | 33 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
 | 34 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 35 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 42 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
 | 43 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 |
 | 44 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
-| 45 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
-| 46 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
+| 45 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
+| 46 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
 | 47 | [鳥獸散 \- 電影《他馬克老闆》插曲](https://open.spotify.com/track/5vUDLud67TpjMSVwSE4LtR) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [《他馬克老闆》電影原聲帶 \(Kiss My Ass Boss O.S.T.\)](https://open.spotify.com/album/0JVmiTua73t1Vf2NP7Glou) | 1:02 |
 | 48 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
 | 49 | [雙棲動物](https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [雙棲動物](https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF) | 4:53 |
 | 50 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
 
-Snapshot ID: `MCwxNTM2MjdkNDYwNTMwYWJlZWY0YTM4N2JjZjVkYTMyYTUzYjk0YjBl`
+Snapshot ID: `MCxkNDRhNWJkOWQ3ZjYyMTY3MjMzMmVkOTgwNjk3Nzg5NmUyYjAyNTUz`

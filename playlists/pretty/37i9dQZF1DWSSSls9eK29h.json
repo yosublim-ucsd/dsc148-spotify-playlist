@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 129551,
+  "num_followers": 129632,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz",
+  "snapshot_id": "MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "The Power Of Touch",
-        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
-      },
-      "artists": [
-        {
-          "name": "Bobby Lyle",
-          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Aruban Nights",
-      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Easy Street",
         "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
       },
@@ -603,18 +587,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
+        "name": "The Power Of Touch",
+        "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
       "artists": [
         {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+          "name": "Bobby Lyle",
+          "url": "https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On"
         }
       ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
+      "duration_ms": 310893,
+      "name": "Aruban Nights",
+      "url": "https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "I Came To Play",
+        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,18 +635,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 317800,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "107 In The Shade",
-        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
-      },
-      "artists": [
-        {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "107 In the Shade",
-      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Playing It Cool",
         "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 265253,
       "name": "South Of Market",
       "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "107 In The Shade",
+        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
+      },
+      "artists": [
+        {
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "107 In the Shade",
+      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
     },
     {
       "added_at": "2020-08-19 00:00:21",

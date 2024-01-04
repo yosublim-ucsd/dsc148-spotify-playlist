@@ -1,12 +1,12 @@
 {
   "description": "Todos los artistas del Corona Capital en una sola playlist!",
-  "num_followers": 151569,
+  "num_followers": 151568,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmZlNTVmOThiNWIxMTI2ZWRiM2RlZTYzNjg2MmI0YzllMTM5NTk4",
+  "snapshot_id": "MCxiZjI3NjI3ZDMxYjljMDMyMjZmMDAzMmNjMmJhYzQ0MWViZWE1Njdm",
   "tracks": [
     {
       "added_at": "2023-11-16 01:16:27",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 170995,
-      "name": "Closer to You (feat. Major Lazer)",
-      "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+      "duration_ms": 170995,
+      "name": "Closer to You (feat. Major Lazer)",
+      "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "added_at": "2023-12-08 02:10:07",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2023-12-08 02:10:07",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Voluma",
-        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
+      "duration_ms": 276693,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+        "name": "Voluma",
+        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
       },
       "artists": [
         {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 276693,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+      "duration_ms": 177600,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2023-12-08 02:10:07",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-12-08 02:10:07",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2023-12-08 02:10:07",

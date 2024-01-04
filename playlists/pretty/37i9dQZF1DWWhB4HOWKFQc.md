@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,950 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,039 likes - 69 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 60 | [pages](https://open.spotify.com/track/4hNVgNMncBxoYrb5D7dikN) | [WIMY](https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z) | [pages](https://open.spotify.com/album/6kJJ5c2JWMvNPyLQ0SMegd) | 3:18 |
 | 61 | [Seribu Pelukan](https://open.spotify.com/track/1hJTAqeobG7hQEavj8PUjO) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Seribu Pelukan](https://open.spotify.com/album/2l6X7rCdAjVmUG0KzbfhEW) | 3:53 |
 | 62 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
-| 63 | [Coba Cintaku](https://open.spotify.com/track/1Sx8A2P6hI1YpUkTiL7WnC) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [In Diversity](https://open.spotify.com/album/4sTb2l0f5cRgbRxq6HvZyU) | 3:26 |
-| 64 | [Wait](https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [Wait](https://open.spotify.com/album/3D7f39m0ONz8okCm5o9Bxg) | 2:38 |
-| 65 | ['Cause You Have To](https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:10 |
-| 66 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
-| 67 | [Catalyst.](https://open.spotify.com/track/5V8dpQ1eFrDjJvw0hnrIqh) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Catalyst.](https://open.spotify.com/album/5bkm8U5R0eqE0hPUP4yxqp) | 3:16 |
-| 68 | [Dialog Hati](https://open.spotify.com/track/43qcHWa8RI9vhC2k1tUOJR) | [Nadzira Shafa](https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos) | [Dialog Hati](https://open.spotify.com/album/2nrKE3chl39J3FRYd3ctIT) | 4:27 |
-| 69 | [Wirang](https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Wirang](https://open.spotify.com/album/4SckpzyjbJpKjXnWBxxWGs) | 5:18 |
-| 70 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 |
+| 63 | [Wait](https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [Wait](https://open.spotify.com/album/3D7f39m0ONz8okCm5o9Bxg) | 2:38 |
+| 64 | ['Cause You Have To](https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:10 |
+| 65 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
+| 66 | [Catalyst.](https://open.spotify.com/track/5V8dpQ1eFrDjJvw0hnrIqh) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Catalyst.](https://open.spotify.com/album/5bkm8U5R0eqE0hPUP4yxqp) | 3:16 |
+| 67 | [Dialog Hati](https://open.spotify.com/track/43qcHWa8RI9vhC2k1tUOJR) | [Nadzira Shafa](https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos) | [Dialog Hati](https://open.spotify.com/album/2nrKE3chl39J3FRYd3ctIT) | 4:27 |
+| 68 | [Wirang](https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Wirang](https://open.spotify.com/album/4SckpzyjbJpKjXnWBxxWGs) | 5:18 |
+| 69 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 |
 
-Snapshot ID: `MCw4YTIzMTZkOGRjMjdlYmYwYmRiYTU0NGVmN2EyMzEyMGVkMmI0NmRi`
+Snapshot ID: `MCxjYTY3MTgzZWZmOWY1OTAwZDIyYjBjMTYyYjFjNmFjN2Y1MDIwMTZh`

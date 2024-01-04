@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66783,
+  "num_followers": 66808,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWVkOTQ4ZDE5MjE5ZDBiOTYzZWVhMzU4MmY4NTY0ZmIzNmEzZDgy",
+  "snapshot_id": "MCxmMjc4OTgyOTJhZWQ2MjY2NzM2N2EwZDhkZjRlMDZlNjA4ZDY4ZGJk",
   "tracks": [
     {
       "added_at": "2023-12-25 04:14:40",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Only in the Dark",
-      "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Only in the Dark",
+      "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "A Future With You",
-        "url": "https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06"
-      },
-      "artists": [
-        {
-          "name": "Carl Clementine",
-          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
-        }
-      ],
-      "duration_ms": 253976,
-      "name": "Juniper Leaves",
-      "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
         "name": "Becoming",
         "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 163250,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "A Future With You",
+        "url": "https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "duration_ms": 253976,
+      "name": "Juniper Leaves",
+      "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
       "artists": [
         {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
         }
       ],
-      "duration_ms": 184389,
-      "name": "Grounded Mind",
-      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
       "artists": [
         {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
         }
       ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
+      "duration_ms": 184389,
+      "name": "Grounded Mind",
+      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "erinna",
-        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
-      },
-      "artists": [
-        {
-          "name": "Klaus Weissmuller",
-          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "erinna",
-      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "erinna",
+        "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
+      },
+      "artists": [
+        {
+          "name": "Klaus Weissmuller",
+          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
+        }
+      ],
+      "duration_ms": 128873,
+      "name": "erinna",
+      "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1231,6 +1231,22 @@
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
-        "name": "Apples And Bananas",
-        "url": "https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE"
-      },
-      "artists": [
-        {
-          "name": "Carolina Laurel",
-          "url": "https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p"
-        }
-      ],
-      "duration_ms": 91500,
-      "name": "Apples And Bananas",
-      "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "I See the Light - From \"Tangled\"",
-        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
+        "name": "Apples And Bananas",
+        "url": "https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE"
       },
       "artists": [
         {
-          "name": "Gregory Bevill",
-          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
+          "name": "Carolina Laurel",
+          "url": "https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p"
         }
       ],
-      "duration_ms": 200812,
-      "name": "I See the Light - From \"Tangled\"",
-      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+      "duration_ms": 91500,
+      "name": "Apples And Bananas",
+      "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1391,6 +1375,22 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "I See the Light - From \"Tangled\"",
+        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
+      },
+      "artists": [
+        {
+          "name": "Gregory Bevill",
+          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
+        }
+      ],
+      "duration_ms": 200812,
+      "name": "I See the Light - From \"Tangled\"",
+      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "Healing Waves",
-        "url": "https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm"
-      },
-      "artists": [
-        {
-          "name": "Zoe Chambers",
-          "url": "https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd"
-        }
-      ],
-      "duration_ms": 118979,
-      "name": "A New Era",
-      "url": "https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
         "name": "If You Must Go",
         "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
       },
@@ -1463,50 +1447,18 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
-        "name": "Beautiful Day.",
-        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
+        "name": "Healing Waves",
+        "url": "https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm"
       },
       "artists": [
         {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+          "name": "Zoe Chambers",
+          "url": "https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd"
         }
       ],
-      "duration_ms": 99541,
-      "name": "Beautiful Day.",
-      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
-        "name": "Chopin +",
-        "url": "https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg"
-      },
-      "artists": [
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 73573,
-      "name": "Improvisation 7",
-      "url": "https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
-      },
-      "artists": [
-        {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
-        }
-      ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+      "duration_ms": 118979,
+      "name": "A New Era",
+      "url": "https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1527,6 +1479,38 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
+        "name": "Beautiful Day.",
+        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 99541,
+      "name": "Beautiful Day.",
+      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+      },
+      "artists": [
+        {
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+        }
+      ],
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-12-25 04:14:40",
       "album": {
+        "name": "Chopin +",
+        "url": "https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg"
+      },
+      "artists": [
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 73573,
+      "name": "Improvisation 7",
+      "url": "https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
         "name": "Lunaria",
         "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
-    },
-    {
-      "added_at": "2023-12-25 04:14:40",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2023-12-25 04:14:40",
@@ -1603,6 +1587,22 @@
       "duration_ms": 131000,
       "name": "Portmeirion",
       "url": "https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2"
+    },
+    {
+      "added_at": "2023-12-25 04:14:40",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2023-12-25 04:14:40",

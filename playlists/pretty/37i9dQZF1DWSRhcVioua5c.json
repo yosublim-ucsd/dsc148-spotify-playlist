@@ -1,12 +1,12 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 70230,
+  "num_followers": 70252,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODgwZDMxODE4ZGQyMzk2NWI1YTVmYzYwZjkwODg1ZWQxYWEwYWFj",
+  "snapshot_id": "MCxhNTgzMzI4NGY3ODFkMTY2OGU4MjE4YzIwOTVhNzJhMzc5OWJiNmVi",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Devu\u00e9lveme el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 180499,
-      "name": "Devu\u00e9lveme el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Hablan de Ti",
         "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 242684,
       "name": "Hablan de Ti",
       "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
+      "duration_ms": 165399,
+      "name": "Ya No Juegues Conmigo",
+      "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 165399,
-      "name": "Ya No Juegues Conmigo",
-      "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Retiro al Norte",
-        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Rubia Morena",
-      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 184346,
       "name": "Para Los Ojos M\u00e1s Bellos",
       "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Retiro al Norte",
+        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Rubia Morena",
+      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT"
       },
@@ -1135,8 +1119,24 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
       },
       "artists": [
         {
@@ -1144,25 +1144,9 @@
           "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 758954,
-      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
+      "duration_ms": 205557,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 187439,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 758954,
+      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
+        "name": "Entrega de Amor",
+        "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
       },
       "artists": [
         {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+        },
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 185429,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
+      "duration_ms": 185852,
+      "name": "Entrega de Amor",
+      "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1271,26 +1275,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Entrega de Amor",
-        "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
-      },
-      "artists": [
-        {
-          "name": "Efrain Colombo",
-          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
-        },
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 185852,
-      "name": "Entrega de Amor",
-      "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 185429,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ansiado Encuentro",
-        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
-      },
-      "artists": [
-        {
-          "name": "ALEJANDRO FARIAS",
-          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
-        },
-        {
-          "name": "La Eulogia Folk",
-          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
-        }
-      ],
-      "duration_ms": 275563,
-      "name": "Ansiado Encuentro",
-      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
       },
@@ -1495,6 +1475,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Para Que Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Bien o Mal",
         "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+        "name": "Ansiado Encuentro",
+        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "ALEJANDRO FARIAS",
+          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
+        },
+        {
+          "name": "La Eulogia Folk",
+          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Para Que Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+      "duration_ms": 275563,
+      "name": "Ansiado Encuentro",
+      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

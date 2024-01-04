@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Wendy York Stand
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,910 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,921 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 44 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 |
 | 45 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 |
 | 46 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
-| 47 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
-| 48 | [THEME FROM LUPIN Ⅲ '78 \- 2002 version](https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ ー Another "JAZZ"](https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup) | 3:59 |
+| 47 | [THEME FROM LUPIN Ⅲ '78 \- 2002 version](https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ ー Another "JAZZ"](https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup) | 3:59 |
+| 48 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 49 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 50 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
 
-Snapshot ID: `MCw3YjUyODZmMjAxMWEzODMwNWRlYmQ0OGIxNDIzNDcxNmRlZGIxNzIx`
+Snapshot ID: `MCxlNGM1NTNiNjc3ZmMxYTE5ZDA0NThmMTVjZjljNDQ1ZTE2MTQzMTZi`

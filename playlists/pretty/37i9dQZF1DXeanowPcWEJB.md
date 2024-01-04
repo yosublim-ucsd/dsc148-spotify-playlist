@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,286 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,322 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 55 | [Costumbres](https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 4:06 |
 | 56 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
 | 57 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
-| 58 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 |
-| 59 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5eo6BDBP80cGwNjwJwRv62) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 4:59 |
+| 58 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5eo6BDBP80cGwNjwJwRv62) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 4:59 |
+| 59 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 |
 | 60 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
 | 61 | [Se Que No Vendras](https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Se Que No Vendras](https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G) | 2:17 |
 | 62 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [En el Último Trago](https://open.spotify.com/track/0qyqbhpeDTVKVwdfkeppj6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:16 |
 | 100 | [Janitzio](https://open.spotify.com/track/1pTn1v5QQs2xizUhcTxO4A) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 2:50 |
 
-Snapshot ID: `MCw1YjY4YWFiNzk1ZTlkNzI2YTMyMGU2MmNlYTcyN2I3N2U3ODg5M2E3`
+Snapshot ID: `MCxhOGY0ODBhZWVhODI4ODQ5YjA0OGU5M2I3YjBiMTQwOWMxZDg5NmVj`

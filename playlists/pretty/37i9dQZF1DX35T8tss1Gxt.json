@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 225350,
+  "num_followers": 225507,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDU5YTk2NjA4YjgwNTY2ZTVmMTVjMGU4Y2I5NTZiMjUxNjNlYThm",
+  "snapshot_id": "MCwyODQ3ZTExMzk2OTM3OTliNjI5ODBkM2RjOWViYzE5MTlkMGE0MDM0",
   "tracks": [
     {
       "added_at": "2023-11-03 07:44:24",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 415745,
-      "name": "Walk By Faith",
-      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -523,18 +503,38 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/41bEnEoEp9UDZmBVdULSZE"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 175443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX"
+      "duration_ms": 415745,
+      "name": "Walk By Faith",
+      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/41bEnEoEp9UDZmBVdULSZE"
       },
       "artists": [
         {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
         }
       ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+      "duration_ms": 175443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Way Home",
         "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 165813,
       "name": "Easy!",
       "url": "https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "My Truth",
-        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 196571,
-      "name": "Your World",
-      "url": "https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Belongs To You (Remix Pack)",
+        "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        },
+        {
+          "name": "Tania Ilyashova",
+          "url": "https://open.spotify.com/artist/74N4e6I2a1hlhzYMFh7N6i"
+        }
+      ],
+      "duration_ms": 158479,
+      "name": "Belongs To You - Lofi Remix",
+      "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz"
       },
@@ -879,26 +899,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Belongs To You (Remix Pack)",
-        "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        },
-        {
-          "name": "Tania Ilyashova",
-          "url": "https://open.spotify.com/artist/74N4e6I2a1hlhzYMFh7N6i"
-        }
-      ],
-      "duration_ms": 158479,
-      "name": "Belongs To You - Lofi Remix",
-      "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Wind Me Up",
         "url": "https://open.spotify.com/album/5y3WKGXgMHB852H1YsmVPj"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 250684,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "I Rely",
-        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "I Rely",
-      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "I Rely",
+        "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "I Rely",
+      "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "pillow soft",
         "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 143439,
       "name": "pillow soft",
       "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "more like you",
         "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 161584,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Mr. McClure",
         "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 197254,
       "name": "Mr. McClure",
       "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 235994,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1279,6 +1263,22 @@
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 235994,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "Amidst",
         "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 210000,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Let You In",
-        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
       },
       "artists": [
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
         }
       ],
-      "duration_ms": 203023,
-      "name": "Let You In",
-      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
+      "duration_ms": 148318,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1483,22 +1499,6 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "VANILLA",
-        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 148318,
-      "name": "VANILLA",
-      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Tale of a Free Man",
+        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 222157,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1607,6 +1623,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
+        }
+      ],
+      "duration_ms": 205618,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -1635,58 +1667,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "Tale of a Free Man",
-        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 222157,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
-      },
-      "artists": [
-        {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7"
-        }
-      ],
-      "duration_ms": 205618,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 165813,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 180375,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2023-11-03 07:44:24",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
         "name": "Authentic Love",
         "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
       },
@@ -1807,22 +1807,6 @@
       "duration_ms": 282125,
       "name": "Authentic Love",
       "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2023-11-03 07:44:24",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 186337,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
     },
     {
       "added_at": "2023-11-03 07:44:24",
@@ -1843,6 +1827,22 @@
       "duration_ms": 255157,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/6sj6JEaj9Il7l87AEMlPzo"
+    },
+    {
+      "added_at": "2023-11-03 07:44:24",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 186337,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
     }
   ],
   "unique_name": "Rhythm & Praise",

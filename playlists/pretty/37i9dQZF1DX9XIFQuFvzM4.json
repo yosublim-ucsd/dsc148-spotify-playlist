@@ -1,12 +1,12 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3635935,
+  "num_followers": 3636138,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDMwNjVlMjJmNzBiNTE2YzdhZWY0YmM3ZmY0YzU1Mjk4YjMwMDQ0",
+  "snapshot_id": "MCxjYjQ4NTNlNTc1YjJmZTk0YTZlNjBmZjE1N2UzZmJmYjFkYjMyNTlk",
   "tracks": [
     {
       "added_at": "2021-10-19 21:36:21",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 279333,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
       "artists": [
         {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2023-03-28 15:59:00",
@@ -779,22 +795,6 @@
       "duration_ms": 141506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Natalie Cole Anthology",
+        "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Face Your Fear",
         "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 300693,
       "name": "Pusherman",
       "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Natalie Cole Anthology",
-        "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 183333,
       "name": "Smooth Sailin'",
       "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Story Of Cornelius Brothers & Sister Rose",
-        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
-      },
-      "artists": [
-        {
-          "name": "Cornelius Brothers & Sister Rose",
-          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Too Late To Turn Back Now",
-      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "A Cupid's Valentine",
         "url": "https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
       "artists": [
         {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
         }
       ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1595,6 +1579,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Fabulous Miracles",
+        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
+      },
+      "artists": [
+        {
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 303640,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Cymande",
-        "url": "https://open.spotify.com/album/3LNGh5hT6VWrM9On6WfqKv"
-      },
-      "artists": [
-        {
-          "name": "Cymande",
-          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
-        }
-      ],
-      "duration_ms": 306360,
-      "name": "Bra",
-      "url": "https://open.spotify.com/track/6tkSDxoNHMQ6eoeJGB2Q22"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Choice Cuts",
         "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Cymande",
+        "url": "https://open.spotify.com/album/3LNGh5hT6VWrM9On6WfqKv"
+      },
+      "artists": [
+        {
+          "name": "Cymande",
+          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+        }
+      ],
+      "duration_ms": 306360,
+      "name": "Bra",
+      "url": "https://open.spotify.com/track/6tkSDxoNHMQ6eoeJGB2Q22"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2407,22 +2407,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "It's Only Us",
-        "url": "https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX"
+        "name": "Wilson Pickett: A Man and a Half",
+        "url": "https://open.spotify.com/album/3ZBs6g81ZySWcc7XXzLQLB"
       },
       "artists": [
         {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 436840,
-      "name": "Last One Standing",
-      "url": "https://open.spotify.com/track/7DFA3k0QQtvAkItuNAwKh4"
+      "duration_ms": 187826,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/7mRak6wBx9OGKXr3zStoHW"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2443,6 +2439,26 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "It's Only Us",
+        "url": "https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 436840,
+      "name": "Last One Standing",
+      "url": "https://open.spotify.com/track/7DFA3k0QQtvAkItuNAwKh4"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Ultimate Collection: Diana Ross & The Supremes",
         "url": "https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 181573,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/69EILuL34ggLWQsa626bes"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Wilson Pickett: A Man and a Half",
-        "url": "https://open.spotify.com/album/3ZBs6g81ZySWcc7XXzLQLB"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/7mRak6wBx9OGKXr3zStoHW"
     }
   ],
   "unique_name": "Feelin' Good",

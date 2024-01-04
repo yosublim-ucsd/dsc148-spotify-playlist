@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,568 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,627 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 36 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
 | 37 | [El Toro De Once \(En Vivo\)](https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:59 |
 | 38 | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv) | 4:37 |
-| 39 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
-| 40 | [Carnavalerita](https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 2:36 |
+| 39 | [Carnavalerita](https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 2:36 |
+| 40 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
 | 41 | [El Pistolero \- Son, Huapangobanda](https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz) | [Banda Corona de Michoacan](https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy) | [La Fiera 2018](https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg) | 3:38 |
 | 42 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
 | 43 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCw4M2JkYTZhYjU1OTdhMjJmNThjYmRiOTMxNWUyMWQzYmJhYzk2NGY1`
+Snapshot ID: `MCxmYjM1MTI4MzMwYTI2MWFhMTFiYmI2YjM5NDQ0NzhhZmY0ODVhNmY0`

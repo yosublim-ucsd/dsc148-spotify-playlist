@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 50655,
+  "num_followers": 50730,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFiN2U4YzFhMjZjNGQ2NmMwODllMzIwNjdlNjUwMTNhZWY3MGVm",
+  "snapshot_id": "MCw0MjAwOWFjNzkzYzhmNGI1Y2YxNzdkMTNmM2E1NGY3ZjJhMjdlZjli",
   "tracks": [
     {
       "added_at": "2023-09-01 15:14:04",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -291,6 +291,38 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -327,38 +359,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -423,6 +423,30 @@
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -495,30 +519,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "El alma al aire",
         "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
       },
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-09-01 15:14:04",

@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Shebang",
+        "url": "https://open.spotify.com/album/1khpMdVH3EXz5RWt4WRAbg"
+      },
+      "artists": [
+        {
+          "name": "Oren Ambarchi",
+          "url": "https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376306,
+      "name": "III",
+      "url": "https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw"
+    },
+    {
+      "album": {
         "name": "Imagineering",
         "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
       },
@@ -4126,7 +4144,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 263978,
       "name": "The Lamentations of Jeremiah",
       "url": "https://open.spotify.com/track/7ka9vGJqjXXNyyLPiu7i4f"

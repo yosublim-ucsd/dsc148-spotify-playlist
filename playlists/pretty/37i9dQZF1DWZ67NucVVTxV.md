@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,613 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,691 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 79 | [RULER](https://open.spotify.com/track/3fbn0D0RFJeQv5jKkvOd6u) | [Kiiwii](https://open.spotify.com/artist/7yncXxUXkPHEawRyKM6Gr7) | [Freestyle pack](https://open.spotify.com/album/3jkrKmRXpEfW5jF0t2GPPs) | 2:47 |
 | 80 | [Blessing$](https://open.spotify.com/track/2V4Xpx8fPH4049LI1v2pB4) | [Elrico Jay](https://open.spotify.com/artist/4PmoDZpD7bq6hTHXOc9dRi) | [Blessing$](https://open.spotify.com/album/3Bxb2W66BsL10MXNr3v2qr) | 2:46 |
 
-Snapshot ID: `MCwyMmY1OGUwOTliNWUwYzE3ZmU5YjEwM2UyM2ZkMDc2YzVjZjZhMjli`
+Snapshot ID: `MCw1YjQ0NzFjMTU4MmZkNWJhMjMxZWI3ZWI2NTUyYjI5MmU3ZGU3MjEx`

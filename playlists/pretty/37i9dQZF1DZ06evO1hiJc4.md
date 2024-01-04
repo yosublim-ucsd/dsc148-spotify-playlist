@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,187 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,232 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 32 | [100 Miles An Hour](https://open.spotify.com/track/5vulybdsJSpz0wyvJGBXtP) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:01 |
 | 33 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
 | 34 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
-| 35 | [Titans](https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 3:19 |
-| 36 | [Let the Sun Shine](https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 2:59 |
+| 35 | [Let the Sun Shine](https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 2:59 |
+| 36 | [Titans](https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 3:19 |
 | 37 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
 | 38 | [Majesty \(with Labrinth & feat\. Eminem\)](https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:55 |
 | 39 | [Yeh I Fuckin' Did It \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Fun At The Alley](https://open.spotify.com/track/0njtFgDso6x7h9aZ8SPNET) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:04 |
 | 50 | [Higher](https://open.spotify.com/track/39lxs02zC9wpqB0sxufKKI) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Higher](https://open.spotify.com/album/3qIJqbxuiYCwwGVLkLSZ1P) | 3:01 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBhZjc1NzQ3MTM5MWU2MzcwN2UzOTliYTVjMGY2YjdjMw==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA5MzBjMjFmMWUyYmYzZDNjY2Q1YWVmZWMwN2VjZTdkNw==`

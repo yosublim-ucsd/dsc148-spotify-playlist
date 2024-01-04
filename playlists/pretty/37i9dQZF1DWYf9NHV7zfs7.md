@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,685 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,758 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 10 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 |
 | 11 | [Sin Principio Ni Final](https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Sueño Dorado](https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh) | 3:51 |
 | 12 | [La Melodía de Dios](https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 4:45 |
-| 13 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
-| 14 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 |
+| 13 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 |
+| 14 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 15 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 |
 | 16 | [Claramente](https://open.spotify.com/track/7zsgBOY20sX0Z8L4RTdU3Y) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 2:41 |
 | 17 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 31 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
 | 32 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 33 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 |
-| 34 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
-| 35 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 |
+| 34 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 |
+| 35 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 36 | [Huracán](https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Desde el Huracán](https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2) | 2:24 |
 | 37 | [Todo el Día Así](https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo el Día Así](https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR) | 3:35 |
 | 38 | [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Llega la Noche](https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana La Vuelta](https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE) | 3:14 |
 | 85 | [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 |
 
-Snapshot ID: `MCwzYzQ0ZjZiYzY0ZDIyZDliZTgwZTcxYjk1MmJjNzg0NDBiZGY5NzI3`
+Snapshot ID: `MCw4M2Y5ZDBmZGFlNDA5MzY4N2FhMDhmMmE2Nzc1OGRmOTRlMzRjOTg3`

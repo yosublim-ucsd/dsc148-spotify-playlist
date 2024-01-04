@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-484 songs - 1 day 4 hr 44 min
+485 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Hey Girl](https://open.spotify.com/track/3mEuJiQ0uuhEBP5ziB1d61) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Karthik Nick](https://open.spotify.com/artist/4BdmxUlU3i8DXOPwrscd7o) | [Hey Girl](https://open.spotify.com/album/538f51h9Q9qDirlYzx7xkI) | 4:06 | 2022-02-16 | 2022-07-08 |
 | [Hey Sagiye](https://open.spotify.com/track/5UoDP4lBVA2Cpdg3J9GqSe) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Sagiye](https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc) | 3:08 | 2022-09-23 | 2022-10-07 |
 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 | 2021-12-01 | 2022-08-12 |
-| [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-10-06 |  |
+| [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-10-06 | 2024-01-04 |
+| [i Aval](https://open.spotify.com/track/2IF8PVUGyCrbYfJz5wsDa3) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/4uFSbPAoFHoa5SZ72WD9pw) | 2:49 | 2023-10-06 |  |
 | [I Mac Nee](https://open.spotify.com/track/3iotSFdvIPHlbVMH4caznZ) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Chaithania Prakash](https://open.spotify.com/artist/4zLVUpAR1fVOY1O00fRc92), [Akshay Kamal](https://open.spotify.com/artist/7qmBZJIXxASuf2ODypFxo1) | [I Mac Nee](https://open.spotify.com/album/0vHTrFFBcDgqrU77Hwu3xx) | 3:57 | 2023-03-03 | 2023-03-23 |
 | [Idhan da Life\-u](https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Idhan da Life\-u](https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq) | 2:58 | 2022-12-23 | 2023-03-22 |
 | [Idhu Kadanthu Pogumae](https://open.spotify.com/track/6i1igvluV62CI1bQAB3cH2) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Guna Balasubramanian](https://open.spotify.com/artist/5OnFTOrvA7pXWzR6ftSAFy), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [Swagatha S\. Krishnan](https://open.spotify.com/artist/7KICJe6VYOCvc44P4XmymX), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Shenbagaraj Ganesalingam](https://open.spotify.com/artist/5H1i0rhutU8JCbQ0MqrnNm) | [Idhu Kadanthu Pogumae](https://open.spotify.com/album/2jYHQYbDnKOT4xlTjeof2f) | 4:57 | 2022-09-23 | 2022-11-22 |

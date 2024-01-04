@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, Nabi, Tony Boy, Gemitaiz e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,202 likes - 78 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,233 likes - 78 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 77 | [Vogl sta cu te](https://open.spotify.com/track/4XVlSTl4DvgPRK6pgK76Yy) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Vogl Sta Cu Te](https://open.spotify.com/album/1ooyDwxoJwxfNOVNKLVs8r) | 2:44 |
 | 78 | [Banditi](https://open.spotify.com/track/11F5B3YH92JkEfS6Sjmprq) | [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Banditi](https://open.spotify.com/album/2KjaQLOdBe4Tg0iOwuQXW7) | 3:35 |
 
-Snapshot ID: `MCwzYjNiNjRjODhiYTAwMDQzNTI5YWYxZDE4ZGIzYmRkMDU1ODBlNjk0`
+Snapshot ID: `MCw0Nzc0N2JkNDlkMTU5YTI5OTY1NzY1ODgyNTA0ZTgzZTliMzVmYzQx`

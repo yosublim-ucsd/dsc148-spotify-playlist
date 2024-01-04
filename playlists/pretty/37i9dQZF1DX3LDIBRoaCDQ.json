@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1552416,
+  "num_followers": 1552616,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjdjZTFjMjQ2MWZiMmNmM2U0NjVjOTRlNTNjMTUxMjAzNDY2MGVj",
+  "snapshot_id": "MCxmOTA2OWFjODViZDMzN2ZlOTQ1MmVjMTc0ZWEzZDQ5ZDliNTZmMjU4",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 107323,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 107323,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
       "artists": [
         {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 145533,
-      "name": "Corona",
-      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
+      "duration_ms": 205173,
+      "name": "Redondo Beach",
+      "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -903,34 +903,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
         }
       ],
-      "duration_ms": 205173,
-      "name": "Redondo Beach",
-      "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+      "duration_ms": 145533,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -947,6 +931,22 @@
       "duration_ms": 140493,
       "name": "Six Pack",
       "url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 198160,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Anthology: The Sounds Of Science",
-        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 120266,
-      "name": "I Want Some",
-      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Fresh Fruit for Rotting Vegetables",
         "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 277533,
       "name": "Holiday in Cambodia",
       "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Anthology: The Sounds Of Science",
+        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 120266,
+      "name": "I Want Some",
+      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
     },
     {
       "added_at": "2022-11-28 15:26:19",

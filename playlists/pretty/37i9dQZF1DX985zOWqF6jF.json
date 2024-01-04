@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 14414,
+  "num_followers": 14434,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjYyZWQ0NjMzYzAxZTE4MmE1NzAzZDU4NjEzMGUyYzEzNjMzZThj",
+  "snapshot_id": "MCw4NmU4NDgxMmRiNDM4MmVmMDY0NTBiZWI3YzY1MGEyMDQ1NWZiZGM5",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -415,18 +415,26 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+        "name": "KrING",
+        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         }
       ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+      "duration_ms": 229826,
+      "name": "HASTA ABAJO",
+      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -451,26 +459,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "KrING",
-        "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
       },
       "artists": [
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 229826,
-      "name": "HASTA ABAJO",
-      "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "VAQUERITA",
+        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 152970,
+      "name": "VAQUERITA",
+      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Una Noche Loca",
         "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 194823,
       "name": "Una Noche Loca",
       "url": "https://open.spotify.com/track/6aYJlGgl6BFH2ZOmse7wpG"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "VAQUERITA",
-        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 152970,
-      "name": "VAQUERITA",
-      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
     },
     {
       "added_at": "2023-11-24 06:00:00",

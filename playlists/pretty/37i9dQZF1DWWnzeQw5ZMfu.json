@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 67331,
+  "num_followers": 67371,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjdjODRlZWQ3ODJmM2I2MjY2MzkzMDFmZjRkMTRkMzJkYWJlNTg4",
+  "snapshot_id": "MCw1NDk5MjZmNzUxOGUwMzYwOTA4ZTc0MDQ5ZmQ1M2Q0N2Y0ZGQ4YmZl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "How Deep Is Your Love - Live At The MGM Grand",
-      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Cassy O' (EP)",
         "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 209306,
       "name": "Budapest - Live from Spotify Stockholm",
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "How Deep Is Your Love - Live At The MGM Grand",
+      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 436026,
       "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
       "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Everything - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 256800,
       "name": "Smooth Operator - Live",
       "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Everything - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
-        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
-      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live \u00e0 Paris",
         "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
+        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
+      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "BADLANDS (Live From Webster Hall)",
         "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 316192,
-      "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
-      "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "LM5 - EP",
         "url": "https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 316192,
+      "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
+      "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 413776,
+      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 283240,
       "name": "Physical - Live",
       "url": "https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 413776,
-      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
     },
     {
       "added_at": "2023-11-03 04:00:00",

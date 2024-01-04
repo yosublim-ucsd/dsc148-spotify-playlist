@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,788 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,976 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 50 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 |
 | 51 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
 | 52 | [You’re So High \(10 Years On\)](https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [You’re So High \(10 Years On\)](https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC) | 4:32 |
-| 53 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
-| 54 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
-| 55 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
+| 53 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
+| 54 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
+| 55 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
 | 56 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 57 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 |
 | 58 | [EASY PREY](https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:26 |
 | 59 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
 | 60 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
 
-Snapshot ID: `MCw5MGJhYzU4ZTZmMDA1OTAzODRkZDNhZWRiNWZmMTc2MmRlNGRlYTI0`
+Snapshot ID: `MCxjMTkzNzJjOTBlODcwNTMyYWI4OTQyM2FjZDVjNTg3MDIzMjc0NzIx`

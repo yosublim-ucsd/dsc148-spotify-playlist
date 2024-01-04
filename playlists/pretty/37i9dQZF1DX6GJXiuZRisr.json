@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1542526,
+  "num_followers": 1542738,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM5NGFhMmY0N2I3NWUxMWFjNjQzYjA4Nzc5OGY1YTIyNTQ1MjBh",
+  "snapshot_id": "MCwwMDY1YmJjNTljYTY0NmY2YjUzNzg0ZjQwY2EyYmFkN2NlNTY2OTUx",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Breathe Me In",
+        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 178420,
+      "name": "Breathe Me In",
+      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "About Us (feat. EMME)",
         "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Breathe Me In",
-        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 178420,
-      "name": "Breathe Me In",
-      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Little Mushroom That Got Away",
-        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 335409,
-      "name": "The Little Mushroom That Got Away",
-      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 216795,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Little Mushroom That Got Away",
+        "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 335409,
+      "name": "The Little Mushroom That Got Away",
+      "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "REDUX 006",
-        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
+        "name": "Into Dust",
+        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         }
       ],
-      "duration_ms": 255238,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
+      "duration_ms": 196905,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Into Dust",
-        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
+        "name": "REDUX 006",
+        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
       },
       "artists": [
         {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
+      "duration_ms": 255238,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-12-15 05:00:00",

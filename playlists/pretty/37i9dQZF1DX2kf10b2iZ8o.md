@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,222 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,227 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 61 | [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 |
 | 62 | [夜空を煌めく星のように](https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 01](https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3) | 4:58 |
 | 63 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE), [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 |
-| 64 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
-| 65 | [VOY@GER \- SideM Ver.](https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [VOY@GER \(SideM盤\)](https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r) | 5:39 |
+| 64 | [VOY@GER \- SideM Ver.](https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [VOY@GER \(SideM盤\)](https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r) | 5:39 |
+| 65 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
 | 66 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 |
 | 67 | [素敵にCon grazia！](https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY) | [伊集院北斗 \(CV.神原大地\)](https://open.spotify.com/artist/0AZPqKpHkcLELOWmVEvMDo) | [THE IDOLM@STER SideM 49 ELEMENTS \-05 Jupiter](https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt) | 3:58 |
 | 68 | [暗黒への前奏曲](https://open.spotify.com/track/3amVvNoNSVbopjXo7HLndF) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
 | 75 | [Cherish BOUQUET](https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U) | [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 3:58 |
 
-Snapshot ID: `MCw3NTNlY2Q3OTBhMWY0MTU1NWQ0NjI3MjNkMzIyYWI3NzFjYzg3OTk5`
+Snapshot ID: `MCxhZDA3Zjc3YWYwYjY2NWJiNzcwZTEyN2VhZjgxMGFlMzkxOWMzYWFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,113 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,163 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 63 | [Desde Que Te Bese](https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17) | 3:02 |
 | 64 | [Loco Enamorado](https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Loco Enamorado](https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384) | 2:40 |
 | 65 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 |
-| 66 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 |
-| 67 | [Azul](https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Al Sur de la Noche](https://open.spotify.com/album/20k8vslpDovsribWcjDFX3) | 2:43 |
+| 66 | [Azul](https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Al Sur de la Noche](https://open.spotify.com/album/20k8vslpDovsribWcjDFX3) | 2:43 |
+| 67 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 |
 | 68 | [Balada](https://open.spotify.com/track/4i1AQRFGt5pMeXDi7WL0xT) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/72UUDbcdajvOVAvKgRnhIS) | 4:20 |
 | 69 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 |
 | 70 | [1000 KM](https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj), [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [1000 KM](https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO) | 2:37 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 94 | [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 |
 | 95 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 |
 | 96 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
-| 97 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 |
-| 98 | [Te Voy a Extrañar](https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Te Voy a Extrañar](https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W) | 3:18 |
-| 99 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 |
-| 100 | [Afrodisiaco](https://open.spotify.com/track/5NvQOunxpblReuGZ0W46DY) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Fotos de Familia Vol\. 1](https://open.spotify.com/album/5RBqbnvXtExFiBUDnmwxhS) | 2:48 |
+| 97 | [Afrodisiaco](https://open.spotify.com/track/5NvQOunxpblReuGZ0W46DY) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Fotos de Familia Vol\. 1](https://open.spotify.com/album/5RBqbnvXtExFiBUDnmwxhS) | 2:48 |
+| 98 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 |
+| 99 | [Te Voy a Extrañar](https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Te Voy a Extrañar](https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W) | 3:18 |
+| 100 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 |
 
-Snapshot ID: `MCxjNjc4NzMzNWNmY2FjYTljMGVjYTcxNDg2NjVhM2FhMTI5YWY5OWE1`
+Snapshot ID: `MCw5YTE5ZWFjYmMyZGQ2N2RhODU5ZDVmYmRiYTkwOTZmYThmNWM4YTM5`

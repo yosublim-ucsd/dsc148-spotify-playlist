@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,378 likes - 159 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378 likes - 159 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 |
-| 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
-| 3 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 |
+| 2 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/2nADG9vt8bnjIgdDP3ayhG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4PyktVwHNVPcfmcWas0ABR) | 3:58 |
+| 3 | [Stitches](https://open.spotify.com/track/2Cm7fX9OtLd5r9wJgA6N3V) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Stitches \(Official Video\)](https://open.spotify.com/album/3BHbgMpMlaFukTSSTgddiD) | 4:00 |
 | 4 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
 | 5 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 |
 | 6 | [In My Blood](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:31 |
@@ -148,16 +148,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 138 | [Human Zoo](https://open.spotify.com/track/46mTDJmmYPScprkHsQVSCt) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 3:23 |
 | 139 | [Slow Motion](https://open.spotify.com/track/6gaTvbfNVdunxa0cHSAjgm) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 3:52 |
 | 140 | [Where Will I Remember You](https://open.spotify.com/track/4F4gY99KTW9ACNH5mNwMzn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:16 |
-| 141 | [What Happens Here](https://open.spotify.com/track/5QQNYGYDzznqloFLUA32ff) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:23 |
-| 142 | [i've made mistakes](https://open.spotify.com/track/5QPeUESYXOatQ9RdU8BQUZ) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:20 |
+| 141 | [i've made mistakes](https://open.spotify.com/track/5QPeUESYXOatQ9RdU8BQUZ) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:20 |
+| 142 | [What Happens Here](https://open.spotify.com/track/5QQNYGYDzznqloFLUA32ff) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:23 |
 | 143 | [It's Not Easy](https://open.spotify.com/track/7B6k7t7gcZaSv050n4GgQl) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:53 |
 | 144 | [Best Sex](https://open.spotify.com/track/23t5m86sRKtsuJeDGZ48ZH) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:45 |
 | 145 | [true love](https://open.spotify.com/track/6dsuD8fTEa3qqJMOI2Ey1L) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 2:33 |
 | 146 | [i belong here](https://open.spotify.com/track/3dX1DRDdGTy3Y3cDmD0Bf0) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:38 |
 | 147 | [never enough](https://open.spotify.com/track/0QsjAwnyBfwxL5OTXajUDj) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:42 |
 | 148 | [On The Roof](https://open.spotify.com/track/5FcpRjbn9SspFGxE3jVd3R) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:41 |
-| 149 | [Still Awake](https://open.spotify.com/track/5gS1VUzCGb7KMzVZDRMiqq) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:57 |
-| 150 | [in spades](https://open.spotify.com/track/2ytP0Udrlo3piw2TSj55oa) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:10 |
+| 149 | [in spades](https://open.spotify.com/track/2ytP0Udrlo3piw2TSj55oa) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:10 |
+| 150 | [Still Awake](https://open.spotify.com/track/5gS1VUzCGb7KMzVZDRMiqq) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:57 |
 | 151 | [12:42](https://open.spotify.com/track/0iCTvP2t04THoF9JyqDq82) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:26 |
 | 152 | [Way Down Below](https://open.spotify.com/track/0UrIJFk0tHRu4YAH9Ffz1a) | [Fire & the Romance](https://open.spotify.com/artist/5vunfmmHBwkBMz5VyXo2W1) | [Adaptations](https://open.spotify.com/album/3Kcrj9eoNPkoeGzA3CQre5) | 3:11 |
 | 153 | [curtains](https://open.spotify.com/track/5mWLFbzc2UHoNpaccIGlc2) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 2:39 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDA3ODQ2M2ZkMmE1OWIwNTVjYjJjMTIzODlkYjllNmQ0OQ==`
+Snapshot ID: `Mjg0MDU1NzAsMDAwMDAwMDAxMjlmZGViNzE5NGE3NmU5MmMyYmJkNTNiZGI3OTBiOA==`

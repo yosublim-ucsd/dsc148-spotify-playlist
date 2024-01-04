@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Brianda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,072 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,103 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 14 | [Te Dejo](https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 15 | [Voy A Quedarte Mal](https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Voy A Quedarte Mal](https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r) | 3:43 |
 | 16 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
-| 17 | [Hoy Me Voy A Emborrachar](https://open.spotify.com/track/3O6AIhv3Byai1T9U0bwaat) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Hoy Me Voy A Emborrachar](https://open.spotify.com/album/46eaEef4bHoYLaVLj9iqLc) | 3:21 |
+| 17 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 |
 | 18 | [Busca Otro Amor \(En Vivo\)](https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Busca Otro Amor \(En Vivo\)](https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ) | 3:49 |
-| 19 | [Que Poca](https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:09 |
+| 19 | [Hoy Me Voy A Emborrachar](https://open.spotify.com/track/3O6AIhv3Byai1T9U0bwaat) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Hoy Me Voy A Emborrachar](https://open.spotify.com/album/46eaEef4bHoYLaVLj9iqLc) | 3:21 |
 | 20 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
 | 21 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 |
 | 22 | [Ajustando Cuentas](https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ajustando Cuentas](https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV) | 3:42 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 49 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 50 | [Al No Tenerte](https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Al No Tenerte](https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH) | 3:14 |
 | 51 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
-| 52 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
-| 53 | [Gente Gacha](https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Gente Gacha](https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP) | 2:55 |
+| 52 | [Gente Gacha](https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Gente Gacha](https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP) | 2:55 |
+| 53 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
 | 54 | [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 |
 | 55 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
 | 56 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 88 | [Por Ti](https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Por Ti](https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9) | 2:43 |
 | 89 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Quiero Abrazarte Tanto](https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3) | 3:31 |
 | 90 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
-| 91 | [Soy de Parral](https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Soy de Parral](https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE) | 3:25 |
-| 92 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
+| 91 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
+| 92 | [Soy de Parral](https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Soy de Parral](https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE) | 3:25 |
 | 93 | [Cúbreme](https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Siempre Gabriella](https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt) | 3:21 |
-| 94 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
-| 95 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
+| 94 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
+| 95 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
 | 96 | [Cerrada Al Amor](https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cerrada Al Amor](https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx) | 3:24 |
 | 97 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 |
 | 98 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 |
 | 99 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 |
 | 100 | [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 |
 
-Snapshot ID: `MCwwMzU1NTkwMzdhZGMzOTY0MjBkN2Q3ZTI0OWZjYTdjZjgwMzU0OTRj`
+Snapshot ID: `MCw5ZTI2MzE4MmYxYjg1ZTQ0NjE1YzQwZTFlOGU3ZGU3YTAxNDRkYTRl`

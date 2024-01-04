@@ -8439,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Bochibochi veteran",
+        "url": "https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1"
+      },
+      "artists": [
+        {
+          "name": "UchikubiGokumonDoukoukai",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207301,
+      "name": "Bucho puccho dou?",
+      "url": "https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag"
+    },
+    {
+      "album": {
         "name": "bud",
         "url": "https://open.spotify.com/album/1u7uQbPuJeaJk1VRE1feWG"
       },
@@ -24678,10 +24696,28 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 180555,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/3v140Hxf0bZDTp9uS6oYi8"
+    },
+    {
+      "album": {
+        "name": "I'm Ready",
+        "url": "https://open.spotify.com/album/0S7qgUqyxpa2MVy1VkSor4"
+      },
+      "artists": [
+        {
+          "name": "TARO SOUL",
+          "url": "https://open.spotify.com/artist/0ZhEHpz2hGZWf993Bo7B0O"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180555,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/7hHNvZPKHtfN0m9WpqVnOU"
     },
     {
       "album": {
@@ -49488,6 +49524,28 @@
       "duration_ms": 219810,
       "name": "Suisei",
       "url": "https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK"
+    },
+    {
+      "album": {
+        "name": "Mellow Mellow ~GeG's Playlist vol.2~",
+        "url": "https://open.spotify.com/album/3Sun6NkBawPCsx5FrWcBkB"
+      },
+      "artists": [
+        {
+          "name": "tubaki",
+          "url": "https://open.spotify.com/artist/21qUVQdbz0u61NXcWYdfdP"
+        },
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194076,
+      "name": "SUiSEN (Prod. GeG)",
+      "url": "https://open.spotify.com/track/1vE1Y6wZsiHDd37cDNGr5W"
     },
     {
       "album": {
@@ -81256,7 +81314,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 194076,
       "name": "\u6c34\u4ed9 (Prod. GeG)",
       "url": "https://open.spotify.com/track/3el86CZHLXxlW7fAfjOrcE"
@@ -86534,7 +86592,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 207301,
       "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
       "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"

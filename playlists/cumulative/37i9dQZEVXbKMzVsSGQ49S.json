@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 153272,
       "name": "B\u00fai\u00f0 Og Bless",
       "url": "https://open.spotify.com/track/21qZMim0NXV3k5SaLxLWeX"
@@ -7334,7 +7334,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 157506,
       "name": "Elska",
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
@@ -8286,7 +8286,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -8382,7 +8382,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -9490,7 +9490,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 150558,
       "name": "Gaml\u00e1rspart\u00fd",
       "url": "https://open.spotify.com/track/1nDlmqGl5tLRGY1L0RB7EU"
@@ -10928,7 +10928,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -11284,7 +11284,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
@@ -14080,7 +14080,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 180343,
       "name": "J\u00e1 \u00e9g veit",
       "url": "https://open.spotify.com/track/527GqNC4mcZ45iNhkAxwSm"
@@ -18484,7 +18484,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -18564,7 +18564,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -19612,7 +19612,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 271043,
       "name": "N\u00e6sta",
       "url": "https://open.spotify.com/track/1YC7llsHtz0ScDtiLEVHZG"
@@ -20910,7 +20910,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 203254,
       "name": "PART\u00ddJ\u00d3L",
       "url": "https://open.spotify.com/track/0mnMSFmMdRHqwCs2XvBG7k"
@@ -21488,6 +21488,24 @@
       "duration_ms": 183750,
       "name": "POWER",
       "url": "https://open.spotify.com/track/7wD30C4OrUzpj8ycl4PeSt"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237733,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
     },
     {
       "album": {
@@ -24680,7 +24698,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 201688,
       "name": "Snj\u00f3korn falla",
       "url": "https://open.spotify.com/track/0YNjSwEcA9mZjyVqHppnMX"
@@ -25688,7 +25706,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -30028,7 +30046,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 595105,
       "name": "White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",
       "url": "https://open.spotify.com/track/20GlDz2SYsXF8pzdxguxfe"
@@ -32122,7 +32140,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 197241,
       "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
       "url": "https://open.spotify.com/track/3RkoMHO82pcLpCosDR7Gbj"

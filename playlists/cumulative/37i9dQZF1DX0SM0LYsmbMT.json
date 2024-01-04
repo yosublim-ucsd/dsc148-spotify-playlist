@@ -11570,7 +11570,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 134160,
       "name": "Cherub",
       "url": "https://open.spotify.com/track/334PH2p4kvl1ogPDnLQIXQ"
@@ -20070,6 +20070,24 @@
     {
       "album": {
         "name": "Escape",
+        "url": "https://open.spotify.com/album/1TyDRgZQp1bYz9aHihy149"
+      },
+      "artists": [
+        {
+          "name": "Kanzan",
+          "url": "https://open.spotify.com/artist/56VRNuuhxCIqj5Vsi3lbXv"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/7LBVIdRdv59ilQhJmxvPOk"
+    },
+    {
+      "album": {
+        "name": "Escape",
         "url": "https://open.spotify.com/album/2JreIwMV3ByLlVT0OZTPvT"
       },
       "artists": [
@@ -24706,7 +24724,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 135172,
       "name": "gentleman in grey",
       "url": "https://open.spotify.com/track/2mnDLmGX7TnIDgaw7nUQve"
@@ -47762,7 +47780,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 124675,
       "name": "Noontime Slouch",
       "url": "https://open.spotify.com/track/6pKt3ka7VKnowZgud26D7X"

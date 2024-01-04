@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,308 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,448 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 50 | [Te Quiero Así \(En Vivo\)](https://open.spotify.com/track/3T0c5gIYl2iGD2kGZoPo4K) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Te Quiero Así \(En Vivo\)](https://open.spotify.com/album/1aZUBgnvIvC9q544aBUBxo) | 3:29 |
 | 51 | [Bien EnRRedado](https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Bien EnRRedado](https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp) | 2:52 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAwYWU3ZjE2OTExYjE5YThiNmMyNGM2ZWZjMGMyMmY4ZQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBiMDhlYTQ4ZjdmYjU1OGMyMzFlYTRiODc4ZDdjMGU5Yg==`

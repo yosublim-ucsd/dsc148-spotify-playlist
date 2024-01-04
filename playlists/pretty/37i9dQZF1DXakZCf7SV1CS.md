@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,392 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,465 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 66 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 |
 | 67 | [scawy monstews and nice spwites :3](https://open.spotify.com/track/36WzDYkUhzkrOMng4yEf1h) | [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [scawy monstews and nice spwites :3](https://open.spotify.com/album/3woULGyN1jkvkFdNtuf65S) | 1:36 |
 | 68 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
-| 69 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
-| 70 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
-| 71 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
+| 69 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
+| 70 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
+| 71 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
 | 72 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
 | 73 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
 | 74 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 | 75 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 
-Snapshot ID: `MCxlZDEwMmM4MGY3ZWVlMTg2ZTI1ZDQwZTIxMDczZGM2ZmRmNTIxNGEy`
+Snapshot ID: `MCxhZjVlM2QyZTRhMThkMmRhZWY3ZWIxZTc0ZTZmZWJmMWY4YjFmNDQ3`

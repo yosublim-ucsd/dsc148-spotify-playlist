@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,520 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,525 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 79 | [Kaihyou](https://open.spotify.com/track/6apFysy7yb3sbnVdtR68yA) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kaihyou](https://open.spotify.com/album/6UQRkpePvNR3YVmZrJ0tvp) | 2:18 |
 | 80 | [ホログラム](https://open.spotify.com/track/62bud8rK9kWK4jF4Tdrcdc) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [ホログラム](https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x) | 3:08 |
 
-Snapshot ID: `MCw3YTFmNjk1ZjVkYmIyYmMyNzU2MTAwNDQ0ZjBmNTU4ZDAxNGVhNjNm`
+Snapshot ID: `MCw0ZWExNjc5MTUzZGFhZmY2YTBkZjA0NjZmMjRlMzAzMDFkZGM3M2Iz`

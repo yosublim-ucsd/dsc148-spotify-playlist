@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,947 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,950 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 5 | [My Lighthouse](https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [The Art Of Celebration](https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b) | 3:44 |
 | 6 | [Awesome God / God Only Knows \- Campfire Medley](https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:19 |
 | 7 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 |
-| 8 | [The Heart Of Worship](https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:18 |
-| 9 | [Start a Fire](https://open.spotify.com/track/4jdQaEDZ4y3x54FzxnfYAQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 3:04 |
+| 8 | [Start a Fire](https://open.spotify.com/track/4jdQaEDZ4y3x54FzxnfYAQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 3:04 |
+| 9 | [The Heart Of Worship](https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:18 |
 | 10 | [When You Walk Into The Room](https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:48 |
 | 11 | [Here I Am To Worship](https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Ultimate Collection](https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn) | 5:17 |
 | 12 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 14 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
 | 15 | [Above All](https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 4:36 |
 | 16 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 |
-| 17 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
+| 17 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 |
 | 18 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
-| 19 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 |
+| 19 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
 | 20 | [Trading My Sorrows \(Yes Lord\)](https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC) | [Darrell Evans](https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO) | [Freedom](https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA) | 6:01 |
 | 21 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
 | 22 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MCwwMzNlYjIxYWJkZjllY2RmOGEzYjM4NzA4OTIyMjY1ZGQ4YzA4ZTRm`
+Snapshot ID: `MCwyNWJjZjE4NWFiYTM2ZTE0ZTkyODFkNmM4ODgzOGNlN2IwN2E4NTJk`

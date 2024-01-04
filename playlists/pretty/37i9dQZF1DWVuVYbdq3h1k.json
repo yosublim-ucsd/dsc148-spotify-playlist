@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1213677,
+  "num_followers": 1213831,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDEwM2VmZjE5MzFmOGYwZmFhMGM3MGY2YTQyYjNmNTg1ZTFhOTI0",
+  "snapshot_id": "MCxhNzUwYjFiYWZkNzlmMWI3ODg0NGVmYjNmZWE3NmVlZDJkMWZjM2Uw",
   "tracks": [
     {
       "added_at": "2020-11-17 04:03:12",
@@ -863,6 +863,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Qu\u00e9 Vida la M\u00eda",
+      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Qu\u00e9 Vida la M\u00eda",
-      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 267106,
       "name": "Color Esperanza",
       "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Llegaste t\u00fa",
-      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 306986,
       "name": "Coleccionista de Canciones",
       "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Llegaste t\u00fa",
+      "url": "https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225706,
+      "name": "Putita",
+      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Putita",
-      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 220720,
       "name": "Volverte a Amar",
       "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2020-11-17 04:03:12",

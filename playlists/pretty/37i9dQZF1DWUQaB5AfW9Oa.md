@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 
 > Soul classics to keep you company in the kitchen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,940 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,962 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 28 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
 | 29 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 |
 | 30 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
-| 31 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
-| 32 | [Try Me](https://open.spotify.com/track/7bFfjakySYhojqSPrAPtc3) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Please, Please, Please](https://open.spotify.com/album/3LtxQmfIb10p6xKrPObqgv) | 2:33 |
-| 33 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
-| 34 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
+| 31 | [Try Me](https://open.spotify.com/track/7bFfjakySYhojqSPrAPtc3) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Please, Please, Please](https://open.spotify.com/album/3LtxQmfIb10p6xKrPObqgv) | 2:33 |
+| 32 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
+| 33 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
+| 34 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 | 35 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
 | 36 | [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 |
-| 37 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
-| 38 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
-| 39 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
+| 37 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
+| 38 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
+| 39 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
 | 40 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
 | 41 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
 | 42 | [Hung Up On My Baby](https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tough Guys](https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQaB5AfW9Oa.md) - [plain]
 | 49 | [Keep On Loving You](https://open.spotify.com/track/1uU8KgP0ny5yxRzYuKaz3i) | [Four Mints](https://open.spotify.com/artist/5weBoY03qqqq9uFG136tti) | [Gently Down Your Stream](https://open.spotify.com/album/6G1wOj0Gkby9CMZOz2bGy1) | 3:26 |
 | 50 | [Lawdy Miss Clawdy](https://open.spotify.com/track/0Xwr2EmFyn4hPTnU4lBvRH) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 1:51 |
 
-Snapshot ID: `MCxlODFlZmEyNjE0YmU1NWYyYmJhYTY3YjM5YjdhY2ZkNTUwMzFjYjA4`
+Snapshot ID: `MCw5N2ZmOTQ5MTJkNjlkNGVlZjFlMTBlNTVmNDM2YTQ2YTc3YjZkZTI3`

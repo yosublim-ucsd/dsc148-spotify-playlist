@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
       },
       "artists": [
@@ -456,7 +474,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 250253,
       "name": "Fade",
       "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"

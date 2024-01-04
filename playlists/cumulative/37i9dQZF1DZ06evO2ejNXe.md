@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 3 min
+55 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [La Guera Karla](https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:51 | 2022-06-01 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:26 | 2022-06-01 |  |
 | [Lolita La Cevichera](https://open.spotify.com/track/2I16xsBvYgqVAaL4pd4Z8B) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:28 | 2022-06-01 |  |
+| [Los Mosquitos](https://open.spotify.com/track/5VP16qRl87kY6HF8poIDeH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 4:08 | 2024-01-03 |  |
 | [Mambo Caliente](https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:29 | 2022-06-01 | 2022-12-05 |
 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 | 2022-06-01 |  |
 | [Mambo Maria](https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:41 | 2022-06-01 |  |

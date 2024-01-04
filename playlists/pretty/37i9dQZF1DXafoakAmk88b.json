@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Jordan Ward",
-  "num_followers": 39793,
+  "num_followers": 39851,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTkxN2I0NjcxMzA5YmEwZmJlOTAyMmM0NTBkYjZiN2FmYmQwOTQw",
+  "snapshot_id": "MCwwODFlYjFlMmFlZjkyNmUxOWVlYWU2ZDkwM2IwNTAxMDAyMGUxNGNm",
   "tracks": [
     {
       "added_at": "2023-12-08 18:24:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
-      },
-      "artists": [
-        {
-          "name": "Cleffy",
-          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -203,6 +187,26 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -243,26 +247,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "FORWARD",
         "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
       },
@@ -295,22 +279,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 149324,
-      "name": "Don't Forget About Me",
-      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -323,6 +291,22 @@
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -343,22 +327,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
       },
@@ -371,6 +339,22 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -411,22 +395,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Obsessed With Your Mind",
-        "url": "https://open.spotify.com/album/2SKWZrwD8DeJHpU4kpFC3U"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 188153,
-      "name": "Obsessed With Your Mind",
-      "url": "https://open.spotify.com/track/6jZHeTl4JfyOaJZtc8i37k"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -443,6 +411,22 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "Obsessed With Your Mind",
+        "url": "https://open.spotify.com/album/2SKWZrwD8DeJHpU4kpFC3U"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 188153,
+      "name": "Obsessed With Your Mind",
+      "url": "https://open.spotify.com/track/6jZHeTl4JfyOaJZtc8i37k"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 132840,
       "name": "i just want to hide my face",
       "url": "https://open.spotify.com/track/6QCuFjMavSAlJBsmxMuHzs"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -479,22 +479,6 @@
       "duration_ms": 181000,
       "name": "Who He Iz",
       "url": "https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -531,18 +515,34 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "The End of the World",
-        "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
+        "name": "Natural Brown Prom Queen",
+        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
       },
       "artists": [
         {
-          "name": "Black Hibiscus",
-          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Natural Brown Prom Queen",
-        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
+        "name": "The End of the World",
+        "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Black Hibiscus",
+          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
         }
       ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20"
+      "duration_ms": 235773,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "My Soft Machine",
-        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "This City is a Graveyard",
         "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "no way out",
-        "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 113624,
-      "name": "no way out",
-      "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "Erotic Probiotic 2",
         "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "no way out",
+        "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 113624,
+      "name": "no way out",
+      "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
     },
     {
       "added_at": "2023-11-17 03:58:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,515 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,535 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 39 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 40 | [Devil Town](https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Noise Floor \(Rarities: 1998\-2005\)](https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D) | 3:03 |
 | 41 | [Hunting for Witches](https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:30 |
-| 42 | [Final Girl](https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 4:29 |
-| 43 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
+| 42 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
+| 43 | [Final Girl](https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 4:29 |
 | 44 | [Blood Red Moon](https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ) | 4:31 |
 | 45 | [Dead Man's Bones](https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 3:00 |
 | 46 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 72 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF) | 3:59 |
 | 73 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
 | 74 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 |
-| 75 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
-| 76 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
+| 75 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
+| 76 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
 | 77 | [Dark and Stormy](https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk) | 4:55 |
 | 78 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
-| 79 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
-| 80 | [Skeleton Dance](https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls) | 3:37 |
+| 79 | [Skeleton Dance](https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls) | 3:37 |
+| 80 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 
-Snapshot ID: `MCwwYjYzN2VmNzlmMzI3YjNlN2FmMTYzMDhmODA2NmJmMjk0YWM1ODMw`
+Snapshot ID: `MCw0OWEyMzVhZWVhZmY1NzljMGM2ZGY2MTA0NWRlZGFhNWEwYTEzYzEw`

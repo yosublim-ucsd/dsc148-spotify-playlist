@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,875 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,920 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 67 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
 | 68 | [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN) | 3:37 |
 | 69 | [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 |
-| 70 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
-| 71 | [Yeah Right](https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:29 |
-| 72 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
-| 73 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
+| 70 | [Yeah Right](https://open.spotify.com/track/3dLSEH3LqTsCcBFMzsE0Er) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:29 |
+| 71 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
+| 72 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
+| 73 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
 | 74 | [Noise](https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Noise](https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex) | 5:40 |
 | 75 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 |
 | 76 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 77 | [molotov \[OK\]](https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:16 |
 | 78 | [Burning Bridges](https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 4:16 |
-| 79 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
-| 80 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
+| 79 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
+| 80 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
 
-Snapshot ID: `MCw2Yjk0MmI4NDY0MDc2MThlOWM5ODRiMTQ1ZGJjNDk1MjU4MzAyMmEy`
+Snapshot ID: `MCwyNmUzYmIxNDQ4YmFkZTI2MWMwYzg3ZTZkM2E4ZmMyMTAzMGMwMzQ2`

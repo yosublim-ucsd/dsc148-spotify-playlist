@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 165424,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/0ZEQ6vnAHTARAgpxFF8NLS"
@@ -4572,7 +4572,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 202644,
       "name": "Daqui pra Sempre",
       "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
@@ -9040,7 +9040,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -11016,7 +11016,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
@@ -14079,6 +14079,32 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -15067,6 +15093,64 @@
     },
     {
       "album": {
+        "name": "Poesia Ac\u00fastica 15",
+        "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 680816,
+      "name": "Poesia Ac\u00fastica 15",
+      "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "album": {
         "name": "Xinti",
         "url": "https://open.spotify.com/album/2dmW4NVAqxEamemXzCppBs"
       },
@@ -15332,7 +15416,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 170558,
       "name": "Pre\u00e7o Certo",
       "url": "https://open.spotify.com/track/4CSB7RdBx6Jc8BFFiRFE6K"

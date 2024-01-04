@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,433 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,438 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
 | 50 | [Regai](https://open.spotify.com/track/4S3Ek7UvV9rMEaR6Xo5m9a) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:33 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBiYjU1YmZmZDIwYTkzYzdjNDYwNWViZDNmZThiNzJmOQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDAzNmNjMjkzMDkyMTk2YTE0NjliNTYzN2IwZDFhMWI5YQ==`

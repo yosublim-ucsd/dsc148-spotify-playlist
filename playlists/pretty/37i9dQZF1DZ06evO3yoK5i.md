@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,300 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,344 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 26 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros Romántico](https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke) | 5:04 |
 | 27 | [En Mi Corazón Vivirás](https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:54 |
 | 28 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:24 |
-| 29 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
-| 30 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/1PNEeTt2kEIWAzbkW2PeBW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Stilelibero](https://open.spotify.com/album/1T2L4oDjpkXixxar9oNwWm) | 4:11 |
+| 29 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/1PNEeTt2kEIWAzbkW2PeBW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Stilelibero](https://open.spotify.com/album/1T2L4oDjpkXixxar9oNwWm) | 4:11 |
+| 30 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
 | 31 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
 | 32 | [Por Las Calles Las Canciones \(feat\. Luis Fonsi\)](https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hay Vida](https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC) | 3:30 |
 | 33 | [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 38 | [Un Angel No Es](https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Spanish/Latin Version\)](https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF) | 4:31 |
 | 39 | [Una storia importante](https://open.spotify.com/track/17v4BXFKtbYmJFPqBgpGla) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:08 |
 | 40 | [Estrella Gemela](https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:39 |
-| 41 | [No Estamos Solos](https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 3:42 |
-| 42 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
+| 41 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
+| 42 | [No Estamos Solos](https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [e2](https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a) | 3:42 |
 | 43 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 |
-| 44 | [Un angelo non é](https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:38 |
-| 45 | [Una Historia Importante \- Remastered 2021](https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:13 |
+| 44 | [Una Historia Importante \- Remastered 2021](https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:13 |
+| 45 | [Un angelo non é](https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:38 |
 | 46 | [Gli ultimi romantici](https://open.spotify.com/track/2rPRLpdjm0qpXzfM46piJe) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:29 |
 | 47 | [Sei Un Pensiero Speciale](https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Perfetto](https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2) | 3:48 |
 | 48 | [Per Le Strade Una Canzone \(feat\. Luis Fonsi\)](https://open.spotify.com/track/6e75CS2hDy0ABDiO6Lj0wO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:30 |
 | 49 | [Casi Amor \(Quasi amore\) \- Remastered 2021](https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 5:05 |
 | 50 | [Magia](https://open.spotify.com/track/42ip91KdjOIlSinrzbT33f) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:46 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDA1OTAwMzQ2NGUzMTA5ODMyMDFkMjUwMWRkMTU2ZTgyOA==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA5M2QyNDI1MzJiMGRhZGI1ODI0MjUxZjQ2MjVlMDBjMA==`

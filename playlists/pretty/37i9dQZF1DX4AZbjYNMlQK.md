@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,719 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,697 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 42 | [Lista De Regalos \(Feat\. Nabález, Majo Aguilar, Banda Fortuna, Jary Franco, Fátima Campo, Ricardo Murillo\)](https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn), [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Lista De Regalos \(Feat\. Nabález, Majo Aguilar, Banda Fortuna, Jary Franco, Fátima Campo, Ricardo Murillo\)](https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW) | 2:05 |
 | 43 | [I'll Be Home For Christmas](https://open.spotify.com/track/71Eb9RfYpKqmUB5kUkjfHt) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad](https://open.spotify.com/album/3npLN8rO2sxZb2jbzEWmFI) | 3:05 |
 | 44 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 |
-| 45 | [Last Christmas \(Spanish Version\)](https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:15 |
-| 46 | [Navisad](https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Navisad](https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI) | 3:06 |
+| 45 | [Navisad](https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Navisad](https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI) | 3:06 |
+| 46 | [Last Christmas \(Spanish Version\)](https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:15 |
 | 47 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
 | 48 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
 | 49 | [El Año Viejo](https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 3:01 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 64 | [mi único deseo](https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [mi único deseo](https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92) | 3:06 |
 | 65 | [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 |
 
-Snapshot ID: `MCw4Y2Q5YTE0YzA1N2UzMzk0ZDFkNTgyYTU1MDhlODNmMTlmOTA5ZDIz`
+Snapshot ID: `MCw4NmYwNjczNzBjNWFiNWQ5ZmVkNzMxMjgwZmI5YTNkZWJmZWY0YmVl`

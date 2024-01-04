@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,605 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,683 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
 | 2 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
 | 3 | [Lápiz Labial](https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Lápiz Labial](https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt) | 2:52 |
-| 4 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
-| 5 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 |
+| 4 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 |
+| 5 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
 | 6 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
 | 7 | [La Burbuja](https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [La Burbuja](https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y) | 3:18 |
 | 8 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
 | 9 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
 | 10 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
-| 11 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 |
-| 12 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
-| 13 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
+| 11 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
+| 12 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
+| 13 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 |
 | 14 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
 | 15 | [La Colegiada \(Live\)](https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:39 |
 | 16 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 73 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 74 | [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 |
 | 75 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
-| 76 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
-| 77 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
+| 76 | [Fuiste Mala](https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Ricardo Muñoz](https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 3:18 |
+| 77 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
 | 78 | [En realidad](https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [Encuentro Romántico](https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk) | 3:43 |
 | 79 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
 | 80 | [Caballo Viejo](https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44) | [Roberto Torres](https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B) | [Roberto Torres y su Charanga Vallenata, Vol\. 2](https://open.spotify.com/album/0c5HlxTCquVn8DrNWikQsE) | 7:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 124 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 | 125 | [Ojitos Mentirosos](https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [20 Exitos: Lo Mejor de la Cumbia](https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt) | 3:37 |
 
-Snapshot ID: `MCw0YjRiNDJkY2Y5YjcwNWJhODBiZWFlN2IxODE4ZDMwZjdmMmM4ODkw`
+Snapshot ID: `MCwxYmM3MDM3OGQxOWQxZDdmN2VlYmM1OGYzZGQ3ODQ4ODEyMzg5ZDIx`

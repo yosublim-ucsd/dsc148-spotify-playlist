@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,714 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,931 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 91 | [Hb20](https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:22 |
 | 92 | [Matuto de Verdade](https://open.spotify.com/track/4gryO2XRHDvVgDfAoxZCi4) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Matuto de Verdade](https://open.spotify.com/album/5u5l9acR8uBt6xtVFSdoF9) | 2:26 |
 | 93 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 |
-| 94 | [Cheirosa](https://open.spotify.com/track/2jI4ABmHk9XZjYmy3EPfN9) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Na Pressão](https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ) | 2:56 |
-| 95 | [Deixa Eu te Chamar de Meu Amor](https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 2:22 |
+| 94 | [Deixa Eu te Chamar de Meu Amor](https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 2:22 |
+| 95 | [Cheirosa](https://open.spotify.com/track/2jI4ABmHk9XZjYmy3EPfN9) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Na Pressão](https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ) | 2:56 |
 | 96 | [Hoje Tem](https://open.spotify.com/track/6PDVgIf7CRM0taohivuclB) | [VAQUEIRO SM](https://open.spotify.com/artist/3MssfeN0eWZ7eqqkfLEOA3), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Hoje Tem](https://open.spotify.com/album/7L8dDLzAgwLjwflKixuoza) | 2:48 |
 | 97 | [É Só Oi e Tchau](https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [É Só Oi e Tchau](https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV) | 3:27 |
 | 98 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 |
 | 99 | [Vaquejada Deixo Não](https://open.spotify.com/track/7opFSfeMfpGF3KGByMeunX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Vaquejada Deixo Não](https://open.spotify.com/album/1clLqhZRPHVnA0LyG6PQAO) | 3:17 |
 | 100 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 |
 
-Snapshot ID: `MCw5ZDM0YWMyYmYyNzM5ODIzOWNhOTQyODY5MjE2MTA5YjJiYmU3Mzlm`
+Snapshot ID: `MCxlYWZmMjI3ZjEyMjI3NDRjYTQyNGY3MDdlZjcwNTQyODU0NWI5NmUy`

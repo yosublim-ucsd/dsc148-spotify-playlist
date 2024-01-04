@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: okgiorgio
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,946 likes - 161 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,028 likes - 161 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 160 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 161 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 |
 
-Snapshot ID: `MCxlYTU4NWNjZmY1YjAyOWU0ZTFhMjViOWJjNGQxMjljZjljMDA0NDBh`
+Snapshot ID: `MCwwMmY5M2EwY2VkZDE0NzJjZWJlNjMzNjBjMDc5MTlkYTIxNGI0ZjU1`

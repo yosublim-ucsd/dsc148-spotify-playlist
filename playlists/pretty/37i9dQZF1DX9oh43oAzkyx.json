@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2521129,
+  "num_followers": 2522077,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2JjN2Q2ZTU1NDlhNDhjNmFmZmUxMzhmMzIyMGZhYWIwOGJiZWY2",
+  "snapshot_id": "MCxjMDMxNjhhMzJmZWZhN2YxNjkzM2JkMTUxYTY5NjI1MjFhMjg5ZjNh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:08:15",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2023-12-15 05:08:15",
       "album": {
-        "name": "Welcome 2 Collegrove",
-        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 199597,
-      "name": "Big Diamonds (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs"
-    },
-    {
-      "added_at": "2023-12-15 05:08:15",
-      "album": {
         "name": "Get Deady",
         "url": "https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC"
       },
@@ -1211,6 +1187,22 @@
     {
       "added_at": "2023-12-15 05:08:15",
       "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 173025,
+      "name": "I Gotta",
+      "url": "https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv"
+    },
+    {
+      "added_at": "2023-12-15 05:08:15",
+      "album": {
         "name": "CMON FREESTYLE",
         "url": "https://open.spotify.com/album/2H8nRvoykSWLqr94sL9IRU"
       },
@@ -1227,18 +1219,26 @@
     {
       "added_at": "2023-12-15 05:08:15",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+        "name": "Welcome 2 Collegrove",
+        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 173025,
-      "name": "I Gotta",
-      "url": "https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv"
+      "duration_ms": 199597,
+      "name": "Big Diamonds (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs"
     },
     {
       "added_at": "2023-12-15 05:08:15",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-12-15 05:08:15",
       "album": {
-        "name": "Dead or Alive",
-        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+      "duration_ms": 234324,
+      "name": "x2",
+      "url": "https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o"
     }
   ],
   "unique_name": "Beast Mode Hip-Hop",

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 438153,
+  "num_followers": 438167,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTI0YmU1NDRkNDEzODhkNzJiNjhkZTkyZmZjNzlhMWYzMDBiZWMy",
+  "snapshot_id": "MCw1NDUwMWJmOGYwYTg0YWYyMjYzMzA5ZDI1ZTNjMmZiZjkzZWUxMzgy",
   "tracks": [
     {
       "added_at": "2023-11-30 12:32:36",
@@ -83,6 +83,26 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "La Player (Bandolera)",
         "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Loca Remix",
         "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2023-11-30 12:32:36",

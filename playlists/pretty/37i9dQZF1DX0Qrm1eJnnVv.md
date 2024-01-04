@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,662 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,670 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 4 | [St\. Louis Rag](https://open.spotify.com/track/58NvSG4gwrmAfoXedtU7YK) | [Max Morath](https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF) | [The Best Of Scott Joplin](https://open.spotify.com/album/300iEB8P24hhTozzVI2Mfl) | 2:34 |
 | 5 | [Frog Legs Rag](https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:56 |
 | 6 | [New Era Rag](https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se) | [Wally Rose](https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB) | [Whippin' the Keys](https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix) | 2:47 |
-| 7 | [Cataract Rag](https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx) | [Ralph Sutton](https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9) | [Oh Baby!](https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry) | 3:15 |
-| 8 | [Troublesome Ivories](https://open.spotify.com/track/1X2NYWrWmpIbs5ALWeZ6Iy) | [Eubie Blake](https://open.spotify.com/artist/35Y7WdrKm5TItu5yHOJ69U) | [Eighty Six Years Of Eubie Blake](https://open.spotify.com/album/5CKfWa3U9PeFEuBhgGBhJX) | 2:02 |
+| 7 | [Troublesome Ivories](https://open.spotify.com/track/1X2NYWrWmpIbs5ALWeZ6Iy) | [Eubie Blake](https://open.spotify.com/artist/35Y7WdrKm5TItu5yHOJ69U) | [Eighty Six Years Of Eubie Blake](https://open.spotify.com/album/5CKfWa3U9PeFEuBhgGBhJX) | 2:02 |
+| 8 | [Cataract Rag](https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx) | [Ralph Sutton](https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9) | [Oh Baby!](https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry) | 3:15 |
 | 9 | [The Ragtime Dance: Rag\-Time Dance, A Stop\-Time Two Step](https://open.spotify.com/track/7Eqi544QtAAGZ2aITewHzZ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Benjamin Loeb](https://open.spotify.com/artist/67UL1dFPdXgJCBSRRyRGgi) | [Joplin: Piano Rags, Vol\. 2](https://open.spotify.com/album/00hTiYtvFtdxKOiDta1kNU) | 3:05 |
 | 10 | [Top Liner Rag](https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od) | [Max Morath](https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF) | [The World Of Scott Joplin](https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl) | 3:53 |
 | 11 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCw5N2I0YTk1NGQyZGE0MzU4YmU2MTRkZmFiNmEwM2FmOThmNzMwYzdi`
+Snapshot ID: `MCwzMDg2MTI3MTk5YmQzNjFhYTQxZTZhNzkzYmRkY2I5NGYyYzQ2ZmIx`

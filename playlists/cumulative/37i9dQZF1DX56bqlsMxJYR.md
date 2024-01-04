@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-380 songs - 17 hr 14 min
+381 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 | 2022-03-07 |  |
 | [Crying in the Rain](https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:00 | 2020-12-16 | 2022-10-11 |
 | [Cupid](https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:38 | 2023-03-04 |  |
-| [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 | 2022-03-07 |  |
+| [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 | 2022-03-07 | 2024-01-04 |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2020-12-16 |  |
 | [Dancing In The Street \- Stereo](https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Definitive Collection](https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip) | 2:39 | 2020-12-16 | 2022-11-13 |
 | [Day\-O](https://open.spotify.com/track/3wBEiVtKNaLBRImRtlZRbZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [All Time Greatest Hits Volume 1](https://open.spotify.com/album/7fi394FGU8dioWCI02DqXr) | 3:03 | 2022-03-07 | 2022-04-20 |
@@ -189,6 +189,7 @@
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2022-03-07 |  |
 | [Little Things Mean A Lot](https://open.spotify.com/track/5FxRgEpzXV9hp1b1heivXZ) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [My Kind Of Music \- A Fine Romance](https://open.spotify.com/album/5yZZnBJ8S8xeeONqkAIBsg) | 3:00 | 2022-03-07 | 2022-04-20 |
 | [Lollipop](https://open.spotify.com/track/38IkFZQU3ZF6agt6FkKA8C) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 2:09 | 2022-03-07 | 2022-04-21 |
+| [Lollipop](https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN) | 2:10 | 2023-08-03 |  |
 | [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-03-07 | 2022-10-11 |
 | [Looking Back \- Remastered 2005](https://open.spotify.com/track/0KM29sd6s7Tg70vl2Kmfic) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Holidays & Hits](https://open.spotify.com/album/5tnzZOPPSeafBICfszjSkK) | 2:25 | 2020-12-16 | 2022-05-05 |
 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 | 2020-12-16 |  |

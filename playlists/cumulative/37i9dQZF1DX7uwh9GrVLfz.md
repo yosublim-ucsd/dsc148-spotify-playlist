@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-694 songs - 1 day 13 hr 9 min
+695 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 |  |
 | [ZINNIA](https://open.spotify.com/track/5NoGmXzuApY0bQXLZ9XOHm) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 3:02 | 2022-05-12 | 2022-07-24 |
 | [Z好調](https://open.spotify.com/track/4P21YYDymMRhUZlEANJo4Q) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Positive And Negative](https://open.spotify.com/album/1c6L8dn0s1409cRlFnK4UX) | 2:34 | 2022-05-12 | 2022-07-28 |
-| [あきらめのすべて](https://open.spotify.com/track/04Lcx7dahEb5a1xuxrDzqK) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [再定義 E.P](https://open.spotify.com/album/1h5iqlwdPOkj1pMyhvGpVe) | 0:48 | 2023-12-05 |  |
+| [あきらめのすべて](https://open.spotify.com/track/04Lcx7dahEb5a1xuxrDzqK) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [再定義 E.P](https://open.spotify.com/album/1h5iqlwdPOkj1pMyhvGpVe) | 0:48 | 2023-12-05 | 2024-01-04 |
 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 | 2022-07-21 |  |
 | [あなたへ](https://open.spotify.com/track/3QeecClT47ghMOFADhYufm) | [BUZZ THE BEARS](https://open.spotify.com/artist/0rTSanf2jBgMMPXpZvT24S) | [BUZZ THE BEST](https://open.spotify.com/album/7akUJp6Fh6FA1Fn5ZHfrd0) | 4:01 | 2022-05-12 | 2022-07-25 |
 | [あの娘とダンス](https://open.spotify.com/track/0mmTMG6MKTu2kvpD9C6FxL) | [ザ・暴動チャイルズ](https://open.spotify.com/artist/1rAfll9jPLKIllRhvevUMM) | [あの娘とダンス](https://open.spotify.com/album/6WpF4wBi4btj8SXBTkSmc6) | 3:26 | 2022-05-17 | 2022-07-26 |
@@ -568,6 +568,7 @@
 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 | 2022-05-12 |  |
 | [ストラトキャスター シーサイド](https://open.spotify.com/track/3NpIKdECp09WdI6X8Fc9qH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/5vZOWuL688iIuNSiZdlJqa) | 3:12 | 2022-05-17 | 2022-07-29 |
 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 | 2022-07-21 | 2023-12-10 |
+| [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 | 2023-12-28 |  |
 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 | 2022-05-17 |  |
 | [ストーム](https://open.spotify.com/track/560s6SSuAxlh5PJFPi7COb) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [ストーム](https://open.spotify.com/album/7H6F4LE4umZnFTo6WC6XHC) | 2:30 | 2022-05-19 | 2022-07-25 |
 | [スピード](https://open.spotify.com/track/2TbBvejxOk5c9NIqrNVS4M) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [スピード](https://open.spotify.com/album/14ApXQjoFkwRnlR50UExDt) | 2:53 | 2022-05-12 | 2022-07-23 |

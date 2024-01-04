@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 158791,
+  "num_followers": 158888,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGUxN2RmN2MyMTVhM2Q3ZDI5MjFhOWUyZDUzOGVjZGRjZjExM2Q1",
+  "snapshot_id": "MCw4NGFiY2E0ZWUwMTg4YjVjNzI0YWM0MThkYTczN2E5MGZhY2VhMzNm",
   "tracks": [
     {
       "added_at": "2023-12-22 23:51:04",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-12-22 23:51:04",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2023-12-22 23:51:04",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2023-12-22 23:51:04",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2023-12-22 23:51:04",
@@ -539,6 +539,58 @@
     {
       "added_at": "2023-12-22 23:51:04",
       "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+    },
+    {
+      "added_at": "2023-12-22 23:51:04",
+      "album": {
+        "name": "Enferma de Ti",
+        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
+      },
+      "artists": [
+        {
+          "name": "Valen Madanes",
+          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Enferma de Ti",
+      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
+    },
+    {
+      "added_at": "2023-12-22 23:51:04",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
+    },
+    {
+      "added_at": "2023-12-22 23:51:04",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -579,38 +631,6 @@
     {
       "added_at": "2023-12-22 23:51:04",
       "album": {
-        "name": "Enferma de Ti",
-        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
-      },
-      "artists": [
-        {
-          "name": "Valen Madanes",
-          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Enferma de Ti",
-      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
-    },
-    {
-      "added_at": "2023-12-22 23:51:04",
-      "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
-    },
-    {
-      "added_at": "2023-12-22 23:51:04",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 201920,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
-    },
-    {
-      "added_at": "2023-12-22 23:51:04",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2023-12-22 23:51:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,857 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,914 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 45 | [Oração](https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO) | 5:01 |
 | 46 | [Eu Amo Você](https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 4:03 |
 | 47 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 |
-| 48 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 49 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
+| 48 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
+| 49 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 50 | [É Isso Aí \(The Blower'S Daughter\)](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
 | 51 | [Singular](https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:26 |
 | 52 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 99 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
 | 100 | [Codinome Beija\-Flor](https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:31 |
 
-Snapshot ID: `MCw3ZjU4NTc3OTgxNzk2MWIzZjRmMGFhODhiZWMxZGVmZDdhOWIzNWE2`
+Snapshot ID: `MCwwMWJhMGE4YzA3YmY5OTIzYzc3Y2U2YjJjNGM1NDUxOGQyM2ZmZjY5`

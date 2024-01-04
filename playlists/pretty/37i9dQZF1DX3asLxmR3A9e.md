@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,803 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,847 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 93 | [Hunger of the Pine](https://open.spotify.com/track/2mkv1b3dRFyiJ4Ybq31owf) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 4:59 |
 | 94 | [Do You](https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 3:32 |
 | 95 | [Drops](https://open.spotify.com/track/3qfqrPLjWLbIHEc5ZCrKmN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 2:53 |
-| 96 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
-| 97 | [No Rest for the Wicked](https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [I Never Learn](https://open.spotify.com/album/4fGqfyineAZmulNxgitERh) | 3:42 |
+| 96 | [No Rest for the Wicked](https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [I Never Learn](https://open.spotify.com/album/4fGqfyineAZmulNxgitERh) | 3:42 |
+| 97 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
 | 98 | [Two Weeks](https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:07 |
 | 99 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
 | 100 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 |
 
-Snapshot ID: `MCxkZmQ5MTRkMGFjMTU5M2M0YmRjNTg4M2U1ZDhiMDlhMDUxODIyNjlm`
+Snapshot ID: `MCwyMDY4NzExOGNiZGIxOWFhNGZhYTdiZjE5NWFlNGU0NzQ4ZDcyYjAw`

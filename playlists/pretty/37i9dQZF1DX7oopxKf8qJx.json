@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 80127,
+  "num_followers": 80204,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTFiODJkZTkzMGU4ZTIxNzA3ODAwMzY2NmQ0ZmIyMmUzMmNlYjdl",
+  "snapshot_id": "MCxmOTdjODA4MWEzYzM3MTMzZmU1OTY3YzlhMjgxNjIwNTg1MzNhYzBl",
   "tracks": [
     {
       "added_at": "2023-12-20 11:08:37",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
         "name": "Two Pianos Today",
         "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 188880,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
+        "name": "Strings Latino",
+        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 217266,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
-        "name": "Strings Latino",
-        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "A Felicidade",
-      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "The America Album",
-        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
         "name": "The Best Of Nelson Riddle",
         "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 144666,
       "name": "The Green Leaves Of Summer",
       "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "The America Album",
+        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Pops Goes West",
-        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
+        "name": "Paris When It Sizzles",
+        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
       },
       "artists": [
         {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 127986,
-      "name": "Buttons and Bows",
-      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
+      "duration_ms": 166706,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -707,38 +703,22 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+        "name": "Pops Goes West",
+        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
       "artists": [
         {
-          "name": "Acker Bilk",
-          "url": "https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA"
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
         },
         {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Stranger On The Shore",
-      "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
-        "name": "Paris When It Sizzles",
-        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
+      "duration_ms": 127986,
+      "name": "Buttons and Bows",
+      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -755,6 +735,26 @@
       "duration_ms": 177213,
       "name": "Forget Domani",
       "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+      },
+      "artists": [
+        {
+          "name": "Acker Bilk",
+          "url": "https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Stranger On The Shore",
+      "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Marylin",
-      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
         "name": "The Joy Of Living",
         "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 169160,
       "name": "The Joy Of Living",
       "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Marylin",
+      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+        "name": "Hey...Let Yourself Go!",
+        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
       },
       "artists": [
         {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Capri Serenade",
-      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
+      "duration_ms": 217306,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
         }
       ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+      "duration_ms": 190480,
+      "name": "Capri Serenade",
+      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
     },
     {
       "added_at": "2023-12-20 11:08:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Lovely Lady",
-        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
         "name": "Frank Sinatra Conducts Tone Poems Of Color (Remastered)",
         "url": "https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP"
       },
@@ -1087,22 +1071,6 @@
     {
       "added_at": "2023-12-20 11:08:37",
       "album": {
-        "name": "Ros on Broadway",
-        "url": "https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 151124,
-      "name": "I Could Have Danced All Night (From \"My Fair Lady\")",
-      "url": "https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU"
-    },
-    {
-      "added_at": "2023-12-20 11:08:37",
-      "album": {
         "name": "The Essential Percy Faith - The Instrumental Recordings",
         "url": "https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu"
       },
@@ -1115,6 +1083,38 @@
       "duration_ms": 346733,
       "name": "The Song From \"Moulin Rouge\"",
       "url": "https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "Lovely Lady",
+        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
+    },
+    {
+      "added_at": "2023-12-20 11:08:37",
+      "album": {
+        "name": "Ros on Broadway",
+        "url": "https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "I Could Have Danced All Night (From \"My Fair Lady\")",
+      "url": "https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU"
     },
     {
       "added_at": "2023-12-20 11:08:37",

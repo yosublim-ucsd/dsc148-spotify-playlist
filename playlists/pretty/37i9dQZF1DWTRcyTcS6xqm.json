@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUxNGEwNTE2MDBjYmVmOTBkNDZkNDU3MzI3NjY0MGJjN2E5ZDZk",
+  "snapshot_id": "MCwzYjNmZTNjN2I4ZDA1ZTdjNmQyNTY4ZTA4NGQwOWUzYjVmMGVkMDI2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        },
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "The Lucky Ones",
-      "url": "https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Stompin' Ground",
         "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 239666,
       "name": "Soul Shake",
       "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        },
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "The Lucky Ones",
+      "url": "https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz"
     },
     {
       "added_at": "2020-12-01 05:01:00",

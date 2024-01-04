@@ -1,12 +1,12 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 344029,
+  "num_followers": 344030,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE4OWU1YjZiMDQxOGUzOWRjYjc5ODJiMGJiZjM0YmY4YzNiMGYy",
+  "snapshot_id": "MCxjYzBlZWQ2OWI2NmM1N2I1YjI1YTY3ZGE4Zjc1ZWYyOTU3MGZkNjE5",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -187,8 +187,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -331,8 +331,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -359,22 +359,6 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 279833,
-      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -415,6 +399,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 193200,
       "name": "Beautiful Crazy",
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 212606,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 212606,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,800 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,828 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 2 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 |
 | 3 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 |
 | 4 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
-| 5 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
-| 6 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
+| 5 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
+| 6 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 7 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
 | 8 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 |
 | 9 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 40 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 |
 
-Snapshot ID: `MCw2YmQxMjdjYWRjNzhlM2FhMzAxMDBiZDhiNzNmMDNhYmJkNGUzMDM0`
+Snapshot ID: `MCw4YjI0Yjg0OTljYWIxOWY2M2JmMWU3YTkxYTc4ZTJhMTJhZWM4ZGIz`

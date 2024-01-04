@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 177600,
       "name": "Ghanili",
       "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
@@ -2482,6 +2482,32 @@
       "duration_ms": 188865,
       "name": "Jayeb Khbari",
       "url": "https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI"
+    },
+    {
+      "album": {
+        "name": "Je M'en Fous",
+        "url": "https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177361,
+      "name": "Je M'en Fous",
+      "url": "https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t"
     },
     {
       "album": {
@@ -3230,6 +3256,24 @@
       "duration_ms": 212000,
       "name": "Lalla Laaroussa",
       "url": "https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV"
+    },
+    {
+      "album": {
+        "name": "Layem",
+        "url": "https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU"
+      },
+      "artists": [
+        {
+          "name": "Lord Mehdi",
+          "url": "https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166822,
+      "name": "Layem",
+      "url": "https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA"
     },
     {
       "album": {
@@ -4128,6 +4172,24 @@
       "duration_ms": 249707,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
+    },
+    {
+      "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
     },
     {
       "album": {
@@ -5232,7 +5294,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 252828,
       "name": "Skati",
       "url": "https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Yebit\(예빛\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,758 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,836 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 100 | [Blue In You \(Duet With CHEEZE\)](https://open.spotify.com/track/7wjBq0g3hSdVDmi3Eol5hl) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Blue in You](https://open.spotify.com/album/30hV27Zqc5J4Bd3iMyR4HJ) | 3:18 |
 
-Snapshot ID: `MCxiZWRmMjM4YTJmZjk0ODI0M2I3NDQwMTg4YTNjYTZhMzlkZTAwOWU1`
+Snapshot ID: `MCxmZjQxOWU5NGZlMDI0Y2ZlNTc1NzdkNDM2NWIyOWU4NTRlYjJjOTQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,711 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,767 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 59 | [El Sube y Baja \- En vivo](https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [Comando Único con Compa Danny \(En vivo\)](https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74) | 2:37 |
 | 60 | [El Pistolero \- El Chinelito Borracho \- Popurrí / En Vivo](https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:53 |
 | 61 | [La Más Bonita de Todas \- En Vivo](https://open.spotify.com/track/3tcExFTnLwXcKEUw2cWNum) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r) | 2:56 |
-| 62 | [Mi Golondrina](https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 2:58 |
-| 63 | [El Palomito \- En Vivo](https://open.spotify.com/track/0tpXFcqhDDntEDMPwGMOXE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 |
+| 62 | [El Palomito \- En Vivo](https://open.spotify.com/track/0tpXFcqhDDntEDMPwGMOXE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 |
+| 63 | [Mi Golondrina](https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 2:58 |
 | 64 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF) | 3:10 |
 | 65 | [Por Las Calles De Chihuahua](https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:42 |
 | 66 | [Alma Enamorada \- En Vivo](https://open.spotify.com/track/75zniuVinswzFhlxBZNndT) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo: Desde Los Cabos](https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r) | 2:31 |
 | 67 | [Aquí en Mi Corazón Tú Mandas](https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Aquí en Mi Corazón Tú Mandas \(En Vivo\)](https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c) | 2:08 |
-| 68 | [Basta Ya \- En Vivo](https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:43 |
-| 69 | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/6CaJzPuQFqwZ2AAj5jET3y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/47JiMvotl9xC4mwZAR12UY) | 2:04 |
-| 70 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
+| 68 | [Prenda Querida \- En Vivo](https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:28 |
+| 69 | [Basta Ya \- En Vivo](https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:43 |
+| 70 | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/track/6CaJzPuQFqwZ2AAj5jET3y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Vida Ruina \(En Vivo Desde La Perla Tapatia\)](https://open.spotify.com/album/47JiMvotl9xC4mwZAR12UY) | 2:04 |
 | 71 | [Escuela de Rancho \- En Vivo](https://open.spotify.com/track/70VNfnMiQ9huA5J8o8nmjB) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Emilio Garra y la Sangre Nueva, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6AxBFBz1lPoyTMr44xUm7k) | 2:45 |
 | 72 | [Margarita, Margarita](https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:36 |
-| 73 | [Prenda Querida \- En Vivo](https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:28 |
-| 74 | [Simplemente Gracias \- En Vivo](https://open.spotify.com/track/7kTbcfiAVDGv2VBxddSrEf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:37 |
+| 73 | [Vida Ventajosa \- En Vivo](https://open.spotify.com/track/0l4zWludXr8sxHlYtleBV9) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:57 |
+| 74 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 | 75 | [Un Desengaño \- En Vivo](https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [En Vivo Desde la Fogata](https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk) | 3:20 |
 
-Snapshot ID: `MCxlOWRkOTIxNmE3NWE0YjMwOWJlMjVlNmNkZjlmNzUxZmEzNTdkZmY1`
+Snapshot ID: `MCxiZTE2OTQ4YjNmNjQ2YjY3MTk1NzY0ZTNiNjQxOGRkMDkyODkzNjM3`

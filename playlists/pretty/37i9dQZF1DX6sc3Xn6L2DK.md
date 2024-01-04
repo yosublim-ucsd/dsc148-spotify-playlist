@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,997 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,001 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 60 | [Lonesome City](https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB) | 3:34 |
 | 61 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
 | 62 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 |
-| 63 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
-| 64 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 |
-| 65 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 63 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 |
+| 64 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
+| 65 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
 | 66 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
 | 67 | [Murmur of Yearning](https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Murmur of Yearning](https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L) | 3:50 |
 | 68 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Vagabond](https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:01 |
 | 75 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9) | 3:03 |
 
-Snapshot ID: `MCxiNDE3NmEyMDBhMzY3MTdkZDRkYTFiNzg5ZjgyMmJiNjRhZjFjZmU2`
+Snapshot ID: `MCxmZDE0MDkwYmMyMDZmZWM4NGVmOWZlNGZhYzRlZjgyZDlmZjVjYTBh`

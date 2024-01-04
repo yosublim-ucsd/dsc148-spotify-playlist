@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 96434,
+  "num_followers": 96446,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ1M2ZkM2UwZDgwOTg4YTZhMWU5NjVhYjQ1YTlkNWNlMWNhNDY0",
+  "snapshot_id": "MCw5Nzc1MTg3NzYzNjUyMDNkYjRlZThkZmZjNGY4OWNhODk1YTZiM2Ex",
   "tracks": [
     {
       "added_at": "2023-08-14 15:51:23",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Versatilidad & Vivencias (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cYaWyKgFJQRM8LV6RdNeB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 209960,
       "name": "Te Encontre",
       "url": "https://open.spotify.com/track/2kP6fOqdSQ5CYqVH5z5844"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Los Due\u00f1os del Swing",
-        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "La Due\u00f1a del Swing",
-      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Los Due\u00f1os del Swing",
+        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "La Due\u00f1a del Swing",
+      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
     },
     {
       "added_at": "2023-08-14 15:51:23",

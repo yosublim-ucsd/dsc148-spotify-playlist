@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: DOBé
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,638 likes - 86 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,752 likes - 86 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 85 | [PETRICORE](https://open.spotify.com/track/7f9BnBBd58z9CRZHOhygWi) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [PETRICORE](https://open.spotify.com/album/4YyzLEHukTOoMFQJWqGHee) | 3:37 |
 | 86 | [BEYOND 70 \- Peachlyfe Remix](https://open.spotify.com/track/6j5k4TsLcGIl9LFFtqQ651) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [peachlyfe](https://open.spotify.com/artist/7z5jhhZFj3xUTxipinFogh) | [ISSUES REMIXES](https://open.spotify.com/album/38WuyzVkjPfPjTCJ9195Et) | 6:05 |
 
-Snapshot ID: `MCxhZGE5NGM3MTlhOTgxZmViMDEyZWFkMTYwOGJhOWI3NTVhYzE3OTU3`
+Snapshot ID: `MCw0YjNmNjA5MWJkZjgyZmQ2NzM4Y2E1YTkxOWQxZDQ1MDE3MTE2M2Mz`

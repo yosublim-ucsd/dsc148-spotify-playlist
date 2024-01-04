@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,623 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,827 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 27 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
 | 28 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:56 |
 | 29 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
-| 30 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
-| 31 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
+| 30 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
+| 31 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 32 | [Bottom of the River](https://open.spotify.com/track/2LzyUfJdRp3uqTrITBJXEY) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Carry the Fire](https://open.spotify.com/album/42NjSADnDs97o75bICIqs0) | 3:22 |
 | 33 | [Killer + The Sound](https://open.spotify.com/track/00fRUfon3pr861IKiG03kA) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Killer + The Sound](https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs) | 7:55 |
 | 34 | [What Kind Of Man](https://open.spotify.com/track/1w9ta1CvXlJPRXh6Py2Mto) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:36 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 81 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
 | 82 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 |
 | 83 | [B a noBody](https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 4:48 |
-| 84 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
-| 85 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
+| 84 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
+| 85 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
 | 86 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
 | 87 | [Bohemia](https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 5:15 |
 | 88 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 |
 | 100 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
 
-Snapshot ID: `MCw1N2FhMDRmNjg2MjUzNGVhNmM3YmQ3YzFiNmYwZWE3YTA1NjAwNmM5`
+Snapshot ID: `MCwwYTQyNDgzMjJkMjc4MTM2NWM2ZTlkZTc4MmZjOGFkN2VhYTdhOWI4`

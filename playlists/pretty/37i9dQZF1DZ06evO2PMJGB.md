@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,511 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,688 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 28 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 | 29 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 30 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 |
-| 31 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 |
+| 31 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
 | 32 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 |
 | 33 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
 | 34 | [Cansar Você](https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Cansar Você](https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK) | 2:56 |
-| 35 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
+| 35 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 |
 | 36 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 | 37 | [Boa Menina](https://open.spotify.com/track/3eCofNVG97J3lRyNhh0zPP) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Boa Menina](https://open.spotify.com/album/26VwJ4TnjQYdkTe7LTcFQP) | 2:27 |
 | 38 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 |
 | 39 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDA1NGMwOGMzNzRmYjBlZjliZjdkYTg3NDA5MzlmZDRlOQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAzYWY5YzYxMTA1ODdiY2I5MDE4M2I2MGM0OTAxZmRlZQ==`

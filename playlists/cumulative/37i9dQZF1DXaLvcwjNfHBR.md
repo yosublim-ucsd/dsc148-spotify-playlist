@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: Fred again..
 
-312 songs - 16 hr 51 min
+313 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Mamaw's House](https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [20 Number Ones \(Bonus Version\)](https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe) | 3:07 | 2023-10-02 | 2023-11-14 |
 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Legacy Edition\)](https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH) | 4:21 | 2023-06-15 | 2023-10-20 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-09 |  |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-14 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-14 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-12-21 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-15 | 2023-06-30 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-08-10 | 2023-08-28 |
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-15 | 2023-07-28 |

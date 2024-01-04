@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 892542,
+  "num_followers": 892699,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZiOTJhZWJlY2MyZDdjZTdhYjBjOWE1YTI1NDU2NDcwMjZiNDMx",
+  "snapshot_id": "MCxjYmYzYzZmMDY2M2IwZThkZWE2NzFhM2MxMTI4YmZhODM3OGExYjk5",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Mami Chula",
-        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Mami Chula",
-      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -991,6 +971,26 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "5 Letras",
-      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "5 Letras",
+      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
       },
@@ -1687,22 +1667,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 203529,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25"
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1815,26 +1795,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Ram Pam Pam",
-        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200785,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "ASQUEROSO",
         "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
       },
@@ -1851,6 +1811,26 @@
       "duration_ms": 159245,
       "name": "ASQUEROSO",
       "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Ram Pam Pam",
+        "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200785,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1939,26 +1919,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Ella Quiere Hmm... Haa... Hmm...",
         "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
       },
@@ -1995,6 +1955,26 @@
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Traductor",
+        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -2127,6 +2107,46 @@
       "duration_ms": 231388,
       "name": "Diablo, Qu\u00e9 Chimba",
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "3G (Remix)",
+        "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 366613,
+      "name": "3G - Remix",
+      "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
     }
   ],
   "unique_name": "La Casa del Perreo",

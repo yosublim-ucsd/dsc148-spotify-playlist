@@ -10944,7 +10944,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 162857,
       "name": "Perfect Jodi",
       "url": "https://open.spotify.com/track/0BZplgD7cIEyJae5bTYB1s"
@@ -14390,6 +14390,24 @@
       "duration_ms": 167368,
       "name": "Tasveeran",
       "url": "https://open.spotify.com/track/5OnRbQTFD5Ww9OoDQhRlJ4"
+    },
+    {
+      "album": {
+        "name": "Tasveerein",
+        "url": "https://open.spotify.com/album/7E2DHW1L5SkM8TYbmbLolz"
+      },
+      "artists": [
+        {
+          "name": "Avanie Joshi",
+          "url": "https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209821,
+      "name": "Tasveerein",
+      "url": "https://open.spotify.com/track/1M1P4pwwl8b6y1d4sTPon1"
     },
     {
       "album": {

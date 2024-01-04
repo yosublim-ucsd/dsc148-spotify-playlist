@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,662 likes - 75 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,730 likes - 75 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 50 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 51 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
-| 52 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
-| 53 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
+| 52 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
+| 53 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
 | 54 | [Leave](https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs) | 2:54 |
 | 55 | [WOAH](https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [WOAH](https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW) | 2:48 |
 | 56 | [What Happened 2 Me?](https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [What Happened 2 Me?](https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x) | 1:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [BE FORREAL](https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Big Bam](https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq), [DJ Blizz](https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq) | [BE FORREAL](https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h) | 1:26 |
 | 75 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
 
-Snapshot ID: `MCw5NWU3NWRmZWNjYzFlZTNjMGJlYmJiMDJkYjFhYTVlZTJmOTU3NzFk`
+Snapshot ID: `MCxhYTZhNjljMDJhMjIzMmZlYThjNzhkZDQwNGUxYWEwYmI1YWQyNTNk`

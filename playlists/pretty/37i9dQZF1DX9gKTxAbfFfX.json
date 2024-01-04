@@ -1,12 +1,12 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Myke Towers",
-  "num_followers": 728916,
+  "num_followers": 728862,
   "original_name": "Verano 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQ1MTQ4ZTQ0NGY1MWE0YTJmY2ZhZmE4ZDZkMzMzYTVhM2E0Nzlm",
+  "snapshot_id": "MCwxZGQ1Zjk0ZjI4ZGVjYTlmNDY4ZjIyNDZiNThlZmFlOGQ2YzM0ZTE0",
   "tracks": [
     {
       "added_at": "2023-08-21 12:18:42",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Rara Vez",
-        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
-      },
-      "artists": [
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 128677,
-      "name": "Rara Vez",
-      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Rara Vez",
+        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
+      },
+      "artists": [
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 128677,
+      "name": "Rara Vez",
+      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "MOJABI GHOST",
-      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -503,6 +483,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -535,22 +531,6 @@
       "duration_ms": 208125,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -675,6 +655,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "BABY HELLO",
         "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
       },
@@ -727,22 +723,6 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -879,26 +859,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -919,6 +879,26 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -983,22 +963,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -1015,6 +979,22 @@
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1083,6 +1063,42 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Dile Que Tu Me Quieres",
+      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
         "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 160000,
       "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
       "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Dile Que Tu Me Quieres",
-      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1147,26 +1147,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1263,22 +1243,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 180929,
-      "name": "Me Fui de Vacaciones",
-      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -1351,6 +1315,22 @@
       "duration_ms": 238200,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 180929,
+      "name": "Me Fui de Vacaciones",
+      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1907,6 +1887,26 @@
       "duration_ms": 219666,
       "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
       "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
       "added_at": "2023-08-21 12:18:42",

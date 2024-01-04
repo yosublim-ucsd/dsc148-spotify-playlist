@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 
 > Classic pop, rock and folk for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,972 likes - 69 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,975 likes - 69 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 68 | [Somewhere U.S.A.](https://open.spotify.com/track/3ayP2t2qMgIqj8Yy1xHtaa) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 2:53 |
 | 69 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 |
 
-Snapshot ID: `MCxjYTllYzFkYjE1MjdlMGNmZmNiMzljMmQyNDM1YWU0NGIxNGFlZGNh`
+Snapshot ID: `MCxlNWMwZjZhY2FjZjgxZTIxNzI2OGJjOTJkZTU1NjFlZDZiNzY4NjY0`

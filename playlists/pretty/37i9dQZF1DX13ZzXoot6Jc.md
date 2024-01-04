@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,709 likes - 93 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,697 likes - 93 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 60 | [Telluride](https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:04 |
 | 61 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 62 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
-| 63 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
-| 64 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
+| 63 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
+| 64 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 |
 | 65 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
 | 66 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 |
 | 67 | [I'll Be Here](https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [I'll Be Here](https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk) | 4:07 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 92 | [Katie's Song](https://open.spotify.com/track/3RlHQSSqC8a6hX1WvZA9se) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Katie's Song](https://open.spotify.com/album/7EmpwNuutUbRVXItuf4eV7) | 3:34 |
 | 93 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 
-Snapshot ID: `MCw0MjI5ODg5MmY5MGRmMzNiNDgxYTk0OWZhNTg5OGQ0YTc1ZmQ2ZWJj`
+Snapshot ID: `MCwwYjEwMTRjZGI2YWU1NjNlNTA3MjA1MjRiNjdmM2Q0N2Y0ZDA2MzZj`

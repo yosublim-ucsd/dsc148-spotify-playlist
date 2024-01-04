@@ -1,12 +1,12 @@
 {
   "description": "yo no olvido el a\u00f1o viejo, porque me ha dejado cosas muy buenas\u2728",
-  "num_followers": 49563,
+  "num_followers": 49606,
   "original_name": "Fin de A\u00f1o con amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGMxZDBmNjgxN2E3MDIzOGExMzk5NjA2OTNkOGY0NjhmMTgxYmRj",
+  "snapshot_id": "MCwyYzk0ZjkwMjIzMDQ3NjI1Zjg1ZDcxMDk2MjU5NWY4MWE4ZmY5NDU2",
   "tracks": [
     {
       "added_at": "2023-12-29 16:08:52",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -387,18 +387,22 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
+        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 238447,
-      "name": "RUBICON",
-      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
+      "duration_ms": 224285,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -451,22 +455,18 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
-        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 224285,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
+      "duration_ms": 238447,
+      "name": "RUBICON",
+      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -963,6 +963,42 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -999,22 +1035,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Men in Salsa",
-        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 222560,
       "name": "Reggaet\u00f3n Lento (Bailemos)",
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "Men in Salsa",
+        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 186413,
       "name": "Dis\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2023-12-29 16:08:52",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-12-29 16:08:52",
       "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283213,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
-    },
-    {
-      "added_at": "2023-12-29 16:08:52",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2023-12-29 16:08:52",
+      "album": {
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283213,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
     }
   ],
   "unique_name": "Fin de A\u00f1o con amigos",

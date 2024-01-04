@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,287 songs - 2 day 22 hr 50 min
+1,288 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-10-31 | 2022-07-17 |
 | [CHINWI](https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:41 | 2022-06-20 | 2022-06-22 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-25 | 2022-08-07 |
-| [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-29 |  |
+| [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-29 | 2024-01-04 |
 | [Chouwafat](https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp) | 3:24 | 2023-06-16 |  |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2023-04-09 |
 | [Cinema](https://open.spotify.com/track/6pCHLX2aQuHfYxVbdeDd6T) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 2:39 | 2021-08-01 | 2021-09-05 |
@@ -691,7 +691,7 @@
 | [L’enfer](https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:09 | 2022-03-05 | 2022-03-08 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-11 | 2022-01-26 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-18 |
-| [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 | 2023-12-08 | 2024-01-02 |
+| [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 | 2023-12-08 |  |
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-14 | 2023-12-09 |
 | [M9awda](https://open.spotify.com/track/2e6LQzxCctkgkp2I8eODow) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:12 | 2022-12-23 | 2022-12-26 |
 | [Ma colombe](https://open.spotify.com/track/0JKTwc3hkjyklHTs2j97kt) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:09 | 2021-11-25 | 2021-11-27 |
@@ -755,6 +755,7 @@
 | [MILANO](https://open.spotify.com/track/1U4xCEE1kKqUIwc4mGAPf3) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 4:09 | 2022-06-19 | 2022-06-24 |
 | [MILANO](https://open.spotify.com/track/4RubGzQ6Gdtt11URFNQ8Q8) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 4:09 | 2022-06-25 | 2022-07-27 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-10-26 | 2022-06-26 |
+| [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-03 |  |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-06 | 2022-06-11 |
 | [Mission](https://open.spotify.com/track/31GBHnt54ns1UD2CmAmTCW) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:08 | 2023-06-24 | 2023-07-02 |
 | [Mizane](https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW) | 2:57 | 2021-03-27\* | 2021-07-04 |
@@ -1044,7 +1045,7 @@
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 | 2023-10-09 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 | 2023-12-04 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-09 | 2023-09-17 |
-| [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-29 |  |
+| [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-29 | 2024-01-04 |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2022-03-24 | 2022-03-28 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 | 2023-12-15 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-24 |

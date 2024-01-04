@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SUPER BEAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,533 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,589 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 63 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 64 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 |
 | 65 | [グー](https://open.spotify.com/track/1NVlQpepRIU5itGF4r5Yv8) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [グー](https://open.spotify.com/album/7bJTY9YcJUryx9FOk1TT9U) | 3:55 |
-| 66 | [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 |
+| 66 | [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 |
 | 67 | [小悪魔的ッ☆相当キレてる \- feat\. の子\(神聖かまってちゃん\)](https://open.spotify.com/track/65jrDwaUJRc8fzmp0gDPhi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E) | [小悪魔的ッ☆相当キレてる \[feat\. の子\(神聖かまってちゃん\)\]](https://open.spotify.com/album/5Y57sDj7dR9W9jNBdarr86) | 3:34 |
 | 68 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 |
 | 69 | [Sign](https://open.spotify.com/track/0Sq1AC0EaMVNmRqgulUEbd) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Sign](https://open.spotify.com/album/3yGjCICLxpnUASyH2XECbM) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 |
 | 100 | [These Magic Words](https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [These Magic Words](https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW) | 2:53 |
 
-Snapshot ID: `MCxjNGYxMzgwNjk1MTJmNjgyNWYyMDRhMDlhYWYwZjRhOTY1MTU3NDRh`
+Snapshot ID: `MCwxYTgxMjkyMTI5NTI1OTcxYTA0ZGYzMjNjMWNjNTUzMzMxZDgwYWQ5`

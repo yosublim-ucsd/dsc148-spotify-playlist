@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: ESS\_WEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,500 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,598 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34) | 2:26 |
 | 50 | [hard to love](https://open.spotify.com/track/6dVSiq559W7BqbMnPPcBmc) | [Becky Sikasa](https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ) | [hard to love](https://open.spotify.com/album/0lJD0ayOa90yrQz2g5ReeI) | 2:32 |
 
-Snapshot ID: `MCxlOGM4YjAyYTc1ZjJmNzk5NjZhMWYwNDFlZjA2NTI5ZDVjOTk5YmFi`
+Snapshot ID: `MCxkNGQwNzU3NjNlMzAwMDc2YzU4YmRmNDkyMmFmMmViMzEzMDQwOTY3`

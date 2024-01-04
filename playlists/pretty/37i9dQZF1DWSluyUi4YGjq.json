@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: The Jesus and Mary Chain",
-  "num_followers": 135751,
+  "num_followers": 135903,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGJiYmFhYjFiM2NkZjU1M2ZhODQyODY5ZDNiYWRjZDYzNDBhYTI4",
+  "snapshot_id": "MCxhOTE5NTM1N2E1MzNiOWY5OTg2ZTVhYTE4ZjhhNDZjNjAzM2Q1MDRi",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3rwbJQFlqjMoNpwhU0gESR"
     },
     {
+      "added_at": "2024-01-03 15:50:59",
+      "album": {
+        "name": "Be My Best",
+        "url": "https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "duration_ms": 251675,
+      "name": "Be My Best",
+      "url": "https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE"
+    },
+    {
       "added_at": "2023-12-08 23:32:10",
       "album": {
         "name": "Dead Lands",
@@ -55,6 +71,22 @@
       "duration_ms": 274714,
       "name": "Dead Lands",
       "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
+    },
+    {
+      "added_at": "2023-12-14 19:53:18",
+      "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "duration_ms": 95002,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
     },
     {
       "added_at": "2023-05-25 03:01:47",
@@ -109,20 +141,20 @@
       "url": "https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-12-08 23:32:10",
       "album": {
-        "name": "Cartwheel",
-        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+        "name": "(y)our ephemeral nature",
+        "url": "https://open.spotify.com/album/607js0mkeZV2yuYgfOoDuk"
       },
       "artists": [
         {
-          "name": "Hotline TNT",
-          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+          "name": "anvii",
+          "url": "https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ"
         }
       ],
-      "duration_ms": 171215,
-      "name": "I Thought You'd Change",
-      "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
+      "duration_ms": 193600,
+      "name": "her blood filled my lungs",
+      "url": "https://open.spotify.com/track/5AthAxFm5eN0pLtpiCRbYr"
     },
     {
       "added_at": "2023-10-20 14:32:39",
@@ -139,6 +171,54 @@
       "duration_ms": 360995,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
+    },
+    {
+      "added_at": "2023-11-14 14:48:39",
+      "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 237434,
+      "name": "kisses",
+      "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
+    },
+    {
+      "added_at": "2023-12-08 23:32:10",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/7L2GG5xoTC62iBNhZyAai7"
+      },
+      "artists": [
+        {
+          "name": "Midrift",
+          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+        }
+      ],
+      "duration_ms": 173916,
+      "name": "two-headed calf",
+      "url": "https://open.spotify.com/track/7gQAAeh0cLx0dC6BOBzRIi"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Cartwheel",
+        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "duration_ms": 171215,
+      "name": "I Thought You'd Change",
+      "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -187,38 +267,6 @@
       "duration_ms": 179562,
       "name": "my little tony",
       "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
-    },
-    {
-      "added_at": "2023-12-08 23:32:10",
-      "album": {
-        "name": "(y)our ephemeral nature",
-        "url": "https://open.spotify.com/album/607js0mkeZV2yuYgfOoDuk"
-      },
-      "artists": [
-        {
-          "name": "anvii",
-          "url": "https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "her blood filled my lungs",
-      "url": "https://open.spotify.com/track/5AthAxFm5eN0pLtpiCRbYr"
-    },
-    {
-      "added_at": "2023-11-14 14:48:39",
-      "album": {
-        "name": "everything is alive",
-        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 237434,
-      "name": "kisses",
-      "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
     },
     {
       "added_at": "2023-09-29 15:11:53",
@@ -365,38 +413,6 @@
       "url": "https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC"
     },
     {
-      "added_at": "2023-12-14 19:53:18",
-      "album": {
-        "name": "scars",
-        "url": "https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB"
-      },
-      "artists": [
-        {
-          "name": "Novulent",
-          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
-        }
-      ],
-      "duration_ms": 95002,
-      "name": "scars",
-      "url": "https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF"
-    },
-    {
-      "added_at": "2023-12-08 23:32:10",
-      "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/7L2GG5xoTC62iBNhZyAai7"
-      },
-      "artists": [
-        {
-          "name": "Midrift",
-          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
-        }
-      ],
-      "duration_ms": 173916,
-      "name": "two-headed calf",
-      "url": "https://open.spotify.com/track/7gQAAeh0cLx0dC6BOBzRIi"
-    },
-    {
       "added_at": "2023-11-27 15:00:17",
       "album": {
         "name": "Too True",
@@ -459,6 +475,22 @@
       "duration_ms": 277851,
       "name": "season",
       "url": "https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd"
+    },
+    {
+      "added_at": "2023-09-25 20:38:31",
+      "album": {
+        "name": "Distressor",
+        "url": "https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 253443,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -559,22 +591,6 @@
       "duration_ms": 189882,
       "name": "Understand",
       "url": "https://open.spotify.com/track/3XVNM0ZqsEvJbyYmP2FnZi"
-    },
-    {
-      "added_at": "2023-09-25 20:38:31",
-      "album": {
-        "name": "Distressor",
-        "url": "https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 253443,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
     },
     {
       "added_at": "2023-11-10 05:00:00",

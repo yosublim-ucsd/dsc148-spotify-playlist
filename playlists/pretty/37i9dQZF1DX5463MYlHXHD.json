@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 570439,
+  "num_followers": 570542,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZjM2MyYzZlZDgxYzAwMDc4MDU2ZjY4NjllNmZjNTRhZGQ0MTRk",
+  "snapshot_id": "MCwxNjUwNzU5ODgxZmJiYzYxYzNjZmUyNzJkOTgwNTM3NmRlOTdkNDMx",
   "tracks": [
     {
       "added_at": "2023-12-22 12:02:16",
@@ -111,6 +111,26 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Me Escap\u00e9",
         "url": "https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 176181,
       "name": "Me Escap\u00e9",
       "url": "https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -663,30 +663,26 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Pistola Remix",
-        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
       "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
         {
           "name": "DT.Bilardo",
           "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         },
         {
-          "name": "El Mas Ladron",
-          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         },
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
         }
       ],
-      "duration_ms": 136806,
-      "name": "Pistola Remix",
-      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -731,26 +727,30 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+        "name": "Pistola Remix",
+        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
       "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
         {
           "name": "DT.Bilardo",
           "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         },
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "El Mas Ladron",
+          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
         },
         {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+      "duration_ms": 136806,
+      "name": "Pistola Remix",
+      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "No Hay Mal Que Dure 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
-      },
-      "artists": [
-        {
-          "name": "El Aspirante",
-          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "En la Cama T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "DALE DALE",
         "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 183418,
       "name": "DALE DALE",
       "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "No Hay Mal Que Dure 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+      },
+      "artists": [
+        {
+          "name": "El Aspirante",
+          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "En la Cama T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Sin Ayuda",
-        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
-      },
-      "artists": [
-        {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Sin Ayuda",
-      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Venite Al Barrio",
         "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 163401,
       "name": "Venite Al Barrio",
       "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Sin Ayuda",
+        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Sin Ayuda",
+      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
     },
     {
       "added_at": "2023-12-22 12:02:16",

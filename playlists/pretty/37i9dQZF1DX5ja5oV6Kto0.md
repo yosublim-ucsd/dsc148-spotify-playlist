@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Joey B
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,402 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,429 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [Home](https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak) | [Shaun Mbah](https://open.spotify.com/artist/2DVTucl8LFfbSZXbMZdvWb) | [Home](https://open.spotify.com/album/38ltBimsfXSIt42l5wXP9W) | 2:53 |
 | 90 | [Steady Raging](https://open.spotify.com/track/3PAY5N7jcGGfgtZY6RrBfc) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Joey B](https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS) | [Let's Start a Riot](https://open.spotify.com/album/5qwUm4V3XqyEgOMTRgMQto) | 2:13 |
 
-Snapshot ID: `MCxiM2Q4ZGQyODJmN2Q0ZTQ1OTdlZmRhNTY0NDI1YTQ0OTg4ZDVlZmJk`
+Snapshot ID: `MCwxYjJmZWVlMGI5YTIzYmFjNTIxZGEzZGU0MDBmMDIzZjNlNDExMGJk`

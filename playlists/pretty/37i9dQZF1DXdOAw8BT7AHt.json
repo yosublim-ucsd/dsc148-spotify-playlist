@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Problem Patterns",
-  "num_followers": 53037,
+  "num_followers": 53039,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmZkZDFjMmU5N2FiMGM4Njc1OTEyZjRiNzMwOGNiMDUwNjgyODRk",
+  "snapshot_id": "MCw5Y2FjMjdjOTc3MGFkMDM4OTY5OTY3NDgwNDcxMGRmMzYyNjg4M2Uy",
   "tracks": [
     {
       "added_at": "2023-11-13 20:01:49",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Baku's Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 139000,
       "name": "FTS (KYS)",
       "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Baku's Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "MORE UK GRIM",
-        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 213402,
-      "name": "Under The Rules",
-      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "MORE UK GRIM",
+        "url": "https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 213402,
+      "name": "Under The Rules",
+      "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Lads Lads Lads",
-        "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 191755,
-      "name": "Lads Lads Lads",
-      "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Shadow of a Doubt",
         "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 157766,
       "name": "Adore Adore Adore",
       "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Lads Lads Lads",
+        "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 191755,
+      "name": "Lads Lads Lads",
+      "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 204143,
       "name": "MK Nothing",
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Unlike Me",
-        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Unlike Me",
-      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Daydrinker",
         "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 165758,
       "name": "Daydrinker",
       "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Unlike Me",
+        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Unlike Me",
+      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/6Kuo3MOAM3eOdSttY25Op3"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "Nausea",
-      "url": "https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Grade 2",
         "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/6Kuo3MOAM3eOdSttY25Op3"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "Nausea",
+      "url": "https://open.spotify.com/track/6pGgfqZndbyUbVFHTCn9SO"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK"
-      },
-      "artists": [
-        {
-          "name": "Talk Show",
-          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185294,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/76bNx7PEK7pqPCBST2Nkmj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 163600,
       "name": "Slip",
       "url": "https://open.spotify.com/track/29ARSUD6mqI5Wjk6A6qEuL"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2023-11-13 20:01:49",

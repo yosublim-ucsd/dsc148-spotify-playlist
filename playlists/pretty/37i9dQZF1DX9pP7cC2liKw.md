@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,172 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,318 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 50 | [Pool Party](https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi) | 3:58 |
 | 51 | [Café Com Leite \- Boogát Remix](https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Café Com Leite \(Boogát Remix\)](https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe) | 4:14 |
 | 52 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 53 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
+| 53 | [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 |
 | 54 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 |
 | 55 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
-| 56 | [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 |
+| 56 | [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 |
 | 57 | [Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 |
-| 58 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
-| 59 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 |
+| 58 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 |
+| 59 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 60 | [Malunguinho](https://open.spotify.com/track/6s15msjreg2553uO47iWz2) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2) | 7:37 |
 | 61 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
 | 62 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 70 | [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 |
 
-Snapshot ID: `MCw5MjRlYmFiNDgxYjg0YzQ4OTcwMmU1MjRkZjJiYTY3ZmVjMTJlYThk`
+Snapshot ID: `MCxlZTQzZTY0ODZhNGQ4MzQxZWU1NTZiYWFiZTI0NWZkODdmYzJiYzFm`

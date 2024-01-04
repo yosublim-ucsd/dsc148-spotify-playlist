@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,358 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,364 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 35 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
 | 36 | [Physical \- Remastered 2021](https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:45 |
 | 37 | [1955](https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:59 |
-| 38 | [Say It \(feat\. Tove Lo\)](https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:22 |
-| 39 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
+| 38 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
+| 39 | [Say It \(feat\. Tove Lo\)](https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:22 |
 | 40 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
 | 41 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
 | 42 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 53 | [Chameleon](https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:18 |
 | 54 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
 | 55 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
-| 56 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
+| 56 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 57 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
-| 58 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
+| 58 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
 | 59 | [Live It Up](https://open.spotify.com/track/6AxkHXn8gKB5wBOJOOpN9B) | [Mental As Anything](https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK) | [Essential as Anything \(30th Anniversary Edition\) \[Audio Version\]](https://open.spotify.com/album/2H32rwTnGWdb30AESVHNJr) | 3:47 |
 | 60 | [Crash and Burn](https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:41 |
 | 61 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 69 | [Do You Remember](https://open.spotify.com/track/1F2VIrr9oh7MwkI3NyLtHJ) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [High](https://open.spotify.com/album/44ArZIOrM8j3MzGjs3MUSg) | 3:55 |
 | 70 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
 
-Snapshot ID: `MCw1MWZiZjQwZmY4YmMzYzI3ODhiYWQwNDI3MDJiOWMwYWY2NTkxMTAy`
+Snapshot ID: `MCw0N2E2ZDYxZmI1ZTExM2E5OTc3NDVjMmIxNjIwMTYzNDg1NTRjYTgz`

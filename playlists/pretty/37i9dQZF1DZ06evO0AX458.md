@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,226 likes - 38 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,228 likes - 38 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 5 | [\~](https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:29 |
 | 6 | [New Halloween](https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:27 |
 | 7 | [Reminders](https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:03 |
-| 8 | [Green](https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Deflector](https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh) | 3:02 |
+| 8 | [Honest Sleep](https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 2:32 |
 | 9 | [Home Away from Here](https://open.spotify.com/track/698tUiegVocxceqJSBKK4S) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:50 |
 | 10 | [Palm Dreams](https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:26 |
 | 11 | [Come Heroine](https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:50 |
-| 12 | [Honest Sleep](https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 2:32 |
+| 12 | [Green](https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Deflector](https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh) | 3:02 |
 | 13 | [Uppers / Downers](https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
 | 14 | [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 |
 | 15 | [Feign](https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:48 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 37 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 |
 | 38 | [Adieux](https://open.spotify.com/track/5w1kK7BBfB9BPL0kM4MiGu) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:25 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA1MDM3YzQ2ZDBlZjZlZGQyOWQ0N2M0NmFhMmEzYmNkMQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBlZjA2NWI4YWRjNjRiMWI2NmMyMWFmNTc1OTMzMmE4NQ==`

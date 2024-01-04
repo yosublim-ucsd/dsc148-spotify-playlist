@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,979 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,028 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 |
 | 3 | [VROOM VROOM](https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [VROOM VROOM](https://open.spotify.com/album/3Bg6d7V4gj1NzrriVw9fDH) | 2:54 |
 | 4 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 |
-| 5 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 |
+| 5 | [แค่คืบ \(เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม\)](https://open.spotify.com/track/0m0yjlnu8IeuDddotXQyRQ) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [แค่คืบ \- Single](https://open.spotify.com/album/2nuWP2sSzKDOa2g1DH5WkZ) | 3:22 |
 | 6 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 |
 | 7 | [เอ๊ะ!](https://open.spotify.com/track/4UHFKRE4TLfipAnFRxLjY9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Tan Lipta](https://open.spotify.com/artist/4Hb2TKXvG0B9sKgomYYhTx) | [เอ๊ะ!](https://open.spotify.com/album/57oLOPphGmhnPsA37gNPap) | 3:20 |
 | 8 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
 | 65 | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 |
 
-Snapshot ID: `MCwwMzZlNDU0OWQ1ZTY2ZWZmZDk3ODk1YmM4NzQ2MTVhOTVmZWM5YmQ2`
+Snapshot ID: `MCxkMmUyZTg3ZDU4ZjdlY2U2MTZhMzBkYzk0ZTFjZjQwMTY5OGRkMzU5`

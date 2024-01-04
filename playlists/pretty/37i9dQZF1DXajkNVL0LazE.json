@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 87371,
+  "num_followers": 87442,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTNjNzJiNzkyODFmNGY1NmZjMzFjYzNiYjZjMzVkMDVlZDMyZWRj",
+  "snapshot_id": "MCwzNjI5MTFkMDhkYWU0MDQ0YjY0MjkxNzRmZWRkYmI5OWQyZmExN2Ni",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "I'd Rather Dance With You",
-      "url": "https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Sunset Tree",
         "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 232893,
       "name": "This Year",
       "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "I'd Rather Dance With You",
+      "url": "https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mountain Rock",
-        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
-      },
-      "artists": [
-        {
-          "name": "Dear Nora",
-          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
-        }
-      ],
-      "duration_ms": 91320,
-      "name": "The Lonesome Border, Pt. 1",
-      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Caught In The Trees",
         "url": "https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 256173,
       "name": "Sheets",
       "url": "https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Mountain Rock",
+        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
+      },
+      "artists": [
+        {
+          "name": "Dear Nora",
+          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
+        }
+      ],
+      "duration_ms": 91320,
+      "name": "The Lonesome Border, Pt. 1",
+      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
     },
     {
       "added_at": "2022-02-04 22:01:34",

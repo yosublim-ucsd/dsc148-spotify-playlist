@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Lia Clark",
-  "num_followers": 227129,
+  "num_followers": 227149,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjUwMmViNTUwZjNhY2QzYzc2YmI0OTg3ZTY0OWJhZDkyYWZjOTg1",
+  "snapshot_id": "MCw0M2ZlOWVjOWIwMzc4YzE5MmIyMTNkYWZjZGRlNjllZjFlMWU2OWIx",
   "tracks": [
     {
       "added_at": "2023-11-03 06:24:12",
@@ -623,18 +623,26 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "Que Passa",
-        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
+        "name": "Dif\u00edcil De Esquecer",
+        "url": "https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA"
       },
       "artists": [
         {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
         }
       ],
-      "duration_ms": 193861,
-      "name": "Que Passa",
-      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
+      "duration_ms": 149168,
+      "name": "Dif\u00edcil De Esquecer",
+      "url": "https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -659,26 +667,18 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "Dif\u00edcil De Esquecer",
-        "url": "https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA"
+        "name": "Que Passa",
+        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
       },
       "artists": [
         {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        },
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
         }
       ],
-      "duration_ms": 149168,
-      "name": "Dif\u00edcil De Esquecer",
-      "url": "https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q"
+      "duration_ms": 193861,
+      "name": "Que Passa",
+      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
     },
     {
       "added_at": "2023-11-03 06:24:12",

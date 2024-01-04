@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > The playlist version of a warm hug
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,196 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,169 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 67 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
 | 68 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 |
 | 69 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
-| 70 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
-| 71 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp) | 2:57 |
-| 72 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
+| 70 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
+| 71 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
+| 72 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp) | 2:57 |
 | 73 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
 | 74 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 |
 | 75 | [Middle Of Nowhere](https://open.spotify.com/track/5wlMfZKIVAlZ9nfBFyjI2S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/7vZoAzkg4fOTxHIBQF9MVN) | 6:42 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 77 | [Depth Over Distance](https://open.spotify.com/track/65hUTiykNAiAvmGYXazhFJ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Keep Your Head Up](https://open.spotify.com/album/7fCPP6LZv6li3GGdl2jjlF) | 4:48 |
 | 78 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
 | 79 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
-| 80 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
-| 81 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
+| 80 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
+| 81 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 82 | [Darling](https://open.spotify.com/track/39nc7C7C7iIJtVAlNznst7) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:02 |
 | 83 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 |
 | 84 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 94 | [Unfortunate Love](https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx), [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Unfortunate Love](https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6) | 3:46 |
 | 95 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 96 | [The Old Parade](https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [The Old Parade](https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq) | 3:20 |
-| 97 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
-| 98 | [Vanilla \(Stairwell Version\)](https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 4:06 |
+| 97 | [Vanilla \(Stairwell Version\)](https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 4:06 |
+| 98 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
 | 99 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 100 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 |
 
-Snapshot ID: `MCwxMjFjYjAxY2YwNGQ2NmNiMTY3ZTA1YzExZDZkZGZjNzg0NjU5OTEx`
+Snapshot ID: `MCwzYzE5ZDM1MjU1NGEzYmQ1YTlkNmE3MTYwNWM3NGMxNzc4MzczM2U2`

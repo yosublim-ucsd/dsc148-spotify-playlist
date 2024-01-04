@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,437 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,481 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 33 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
 | 34 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 35 | [Morning Song](https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Morning Song](https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2) | 4:21 |
-| 36 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
-| 37 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
+| 36 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
+| 37 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
 | 38 | [Queen Songs/Human](https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 8:00 |
 | 39 | [When the Walls Come Crashing Down \(feat\. Jon Foreman & Jillian Edwards\)](https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [When the Walls Come Crashing Down](https://open.spotify.com/album/4xaqP5u8jIbH7cTwTRZ3a8) | 3:41 |
 | 40 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [This Is No Burial](https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2) | [Andie Elise](https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2) | [This Is No Burial](https://open.spotify.com/album/0elstO4HWsES7meWd8Y019) | 3:54 |
 | 65 | [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 |
 
-Snapshot ID: `MCw1MjIzNzE0ZWE1Y2FmMWM4NDJiZTE3YmZjMjExMzNiOGI5Y2M0Mjkx`
+Snapshot ID: `MCxhM2UyNDFkYjc3NGUyYzg0NTY1MGQ2YWI5YzRiMDI5NDE2NGZjMDU1`

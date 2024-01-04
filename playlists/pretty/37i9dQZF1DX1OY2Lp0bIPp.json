@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 654992,
+  "num_followers": 654988,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjU0YTJiYjVmZjRmMmM0MWVjOGEyZjhhZTBiYTY2ZGE1ZWE3YzFi",
+  "snapshot_id": "MCwxMWZkM2IwODNlNDNkMjMwZmEyMmFmMmVlMmYyZjY1NGEyZmM5NGI2",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -303,22 +303,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 326466,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+      "duration_ms": 326466,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -523,6 +507,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -819,6 +819,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 181573,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "LM5 (Deluxe)",
         "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
       "artists": [
         {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1575,22 +1591,6 @@
       "duration_ms": 165120,
       "name": "Golden Skans",
       "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2020-08-27 15:58:21",

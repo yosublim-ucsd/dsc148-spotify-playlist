@@ -4,7 +4,7 @@
 
 > This is Clara Lima\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 57 min
+53 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Mente Criminosa](https://open.spotify.com/track/6dDUANFSGkfYoyRyri4emg) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Tati Botelho](https://open.spotify.com/artist/1E1vZMay6QgKtyVKFIm0lA), [Cris SNJ](https://open.spotify.com/artist/5ay6wDdiE7orCKihQqwtuF) | [Coligações Expressivas 4](https://open.spotify.com/album/0hDnZOnSy0cC7n0UqgR4LL) | 3:52 | 2023-12-30 |  |
 | [Mesmo Que Demore](https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Mesmo Que Demore](https://open.spotify.com/album/6XG1oTFNh8dbvAFniA6ll1) | 2:28 | 2023-12-30 |  |
 | [Máximo do Máximo](https://open.spotify.com/track/6LDGxCH7CBRQu6ns9SUePt) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Sant](https://open.spotify.com/artist/2lD5i0c3VBhA41u84QORoY), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [Bendito](https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC) | 4:16 | 2023-12-30 |  |
+| [NASCER](https://open.spotify.com/track/09BjtLm8oNHufc1Qwnd2Bv) | [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm) | [NASCER](https://open.spotify.com/album/2SfbLw0AW0ZpFy6rlGNvH4) | 3:23 | 2024-01-03 |  |
 | [Noite Quente de Verão](https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SELFIE](https://open.spotify.com/album/047tLugURWhdI0iuJ6by70) | 2:03 | 2023-12-30 |  |
 | [O Mundo É Mal](https://open.spotify.com/track/1y4YjracziQfQsq8nnGPFz) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [Oxigênio \(Corona Disco\)](https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2) | 2:56 | 2023-12-30 |  |
 | [Pensando em Nós](https://open.spotify.com/track/1LPhFSeoS20S4Hxst4g7gT) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SELFIE](https://open.spotify.com/album/047tLugURWhdI0iuJ6by70) | 2:44 | 2023-12-30 |  |
@@ -57,7 +58,7 @@
 | [Toda Toda](https://open.spotify.com/track/35fBex6jzadhipXBKPR7Ze) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:05 | 2023-12-30 | 2024-01-01 |
 | [Trânsito da Cidade](https://open.spotify.com/track/50mIUQoOsK3JRmvqyHMnkC) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:40 | 2023-12-30 |  |
 | [Tudo Muda](https://open.spotify.com/track/5RLUHdpyBkXb88pTt01iPB) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [SELFIE](https://open.spotify.com/album/047tLugURWhdI0iuJ6by70) | 2:52 | 2023-12-30 |  |
-| [V.B.S V.B.D](https://open.spotify.com/track/61NFtoVZFTQlrJkWIIkPjc) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [V.B.S V.B.D](https://open.spotify.com/album/7kybjaBd8TZI4k109DexRc) | 2:52 | 2023-12-30 |  |
+| [V.B.S V.B.D](https://open.spotify.com/track/61NFtoVZFTQlrJkWIIkPjc) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG) | [V.B.S V.B.D](https://open.spotify.com/album/7kybjaBd8TZI4k109DexRc) | 2:52 | 2023-12-30 | 2024-01-04 |
 | [Vai Brilhar](https://open.spotify.com/track/4w5BfrRV73OebK2Ui4TFN1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Som Que Vem Da Alma](https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr) | 2:52 | 2023-12-30 |  |
 | [Vida Luxo](https://open.spotify.com/track/5NEbNXZw9fQymLYzdddtkG) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Transgressão](https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n) | 3:40 | 2023-12-30 |  |
 

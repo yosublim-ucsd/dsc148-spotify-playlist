@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,001 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,071 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 12 | [Mi manchi](https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE) | [Fabrizio Berlincioni](https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h), [Gianfranco Fasano](https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Amore \(Remastered\)](https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ) | 3:34 |
 | 13 | [Silhouette](https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Silhouette](https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi) | 5:27 |
 | 14 | [If](https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:25 |
-| 15 | [Going Home \- Edit](https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:16 |
-| 16 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
+| 15 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
+| 16 | [Going Home \- Edit](https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:16 |
 | 17 | [Clair de Lune \(feat\. Kenny G\)](https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:17 |
 | 18 | [The Way We Were](https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:50 |
 | 19 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 22 | [Everlasting](https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:16 |
 | 23 | [Loving You \- Edit](https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 3:19 |
 | 24 | [Morning](https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:13 |
-| 25 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
-| 26 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
+| 25 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
+| 26 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
 | 27 | [Theme from "Dying Young"](https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:02 |
-| 28 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
-| 29 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
+| 28 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
+| 29 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
 | 30 | [My Heart Will Go On \(Love Theme from "Titanic"\)](https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:21 |
 | 31 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
 | 32 | [The Promise](https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Heart And Soul](https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o) | 5:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 48 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 | 49 | [Don't Make Me Wait for Love](https://open.spotify.com/track/4xbJyF9RDa1VLoZNoCFy1r) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa) | 4:05 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAxNjBjYjU3OWNkNDliODQ3Y2YzZWYyYzMyMDk2MTEyOA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAwODBjMDc0NWVlYThjOWI5YzgxMTBkN2M0NzIyZDMwYQ==`

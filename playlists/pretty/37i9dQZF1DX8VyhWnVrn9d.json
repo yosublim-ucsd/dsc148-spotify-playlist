@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 228799,
+  "num_followers": 228976,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjhmODEyOTljZTFlZjg5NzZiMGFjZDE4OWMyZTM5OWJlOTQyZGRi",
+  "snapshot_id": "MCxjMWZiY2ZjZWYzODhkYTIxNjEyN2YyNjEwZWZhMzU3ZWUxNTU3MGIx",
   "tracks": [
     {
       "added_at": "2023-06-19 22:57:24",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Prov\u00f3came",
-        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Tu Pum Pum",
-      "url": "https://open.spotify.com/track/3QBmioYx33GPY0aixqlGBG"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Las 20 Poderosas (USA)",
         "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198800,
       "name": "La suegra",
       "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Tu Pum Pum",
+      "url": "https://open.spotify.com/track/3QBmioYx33GPY0aixqlGBG"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -555,8 +555,8 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+        "name": "Mix movidas rom\u00e1nticas (USA)",
+        "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 188653,
-      "name": "No necesitas a Carlo",
-      "url": "https://open.spotify.com/track/6aU1ObNgHpMX4CzcNA8O1I"
+      "duration_ms": 175706,
+      "name": "La cuca",
+      "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -635,8 +635,8 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Mix movidas rom\u00e1nticas (USA)",
-        "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
       "artists": [
         {
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 175706,
-      "name": "La cuca",
-      "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
+      "duration_ms": 188653,
+      "name": "No necesitas a Carlo",
+      "url": "https://open.spotify.com/track/6aU1ObNgHpMX4CzcNA8O1I"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -679,6 +663,22 @@
       "duration_ms": 113226,
       "name": "El Toro Moro",
       "url": "https://open.spotify.com/track/1MFL2nmNddudlcXb2n711O"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+        "name": "\u00c9xitos Regionales Mexicanos, Vol.3",
+        "url": "https://open.spotify.com/album/41vizdjsz9zbusZjWvW2xt"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
         }
       ],
-      "duration_ms": 178506,
-      "name": "Mu\u00e9vete morena",
-      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
+      "duration_ms": 182784,
+      "name": "El Quebrador",
+      "url": "https://open.spotify.com/track/3S0hJXGu9kWwbiiEzBdZoQ"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "\u00c9xitos Regionales Mexicanos, Vol.3",
-        "url": "https://open.spotify.com/album/41vizdjsz9zbusZjWvW2xt"
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
       "artists": [
         {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 182784,
-      "name": "El Quebrador",
-      "url": "https://open.spotify.com/track/3S0hJXGu9kWwbiiEzBdZoQ"
+      "duration_ms": 178506,
+      "name": "Mu\u00e9vete morena",
+      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
     },
     {
       "added_at": "2023-06-19 22:57:24",

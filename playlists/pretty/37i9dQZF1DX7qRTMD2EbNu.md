@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ?si=RutQE7cQQKqMjXVs9PD\_YA"> Joey B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,105 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,114 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 28 | [Friday Special](https://open.spotify.com/track/5zrtzQYr8fuobaY09lij70) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Ramo](https://open.spotify.com/artist/61LlzxI7N7x7QU4DzIFoB5) | [Friday Special](https://open.spotify.com/album/51dPWMJYmE2Co1bGtKiPRx) | 3:15 |
 | 29 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
 | 30 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
-| 31 | [Taste \(Tokoro\)](https://open.spotify.com/track/4zlozM8ivaBmbWhgMMpgpq) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Taste \(Tokoro\)](https://open.spotify.com/album/2W3mZ39GCzm31U9vmswI1g) | 3:04 |
+| 31 | [Taste \(Tokoro\)](https://open.spotify.com/track/4zlozM8ivaBmbWhgMMpgpq) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Taste \(Tokoro\)](https://open.spotify.com/album/2W3mZ39GCzm31U9vmswI1g) | 3:04 |
 | 32 | [Kwaku Ananse \- Remix](https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Kwaku Ananse \(Remix\)](https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE) | 3:23 |
 | 33 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 34 | [Akata Krakye](https://open.spotify.com/track/23S5BZg2WkhxBc08XNVb1u) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Akata Krakye](https://open.spotify.com/album/4klwwBCFSQC3j3bZfE7eHo) | 2:51 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 88 | [BarCode 9](https://open.spotify.com/track/1nL0u9ct9D4C8YhmyV4g5W) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Kevin Beats](https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m) | [BarCode 9](https://open.spotify.com/album/52q7G1CJMkyzlab4Bfi8jT) | 3:08 |
 | 89 | [Sake Of Money Pt 2](https://open.spotify.com/track/59QZ7yUyXrENUrjaOwUkvp) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Kwaku T](https://open.spotify.com/artist/78AuL47blp2sCmfMTxolHb), [DJ Kofi](https://open.spotify.com/artist/4tBkKC4SEvrcSfiY3ekOyK) | [Sake Of Money Pt 2](https://open.spotify.com/album/3aN2PJw8GkUH4nbnENkDmI) | 2:20 |
 
-Snapshot ID: `MCxkOGMxZmI1OWY0ODA3NjgyZWZmNDk1MjI1MWYxNzQyMTFhN2NkYzky`
+Snapshot ID: `MCxlNGJhMzQ1OTA5ZDg2YTAwOGEzNGM5ODExNzNjZWVlMjA5ZWIxNTZk`

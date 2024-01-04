@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Duki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,489 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,841 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 25 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 |
 | 26 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 |
 | 27 | [120](https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:31 |
-| 28 | [PASIEMPRE](https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 5:55 |
+| 28 | [PASIEMPRE](https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 5:55 |
 | 29 | [AL BORDE](https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:28 |
 | 30 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 |
 | 31 | [Mafia Chilena: WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mafia Chilena: WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 99 | [Dígitos](https://open.spotify.com/track/6EGcTqLZZ7gkuhOIcyCp0k) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:16 |
 | 100 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMÁ](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 |
 
-Snapshot ID: `MCxkYjg0ZDczMjJjNWEyYWMzNDNlNjI2NGQyMGRkYmZhODgzMDAwMzA1`
+Snapshot ID: `MCw0ZmNkMmYyZjhiMjRlYTY3ODVmM2Q2ZjIxYmQyNDEyY2NhYmY3ZTAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,350 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,406 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 6 | [Move Fast \(feat\. Cypress Moreno & Low The Great\)](https://open.spotify.com/track/2sOPuotMtP3A5zgrfmGQBh) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Low the Great](https://open.spotify.com/artist/1M3n2lIeQHcETTVPYS6Ccb) | [Move Fast \(feat\. Cypress Moreno & Low The Great\)](https://open.spotify.com/album/4hLKmlOgRA1VH1D7d9i1cH) | 2:40 |
 | 7 | [La Letra](https://open.spotify.com/track/0stx2ai9RLllsk3fIhiW6o) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [La Letra](https://open.spotify.com/album/5CGXwfstw6IpCxnVNwp0JE) | 2:46 |
 | 8 | [more than friends](https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8) | [Jay Roxxx](https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo), [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [more than friends](https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf) | 2:56 |
-| 9 | [Global](https://open.spotify.com/track/7ruLdMpCX4hRHMh9oHOItp) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [HF47](https://open.spotify.com/album/0yL32sfKEyaJpQqvethBlJ) | 2:08 |
-| 10 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
+| 9 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
+| 10 | [Global](https://open.spotify.com/track/7ruLdMpCX4hRHMh9oHOItp) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [HF47](https://open.spotify.com/album/0yL32sfKEyaJpQqvethBlJ) | 2:08 |
 | 11 | [PLAYMAKER](https://open.spotify.com/track/5AF5qSs9BXiIkQzQxlP9ri) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [PLAYMAKER](https://open.spotify.com/album/4542AeXKmiq8SXAObLPPae) | 2:45 |
 | 12 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 13 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 22 | [Bag Shit](https://open.spotify.com/track/7lcxEhRo4U7tbpI3H86F4X) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Bag Shit](https://open.spotify.com/album/3xw3koYUfnfJVKECVSsZM4) | 3:31 |
 | 23 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
 | 24 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
-| 25 | [Go Fast](https://open.spotify.com/track/7470xmX5xRYZavxgzRTdGB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hip\-Hop at Fifty: OHGEESY](https://open.spotify.com/album/4TS0EcfW0LJKlhrFQcxgfx) | 2:32 |
-| 26 | [Clean Up Nice](https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 1:48 |
+| 25 | [Clean Up Nice](https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 1:48 |
+| 26 | [Go Fast](https://open.spotify.com/track/7470xmX5xRYZavxgzRTdGB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hip\-Hop at Fifty: OHGEESY](https://open.spotify.com/album/4TS0EcfW0LJKlhrFQcxgfx) | 2:32 |
 | 27 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
 | 28 | [I want That Too](https://open.spotify.com/track/6niHVmTHxY4G48DagVvttQ) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [I want That Too](https://open.spotify.com/album/3iyuNlRu044W5VDbTcy4xn) | 4:21 |
 | 29 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Wish You Really Would](https://open.spotify.com/track/3eT8T9tw6FFx0aRSkCqpHA) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Wish You Really Would](https://open.spotify.com/album/6EwcXxrSza1I9VGl0pxGtN) | 2:35 |
 | 50 | [Bienvenidos](https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Bienvenidos](https://open.spotify.com/album/0flYjj312P4iOOuriLc37g) | 2:34 |
 
-Snapshot ID: `MCxhNmQ2ZjU3NTg5ZWQ5ZmM2YzI0ZTUwZjM5MjVjYjU0NzQzNTQ1ODk4`
+Snapshot ID: `MCxiZWFkMDAxMTVhZDk5NzE3OGY0Zjc1NTViNWQzOWQ3NDQwNjFjYWFj`

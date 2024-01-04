@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,203 likes - 50 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,223 likes - 50 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 20 | [When Kailasha muses](https://open.spotify.com/track/6bBEd2hBTjDWEw22v4At5i) | [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT), [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Ambi Subramaniam](https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Raghab Chatterjee](https://open.spotify.com/artist/6de3NMC8U7wqL5nW4rLvVA), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW) | [When Kailasha muses \(From the Album "Manoyatri"\)](https://open.spotify.com/album/3VdeDvnTdasqNTpI6HqjJV) | 8:54 |
 | 21 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 |
 | 22 | [Nazariya Lag Jayegi](https://open.spotify.com/track/0iHfz3tCIDU323Z6oER2eF) | [Marina Ahmad](https://open.spotify.com/artist/2pGXU7y3nnjxjK2nvq7Bae) | [Nazariya Lag Jayegi](https://open.spotify.com/album/1FCH4k508ltzrqzS76BRkU) | 11:52 |
-| 23 | [Thumri \- Raag Khambawati](https://open.spotify.com/track/4Yo0CJZIaezK8eAybLsx8l) | [Sunanda Sharma](https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 14:50 |
+| 23 | [Thumri \- Raag Khambawati](https://open.spotify.com/track/3XB645riWmBrwb63OFyIhN) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Sur Tarangini Part 2](https://open.spotify.com/album/17h9vZvPfXwBLB1jTQNjyx) | 14:50 |
 | 24 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
 | 25 | [Bheempalas\-Ek Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/4AyYffhw7IflMrUs4L6qBJ) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/5AJ8nWLbje0YvWazh32yHP) | 12:15 |
 | 26 | [Raga Maru Bihag \(feat\. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat\)](https://open.spotify.com/track/5DAlJflPgZsCSxmfwxebPz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [Madhusoodan Bhat](https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP), [Kaushik Bhat](https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f) | [Namma Classical Vol 3](https://open.spotify.com/album/2oGQ3q80ld2IKVZ7Q5WHFs) | 14:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 49 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
 | 50 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
 
-Snapshot ID: `MCwzNWNjOWJmM2E0MTVlMTYwYTA5ZmM1ZGFiZGZkMGRhMzM1OGU3MDg5`
+Snapshot ID: `MCxjMWZkYWZhMDcyZDg4NjExZWZlZjAxNmQ3MjRkMDRiMzk5ZjMxZmI1`

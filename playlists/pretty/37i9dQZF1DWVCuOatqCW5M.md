@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Vasuda Sharma, Akanksha Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,984 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,050 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 56 | [Meri Ho Ja](https://open.spotify.com/track/7z3e5trtKbiILn2bcxqKpr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Meri Ho Ja](https://open.spotify.com/album/4zy8E2oRVyGJseIcHk2hAQ) | 2:59 |
 | 57 | [Mere Khayaalon Mein](https://open.spotify.com/track/0rplzWEHSP90MNpERnF4zi) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [ONLY JUST BEGUN](https://open.spotify.com/album/1syTR5kykgDXunaGMzxc2o) | 2:12 |
 
-Snapshot ID: `MCxmNDVjNTVkZmNkYWI0NzQ3N2UzNTIxZDFkNWY4N2UyMTE4OGUxZjg4`
+Snapshot ID: `MCw3NDQ0N2JlM2M1MjliYTAxZWQ1ZmFmYzliNzlhYjUzMDgxYWViZmUz`

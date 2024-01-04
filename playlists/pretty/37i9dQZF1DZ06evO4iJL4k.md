@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,012 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,165 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 46 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 |
 | 47 | [Nova Sorte](https://open.spotify.com/track/05xyGlj1EKsjZHAR0wlD8L) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 3:10 |
 | 48 | [Jamais Serão](https://open.spotify.com/track/2nDoREifQ978QhJXbnxLe8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Start](https://open.spotify.com/artist/2wDK7CcPdIb0WJ3SiYaf1h) | [Numa Margem Distante](https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ) | 4:03 |
-| 49 | [Ritmo Do Crime](https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Ritmo Do Crime](https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La) | 2:49 |
+| 49 | [Poesias \(Medley\) \- Ao Vivo](https://open.spotify.com/track/1sqpuFuRB2nToPIPTODcdI) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 5:56 |
 | 50 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 |
-| 51 | [Poesias \(Medley\) \- Ao Vivo](https://open.spotify.com/track/1sqpuFuRB2nToPIPTODcdI) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 5:56 |
+| 51 | [Ritmo Do Crime](https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Ritmo Do Crime](https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La) | 2:49 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAzYmY3Y2E0N2JlMzA2ZWM1ZDA0NTVjNjkxYzJiNWE3Zg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA5NzUxNDMyY2VjNjNkMzVmNWIzMzFmODE0N2RhMDFiMA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Mohammed Saeed
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,124 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,158 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 23 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
 | 24 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 |
 | 25 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 |
-| 26 | [Rahat Ya Khal](https://open.spotify.com/track/2KZ9jZ5L1sqIgD9mNUvuNf) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad 2011](https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd) | 8:32 |
+| 26 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
 | 27 | [Lahali](https://open.spotify.com/track/6GDzePGixhJPzQzIkFOeZx) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lahali](https://open.spotify.com/album/095MAhIauuggkJGXuHhb2p) | 3:32 |
-| 28 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
+| 28 | [Rahat Ya Khal](https://open.spotify.com/track/2KZ9jZ5L1sqIgD9mNUvuNf) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad 2011](https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd) | 8:32 |
 | 29 | [Laykoon \(ليكون\)](https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 5:01 |
 | 30 | [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 |
 | 31 | [Yumain O Leila](https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Malyoun](https://open.spotify.com/album/1Sxmi03WJhcGlccCwPXSDM) | 7:53 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 35 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 |
 | 36 | [Es3af](https://open.spotify.com/track/5khYoylXkIwVdQFLCcB9Y5) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [Es3af](https://open.spotify.com/album/6DDHBycta6TWnWQTrIGfox) | 2:35 |
 | 37 | [Aman Aman](https://open.spotify.com/track/4PxgQVobtqrn0MSSFu4GIS) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV) | 4:06 |
-| 38 | [لا تزعل مني](https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [لا تزعل مني](https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe) | 3:23 |
-| 39 | [Ya Weel Weely](https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [تجربة رقم ١ \\ ٢](https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4) | 3:44 |
+| 38 | [Ya Weel Weely](https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [تجربة رقم ١ \\ ٢](https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4) | 3:44 |
+| 39 | [لا تزعل مني](https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [لا تزعل مني](https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe) | 3:23 |
 | 40 | [Washwesh Elwadaa](https://open.spotify.com/track/3XlJ0BNy4OMkqpLEtLnMoP) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:41 |
 | 41 | [Fattaht](https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Fattaht](https://open.spotify.com/album/44cb4xOeQ0EEkQEt8bFlKQ) | 2:56 |
 | 42 | [Nasini](https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Nasini](https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7) | 3:33 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 56 | [Makanak Khali](https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Makanak Khali](https://open.spotify.com/album/1BxWhitrI65tgN8ciUyzjC) | 4:16 |
 | 57 | [Garage](https://open.spotify.com/track/5Qq5hZVtezixlTY3xnHoPH) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [Garage](https://open.spotify.com/album/6OXHaxXv3KWhBfCJNXZh2B) | 3:19 |
 | 58 | [وسط الدوامة](https://open.spotify.com/track/5xHyfIDDVOMdhtOUBZ1SmA) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [وسط الدوامة](https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i) | 5:24 |
-| 59 | [Ghouyoum](https://open.spotify.com/track/4jRENpUjx6AVcs4qwDPmn5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/4IswYbu0UyUIPl4eBgDQnq) | 2:52 |
+| 59 | [Madinet El Malahi](https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Nas Min Khashab](https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw) | 4:41 |
 | 60 | [راضي](https://open.spotify.com/track/6jWUp7xsCPRkDqq7aj2qeP) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [راضي](https://open.spotify.com/album/2UBkpxSc0SNsiap3xZjOqd) | 3:26 |
-| 61 | [Madinet El Malahi](https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Nas Min Khashab](https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw) | 4:41 |
+| 61 | [Ghouyoum](https://open.spotify.com/track/4jRENpUjx6AVcs4qwDPmn5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/4IswYbu0UyUIPl4eBgDQnq) | 2:52 |
 | 62 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
-| 63 | [INSAK](https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [INSAK](https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto) | 3:38 |
-| 64 | [شوارع المدينة](https://open.spotify.com/track/2xUiAIX9Ugbtgf0bvbaAqh) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [شوارع المدينة](https://open.spotify.com/album/4VVSPbZfF5HIoVNMM13hTi) | 5:25 |
+| 63 | [شوارع المدينة](https://open.spotify.com/track/2xUiAIX9Ugbtgf0bvbaAqh) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [شوارع المدينة](https://open.spotify.com/album/4VVSPbZfF5HIoVNMM13hTi) | 5:25 |
+| 64 | [INSAK](https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [INSAK](https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto) | 3:38 |
 | 65 | [GHIR BLACH](https://open.spotify.com/track/0R3Y8nj4PvdAAOcxEkBaPE) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3), [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [GHIR BLACH](https://open.spotify.com/album/41BXgKi4Ad4ZZ6dgYB5yG0) | 3:50 |
-| 66 | [Sahara](https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Sahara](https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp) | 4:18 |
-| 67 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 |
+| 66 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 |
+| 67 | [Sahara](https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Sahara](https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp) | 4:18 |
 | 68 | [Shta2tella](https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0) | [Ibby VK](https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS) | [Shta2tella](https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B) | 1:55 |
-| 69 | [Telfizion](https://open.spotify.com/track/0zcCxBYW0kAkaxI6nvyvMR) | [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Telfizion](https://open.spotify.com/album/4QOn9Te6pWD6uR8nnk5QqM) | 3:08 |
-| 70 | [Rien \- Walo](https://open.spotify.com/track/1VzK9N1vmvEStE4nfOGrWs) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien \(Walo\)](https://open.spotify.com/album/4Sm2NpOuvRhSzSrwO4U3sz) | 3:07 |
+| 69 | [Rien \- Walo](https://open.spotify.com/track/1VzK9N1vmvEStE4nfOGrWs) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien \(Walo\)](https://open.spotify.com/album/4Sm2NpOuvRhSzSrwO4U3sz) | 3:07 |
+| 70 | [Telfizion](https://open.spotify.com/track/0zcCxBYW0kAkaxI6nvyvMR) | [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Telfizion](https://open.spotify.com/album/4QOn9Te6pWD6uR8nnk5QqM) | 3:08 |
 | 71 | [Karakeeb](https://open.spotify.com/track/03ufw9JqEuKXai4YxVCABj) | [Wust El Balad](https://open.spotify.com/artist/5kpaPebhiMoUmLOVyPW7gv) | [Karakeeb](https://open.spotify.com/album/7F3YHyTRtwpPAD6Vf9dsKg) | 5:40 |
 | 72 | [Koulou Banat](https://open.spotify.com/track/0ht0NTzJCbrS6yO1MU3Jgi) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Koulou Banat](https://open.spotify.com/album/0GVHXr4UrQtrvexyuMGZsv) | 5:14 |
 | 73 | [Nas](https://open.spotify.com/track/5z3fSB7leR1hD07MVP7gh7) | [Jeries Babish](https://open.spotify.com/artist/0aSZXNXy1sFJSIrJkaau8S) | [Nas](https://open.spotify.com/album/1DXAfjEtsz5kzDMjdTJ5q6) | 3:04 |
 | 74 | [GRAND CASABLANCA](https://open.spotify.com/track/0XSH8YUaehYghWI5Mw2FYC) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [GRAND CASABLANCA](https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY) | 3:08 |
 | 75 | [Wein Ma Trooh, pt\. 1](https://open.spotify.com/track/2DgOibtnwJ6azHeFln7qAM) | [Masar](https://open.spotify.com/artist/5DtZJ6PZq71ll1Pke5su7K) | [Wein Ma Trooh, pt\. 1](https://open.spotify.com/album/6iJ58NKpXDA9fQ9Enlayeg) | 3:53 |
 
-Snapshot ID: `MCw0MGExMjlkYzEyYjQ0ZGE0YzgwN2EwMWU1MDU1YzQxYWI1ZGZjNWE5`
+Snapshot ID: `MCw0NWY2ODJjYTM5NDc0N2MzMTI5NDlhMjRlMWRiZDQwYjE1YWExYzZl`

@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 565500,
+  "num_followers": 565470,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODhhNGRkM2Q5ZjdiNjBlMjQ4YWNlMGY1ZTUyNzBhOGZiZGVmZjdh",
+  "snapshot_id": "MCxhODc4NmM0Y2QwZTk1ZmFlYjU5NWYzNDU3ZjMxMmM3ZTY1Yzg2OGM5",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "La Coleccion Del Siglo - Federico Villa",
-        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 490762,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "La Coleccion Del Siglo - Federico Villa",
+        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Polkas Mexicanas",
-        "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
-      },
-      "artists": [
-        {
-          "name": "Mariachi M\u00e9xico de Pepe Villa",
-          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "La Marcha De Zacatecas",
-      "url": "https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Silvestre Vargas El Mejor Mariachi del Mundo, Vol. 1",
         "url": "https://open.spotify.com/album/4cFIvxQiviu9sv1iuz8vhL"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 189257,
       "name": "Pelea de Gallos",
       "url": "https://open.spotify.com/track/6InNhQw4WFyEZh1NeIAfwF"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Polkas Mexicanas",
+        "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
+      },
+      "artists": [
+        {
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "La Marcha De Zacatecas",
+      "url": "https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -523,8 +523,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 127200,
-      "name": "Las alazanas",
-      "url": "https://open.spotify.com/track/53OZ46nxUyq94rZDGxbb3I"
+      "duration_ms": 114960,
+      "name": "El relampago",
+      "url": "https://open.spotify.com/track/6Zdt5sqHFN4UOoDIOE04rO"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "El Jarabe Tapatio",
-      "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Pepe Aguilar con Tambora",
         "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
       },
@@ -667,50 +651,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Negra Linda",
-        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
       "artists": [
         {
-          "name": "Mariachi America",
-          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
         }
       ],
-      "duration_ms": 389973,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 114960,
-      "name": "El relampago",
-      "url": "https://open.spotify.com/track/6Zdt5sqHFN4UOoDIOE04rO"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "Que Lindo Es Michoacan",
-      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
+      "duration_ms": 149693,
+      "name": "El Jarabe Tapatio",
+      "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -731,6 +683,54 @@
       "duration_ms": 214120,
       "name": "Qu\u00e9 Bonita Es Mi Tierra (feat. Mariachi Vargas de Tecalitl\u00e1n)",
       "url": "https://open.spotify.com/track/0mB37B9FDCsKSmjiSdEfci"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Las alazanas",
+      "url": "https://open.spotify.com/track/53OZ46nxUyq94rZDGxbb3I"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Negra Linda",
+        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
+      },
+      "artists": [
+        {
+          "name": "Mariachi America",
+          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
+        }
+      ],
+      "duration_ms": 389973,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "Que Lindo Es Michoacan",
+      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/67kE2nwzQzr9v7OOWfireQ"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Rancheras",
         "url": "https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 191346,
       "name": "El mariachi",
       "url": "https://open.spotify.com/track/3vvl3l4JPI02gAFClBz9s6"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/67kE2nwzQzr9v7OOWfireQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Cuando M\u00e9xico Canta",
         "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
       },
@@ -959,6 +943,38 @@
       "duration_ms": 149289,
       "name": "Toro Relajo",
       "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Zopilote mojado",
+      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Zopilote mojado",
-      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Pepe Aguilar Con Tambora",
         "url": "https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3"
       },
@@ -1039,6 +1039,54 @@
       "duration_ms": 154940,
       "name": "La Vaquilla (El Son De La Vaquilla)",
       "url": "https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "La Voz de M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "El Herradero - Remastered",
+      "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "El Pajaro Carpintero",
+      "url": "https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Viva M\u00e9xico (Remastered)",
+        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Juan Charrasqueado - Remastered",
+      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1091,38 +1139,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "El Pajaro Carpintero",
-      "url": "https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "La Voz de M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "El Herradero - Remastered",
-      "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Mariachi Cobre: Este Es Mi Mariachi",
         "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Viva M\u00e9xico (Remastered)",
-        "url": "https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Juan Charrasqueado - Remastered",
-      "url": "https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Ayer, Hoy y Siempre",
         "url": "https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66"
       },
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Que Te Ha Dado Esa Mujer",
-        "url": "https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR"
+        "name": "Bicentenario",
+        "url": "https://open.spotify.com/album/7oDrCscEv8o5hgQsyIGjQ5"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 146634,
-      "name": "El Zacatecano",
-      "url": "https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR"
+      "duration_ms": 215625,
+      "name": "Popurri de Sones Jarochos",
+      "url": "https://open.spotify.com/track/76sWuWJENvW4HvUA5Co3RN"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 136672,
+      "name": "Gavilancito Sangre Cruzada",
+      "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 136672,
-      "name": "Gavilancito Sangre Cruzada",
-      "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Puro Mariachi",
         "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 137586,
       "name": "El Son De Los Aguacates",
       "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Estampas De Mexico: Traditional Music From Mexico",
-        "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
-      },
-      "artists": [
-        {
-          "name": "Estampas De Mexico",
-          "url": "https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "El Herradero",
-      "url": "https://open.spotify.com/track/6ZkWgNSpIGHQ7XoeDRf8x8"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+        "name": "Estampas De Mexico: Traditional Music From Mexico",
+        "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
       },
       "artists": [
         {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+          "name": "Estampas De Mexico",
+          "url": "https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m"
         }
       ],
-      "duration_ms": 166400,
-      "name": "La espiga (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/1mnr6RUtvhCAyUt4rwUpjE"
+      "duration_ms": 200400,
+      "name": "El Herradero",
+      "url": "https://open.spotify.com/track/6ZkWgNSpIGHQ7XoeDRf8x8"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1375,6 +1359,22 @@
       "duration_ms": 178386,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "La espiga (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/1mnr6RUtvhCAyUt4rwUpjE"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Bicentenario",
-        "url": "https://open.spotify.com/album/7oDrCscEv8o5hgQsyIGjQ5"
+        "name": "Que Te Ha Dado Esa Mujer",
+        "url": "https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 215625,
-      "name": "Popurri de Sones Jarochos",
-      "url": "https://open.spotify.com/track/76sWuWJENvW4HvUA5Co3RN"
+      "duration_ms": 146634,
+      "name": "El Zacatecano",
+      "url": "https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR"
     },
     {
       "added_at": "2022-09-12 17:32:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,621 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,630 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 64 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 |
 | 65 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:52 |
 | 66 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
-| 67 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
-| 68 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 |
+| 67 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 |
+| 68 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
 | 69 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 70 | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flashback feat\. Daichi Yamamoto](https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7) | 4:44 |
 | 71 | [Kiss Me, Winter](https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Kiss Me, Winter](https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU) | 3:41 |
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 82 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
 | 83 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 |
 | 84 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 |
-| 85 | [喉仏のクリスマス](https://open.spotify.com/track/1w2R8AIHPJBZf8XLHfSxTy) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [喉仏のクリスマス](https://open.spotify.com/album/6ZdtQWdJLwpyVTnll09wz0) | 3:38 |
+| 85 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 |
 | 86 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 |
 | 87 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 |
-| 88 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 |
-| 89 | [continue](https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [continue](https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw) | 2:36 |
-| 90 | [ハッピー☆ブギ](https://open.spotify.com/track/6CxbTX5K3LVTVj41wk5XQn) | [Yoshie Nakano](https://open.spotify.com/artist/1sJY6QnXKQjX7SCtiXOzkg), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [趣里](https://open.spotify.com/artist/2rodLJLnpKoFMJggODrOMg) | [ハッピー☆ブギ](https://open.spotify.com/album/16SgWv3BPNBRIlPy70OgOl) | 3:40 |
+| 88 | [喉仏のクリスマス](https://open.spotify.com/track/1w2R8AIHPJBZf8XLHfSxTy) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [喉仏のクリスマス](https://open.spotify.com/album/6ZdtQWdJLwpyVTnll09wz0) | 3:38 |
+| 89 | [ハッピー☆ブギ](https://open.spotify.com/track/6CxbTX5K3LVTVj41wk5XQn) | [Yoshie Nakano](https://open.spotify.com/artist/1sJY6QnXKQjX7SCtiXOzkg), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [趣里](https://open.spotify.com/artist/2rodLJLnpKoFMJggODrOMg) | [ハッピー☆ブギ](https://open.spotify.com/album/16SgWv3BPNBRIlPy70OgOl) | 3:40 |
+| 90 | [continue](https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [continue](https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw) | 2:36 |
 | 91 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 92 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 |
 | 93 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 |
 | 100 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
 
-Snapshot ID: `MCw2OGY2M2RmZWJlNTAyMmE2MjMzN2U5MzUwYWIyNzE0ODk1OGI2Mzc5`
+Snapshot ID: `MCxjYTZiY2Y1OGY2NWVjZjg3MzllOTIxZDQ4NjRhM2ExNWNhMjUzMTc0`

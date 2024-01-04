@@ -1,12 +1,12 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 120086,
+  "num_followers": 120428,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjM5ZmVhMWIzNTE1NjQwOTY0M2I5ZjlmOTI3MWRkYTI4NTVjMDc5",
+  "snapshot_id": "MCwyOTI3OTdhYjJiODNiNzg5NDJjYzE4NTkwNjBhMjYwM2M3NWUyODMx",
   "tracks": [
     {
       "added_at": "2023-04-27 03:36:27",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
         }
       ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
       "artists": [
         {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 288426,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Blurring The Edges",
         "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 252760,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Wilson Phillips",
         "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 266866,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 204753,
       "name": "Stop",
       "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Divinyls",
-        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
-      },
-      "artists": [
-        {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 266000,
       "name": "If You Had My Love",
       "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Divinyls",
+        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
+      },
+      "artists": [
+        {
+          "name": "Divinyls",
+          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
     },
     {
       "added_at": "2023-04-27 03:36:27",

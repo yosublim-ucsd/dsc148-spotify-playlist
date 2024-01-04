@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 219841,
+  "num_followers": 219839,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDRkNGU4ZWZiODAyZTg2NDVjMTBiN2IwYzEwZmYxZTRiMjY4Mjlh",
+  "snapshot_id": "MCw2MzQ3MWIwMGM2ZDgxN2U2ZTYyNjMxYmE2MWIxOTE0MGU4NGJiNGY2",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -579,22 +595,6 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Younger Now",
-        "url": "https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX"
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Younger Now",
+        "url": "https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Andy Grammer",
+        "url": "https://open.spotify.com/album/2wp1jec3BcuaaXyM8VucWZ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Keep Your Head Up (Album Version)",
+      "url": "https://open.spotify.com/track/2kebNtlS7DqWE54Z66FZIt"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "No Stranger to Shame",
         "url": "https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Andy Grammer",
-        "url": "https://open.spotify.com/album/2wp1jec3BcuaaXyM8VucWZ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Keep Your Head Up (Album Version)",
-      "url": "https://open.spotify.com/track/2kebNtlS7DqWE54Z66FZIt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Another Love (Zwette Edit)",
         "url": "https://open.spotify.com/album/3Bi2XO3N9AL5f7VvVmyVna"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 394573,
       "name": "Another Love - Zwette Edit",
       "url": "https://open.spotify.com/track/5snyhxAh55A2wlNRH7VVZJ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2907,22 +2907,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 159293,
       "name": "Maybe It's Time",
       "url": "https://open.spotify.com/track/4z2XPrpHz1raJibarWFY7Z"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Yael Na\u00efm",
         "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2023-11-03 04:00:00",

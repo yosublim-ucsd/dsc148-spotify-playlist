@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,860 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,916 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 28 | [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 |
 | 29 | [how big is your brain?](https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:05 |
 | 30 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
-| 31 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
-| 32 | [Take My Breath Away](https://open.spotify.com/track/4AjIe5cBvHyFrvIi9yvDEd) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4) | 3:54 |
+| 31 | [Take My Breath Away](https://open.spotify.com/track/4AjIe5cBvHyFrvIi9yvDEd) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4) | 3:54 |
+| 32 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
 | 33 | [Tracks](https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Backbone](https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku) | 3:22 |
 | 34 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 35 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Wolf In Sheep’s Clothing \- Acoustic](https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:52 |
 | 75 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
 
-Snapshot ID: `MCxhZmFlNTJmYTkwMDc3MTg5MzFiY2ZkNGM0Nzg3YTA3OWNjZDczZDVk`
+Snapshot ID: `MCxjMTYwMmMxNzYwY2IyN2IxOTExZWI4ZThmZjM1OWNhYmI2OWViZDc3`

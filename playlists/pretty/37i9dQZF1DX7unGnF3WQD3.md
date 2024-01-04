@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > tírate un paso y saca los prohibidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,423 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,472 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 17 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 |
 | 18 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
 | 19 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
-| 20 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
-| 21 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 |
+| 20 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 |
+| 21 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
 | 22 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |
 | 23 | [La Boda](https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:49 |
 | 24 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 68 | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/track/1MlrJvn4XU6itpl3R9pcrY) | [Dj Yack](https://open.spotify.com/artist/5HOxMIImatFw3BT7K9UX0S) | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/album/7JQKsSHzMunfkJTIm5mSNq) | 3:20 |
 | 69 | [Messirve Mix 3](https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 3](https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH) | 7:27 |
 | 70 | [Mi Mujer Me Gobierna](https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Exitos Durisimos](https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV) | 4:58 |
-| 71 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 72 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 |
+| 71 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 |
+| 72 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 73 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
 | 74 | [Moviendo Las Caderas](https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Merengues Con Gusto](https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL) | 4:51 |
 | 75 | [La Mushasha Shula](https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:46 |
 
-Snapshot ID: `MCwwOGIzOTJmYmE4MDYyYTBkYWNkMmJjNjIwNGM2Nzk0ZjZlZjc0OWZj`
+Snapshot ID: `MCxkNjIxMTJmNDU2ZThjZDY4MDc5YTMxY2U2NzFlZDkyZjVkMjVmODFj`

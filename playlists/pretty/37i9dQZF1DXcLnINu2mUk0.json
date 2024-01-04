@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42292,
+  "num_followers": 42308,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5",
+  "snapshot_id": "MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Brutos Diamantes",
         "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 176320,
       "name": "Brutos Diamantes",
       "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 208068,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC"
+      },
+      "artists": [
+        {
+          "name": "zzzcadu",
+          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
+        }
+      ],
+      "duration_ms": 162191,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Caixa Azul",
         "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 192452,
       "name": "Lidar",
       "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC"
-      },
-      "artists": [
-        {
-          "name": "zzzcadu",
-          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
-        }
-      ],
-      "duration_ms": 162191,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7"
-      },
-      "artists": [
-        {
-          "name": "None",
-          "url": "https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 191250,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7"
+      },
+      "artists": [
+        {
+          "name": "None",
+          "url": "https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6"
     },
     {
       "added_at": "2023-12-22 00:00:01",

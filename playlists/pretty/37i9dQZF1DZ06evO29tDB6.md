@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,493 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,525 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 23 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 |
 | 24 | [Perro negro \- Live](https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 4:06 |
 | 25 | [San Juanico](https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:06 |
-| 26 | [Hard to Handle](https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hard to Handle](https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX) | 3:10 |
-| 27 | [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 |
+| 26 | [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 |
+| 27 | [Hard to Handle](https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hard to Handle](https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX) | 3:10 |
 | 28 | [Nunca digas que no](https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 5:14 |
 | 29 | [Dama De Los Callejones](https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Dama De Los Callejones](https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f) | 3:10 |
 | 30 | [Los minusválidos](https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Solamente Dios](https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No te olvides de la banda](https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs) | 5:06 |
 | 50 | [Sam El Bigotón](https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Sam El Bigotón](https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC) | 2:55 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBiM2I5YWZmYzk0YWRlNDlhZjdkZGQ4YmZiMzBkZjhiNw==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBlYjk4NDllODBjZDhjMDcwNjdlYWJiNmQ0ZjMxMjM4NA==`

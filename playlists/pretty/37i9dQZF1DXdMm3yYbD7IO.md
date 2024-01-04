@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,622 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,027 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 58 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 59 | [This Is Your Night](https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV) | [Amber](https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH) | [This Is Your Night](https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA) | 3:58 |
 | 60 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 |
-| 61 | [Lollipop \(Candyman\)](https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:36 |
-| 62 | [Free](https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \- The Strictly Collection](https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT) | 5:53 |
+| 61 | [Free](https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \- The Strictly Collection](https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT) | 5:53 |
+| 62 | [Lollipop \(Candyman\)](https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:36 |
 | 63 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
 | 64 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 |
 | 65 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 74 | [Praise You \- Radio Edit](https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:47 |
 | 75 | [100% Pure Love](https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Storyteller](https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5) | 4:40 |
 
-Snapshot ID: `MCw0ZWU3MjMxYjIyOGM5NWFhZDc1OWE3MTQwNzY5NjczOTdlNmVlYmM1`
+Snapshot ID: `MCwyZjg2ODBjMGZiNmQ1NWQ5NDQ3OTYyZDE1NDg3MjczMzkzZDYwZjRi`

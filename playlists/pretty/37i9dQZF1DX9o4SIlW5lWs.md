@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Emanero, Angela Torres, Karina & j mena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,559 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,735 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 25 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
 | 26 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 |
 | 27 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 |
-| 28 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
-| 29 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
+| 28 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
+| 29 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
 | 30 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 |
 | 31 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 |
 | 32 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 70 | [Con Él No Soportas](https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 4:00 |
 | 71 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 |
 | 72 | [El Perdedor](https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Tambo Tambo](https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4) | 4:24 |
-| 73 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
-| 74 | [La Tengo Que Olvidar](https://open.spotify.com/track/6EFt4egCAPQOU95A18V5F6) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero 2000](https://open.spotify.com/album/6ClFgIBXkUyzem001BPj6P) | 3:43 |
+| 73 | [La Tengo Que Olvidar](https://open.spotify.com/track/6EFt4egCAPQOU95A18V5F6) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero 2000](https://open.spotify.com/album/6ClFgIBXkUyzem001BPj6P) | 3:43 |
+| 74 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
 | 75 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 76 | [Adiós](https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [Adiós](https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb) | 2:35 |
 | 77 | [Yo Me Estoy Enamorando](https://open.spotify.com/track/2HlkWajTgCkjW8VxAdZCYN) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [La Gata](https://open.spotify.com/album/2HCzXSG2VU7NJ4NabIHYEU) | 3:51 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 84 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 85 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
 | 86 | [Contigo](https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Contigo](https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv) | 2:44 |
-| 87 | [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 |
-| 88 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 87 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 88 | [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 |
 | 89 | [El Último Romántico](https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Último Romántico](https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT) | 4:11 |
 | 90 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 91 | [Agüita](https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo Mejor de Ráfaga](https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 99 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 |
 | 100 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
 
-Snapshot ID: `MCxkZjdhYWFjMzE4NDE4NjkzNDdiZDYyMGU4ZWU0OWFlMGJlM2JhODdj`
+Snapshot ID: `MCwzMmEyODIxZDUzOTM3NThjYjMzZTViMjQ1MGUyOWUwNzQzNDhjMWU1`

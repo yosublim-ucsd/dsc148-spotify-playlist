@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Slow J entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,722 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,738 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Gelo no Copo](https://open.spotify.com/track/51oQ1UUf7mTzlvZtGHfQnu) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8), [Young2835](https://open.spotify.com/artist/5hWELoESeAtem9pQBRFWs9), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Gelo no Copo](https://open.spotify.com/album/3boisqjMi9fKRCZsymugVI) | 4:07 |
 | 75 | [Barraca ta abana](https://open.spotify.com/track/5x4Nsek38LUOo2M0dCgMvv) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Barraca ta abana](https://open.spotify.com/album/2SBxTGfrrU8MGPLyGmLRMm) | 3:31 |
 
-Snapshot ID: `MCw0YzJmMGY5M2RhMjU0MWNlYTNkMDY3NjUyZGY0NzA4NmZiN2Y1NmZj`
+Snapshot ID: `MCxmM2Y3YTQxZWExMTdjOWQ0NDdhMGJiZThjODk0ODUwYzc5MmM5MDk0`

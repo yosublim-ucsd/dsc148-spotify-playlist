@@ -2,7 +2,7 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Il sogno di ogni zanza si è avverato: 𝑰𝒏𝒅𝒆𝒍𝒆𝒃𝒊𝒍𝒊
+> Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Guè
 
 143 songs - 7 hr 42 min
 
@@ -104,7 +104,7 @@
 | [Morto di fame \(feat\. Lazza\)](https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:43 | 2022-04-15 |  |
 | [Nel male e nel bene \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0gpmaIaAS74HHiCoO462xj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 3:10 | 2022-04-15 |  |
 | [NESSUNO \(feat\. Geolier\)](https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:28 | 2022-04-15 |  |
-| [No More Sorrow](https://open.spotify.com/track/0L7FgupwZknMv53Gd2FhaY) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Poopatch](https://open.spotify.com/artist/2bjCxkueVmbdaVbNLPthla) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 4:12 | 2024-01-02 |  |
+| [No More Sorrow](https://open.spotify.com/track/0L7FgupwZknMv53Gd2FhaY) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Poopatch](https://open.spotify.com/artist/2bjCxkueVmbdaVbNLPthla) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 4:12 | 2024-01-02 | 2024-01-04 |
 | [NOI](https://open.spotify.com/track/0FvYrmmPglHGBKJ3AtZovH) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 4:32 | 2022-04-15 | 2022-07-29 |
 | [NOI](https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 4:32 | 2022-07-15 |  |
 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 | 2022-04-15 |  |
@@ -141,7 +141,7 @@
 | [TRAPHOUSE \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [VIRUS](https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q) | 2:32 | 2023-04-27 | 2023-12-15 |
 | [Trips! \(feat\. Noyz Narcos & Yung Snapp\)](https://open.spotify.com/track/43P3NYzztjQHkxoai6MbB9) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 2:29 | 2022-06-16 | 2022-11-17 |
 | [Tutto bene](https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Tutto bene](https://open.spotify.com/album/2bzUMRxsqJ3cceZWFA71zB) | 3:02 | 2022-08-22 | 2023-01-27 |
-| [Una Volta Sola](https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 3:22 | 2024-01-02 |  |
+| [Una Volta Sola](https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 3:22 | 2024-01-02 | 2024-01-04 |
 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 | 2023-11-17 |  |
 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 | 2022-04-15 | 2023-12-01 |
 | [Vita sbagliata](https://open.spotify.com/track/3jyYT2cWGcVNg74vTCr5Ac) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:13 | 2022-09-15 | 2022-11-14 |

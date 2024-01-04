@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 le parece esa rola? \ud83c\udfb6 2023: el a\u00f1o en que la M\u00fasica Mexicana conquist\u00f3 al mundo \ud83c\uddf2\ud83c\uddfd\ud83e\udee1 Foto: Eslab\u00f3n Armado, Peso Pluma",
-  "num_followers": 26971,
+  "num_followers": 27034,
   "original_name": "coooompa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTlkYWJlOGQyZDEzOWMwODA0NTQ0ZGRjNThlYjg2MDRiMzIyMDdh",
+  "snapshot_id": "MCxjMGZhYjU1MDVkYWY3N2FiOWEyNjIwMmI2ZmY1MTAwNmIzZWNjZDlm",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "CCC",
         "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 126081,
       "name": "CCC",
       "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2023-11-29 12:16:00",

@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+    },
+    {
+      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,233 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,336 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 99 | [Love Won't Let Me Go \- Acoustic Version](https://open.spotify.com/track/22uzZQy0RrTC2n7gSKmDRI) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Love Won't Let Me Go \(Acoustic Version\)](https://open.spotify.com/album/2bPEY2qGKlKdQyY8iKLTp6) | 3:22 |
 | 100 | [CALL IT LYFE](https://open.spotify.com/track/0YUduu1mX5ctL1hHMMnaLt) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [CALL IT LYFE](https://open.spotify.com/album/0YbRUY8qjkKGJpqJYIvWh6) | 2:30 |
 
-Snapshot ID: `MCw3MzIzYWU1NzIzNDkxNmZjMDllNTQyZTAzMmZhYjk5M2U4MGU0NTlj`
+Snapshot ID: `MCw2YjJkYjhkNWFkZjExNWJhZGJlYzk1Y2I3YTBlODMzZmUwNTYzOGM4`

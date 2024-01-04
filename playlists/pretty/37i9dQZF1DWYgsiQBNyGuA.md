@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,364 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,411 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 59 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
 | 60 | [Call My Name](https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [The SunRoom](https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N) | 4:31 |
 | 61 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |
-| 62 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
-| 63 | [All Your Love \- Single Edit](https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI) | [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [All Your Love](https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w) | 3:34 |
+| 62 | [All Your Love \- Single Edit](https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI) | [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [All Your Love](https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w) | 3:34 |
+| 63 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
 | 64 | [Next To You](https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Next To You](https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl) | 3:34 |
 | 65 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 |
 | 66 | [Movin' On](https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 79 | [I Want](https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 5:52 |
 | 80 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
 
-Snapshot ID: `MCw0YzYyMjM4MTI4OTY3YTVlNmU4MDExZTY4OGYxNzllZGJjOWU3MWMx`
+Snapshot ID: `MCxiMzgyYzQyNWFkZWI1ZGY1MGVlNjc4Mjk0NGZjMzBjOThiMmFhZThj`

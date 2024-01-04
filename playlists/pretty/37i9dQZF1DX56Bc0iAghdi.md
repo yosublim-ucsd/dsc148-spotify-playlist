@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,329 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,357 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 21 | [Delight in You](https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Always Faithful](https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ) | 3:58 |
 | 22 | [Soul's on Fire](https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Soul's on Fire](https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33) | 3:29 |
 | 23 | [Dearly Loved](https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Dearly Loved](https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK) | 4:25 |
-| 24 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
-| 25 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
+| 24 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
+| 25 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
 | 26 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
 | 27 | [Radical](https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Wake Up](https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ) | 2:34 |
 | 28 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 
-Snapshot ID: `MCwzMTViZjU4ODY2YTJmNmE5OTQ4MjdmMzE0Mzk2NGFmMWI2NWQyNzc2`
+Snapshot ID: `MCxkZTdiMzhjMGE5MmYxYWM2M2I5OGEwOGI3YmE2NmViOTMwODBlMzlm`

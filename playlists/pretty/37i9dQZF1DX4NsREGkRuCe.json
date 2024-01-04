@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 59582,
+  "num_followers": 59659,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzk5NTI1ODVlZTdhNWU0Njc4M2U2ODY0ZDRlZWVjMDJjNmE2NGQ0",
+  "snapshot_id": "MCwzZWE2NDhkYTIzZjIzNDE2MTI1YWNkOWRiMjM5ODczMThlNWJjMDg3",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 145031,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -451,6 +451,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "EZIOKWU (UNCUT)",
+        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 171089,
+      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "EZIOKWU (UNCUT)",
-        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 171089,
-      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Puff & Pass (Remix)",
         "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 161515,
       "name": "Puff & Pass (Remix)",
       "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+        "name": "All of Us",
+        "url": "https://open.spotify.com/album/0f9DldlKR7QQBmy3In5BOI"
       },
       "artists": [
+        {
+          "name": "Kukbeatz",
+          "url": "https://open.spotify.com/artist/7ec839cm4GyYwjFaHdOUbN"
+        },
         {
           "name": "Ruger",
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 172394,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+      "duration_ms": 172631,
+      "name": "All of Us",
+      "url": "https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "All of Us",
-        "url": "https://open.spotify.com/album/0f9DldlKR7QQBmy3In5BOI"
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
       },
       "artists": [
-        {
-          "name": "Kukbeatz",
-          "url": "https://open.spotify.com/artist/7ec839cm4GyYwjFaHdOUbN"
-        },
         {
           "name": "Ruger",
           "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 172631,
-      "name": "All of Us",
-      "url": "https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6"
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2met1gGQGPLB6BlD6vRreN"
-      },
-      "artists": [
-        {
-          "name": "SKN The Divine",
-          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
-        }
-      ],
-      "duration_ms": 173583,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3gVJPWiCXebHMrpCMWyXZN"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -1395,6 +1363,22 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1487,26 +1471,38 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+        "name": "Gbadun",
+        "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 204631,
-      "name": "Normally",
-      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
+      "duration_ms": 160000,
+      "name": "Gbadun",
+      "url": "https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Ashewo Boy",
+      "url": "https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

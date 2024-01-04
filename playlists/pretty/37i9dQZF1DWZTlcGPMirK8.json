@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67358,
+  "num_followers": 67364,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWZiZjQwZmY4YmMzYzI3ODhiYWQwNDI3MDJiOWMwYWY2NTkxMTAy",
+  "snapshot_id": "MCw0N2E2ZDYxZmI1ZTExM2E5OTc3NDVjMmIxNjIwMTYzNDg1NTRjYTgz",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 262521,
-      "name": "Say It (feat. Tove Lo)",
-      "url": "https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Call On Me (Remixes)",
         "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 262521,
+      "name": "Say It (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
         }
       ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2022-04-18 02:03:22",

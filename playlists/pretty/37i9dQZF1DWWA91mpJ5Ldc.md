@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,027 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,080 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 15 | [Bem Bom](https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Goela Abaixo](https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo) | 3:50 |
 | 16 | [Mantra \(feat\. Emicida\)](https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/37svAARdwTp6vApCWBwoec) | 4:54 |
 | 17 | [Pra todas as mulheres](https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas as mulheres](https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ) | 2:48 |
-| 18 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
-| 19 | [Céu da Boca](https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96) | 2:59 |
+| 18 | [Céu da Boca](https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96) | 2:59 |
+| 19 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
 | 20 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
 | 21 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
 | 22 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 57 | [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 |
 | 58 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
 | 59 | [Alumiô](https://open.spotify.com/track/2nFx9WDf3Jk2ONvO0PUoQv) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/0Dg5HGop5JMQeRDHB63tz9) | 3:24 |
-| 60 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
+| 60 | [Posso Dizer](https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:54 |
 
-Snapshot ID: `MCwxMTg4ZDkxZjVhYzgxYWJiYTQyODY2Nzk4NmE3ZGIyMzFkZTk5ZjI1`
+Snapshot ID: `MCwyYjA0YjRlMTI2OGQwZmQwYmI4ZmNmNmVkMGY3YTM1MDM0NTBiZjAy`

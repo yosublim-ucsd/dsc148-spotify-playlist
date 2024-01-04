@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,670 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,721 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 7 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
 | 8 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
 | 9 | [Short Fat Fannie](https://open.spotify.com/track/5xAkEg9CI3rxXFV8mdbSyp) | [Larry Williams](https://open.spotify.com/artist/5NBY8xM51dP3UGR7bwjLD6) | [Here's Larry Williams](https://open.spotify.com/album/0IezgTiPL0BoQuujiGQvVZ) | 2:26 |
-| 10 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
-| 11 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
+| 10 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
+| 11 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 12 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
 | 13 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 14 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Lovers Never Say Goodbye](https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Playlist: The Best Of The Flamingos](https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg) | 2:53 |
 | 50 | [Speedoo \(Alternative Take\)](https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5) | [The Cadillacs](https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH) | [The Fabulous Cadillacs](https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY) | 2:21 |
 
-Snapshot ID: `MCw0ZTI5M2RjMzY3NGFiOTlkYzI0NGNkZDEyMWQ3OTg4NWNlOGE1Y2Q4`
+Snapshot ID: `MCxkZGJlYWFkMzNiZjUyOThmMTVlOGM3ZTMyZDVhMTJjMDdiN2ViNGM0`

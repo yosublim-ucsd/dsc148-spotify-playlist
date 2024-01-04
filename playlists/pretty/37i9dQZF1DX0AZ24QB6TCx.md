@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,814 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,863 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 38 | [The Center Will Not Hold](https://open.spotify.com/track/6bWj1Lr2CVhwzshkp42As8) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:50 |
 | 39 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 40 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
-| 41 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
-| 42 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
-| 43 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 44 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
+| 41 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
+| 42 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 |
+| 43 | [Vanished](https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Vanished](https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI) | 5:56 |
+| 44 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 45 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 46 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 47 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 50 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 51 | [Gypsy Woman \(She's Homeless\) \- Atmos Blaq Remix](https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Gypsy Woman \(She's Homeless\) \[Atmos Blaq & Chymamusique Remixes\]](https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ) | 6:25 |
 | 52 | [Neunivai](https://open.spotify.com/track/7HStZcjzsLpTX3U0uLdVzb) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/1s2zxl5t4OqX0Kg04fyLy9) | 7:18 |
-| 53 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 |
-| 54 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
-| 55 | [Fade Into Black](https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:04 |
+| 53 | [Fade Into Black](https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:04 |
+| 54 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 |
+| 55 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
 | 56 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
 | 57 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
 | 58 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 70 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
 
-Snapshot ID: `MCxlMGY3ODlhNDVhNWZmMDg1MzZmMWFlNjA4MmViZjM2OWQ3MWE0ODNk`
+Snapshot ID: `MCxhZjUzNTg4YmMxYzE5NWQ1NjczZmNjMTA0ZmVjNDM5OTViMTQxYWU0`

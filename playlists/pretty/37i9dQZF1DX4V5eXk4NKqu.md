@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Silvestre y La Naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,106 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,111 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 37 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 38 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 39 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
-| 40 | [Naufragar](https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Naufragar](https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc) | 4:03 |
-| 41 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 |
+| 40 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 |
+| 41 | [Naufragar](https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Naufragar](https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc) | 4:03 |
 | 42 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
 | 43 | [Lo dejo](https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Lo dejo](https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc) | 3:10 |
 | 44 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 63 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
 | 64 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 |
 | 65 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
-| 66 | [Cortada En La Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada En La Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
-| 67 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
+| 66 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
+| 67 | [Cortada En La Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada En La Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
 | 68 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
 | 69 | [i lied](https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:12 |
 | 70 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 |
 | 75 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
 
-Snapshot ID: `MCw3MjcxYWY2YzhlZTUzMWVjZDZkNTdiNWRlZDFjNmMyMGQ3ZGM0NWZj`
+Snapshot ID: `MCwzNmFhOTZmYmY1ZjRhYzFiYTBlMmMwZDZjOTUzYWUzODRlYTk2MGRi`

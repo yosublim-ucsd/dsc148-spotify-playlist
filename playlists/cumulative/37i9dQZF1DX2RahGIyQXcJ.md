@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Shubh
 
-210 songs - 12 hr 12 min
+211 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2022-10-10 | 2022-12-01 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-07-18 |  |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2021-12-03 |  |
+| [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-03 |  |
 | [4AM in Karachi](https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Worth The Wait](https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5) | 3:28 | 2023-01-12 |  |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-02-15 |  |
 | [9mm](https://open.spotify.com/track/5BqkBvqTlhUexTKlCbtMmr) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [9mm](https://open.spotify.com/album/2HvcFf7qtx9FgE5rWKvTqa) | 3:21 | 2021-12-03 | 2022-06-03 |
@@ -101,7 +102,7 @@
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2021-12-03 | 2023-05-26 |
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2021-12-03 |  |
 | [Janaza](https://open.spotify.com/track/79S47IyE2yA2ukZtqq9B9g) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Janaza](https://open.spotify.com/album/6Urpqpdp6rfWx5vZ3ObLcI) | 3:00 | 2022-01-13 | 2023-01-13 |
-| [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2022-11-23 |  |
+| [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2022-11-23 | 2024-01-04 |
 | [Jhamela Nai](https://open.spotify.com/track/2IBwxmXqZe2tRoahSTtP0b) | [Bhanga Bangla](https://open.spotify.com/artist/3JME2t83KwX07EXNAuVeEK) | [Made in Bangladesh](https://open.spotify.com/album/6WQ7yLqM2VuRXHO2teb3Ru) | 5:01 | 2022-07-18 | 2022-10-11 |
 | [Jodia](https://open.spotify.com/track/3YsjFlBBdirrCGNKWuirsq) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Jodia](https://open.spotify.com/album/0v7K8gzYS2OgsMgGequRGT) | 2:42 | 2023-01-20 | 2023-02-16 |
 | [Jyotiana](https://open.spotify.com/track/4JJ0UDZ0j4h324HGiBHdXi) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [New Memories](https://open.spotify.com/album/2rnpZz4qrxYiptr4hG2nG9) | 2:51 | 2022-07-18 | 2022-10-11 |

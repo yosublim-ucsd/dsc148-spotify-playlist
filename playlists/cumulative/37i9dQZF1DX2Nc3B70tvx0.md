@@ -4,7 +4,7 @@
 
 > New music from Adrianne Lenker, Still Woozy, Kevin Kaarl and more...
 
-1,936 songs - 4 day 20 hr 28 min
+1,937 songs - 4 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,7 +1800,7 @@
 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-10-06 | 2022-07-01 |
 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 | 2021-05-23 | 2021-10-16 |
 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 | 2022-04-08 | 2022-07-09 |
-| [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-24 |  |
+| [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-24 | 2024-01-04 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-20 | 2022-10-13 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-14 | 2022-12-10 |
 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 | 2021-09-23 | 2022-01-08 |
@@ -1864,6 +1864,7 @@
 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 | 2022-06-17 | 2022-07-21 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-30 | 2022-07-02 |
 | [What It's Like](https://open.spotify.com/track/0XWVa5zjDjpvkZZ2sgA3CT) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [What It's Like](https://open.spotify.com/album/5YaKeYVnTIMh7keLN0i729) | 3:03 | 2022-04-01 | 2022-04-19 |
+| [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 | 2024-01-03 |  |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2021-06-23 | 2022-04-30 |
 | [What She Said](https://open.spotify.com/track/2MnzG8kwayb7cyuM0D48o8) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What She Said](https://open.spotify.com/album/5H70W7PXbBzmRXPxgCCThn) | 4:44 | 2020-04-03 | 2020-10-13 |
 | [What We Had](https://open.spotify.com/track/2tLY5UsHAiTVho2XruyBAI) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [MOMMY DON'T SPANK ME](https://open.spotify.com/album/3VN69VezWbTtljmdp7kM8j) | 3:52 | 2021-03-24 | 2021-10-14 |

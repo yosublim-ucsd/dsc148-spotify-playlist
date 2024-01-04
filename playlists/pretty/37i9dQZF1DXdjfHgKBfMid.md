@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,895 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,975 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 33 | [Frío, Frío \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Frío, Frío \(En Vivo Estadio Olímpico De República Dominicana\)](https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S) | 3:55 |
 | 34 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
 | 35 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
-| 36 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
+| 36 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
 | 37 | [200 Copas](https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas](https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52) | 3:57 |
 | 38 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
-| 39 | [Sé que no](https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sé que no](https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC) | 3:00 |
-| 40 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
+| 39 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
+| 40 | [Sé que no](https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sé que no](https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC) | 3:00 |
 | 41 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 42 | [Carta Al Corazón](https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Lo Mejor del León](https://open.spotify.com/album/2whwckDILym1HJqJAH971i) | 1:08 |
 | 43 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
 | 44 | [Muchacha Sola](https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 3:27 |
 | 45 | [Noche De Estrellas](https://open.spotify.com/track/5Cbwmcp3bFIM9u5QDlrviR) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:34 |
 
-Snapshot ID: `MCw5MTdmNjI3ODdkYTk3NTRmYTY1MjA5MDA5MWU2OTM2NTQzZGJlNDlj`
+Snapshot ID: `MCwxYWM5YWQ5NjU2ZGUwODYzNTM4M2NiYWM2ZDFkZGU2NDM0NWY0NmUw`

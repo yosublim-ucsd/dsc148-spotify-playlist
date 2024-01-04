@@ -8065,6 +8065,32 @@
     },
     {
       "album": {
+        "name": "Kaakarattan | Coke Studio Tamil",
+        "url": "https://open.spotify.com/album/7LF7U4HH0fNuPwvlOYRmeP"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        },
+        {
+          "name": "Rajalakshmi Senthilganesan",
+          "url": "https://open.spotify.com/artist/22n1vZPRa0tSAPrPhKMADh"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Kaakarattan | Coke Studio Tamil",
+      "url": "https://open.spotify.com/track/7odAlVKH5KnIL6pJCCS9rC"
+    },
+    {
+      "album": {
         "name": "Kaalathukkum Nee Venum (From \"Vendhu Thanindhathu Kaadu\")",
         "url": "https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: sangiovanni\. <a href="spotify:playlist:37i9dQZF1DWTDcvdOAx9xg">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,228 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,194 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 10 | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/track/3nIDXarK9FuClYwZQTSoK2) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [DIMMI CHE NON È UN ADDIO](https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7) | 2:57 |
 | 11 | [Guagliò](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [Guagliò](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 |
 | 12 | [PERLE](https://open.spotify.com/track/6MKM3j9rx5fP80y9ZJfygk) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [PERLE](https://open.spotify.com/album/33AHHEQNnTjoJCjp6WJ4jf) | 3:10 |
-| 13 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 |
+| 13 | [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 |
 | 14 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
 | 15 | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0) | 3:23 |
 | 16 | [UN MILIONE DI NOTTI](https://open.spotify.com/track/2ro9FlKCYKTLHB6Ke7Uqld) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [UN MILIONE DI NOTTI](https://open.spotify.com/album/0Pn7cZPPgzGwugQ2QgrlPV) | 2:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 59 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 | 60 | [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 |
 
-Snapshot ID: `MCw1Yjk0OGJiOTg3MTg3OTRiOGZmOGQ2NzcyMjFhZDE0YTg3MjY0ODRi`
+Snapshot ID: `MCw1YTg5YjkyNGE0ZDA3Y2M1NTYwOGUxM2NiNDgxNzRlNGNmMzcxZjA1`

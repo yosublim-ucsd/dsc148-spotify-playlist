@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,319 likes - 503 songs - 1 day 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,320 likes - 503 songs - 1 day 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -340,8 +340,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 330 | [Dream Away \- Remastered](https://open.spotify.com/track/465LG7wvrcqgSK3RmBqR7q) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Bobby Boughton](https://open.spotify.com/artist/1xA45Y8FmnDUx45z3LAAOX), [Aidan McGovern](https://open.spotify.com/artist/5OIR6yx6e1qDEIca1MIJHz) | [So Natural](https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR) | 4:36 |
 | 331 | [Let's Start with Forever](https://open.spotify.com/track/1L7jyNfFhAaBMyyugmL7Kw) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [Time and Chance](https://open.spotify.com/album/5jxSoZ69jIYIPovvbXBgb9) | 4:28 |
 | 332 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
-| 333 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
-| 334 | [If You Need Somebody Tonight](https://open.spotify.com/track/6zAzkVXskqdvRWwvrfnV0x) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 3:32 |
+| 333 | [If You Need Somebody Tonight](https://open.spotify.com/track/6zAzkVXskqdvRWwvrfnV0x) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 3:32 |
+| 334 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
 | 335 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 336 | [Moonlight Dancing](https://open.spotify.com/track/2gf9zC4QEC7RkFuezVJ8HY) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Some People's Lives](https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb) | 4:39 |
 | 337 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
@@ -403,8 +403,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 393 | [Remedy](https://open.spotify.com/track/3bxzT4yaeRHQPT8CHEwpvB) | [Riker Lynch](https://open.spotify.com/artist/55V2PZSif52loZswGkBTeK) | [Remedy](https://open.spotify.com/album/7GzMp5E159jqdlQ4hJCBZi) | 3:23 |
 | 394 | [More Than Forever](https://open.spotify.com/track/540HEQbY9Zc7Y3B0SpGweo) | [Kru](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [The Way We Jam](https://open.spotify.com/album/4XLALu8f0eqEUEmivyqqZZ) | 4:57 |
 | 395 | [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 |
-| 396 | [My Heart's With You](https://open.spotify.com/track/1sRu5lflEcRB3Xi9EuQnxA) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:30 |
-| 397 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 |
+| 396 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 |
+| 397 | [My Heart's With You](https://open.spotify.com/track/1sRu5lflEcRB3Xi9EuQnxA) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:30 |
 | 398 | [I'm Not the Only One](https://open.spotify.com/track/3xZGfL0rWt7zFTzp6Xg7Sf) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan 2](https://open.spotify.com/album/7KYSQrbIraNspxKXbXoJ8e) | 3:23 |
 | 399 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
 | 400 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 |
@@ -512,4 +512,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 502 | [I want it to be me](https://open.spotify.com/track/02AL6ZhgaPtegJ1ZsGUB1O) | [Kyle Grant](https://open.spotify.com/artist/0AQwmvhVn1UuoGOG5DOynX) | [When Dreams Go Out To Play](https://open.spotify.com/album/7fohMuB9oEyVTzjenU9xvY) | 3:53 |
 | 503 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDAzMzdmNmQzMGNmZmJkMDUzYThkNTcxNDEwMWVjN2E0Ng==`
+Snapshot ID: `Mjg0MDU1NzAsMDAwMDAwMDA2OWUwYWVkZDlkODYzNTI4ZWMyNDBkOWM3NzQ5ZWE1ZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: M\u00e5neskin",
-  "num_followers": 65375,
+  "num_followers": 65384,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmVkMzg5ZTU3YTBjNjIyMzMwMmRkZmQzZDhkNjllMWVjNzIzODdi",
+  "snapshot_id": "MCwyNWJmNTA1ZDg0ZDAxOGRmNzgwNmYzNTk5YTZkNzY1NzExOWFjMjUy",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
-      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
-      },
-      "artists": [
-        {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "What Went Down",
         "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+      },
+      "artists": [
+        {
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 260986,
       "name": "American Money",
       "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Ugly is Beautiful",
         "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 145147,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-12-08 05:00:00",

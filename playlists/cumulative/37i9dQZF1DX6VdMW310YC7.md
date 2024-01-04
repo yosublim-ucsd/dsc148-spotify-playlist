@@ -2,7 +2,7 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
+> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
 1,552 songs - 4 day 10 hr 53 min
 
@@ -515,7 +515,7 @@
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-10-28 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
-| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 |  |
+| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 | 2024-01-04 |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |
 | [GG \- Monstergetdown Remix](https://open.spotify.com/track/5ItsigUl8EZKgECyY13DnK) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Monstergetdown](https://open.spotify.com/artist/1D3UqPAp0iBjhlFN2aBuYH) | [mau5ville: Level 2](https://open.spotify.com/album/1avRid1zaRK4UDSrwduIPX) | 6:31 | 2020-05-18 | 2020-07-18 |
@@ -630,7 +630,7 @@
 | [Hymne \- Martin Roth Remix](https://open.spotify.com/track/5CyCy83VtRMCso7DBYJVaP) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Hymne \(Martin Roth Remix\)](https://open.spotify.com/album/40H8sz4ROG83NxD5G6osIk) | 3:32 | 2020-05-22 | 2020-07-03 |
 | [Hypnotised](https://open.spotify.com/track/1SGVOqchDwrBehJIOnGuyT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:06 | 2020-05-18 | 2020-07-03 |
 | [I / Y](https://open.spotify.com/track/1L5VP9PWCU5dRzl1bvlFkJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [I / Y](https://open.spotify.com/album/6GVcEJeCqKapHt55s3aju9) | 5:54 | 2020-02-29\* | 2020-03-16 |
-| [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-21 | 2023-12-05 |
+| [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-21 |  |
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-12-04 | 2023-09-09 |
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |

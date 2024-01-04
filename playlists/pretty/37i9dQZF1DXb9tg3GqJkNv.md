@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: FRVRFRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,522 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,529 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 26 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 |
 | 27 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 28 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
-| 29 | [Come Outside](https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7) | 3:18 |
-| 30 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 |
+| 29 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 |
+| 30 | [Come Outside](https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7) | 3:18 |
 | 31 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 |
 | 32 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
 | 33 | [Killamonjaro](https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Killamonjaro](https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [21 Questions](https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Pedro Activated](https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W) | 3:24 |
 | 75 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 |
 
-Snapshot ID: `MCxlOWM2NTFhNDI5NjMwYmQ1OTcxN2QyNTcwZTE0OGY1YTMxOWI0Yzk3`
+Snapshot ID: `MCw3MWNiNGM2MjRlMzg1YjlmMTczMGFmN2Y2ZTIyMjYwZDdkNDA3OGUz`

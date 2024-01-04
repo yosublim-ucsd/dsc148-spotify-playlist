@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Soulja Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,053 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,515 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 26 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 27 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Stevie J](https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
 | 28 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 |
-| 29 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
+| 29 | [Live Your Life](https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:38 |
 | 30 | [Gucci Bandanna](https://open.spotify.com/track/6MqFViHkIUQ0MOu25cdwiO) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:56 |
 | 31 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 |
 | 32 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 36 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
 | 37 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
 | 38 | [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 |
-| 39 | [Live Your Life](https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:38 |
+| 39 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
 | 40 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 41 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
 | 42 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 80 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 81 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |
 | 82 | [What These Bitches Want](https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:13 |
-| 83 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
-| 84 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
+| 83 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
+| 84 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 85 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
 | 86 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
 | 87 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [On Fire](https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 3:07 |
 | 100 | [EveryGirl In The World](https://open.spotify.com/track/1EjzkhMFJgl08Qkn2uDV1d) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [We Are Young Money](https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan) | 5:13 |
 
-Snapshot ID: `MCw1N2ViMzUxOTZjYmM5Yjc1OTc1NjEzNmJkYWU0N2E5MTcxOGJlNzE2`
+Snapshot ID: `MCxjZjZjYjczZjkxMjYxODA2ZGRiMDdhNDlmYjgxMDA1YTRkNTg3N2Vi`

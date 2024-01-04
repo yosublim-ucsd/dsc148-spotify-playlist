@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: mekakushe
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,161 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,170 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Comb Song](https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Being Polite \(In a Mean Way\)](https://open.spotify.com/album/5xMNi61LHTbEvHuk0DHZCI) | 2:32 |
 | 80 | [守ってあげたい](https://open.spotify.com/track/16JuDO7CTmlUsNJnOwGuVA) | [乃木坂46](https://open.spotify.com/artist/1To19SbBXcjHMKOt1CELkh), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 4:54 |
 
-Snapshot ID: `MCxiMGEyM2IwNzQwZWQ2YTgwOGIwYTU2NWY4MDkxZTk1N2FiOTU1YTI1`
+Snapshot ID: `MCw3ZDJkNDQ2ZjI3YTk1YzFkOTk1NjZmOGFkZGVjZjg5Y2U3NWRiZTQ1`

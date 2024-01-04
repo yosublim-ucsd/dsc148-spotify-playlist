@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Silvestre y La Naranja.",
-  "num_followers": 156106,
+  "num_followers": 156111,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjcxYWY2YzhlZTUzMWVjZDZkNTdiNWRlZDFjNmMyMGQ3ZGM0NWZj",
+  "snapshot_id": "MCwzNmFhOTZmYmY1ZjRhYzFiYTBlMmMwZDZjOTUzYWUzODRlYTk2MGRi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Naufragar",
-        "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Naufragar",
-      "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Naufragar",
+        "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Naufragar",
+      "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cortada En La Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada En La Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Muerta de Fr\u00edo",
         "url": "https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 258883,
       "name": "Muerta de Fr\u00edo",
       "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Cortada En La Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada En La Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-12-15 05:00:00",

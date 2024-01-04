@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,987 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,072 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 49 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 |
 | 50 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 |
 
-Snapshot ID: `MCw5YjZiNWJmYzBmZmYxODMxY2Q0MmZlMjhjZDg0NmM5NDg4OTQ5YmE5`
+Snapshot ID: `MCxjNDY3NDkwMmEyNjMzNjIzYzA1Zjg5MDg3NDk1MjhhNWU5ZmQzMmVl`

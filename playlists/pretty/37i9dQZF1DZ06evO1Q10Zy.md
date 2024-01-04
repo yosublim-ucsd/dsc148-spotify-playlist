@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,622 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,633 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 23 | [Always Be My Sunshine](https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:43 |
 | 24 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
 | 25 | [Reunited](https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:17 |
-| 26 | [Soon as I Get Home](https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
-| 27 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
+| 26 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
+| 27 | [Soon as I Get Home](https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
 | 28 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
 | 29 | [Sweat](https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:27 |
 | 30 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 40 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 |
 | 41 | [I Want You](https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:19 |
 | 42 | [You Make Me Feel Brand New](https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lovers](https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM) | 5:03 |
-| 43 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
+| 43 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
 | 44 | [The Loneliness](https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:36 |
-| 45 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
+| 45 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 | 46 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
 | 47 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
-| 48 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
-| 49 | [And Our Feelings](https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 5:42 |
+| 48 | [And Our Feelings](https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 5:42 |
+| 49 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
 | 50 | [Kim Porter \(feat\. Babyface and John Legend\)](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAxNTEzMzYyNWY3MmUxOWM3MTgzNzI4NmY3Zjk1ODM1NQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBlZTJjMzI1M2RhOGFmNWI0MzMxMmNkYjNhZWQwMzE5MQ==`

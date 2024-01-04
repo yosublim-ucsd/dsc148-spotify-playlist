@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,988 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,117 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 25 | [Alma Enamorada](https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 2:52 |
 | 26 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 27 | [Me Hace Tanto Bien](https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:08 |
-| 28 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
+| 28 | [Y Si Se Quiere Ir](https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Y Si Se Quiere Ir](https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR) | 3:19 |
 | 29 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
-| 30 | [Y Si Se Quiere Ir](https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Y Si Se Quiere Ir](https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR) | 3:19 |
+| 30 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
 | 31 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 32 | [Te Ví Con El](https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:00 |
 | 33 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
@@ -103,18 +103,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 93 | [Te Encontré \- En Vivo](https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Amor y Dolor \(En Vivo\)](https://open.spotify.com/album/07MjejZluBKxlicNhE0WMq) | 3:14 |
 | 94 | [Me Gusta Estar Contigo](https://open.spotify.com/track/3gTeuKp97kY5JAtERKfaIp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:17 |
 | 95 | [Como Tu Querer \- Con Banda](https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:48 |
-| 96 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
-| 97 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 96 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 97 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 98 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
 | 99 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
 | 100 | [Chaparra De Mi Amor](https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:11 |
 | 101 | [Una Lágrima \(Una Lacrima\)](https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Estela Nuñez..\. Sus Primeras E Inolvidables Grabaciones](https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode) | 3:53 |
 | 102 | [Y Ándale](https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:09 |
 | 103 | [Pideme La Luna](https://open.spotify.com/track/2lqwq9vyPWoBu8xxmlXZAr) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 2:17 |
-| 104 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 |
-| 105 | [Bohemio de Afición](https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [La Gran Colección del 60 Aniversario CBS \- Gerardo Reyes](https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39) | 3:17 |
-| 106 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
-| 107 | [Avísame](https://open.spotify.com/track/7opAyjCuxd8V0g6nuo7ZfF) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 2:58 |
+| 104 | [Bohemio de Afición](https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [La Gran Colección del 60 Aniversario CBS \- Gerardo Reyes](https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39) | 3:17 |
+| 105 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
+| 106 | [Avísame](https://open.spotify.com/track/7opAyjCuxd8V0g6nuo7ZfF) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 2:58 |
+| 107 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 |
 | 108 | [Mi Pequeño Mundo](https://open.spotify.com/track/435TneZRvPoB48FM3lEuBT) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Ya Lo Superé](https://open.spotify.com/album/7jlE4jsFvtS1OqPUXVc5HI) | 3:30 |
 | 109 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 | 110 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 124 | [Quiéreme](https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:25 |
 | 125 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 |
 
-Snapshot ID: `MCxmZjdiZTEyMWE0MjNhMjY5Nzc4MGNjOTA4YzhkNDI3ZTE2OTNhNmVl`
+Snapshot ID: `MCwwOTExZDJjZmE3NGJlZDIwMzhiMjhhYzBhOTEzOWNjYjkwYjhhYjRj`

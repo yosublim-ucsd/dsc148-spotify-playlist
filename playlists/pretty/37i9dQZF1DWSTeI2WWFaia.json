@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mark Battles",
-  "num_followers": 1617557,
+  "num_followers": 1617526,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTYxNjUyM2EwYjBiYWExMzM4ZTE4YWZjNDRhZTc5MWIyNmYxNzc5",
+  "snapshot_id": "MCw2MWEyZWI4ZTAzMzA5ODc3OGI0MjQzNTUwZDJiNmNlNTZiMGNlNmM0",
   "tracks": [
     {
       "added_at": "2023-12-22 21:59:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 107992,
-      "name": "FLYGOD 2x",
-      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 137197,
       "name": "black mirror",
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 107992,
+      "name": "FLYGOD 2x",
+      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -623,22 +623,26 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
       "artists": [
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         },
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 171192,
-      "name": "Suicide in Selfridges",
-      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -675,26 +679,22 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         },
         {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 224586,
-      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
+      "duration_ms": 171192,
+      "name": "Suicide in Selfridges",
+      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -715,6 +715,26 @@
       "duration_ms": 177360,
       "name": "Vertigo (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Show & Tell (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -759,26 +779,6 @@
       "duration_ms": 230720,
       "name": "The Caliphate (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Show & Tell (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
     },
     {
       "added_at": "2023-12-22 21:59:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-22 21:59:11",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
-    },
-    {
-      "added_at": "2023-12-22 21:59:11",
-      "album": {
         "name": "Asteroids",
         "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 212154,
       "name": "Chops on the Blade",
       "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
+    },
+    {
+      "added_at": "2023-12-22 21:59:11",
+      "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "added_at": "2023-12-22 21:59:11",

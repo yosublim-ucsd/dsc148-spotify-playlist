@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-146 songs - 10 hr 10 min
+147 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Encuentros Cercanos](https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 4:26 | 2023-03-17 | 2023-06-10 |
 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 | 2022-06-03 |  |
 | [Espíritu Felino](https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt) | [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Espíritu \(Libres Parte 3\)](https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut) | 3:43 | 2023-11-10 |  |
-| [Etiqueta Negra](https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 5:36 | 2022-06-03 |  |
+| [Etiqueta Negra](https://open.spotify.com/track/5CgpbO9nbKKDQaeI7x5BDl) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m) | 5:36 | 2023-12-08 |  |
+| [Etiqueta Negra](https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 5:36 | 2022-06-03 | 2024-01-04 |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-06-03 |  |
 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 | 2022-07-06 |  |
 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 | 2022-06-03 |  |

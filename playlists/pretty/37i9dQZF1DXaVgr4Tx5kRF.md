@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,029 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,056 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
 | 65 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 
-Snapshot ID: `MCw4YTJiZjExNzJlOTU3MjMyYmE2OTIyNzE0ODgyY2E3YTlkZmEyNjUw`
+Snapshot ID: `MCw1MmQ4ODk0YzcxMzZkZTA2OTdjNmMwM2YyYjdiYWI0N2FmNTFlMDc0`

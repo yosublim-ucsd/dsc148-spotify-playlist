@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 289135,
+  "num_followers": 289157,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQ1ZTRkOTJhZTZiNzUwMTFkMmJkNjdlZjljZjE5NmZlYzJlZGU0",
+  "snapshot_id": "MCxkMjY3ODNhZmZiMmFlNWQxZmNmZDZkYzdjOGZiMDlmN2I0YWQ3NzUx",
   "tracks": [
     {
       "added_at": "2023-10-17 15:51:21",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 263373,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 208733,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
         "name": "Dusk Till Dawn (feat. Sia) [Radio Edit]",
         "url": "https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -1115,34 +1131,18 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 181360,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 181360,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
     },
     {
       "added_at": "2023-10-17 15:51:21",

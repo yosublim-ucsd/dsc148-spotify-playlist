@@ -4,13 +4,14 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-40 songs - 1 hr 56 min
+41 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 | 2023-12-13 |  |
 | [A View From The Sky](https://open.spotify.com/track/7d1Ky8fpocchNXJRbwTNEM) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:25 | 2023-12-13 |  |
-| [Ashe Maree](https://open.spotify.com/track/3xcool8oNdhdybFbNx1rbG) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 2:03 | 2023-12-13 |  |
+| [Ashe Maree](https://open.spotify.com/track/3xcool8oNdhdybFbNx1rbG) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 2:03 | 2023-12-13 | 2024-01-04 |
+| [Ashe Maree](https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 2:03 | 2024-01-03 |  |
 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/3lJ3Czd986QfmRxhjTOznY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 2:55 | 2023-12-13 |  |
 | [Beige](https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Beige](https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA) | 2:51 | 2023-12-13 |  |
 | [Better \(feat\. Daniela Andrade\)](https://open.spotify.com/track/4xBKFemiG4Dl7DQuB9xA0q) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 3:44 | 2023-12-13 |  |

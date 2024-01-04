@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,229 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,259 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 31 | [Balinese \- 2005 Remaster](https://open.spotify.com/track/1r6wqKNFYQbookhQtQz0uW) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:36 |
 | 32 | [Move Me on Down the Line \- 2005 Remaster](https://open.spotify.com/track/2afW0UsI1mU9mREstUTwu6) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 2:31 |
 | 33 | [Doubleback](https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:56 |
-| 34 | [Brown Sugar](https://open.spotify.com/track/5dGVIZ6oc0ScR4ldWGbXSU) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 5:24 |
+| 34 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 |
 | 35 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 |
 | 36 | [Gimme All Your Lovin'](https://open.spotify.com/track/251LsIzSjWnlnxvWYLCucN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of ZZ Top](https://open.spotify.com/album/4ADUZQ1pM9r9f49MX8cUdl) | 3:31 |
 | 37 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 |
-| 38 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 |
-| 39 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
+| 38 | [Brown Sugar](https://open.spotify.com/track/5dGVIZ6oc0ScR4ldWGbXSU) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 5:24 |
+| 39 | [Give It Up](https://open.spotify.com/track/470PZEQc7PUnvhp73hSrJc) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:29 |
 | 40 | [Planet of Women](https://open.spotify.com/track/6VdlbIPdzJYj35Tq05vsH5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 |
-| 41 | [Give It Up](https://open.spotify.com/track/470PZEQc7PUnvhp73hSrJc) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:29 |
+| 41 | [Sixteen Tons \(feat\. Jeff Beck\) \- Live from London](https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Sixteen Tons \(feat\. Jeff Beck\) \[Live From London\]](https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge) | 3:17 |
 | 42 | [Pearl Necklace](https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:05 |
 | 43 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 |
 | 44 | [Velcro Fly](https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [She Loves My Automobile](https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 2:23 |
 | 50 | [Squank](https://open.spotify.com/track/5ndUXJQPTVDPVlQUgW2vgE) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 2:48 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDAyNTM2ZmM2MjVjZDQxNjU0ODljZDkzMzQwNDkyZjI2OQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBhMTIxOGMzYTlhMWQ5ZmVmM2FiNzkzZTdmOTZkOTJhYQ==`

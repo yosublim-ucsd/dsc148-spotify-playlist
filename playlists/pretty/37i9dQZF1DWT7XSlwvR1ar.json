@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2085158,
+  "num_followers": 2085261,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTM4ZmI5ZmFhOTM5ZGE3Y2UzMGI2ODJkMGQwNWRmNDZjZjllODc3",
+  "snapshot_id": "MCwyZjQyZTU3Njk5YmNmODA1NjEyMDk5NDkxMDA1YzgzNTJkMTczNzFj",
   "tracks": [
     {
       "added_at": "2023-11-10 19:54:35",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "My God Has a Telephone",
-        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
-      },
-      "artists": [
-        {
-          "name": "The Flying Stars Of Brooklyn NY",
-          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "My God Has A Telephone",
-      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Supply And Demand",
         "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
       },
@@ -567,6 +547,26 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "My God Has a Telephone",
+        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
+      },
+      "artists": [
+        {
+          "name": "The Flying Stars Of Brooklyn NY",
+          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "My God Has A Telephone",
+      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+      "duration_ms": 148080,
+      "name": "Be OK",
+      "url": "https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1447,22 +1463,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Be OK",
-        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Be OK",
-      "url": "https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Stay For Something",
-        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Worry No More",
         "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Stay For Something",
+        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Work Hard and Be Nice",
-        "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 216098,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Work Hard and Be Nice",
+        "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 216098,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 253395,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1999,22 +1983,18 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/01fQTmcvPNb5eC8KqTgPEx"
+        "name": "Amidst the Chaos (Bonus Version)",
+        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "The Kingdom Choir",
-          "url": "https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 180048,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/4XBznaFt4lPJY6s9VBHYUt"
+      "duration_ms": 253395,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -2043,6 +2023,26 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/01fQTmcvPNb5eC8KqTgPEx"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "The Kingdom Choir",
+          "url": "https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4XBznaFt4lPJY6s9VBHYUt"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -2055,22 +2055,6 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -2091,6 +2075,22 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     }
   ],
   "unique_name": "Totally Stress Free",

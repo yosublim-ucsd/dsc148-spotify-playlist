@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ed Sheeran",
-  "num_followers": 69962,
+  "num_followers": 70039,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjkxNDFiYmYzYWZkN2M2MzMwMDA3Zjk0MGM0YTY1ZWJmNGYwNjVl",
+  "snapshot_id": "MCxkZDQ0MjA2ZDFhY2ZjMTY2MTE5NmUyYzE0M2IzNzI2Y2UxZDBmOTA4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Love Like That (Words from Her)",
-        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 174489,
-      "name": "Love Like That (Words from Her)",
-      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214361,
       "name": "The Way Back Home",
       "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Love Like That (Words from Her)",
+        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 174489,
+      "name": "Love Like That (Words from Her)",
+      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Never Learned To Dance",
+        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Never Learned To Dance",
+      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Never Learned To Dance",
-        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Never Learned To Dance",
-      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Are You Happy Now?",
+        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS"
     },
     {
       "added_at": "2023-10-27 04:00:00",

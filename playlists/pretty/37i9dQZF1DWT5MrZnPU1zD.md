@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,679,296 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679,376 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 41 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
 | 42 | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT) | 2:55 |
 | 43 | [Go Again](https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Go Again](https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP) | 2:34 |
-| 44 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
-| 45 | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/43DRYHCJWpKCGblFKAqzGJ) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/0QWdws648Fjjp7ZypkAXua) | 3:17 |
+| 44 | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/43DRYHCJWpKCGblFKAqzGJ) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/0QWdws648Fjjp7ZypkAXua) | 3:17 |
+| 45 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
 | 46 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
 | 47 | [Taylor Port Junkie \(feat\. Lil Yachty\)](https://open.spotify.com/track/0bHfRPMnqoMmSpzZywlCmq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:28 |
 | 48 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Project XXX](https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [Project XXX](https://open.spotify.com/album/2EZrlcbTi3NHvlw0OTAHaX) | 2:09 |
 | 100 | [TyTy&NaeNae](https://open.spotify.com/track/28951XXObn5igteQcIdpJT) | [KP SKYWALKA](https://open.spotify.com/artist/0H20KZnm0XPqNYQ6EsIAyo) | [TyTy&NaeNae](https://open.spotify.com/album/4vFNfuTA7EwprFVV865zbA) | 2:19 |
 
-Snapshot ID: `MCw1OTE1NDY4NTRlN2VkOGJiNWVkZDM1ZjMzOWFkMDBlNDliMWJmNjE4`
+Snapshot ID: `MCwzNmY2NGQxNTI4NDQ3OTE0OTUxNmMzNTI2Mjk1YzY2ZDQzODMyYjdi`

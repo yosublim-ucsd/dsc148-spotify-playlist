@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,040 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,104 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 75 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
 | 76 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
 | 77 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
-| 78 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
+| 78 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
 | 79 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
-| 80 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
+| 80 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 81 | [El Carro de la Vida \- Versión Acústica](https://open.spotify.com/track/7LVBTC1yuwJxoEm9kAyTbl) | [Sinkope](https://open.spotify.com/artist/3pGly9FAB9GLVX1wkNTXoP), [Adormidera](https://open.spotify.com/artist/04VCcTST2Kr8bwhjAqa8yD), [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc), [Aurora Beltrán](https://open.spotify.com/artist/3GnMrfvoW6rrZxbau2b6fu), [BAMBIKINA](https://open.spotify.com/artist/6yQRoGwzyeHHHnUZGf6iZW), [Derby Motoreta’s Burrito Kachimba](https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4), [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [La Ira](https://open.spotify.com/artist/3tTvOTpqhx1NKvmdMi4kdV), [Los niños de los ojos rojos](https://open.spotify.com/artist/6XmvBOd1tQZKCbGcoPwCDA), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ), [O'Funk'illo](https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8), [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX), [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN), [Tahúres Zúrdos](https://open.spotify.com/artist/5B6JwEo3bqy1bun6WKFCxR) | [El Carro de la Vida \(Versión Acústica\)](https://open.spotify.com/album/5TziM0FWmtLYoKQZxlijkp) | 4:47 |
 | 82 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |
 | 83 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [100.000 bolas de cristal](https://open.spotify.com/track/1jSckKpjmiD5FERZ0Jpiqo) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Acantilados](https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A) | 4:37 |
 | 100 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 |
 
-Snapshot ID: `MCw2ZmU0ZWY4NjJkOGUzNzc0MDZjM2U1N2FiMDJjZjFlYmRjODY5MmJk`
+Snapshot ID: `MCw3NzhmOTliMzRjYjdlOWUyNzI5MzM1NDYyZjc1YzMxZGFiMTRiYWY1`

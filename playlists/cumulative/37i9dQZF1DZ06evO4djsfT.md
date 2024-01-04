@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 50 min
+65 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,13 @@
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 |  |
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-08 |  |
 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 | 2023-03-17 |  |
-| [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2023-03-17 |  |
+| [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2023-03-17 | 2024-01-04 |
+| [Graves](https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:20 | 2024-01-03 |  |
 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 | 2023-03-17 |  |
 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 | 2023-03-17 | 2023-08-20 |
 | [I Believe](https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Mattie of For Today](https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 3:56 | 2023-03-17 |  |
 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 | 2023-03-17 |  |
-| [Imagine That](https://open.spotify.com/track/1qpxR8VW5hi9i06ADbCq5O) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:22 | 2023-11-10 |  |
+| [Imagine That](https://open.spotify.com/track/1qpxR8VW5hi9i06ADbCq5O) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:22 | 2023-11-10 | 2024-01-04 |
 | [Intro to Glory](https://open.spotify.com/track/35xnvEvl4IXhaS617S3Elq) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:26 | 2023-08-19 | 2023-11-11 |
 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 | 2023-12-13 |  |
 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 | 2023-03-17 | 2023-12-14 |

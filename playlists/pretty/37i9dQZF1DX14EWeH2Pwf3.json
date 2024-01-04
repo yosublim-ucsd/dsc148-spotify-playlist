@@ -1,13 +1,61 @@
 {
-  "description": "Il sogno di ogni zanza si \u00e8 avverato: \ud835\udc6a\u2019\ud835\udc86\ud835\udc93\ud835\udc82 \ud835\udc7c\ud835\udc8f\ud835\udc82 \ud835\udc7d\ud835\udc90\ud835\udc8d\ud835\udc95\ud835\udc82 \ud835\udc70\ud835\udc8f \ud835\udc70\ud835\udc95\ud835\udc82\ud835\udc8d\ud835\udc8a\ud835\udc82",
-  "num_followers": 915775,
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy",
+  "num_followers": 915972,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2RhMDM4ZmZjNTFlNTQ4ZDA3YmU3ZTBmNDljZTRmZWQwNGMzODQ2",
+  "snapshot_id": "MCw4NjI2ZTI3N2JlYTY3ZDA1ZDk4NWI5MWQzMGQ0MmE2MjdiZTU0YTM2",
   "tracks": [
+    {
+      "added_at": "2024-01-02 09:30:00",
+      "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "added_at": "2024-01-02 09:30:00",
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 205524,
+      "name": "Calcolatrici",
+      "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
+    },
     {
       "added_at": "2024-01-02 09:30:00",
       "album": {
@@ -51,50 +99,18 @@
     {
       "added_at": "2024-01-02 09:30:00",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 205524,
-      "name": "Calcolatrici",
-      "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
-    },
-    {
-      "added_at": "2024-01-02 09:30:00",
-      "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+      "duration_ms": 208506,
+      "name": "Bling Bling (Oro)",
+      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "added_at": "2024-01-02 09:30:00",
@@ -115,22 +131,6 @@
       "duration_ms": 206896,
       "name": "15 Piani",
       "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
-    },
-    {
-      "added_at": "2024-01-02 09:30:00",
-      "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "Bling Bling (Oro)",
-      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "added_at": "2024-01-02 09:30:00",
@@ -199,22 +199,6 @@
       "duration_ms": 172601,
       "name": "Storia Infinita (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
-    },
-    {
-      "added_at": "2024-01-02 09:30:00",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Note killer",
-      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "added_at": "2024-01-02 09:30:00",
@@ -303,22 +287,6 @@
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
-    },
-    {
-      "added_at": "2024-01-02 09:30:00",
-      "album": {
-        "name": "RAP ITALIANO OLD SCHOOL HITS",
-        "url": "https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "All'Ultimo Respiro",
-      "url": "https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW"
     },
     {
       "added_at": "2024-01-02 09:30:00",

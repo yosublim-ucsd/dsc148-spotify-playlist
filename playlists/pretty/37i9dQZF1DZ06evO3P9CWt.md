@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,622 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,615 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 50 | [Pearls \- Pabllo Vittar & Brabo Remix](https://open.spotify.com/track/7ec5ztFOBncH5jQasBm65b) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Pearls \(Pabllo Vittar & Brabo Remix\)](https://open.spotify.com/album/6orBPFMAk0lHIbfCejKATH) | 2:37 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDAwYjhjYThkZGU2MDVjYzdkNGY3MDcwNzEyYmU0NGExNQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBlYTlkMmY5NTUzMzc0OTJiNzMwMGE1NGI3ODkxNDMzYw==`

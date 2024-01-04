@@ -1,12 +1,12 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 305083,
+  "num_followers": 305172,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTFjZGIzNDQ4NGJhOWE4MzgwODg2YWM3MmY5MTNlOGYxYzQ4MGQ1",
+  "snapshot_id": "MCw4NDg5NzkwMTkxZGU0MGMzMTMyMTQ5MGY2OTM3YzMwNjEyYjY0NTM5",
   "tracks": [
     {
       "added_at": "2022-07-12 10:53:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Walking Under Stars",
-        "url": "https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Cosby Sweater",
-      "url": "https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "Quiet Ferocity",
         "url": "https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 222786,
       "name": "Used to Be in Love",
       "url": "https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
+        "name": "Walking Under Stars",
+        "url": "https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Cosby Sweater",
+      "url": "https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV"
     },
     {
       "added_at": "2022-07-12 10:53:53",
@@ -743,30 +743,6 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Drinking From The Sun, Walking Under Stars Restrung",
-        "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "Montaigne",
-          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
-        },
-        {
-          "name": "Tom Thum",
-          "url": "https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "1955",
-      "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
-    },
-    {
-      "added_at": "2022-07-12 10:53:53",
-      "album": {
         "name": "Odyssey Number Five",
         "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
       },
@@ -799,6 +775,30 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
+        "name": "Drinking From The Sun, Walking Under Stars Restrung",
+        "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Montaigne",
+          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
+        },
+        {
+          "name": "Tom Thum",
+          "url": "https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "1955",
+      "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
+    },
+    {
+      "added_at": "2022-07-12 10:53:53",
+      "album": {
         "name": "Cold Chisel",
         "url": "https://open.spotify.com/album/58LEKVWXpcYbeevCcl2boB"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
+      "duration_ms": 151133,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
     }
   ],
   "unique_name": "Aussie BBQ",

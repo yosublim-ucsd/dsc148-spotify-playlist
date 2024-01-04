@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 133873,
+  "num_followers": 134013,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzg4ZWYyYzY2MDJkZTZlMjY1ZjZjNmFhOGViODc5YzMxZGNhMGNh",
+  "snapshot_id": "MCwwYTA3ZjM4YTI0ZWM0OTY0ODZmM2E3MmZkOTc0ZTQ3MWYwZGU0NWQz",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 274493,
       "name": "The Weight - Remastered 2000",
       "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "added_at": "2022-04-16 03:31:06",

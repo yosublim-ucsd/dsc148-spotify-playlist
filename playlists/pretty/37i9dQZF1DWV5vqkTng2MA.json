@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 378664,
+  "num_followers": 378717,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzE5NDQ5MzUwOWIyZmUyODlkOGI3ZGIyMjlmYTg2ZDU0NDEwYjUy",
+  "snapshot_id": "MCxiODZjNWRmNzA2NjE1MjcxMGVjOGZmOWI5YTZkZThlNTU1ZDBmODhk",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -803,26 +803,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        },
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        },
-        {
-          "name": "Friends",
-          "url": "https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 299719,
-      "name": "Sugaree",
-      "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
+      "duration_ms": 164533,
+      "name": "Pining",
+      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -843,18 +835,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
         {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        },
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN"
         }
       ],
-      "duration_ms": 164533,
-      "name": "Pining",
-      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+      "duration_ms": 299719,
+      "name": "Sugaree",
+      "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
-      },
-      "artists": [
-        {
-          "name": "Caught A Ghost",
-          "url": "https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "No Sugar In My Coffee",
-      "url": "https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Cowboy Nudes",
         "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
+      },
+      "artists": [
+        {
+          "name": "Caught A Ghost",
+          "url": "https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "No Sugar In My Coffee",
+      "url": "https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Gold Shadow",
-        "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
       },
       "artists": [
         {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
         }
       ],
-      "duration_ms": 156993,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Gold Shadow",
+        "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "duration_ms": 156993,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Highway Vagabond",
-      "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Alexander",
         "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Promenade Blue",
-        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
       "artists": [
         {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 154617,
-      "name": "B. Santa Ana, 1986",
-      "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
+      "duration_ms": 233266,
+      "name": "Highway Vagabond",
+      "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 250414,
       "name": "Numb",
       "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Promenade Blue",
+        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 154617,
+      "name": "B. Santa Ana, 1986",
+      "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 180013,
       "name": "The Very Last Day",
       "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Devil in Me",
-      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -1371,6 +1355,38 @@
       "duration_ms": 182800,
       "name": "Little Record Girl",
       "url": "https://open.spotify.com/track/5K467049SloeEJHvMhJDcl"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Devil in Me",
+      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Everlasting Arms",
         "url": "https://open.spotify.com/album/3J5rlCW6Yo7yvRkAnZx9AQ"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "You're the One",
-        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Too Little, Too Late, Too Bad",
-      "url": "https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55"
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     }
   ],
   "unique_name": "the new retro",

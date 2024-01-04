@@ -1,12 +1,12 @@
 {
   "description": "Perreo del bueno to ring in the new year!",
-  "num_followers": 93189,
+  "num_followers": 93650,
   "original_name": "New Year's Perreo Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDM2ZjIzYTFjYzQ2ODhmZTlkZmI2Yjk5ODNiYjhjYTY0YzRkZDZm",
+  "snapshot_id": "MCxkZTM3M2YwNDU0ZWZjOGRjMWJlYWZjMTZjMmYyNmJjOTYzZTE4ZTA3",
   "tracks": [
     {
       "added_at": "2023-12-28 22:10:39",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 267786,
-      "name": "Ella Y Yo - Featuring Don Omar",
-      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
         "name": "Esc\u00e1pate Conmigo (Remix)",
         "url": "https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 205520,
       "name": "Tu Pr\u00edncipe",
       "url": "https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "LA CHAMBA",
-        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "LA CHAMBA",
-      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "Broke & Famous",
         "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 157023,
       "name": "En La Cama (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "LA CHAMBA",
+        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "LA CHAMBA",
+      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 180645,
       "name": "Arca 10Mil",
       "url": "https://open.spotify.com/track/6IdupWnwKGBahydZnrA3zV"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -2479,26 +2479,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "The Bad Boy",
-        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "El Telefono",
-      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "Velitas",
         "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
       },
@@ -2515,6 +2495,26 @@
       "duration_ms": 225542,
       "name": "Velitas",
       "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "El Telefono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -2795,30 +2795,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 226725,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "Top Of The Line",
         "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
@@ -2839,6 +2815,30 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 226725,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -3027,18 +3027,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+        "name": "Cintureo (Remix)",
+        "url": "https://open.spotify.com/album/4vXmy6wJi0L1Yc9ybulXqk"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
+      "duration_ms": 164055,
+      "name": "Cintureo - Remix",
+      "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -3063,46 +3067,18 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "Cintureo (Remix)",
-        "url": "https://open.spotify.com/album/4vXmy6wJi0L1Yc9ybulXqk"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
       "artists": [
         {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "Yoan Retro",
-          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 164055,
-      "name": "Cintureo - Remix",
-      "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 118857,
-      "name": "BUENOS AIRES",
-      "url": "https://open.spotify.com/track/1VCMkNBJtt1obiqIGRvla5"
+      "duration_ms": 220133,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -3203,34 +3179,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "LA BABY",
-      "url": "https://open.spotify.com/track/0hDE81j4N2DPLbEY4tiCDs"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "Rebota",
         "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
       },
@@ -3287,6 +3235,22 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
+        "name": "L\u00edderes",
+        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 275213,
+      "name": "Algo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
         "name": "EL RELOJ (con Maluma)",
         "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
       },
@@ -3307,22 +3271,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "L\u00edderes",
-        "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 275213,
-      "name": "Algo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -3339,26 +3287,6 @@
       "duration_ms": 204382,
       "name": "Al Natural (feat. Yandel)",
       "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 153851,
-      "name": "EN VISTO",
-      "url": "https://open.spotify.com/track/1fFB8ahI0ZwU3X9mimCpjb"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -3919,6 +3847,34 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "LA BABY",
+      "url": "https://open.spotify.com/track/42qzMSlyVdf2Iar74eFePt"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
         "name": "Papi Quiero Perrear",
         "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
       },
@@ -3959,26 +3915,6 @@
     {
       "added_at": "2023-12-28 22:10:39",
       "album": {
-        "name": "Copas",
-        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 237388,
-      "name": "Copas",
-      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-12-28 22:10:39",
-      "album": {
         "name": "\u00d1ero Session 7",
         "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
       },
@@ -3995,6 +3931,26 @@
       "duration_ms": 183012,
       "name": "\u00d1ero Session 7",
       "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
     },
     {
       "added_at": "2023-12-28 22:10:39",
@@ -4027,6 +3983,50 @@
       "duration_ms": 156544,
       "name": "Piedritas En Los Dientes",
       "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "TEKIRIKI",
+        "url": "https://open.spotify.com/album/5AUO11YXhDoqTfZZsJ4pDl"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 181295,
+      "name": "TEKIRIKI",
+      "url": "https://open.spotify.com/track/4Pcaf7mFIH4foATAUvQWIJ"
+    },
+    {
+      "added_at": "2023-12-28 22:10:39",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 118857,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/1fHqnN13pBBGI2D19zpvS5"
     }
   ],
   "unique_name": "New Year's Perreo Party",

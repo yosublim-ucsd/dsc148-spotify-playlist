@@ -4,7 +4,7 @@
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-102 songs - 9 hr 16 min
+103 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Anything Can Happen](https://open.spotify.com/track/5rMwRnD9ydFhK9TFODe2pi) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/4DyCzDnXR94Am3bWFD7gtk) | 8:05 | 2020-06-03 | 2022-07-29 |
 | [Anything Can Happen](https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:05 | 2020-06-03 | 2023-12-23 |
 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 | 2020-06-03 |  |
-| [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 | 2020-06-03 |  |
+| [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 | 2020-06-03 | 2024-01-04 |
 | [Bigger Than Me](https://open.spotify.com/track/0CxlOGUGHVa1iVna8NJgIp) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/0D3EkBlKPYFbWv8iavOyfe) | 4:20 | 2020-06-03 | 2022-07-28 |
 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 | 2020-06-03 |  |
 | [Blessings on Blessings](https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Blessings on Blessings](https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R) | 4:55 | 2020-06-03 |  |
@@ -34,6 +34,7 @@
 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/67UQCLTcle3v4kpJ82xT0b) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [God My God \(Live\)](https://open.spotify.com/album/45Svl1RYl6mR7CwObb77H7) | 4:43 | 2020-06-03 | 2022-07-25 |
 | [Gotta Have You](https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4) | 2:56 | 2020-06-03 | 2023-12-23 |
 | [Gotta Have You](https://open.spotify.com/track/6sIO0e3xxVRhCZn6YcU4CG) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Gotta Have You \- Single](https://open.spotify.com/album/2fTjnLLiT0TA9MCBM5hoK5) | 2:56 | 2020-06-03 | 2022-07-26 |
+| [Gotta Have You](https://open.spotify.com/track/712eY6tMxOfDOguo6PlXl3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/0R0dZiUhIDRkgDbzJpSFcr) | 2:57 | 2020-06-03 |  |
 | [I Agree \(feat\. Gene Hoskins\)](https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Gene Hoskins](https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0) | [Declarations](https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT) | 7:56 | 2020-06-03 | 2023-12-24 |
 | [I Agree \(feat\. Gene Hoskins\)](https://open.spotify.com/track/6hP8jMfmNdksnXSQjVZO7Y) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Gene Hoskins](https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0) | [Declarations](https://open.spotify.com/album/1kBO34QmChEjSRFxUmHJL9) | 7:56 | 2020-06-03 | 2022-07-29 |
 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 | 2020-06-03 |  |

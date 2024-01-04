@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Diplo & HUGEL.",
-  "num_followers": 1915474,
+  "num_followers": 1915655,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTIyYWYxYTI3ZDhkMWJlOTJjMzE3MDRkMzM1MzY4OWI0NmIxMDg4",
+  "snapshot_id": "MCxiM2ZhN2I1ZmFiMDJkY2ZlZTdkZTlhY2MwMTljOTg1NjVhZTAyY2Ez",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:03",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
       },
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 244337,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
         "name": "Ti Sento",
         "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 244337,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
+        "name": "Make Me (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Make Me - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
         "name": "Gas Pedal (Kyle Watson Remix)",
         "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 183318,
       "name": "Gas Pedal - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
-        "name": "Make Me (Franky Rizardo Remix)",
-        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
-      },
-      "artists": [
-        {
-          "name": "Borai & Denham Audio",
-          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Make Me - Franky Rizardo Remix",
-      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
         "name": "Bless Me (with Discrete)",
         "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        }
-      ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
         "name": "Lady (Hear Me Tonight)",
         "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 134880,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
         "name": "Low Rider (Kyle Watson Remix)",
         "url": "https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 200788,
       "name": "Low Rider - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
+        "name": "Make U Sweat",
+        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 148730,
+      "name": "Make U Sweat",
+      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
-        "name": "Make U Sweat",
-        "url": "https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 148730,
-      "name": "Make U Sweat",
-      "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
         "name": "Dummy \u2013 Chris Lake Remix",
         "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
       },
@@ -2331,6 +2331,22 @@
       "duration_ms": 173001,
       "name": "Dummy \u2013 Chris Lake Remix",
       "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
+    },
+    {
+      "added_at": "2023-12-22 05:00:03",
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -2355,22 +2371,6 @@
       "duration_ms": 173601,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
-    },
-    {
-      "added_at": "2023-12-22 05:00:03",
-      "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
     },
     {
       "added_at": "2023-12-22 05:00:03",
@@ -2419,22 +2419,30 @@
     {
       "added_at": "2023-12-22 05:00:03",
       "album": {
-        "name": "Feel It Deep Inside",
-        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
+        "name": "You Are In My System (Faster Horses Sport Mix)",
+        "url": "https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt"
       },
       "artists": [
         {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
         },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        },
+        {
+          "name": "Troy Denari",
+          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
+        },
+        {
+          "name": "Faster Horses",
+          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
         }
       ],
-      "duration_ms": 153825,
-      "name": "Feel It Deep Inside",
-      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
+      "duration_ms": 197197,
+      "name": "You Are In My System - Faster Horses Sport Mix",
+      "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
     }
   ],
   "unique_name": "Housewerk",

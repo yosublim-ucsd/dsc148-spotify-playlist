@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,736 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,742 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 67 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 |
 | 68 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 |
 | 69 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
-| 70 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
-| 71 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
+| 70 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
+| 71 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
 | 72 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 |
 | 73 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
-| 74 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 |
-| 75 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 |
+| 74 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 |
+| 75 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 |
 
-Snapshot ID: `MCwyMmE3ZThiMTdhNTkzOTk2NDhiYmY5YTE4MDE5NDhiZTNkODNiNDg3`
+Snapshot ID: `MCwxZjMzMTFkMDczMWVjZDYwZjQ4MjI4ODQyM2Q2MzY4MjNkNGE5MzIy`

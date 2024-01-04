@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,022 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,037 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 32 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
 | 33 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 34 | [Apiádate de Mi](https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 5:04 |
-| 35 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 |
-| 36 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
+| 35 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
+| 36 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 |
 | 37 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
 | 38 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 39 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 74 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 |
 | 75 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
 
-Snapshot ID: `MCw0YmJkMjdkZDhmNjEyZDNjNGFiOGUxZWUzMWIyM2JhNDUyMGEyN2I5`
+Snapshot ID: `MCxmODM3ODY1MGY0MDMyZDYyOTEwOTI1NjkzM2Q3YjFlZDI1YjlmMTU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,647 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,663 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 35 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
 | 36 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
 | 37 | [Hva kjærlighet er](https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Duell](https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF) | 4:14 |
-| 38 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
-| 39 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
+| 38 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
+| 39 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
 | 40 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
 | 41 | [Jovial](https://open.spotify.com/track/35zPbkQMTbuFydsC263MFl) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 2:50 |
 | 42 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
 | 50 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 
-Snapshot ID: `MCw1MDU3M2E5NjFhZDE3NGE4NTYwOTg1MDVlNGRlNmM1MGM5OGQ5Zjk4`
+Snapshot ID: `MCwxOWU0YzBmMzlhM2FhZGI1NTMxZjU1NWM0MjY1YzI2ODJmZmEzNThh`

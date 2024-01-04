@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-802 songs - 1 day 19 hr 37 min
+803 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/track/2WzzdfuJuo5SayCuDn7Qoz) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Pehli Mulaqat \(From "Main Te Bapu"\)](https://open.spotify.com/album/3kXYgc782J3ItogKA3db6n) | 2:51 | 2022-04-12 | 2022-04-29 |
 | [Perfect](https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Perfect](https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO) | 2:46 | 2021-12-02 | 2022-04-06 |
 | [Perfect](https://open.spotify.com/track/0z9pKdemlN3xkxA2eIpIFy) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:52 | 2022-09-20 | 2022-12-16 |
-| [Perfect Jodi](https://open.spotify.com/track/0BZplgD7cIEyJae5bTYB1s) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Gurp Sandhu](https://open.spotify.com/artist/7x0GUjwAlc9uHb4hSKIqci), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Perfect Jodi](https://open.spotify.com/album/4SRTTZXnl8llE0HSTHS8iY) | 2:42 | 2023-12-08 |  |
+| [Perfect Jodi](https://open.spotify.com/track/0BZplgD7cIEyJae5bTYB1s) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Gurp Sandhu](https://open.spotify.com/artist/7x0GUjwAlc9uHb4hSKIqci), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Perfect Jodi](https://open.spotify.com/album/4SRTTZXnl8llE0HSTHS8iY) | 2:42 | 2023-12-08 | 2024-01-04 |
 | [Phone](https://open.spotify.com/track/5uJwszrqcBrS9q1oUv5rdk) | [Kapil Sahdev](https://open.spotify.com/artist/2Biq9oFdCwH1OitFH5UUrC), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Phone](https://open.spotify.com/album/4O1D3WKo52DUEDap6dtQ6e) | 3:34 | 2022-01-10 | 2022-02-01 |
 | [Photo](https://open.spotify.com/track/4GtCxfvTwCK9NxnjmbZvio) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Photo](https://open.spotify.com/album/3mL10Hdr4isTCdtpAJ1rB0) | 3:16 | 2022-08-05 | 2023-02-04 |
 | [Photo Kar Zoom](https://open.spotify.com/track/6OHA7Niyq6lbhne5s2B5lK) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Photo Kar Zoom](https://open.spotify.com/album/4LJS4VAdTGZTXlrUFvnOHG) | 3:12 | 2022-01-08 | 2022-02-01 |
@@ -708,6 +708,7 @@
 | [Tasbih](https://open.spotify.com/track/4hFoqtvjxZK65wCO7s7hvT) | [Rooh Khan](https://open.spotify.com/artist/25N4st00HpawRFG3hgGGr3) | [Tasbih](https://open.spotify.com/album/07CvcVXvJAmnfuSPwzJh1O) | 3:13 | 2023-08-19 | 2023-09-13 |
 | [Tasveer](https://open.spotify.com/track/7hvs8Rzzk3cVJAPGluISmG) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Flamboyant](https://open.spotify.com/album/5PtvEw4eDX5WoC6ruQxuW3) | 3:53 | 2023-01-20 | 2023-02-04 |
 | [Tasveeran](https://open.spotify.com/track/5OnRbQTFD5Ww9OoDQhRlJ4) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Tasveeran](https://open.spotify.com/album/7F4K9EG9c9NPuWdnNf20Kj) | 2:47 | 2022-08-19 | 2022-09-23 |
+| [Tasveerein](https://open.spotify.com/track/1M1P4pwwl8b6y1d4sTPon1) | [Avanie Joshi](https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc) | [Tasveerein](https://open.spotify.com/album/7E2DHW1L5SkM8TYbmbLolz) | 3:29 | 2024-01-03 |  |
 | [Tenu Dil Vich Rakhan](https://open.spotify.com/track/3hEWZfIqeDyUiMnDYJMI3d) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Amjad Nadeem Aamir](https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq) | [Tenu Dil Vich Rakhan](https://open.spotify.com/album/6pbfvzLmWR6GQ0RoUSm7Ae) | 3:37 | 2022-08-03 | 2022-12-16 |
 | [Tera Dil](https://open.spotify.com/track/1q1tHRdOw0lGtbaJtIn8ki) | [Yuvraj](https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw) | [Tera Dil](https://open.spotify.com/album/7aJIUhUPWsE683VyOzcU9R) | 2:48 | 2023-02-09 | 2023-05-06 |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |

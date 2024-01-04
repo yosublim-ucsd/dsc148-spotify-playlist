@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 224633,
+  "num_followers": 224649,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTg5M2YwNDFmMWI3MGQwNzcyM2JhYTllM2Q0MGYwNzkwNDBjNWUz",
+  "snapshot_id": "MCwyZjhjNjAzMmEyM2U2ZDdjOGJlYTY2YmVlYTU2ODk0YjgwMTdiNzYw",
   "tracks": [
     {
       "added_at": "2023-12-22 12:39:29",
@@ -843,30 +843,6 @@
     {
       "added_at": "2023-12-22 12:39:29",
       "album": {
-        "name": "O Que Que T\u00e1 Acontecendo",
-        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
-      },
-      "artists": [
-        {
-          "name": "Mc Arizinho",
-          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "O Que Que T\u00e1 Acontecendo",
-      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
-    },
-    {
-      "added_at": "2023-12-22 12:39:29",
-      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 190344,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
+    },
+    {
+      "added_at": "2023-12-22 12:39:29",
+      "album": {
+        "name": "O Que Que T\u00e1 Acontecendo",
+        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
+      },
+      "artists": [
+        {
+          "name": "Mc Arizinho",
+          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "O Que Que T\u00e1 Acontecendo",
+      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
     },
     {
       "added_at": "2023-12-22 12:39:29",

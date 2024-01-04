@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,818 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,124 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 39 | [Comfort Zone](https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:33 |
 | 40 | [Winds of Change](https://open.spotify.com/track/5jJOhbVGJt9O28IrPlBs7e) | [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Tommy Vext](https://open.spotify.com/artist/0C8Tdbzb05PRgz58aKN5gc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Waylon & Willie IV](https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R) | 4:45 |
 | 41 | [House Of Mirrors \(feat\. Jelly Roll\)](https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi) | 3:25 |
-| 42 | [5 AM](https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 3:46 |
+| 42 | [Too Far](https://open.spotify.com/track/6v0OFUHCLCIFwwowVXMXPj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Ryan Nelson](https://open.spotify.com/artist/3ZWoGIRMCbvG2ucNugtC8d) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:06 |
 | 43 | [Outlaw Classics](https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Waylon & Willie III](https://open.spotify.com/album/138S8GterIlZRtIQCzMeml) | 3:11 |
 | 44 | [Band Plays On](https://open.spotify.com/track/62x93blgkWEz6Huop8eSQA) | [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [No Filter](https://open.spotify.com/album/0dE86L3lCP52MRnPjUOTtf) | 3:41 |
 | 45 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
-| 46 | [Too Far](https://open.spotify.com/track/6v0OFUHCLCIFwwowVXMXPj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Ryan Nelson](https://open.spotify.com/artist/3ZWoGIRMCbvG2ucNugtC8d) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:06 |
+| 46 | [5 AM](https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 3:46 |
 | 47 | [Money](https://open.spotify.com/track/1MUhjYSAGXuejDzD8Qi8Qo) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Mud Mouth](https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I) | 5:18 |
 | 48 | [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 |
 | 49 | [Echoes](https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Cub da CookUpBoss](https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps) | [Goodnight Nashville](https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal) | 3:57 |
 | 50 | [Problem Wit It \(feat\. DJ Paul\)](https://open.spotify.com/track/3E99aSAFKvgFAK4CtOoZVd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [DJ Paul](https://open.spotify.com/artist/6T9QVklRmYwXCCesJI0T54) | [No Filter 2](https://open.spotify.com/album/0tQHA4lZ8voLMIJ4W9wcVA) | 4:20 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBlYTFkNTM3ZDljMGFkMWEzMjA1N2M2NzIzOTRhOThhYg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBiOGU1NDgyMjZhOWYyNDE5YzM1NjQ5MDI4NjU3Mjc0MA==`

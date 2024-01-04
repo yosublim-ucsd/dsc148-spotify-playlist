@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,872 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,883 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 12 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
 | 13 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
 | 14 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
-| 15 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
+| 15 | [Trust Issues](https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:41 |
 | 16 | [Different \(with Majid Jordan\)](https://open.spotify.com/track/0Eq1ybB9XnhbYBWFhKnNhn) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 2:26 |
 | 17 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 18 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 | 19 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 |
 | 20 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 4:11 |
 | 21 | [Wus Good / Curious](https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:32 |
-| 22 | [Trust Issues](https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:41 |
+| 22 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
 | 23 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
 | 24 | [FIGURES](https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 4:00 |
 | 25 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 58 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 59 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
 | 60 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 |
-| 61 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
-| 62 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
+| 61 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
+| 62 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 63 | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb) | 2:31 |
 | 64 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 |
 | 65 | [Irrational](https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Some Kinda Love](https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Some Kinda Love](https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt) | 4:52 |
 | 75 | [Always](https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Lost In You](https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt) | 2:33 |
 
-Snapshot ID: `MCwwNTQ4MzYwYzM0NTNiMmRiYjg2MWI0YzE0OWE4YzUzOWFmYmRmZmNk`
+Snapshot ID: `MCwzZGY1MjE4MDFmMWNkNjdhNTVjZGJiNjA1ODgwNDc1NTFiMTc0ZmZh`

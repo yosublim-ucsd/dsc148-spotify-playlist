@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 57855,
+  "num_followers": 57875,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjU3NGNmZWRjNTIwYzU5MmYxMzA0OGQzMGU5MGQ2MWFlZjI4ODg1",
+  "snapshot_id": "MCwwYmVjYmVjMjFjNDU2N2RkZDgyYWUwM2Y0ZDkzMDY4ZWRkMThiNWZl",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Opp Stoppa (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz"
-      },
-      "artists": [
-        {
-          "name": "YBN Nahmir",
-          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 135430,
-      "name": "Opp Stoppa (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "High Off Life",
         "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 205666,
       "name": "Solitaires (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Opp Stoppa (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz"
+      },
+      "artists": [
+        {
+          "name": "YBN Nahmir",
+          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 135430,
+      "name": "Opp Stoppa (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Tata",
-      "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 202720,
       "name": "Second Emotion (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Tata",
+      "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
     },
     {
       "added_at": "2023-09-01 14:43:51",

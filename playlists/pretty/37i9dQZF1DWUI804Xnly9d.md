@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,204 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,259 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 41 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 |
 | 42 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 |
 | 43 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 |
-| 44 | [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 |
+| 44 | [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 |
 | 45 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 |
 | 46 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 |
 | 47 | [Muntazir](https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Debasish Mishra](https://open.spotify.com/artist/6py2MHhbiiwkAtcyAZmFAO), [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj) | [Muntazir](https://open.spotify.com/album/1VxmU9VcPqLGyoZl3GbLhp) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tootey Hai Hum](https://open.spotify.com/track/7G0s6JwNij9ahwGpBjXQj1) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mugdha Hasbanis](https://open.spotify.com/artist/07go7jRUHokSJpsZoHy5ha), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 3:40 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCwyNzFhOTZmNzU3ZWMzMzRhNDM0OWM3MTMwZDhjMDQxNGZmODNlMzBh`
+Snapshot ID: `MCxiODMxMDUxNzM3ZjEyNWE1NGIzNmE0MmU5NTY1YjcwZDU2NzUyNzE1`

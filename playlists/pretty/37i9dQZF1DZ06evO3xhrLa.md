@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,844 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,899 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 34 | [U Move, I Move \(feat\. Jhene Aiko\)](https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:43 |
 | 35 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 36 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
-| 37 | [Drunk Texting \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:47 |
-| 38 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
+| 37 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
+| 38 | [Drunk Texting \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:47 |
 | 39 | [I\. Pink Toes](https://open.spotify.com/track/4OfESCGOUVZMuGvppCU51j) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:27 |
 | 40 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
 | 41 | [When We Love](https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 45 | [do better blues \(feat\. HOPE\)](https://open.spotify.com/track/4slDDMAoLgYKvEpiUAUEQI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Hope](https://open.spotify.com/artist/4QTUTpSoTX3n9uMvuvyQsy) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:13 |
 | 46 | [New Balance](https://open.spotify.com/track/0PYmO55JPwEWgtyJbkN6mq) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:39 |
 | 47 | [Comfort Inn Ending \(Freestyle\)](https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 5:21 |
-| 48 | [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 |
+| 48 | [alive & well \(gratitude mantra\)](https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [alive & well \(gratitude mantra\)](https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI) | 10:34 |
 | 49 | [2 seconds \- Bonus](https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 2:32 |
-| 50 | [alive & well \(gratitude mantra\)](https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [alive & well \(gratitude mantra\)](https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI) | 10:34 |
+| 50 | [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDA0ZTI2MzAwNTUxZTA5NTM0NGVhZDkxZWJmOGRhNWJmNQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAwMGU5Y2JmMDgzYjU3NWQwMjJkZGNkN2UwNzc4NmMzOQ==`

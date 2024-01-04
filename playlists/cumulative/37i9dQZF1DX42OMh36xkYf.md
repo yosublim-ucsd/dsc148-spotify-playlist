@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Adrian Bello en portada.
 
-86 songs - 4 hr 51 min
+88 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-09-22 | 2023-10-07 |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-09-22 |  |
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-09-22 | 2023-11-25 |
-| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-09-22 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 | 2023-12-01 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-09-22 | 2024-01-04 |
 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 | 2023-09-29 |  |
 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 | 2023-09-22 | 2023-12-02 |
 | [NO ME ESTÁS HACIENDO UN FAVOR](https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 2:57 | 2023-09-22 |  |
@@ -92,7 +93,8 @@
 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-20 |  |
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-09-22 | 2023-10-14 |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 |  |
-| [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-09-22 |  |
+| [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-09-22 | 2024-01-04 |
+| [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 | 2023-12-01 |  |
 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2023-09-27. Prior content cannot be recovered.

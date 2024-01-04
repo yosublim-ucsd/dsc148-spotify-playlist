@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47277,
+  "num_followers": 47298,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2JlNTBjNWQ4YTk4NWQwN2M1NmMyZmU1ZDZlM2ViZmM3M2U2Njk5",
+  "snapshot_id": "MCw5M2Q4MGEyYzJjMTRiNzRmOWIwOGJiY2E5MzZlYTFjNzk1ZTYxODcw",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "o maior ot\u00e1rio da cidade",
+        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
+      },
+      "artists": [
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "o maior ot\u00e1rio da cidade",
+      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Exagerados",
         "url": "https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "o maior ot\u00e1rio da cidade",
-        "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
-      },
-      "artists": [
-        {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "o maior ot\u00e1rio da cidade",
-      "url": "https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2023-12-15 03:00:00",

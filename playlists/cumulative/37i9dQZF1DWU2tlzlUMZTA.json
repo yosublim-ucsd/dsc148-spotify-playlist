@@ -687,6 +687,32 @@
     },
     {
       "album": {
+        "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
+      },
+      "artists": [
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221323,
+      "name": "Ishq Nachaawe - From \"Kho Gaye Hum Kahan\"",
+      "url": "https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6"
+    },
+    {
+      "album": {
         "name": "Issa Vibe (From \"Bloody Daddy\")",
         "url": "https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF"
       },

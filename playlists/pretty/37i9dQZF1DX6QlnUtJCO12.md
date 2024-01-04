@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,835 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,849 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rum & Cola Cola](https://open.spotify.com/track/6R9UbLVFg6xCwIXBwZ4ms0) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Calypso @ Dirty Jim's](https://open.spotify.com/album/7z7FHWRe56GRFBMflxbDVU) | 4:08 |
 | 2 | [Me Ting Is Mine](https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Atrocities](https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2) | 3:07 |
 | 3 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
-| 4 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
-| 5 | [Black but Sweet](https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Cooks in Trinidad](https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M) | 2:33 |
+| 4 | [Black but Sweet](https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Cooks in Trinidad](https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M) | 2:33 |
+| 5 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
 | 6 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 |
 | 7 | [Taxi Driver](https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Awakening from the Emory Cook Collection](https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj) | 3:28 |
 | 8 | [Barbados Carnival](https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z) | [Mighty Panther](https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG) | [Calypso Legends \- Mighty Panther / Macbeth the Great \(1953 \- 1956\)](https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC) | 2:49 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [Woman Is Not The Weaker Sex](https://open.spotify.com/track/2OfEqAYJZalVNH69IBVkYi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 |
 | 40 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 
-Snapshot ID: `MCwwYmJlOGY1MDkzN2IwM2NhMjU3ZTU2ZGYxNmNmODc3MzJiNmY2MTVj`
+Snapshot ID: `MCwxZWVjNzA5NzA1ZDdkY2NmY2RmYWUzZWFjYWMxZmY3MGFhNGYyZmU1`

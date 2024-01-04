@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 54350,
+  "num_followers": 54386,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTFjMWUzZTEzNzk1MmQ4MjMwYTU3YWFkMDUwNWYyYWI4NjAwMzQ5",
+  "snapshot_id": "MCw2Mjc5YzhiNjgzMDE5ZDY0ZDEzNzEzNGMyYTc1ZjM5MDIzYTJhMDlj",
   "tracks": [
     {
       "added_at": "2021-12-16 01:10:18",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 263899,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2021-12-16 01:10:18",

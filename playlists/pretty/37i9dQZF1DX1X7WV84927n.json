@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Corey Taylor",
-  "num_followers": 346594,
+  "num_followers": 346725,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTIzNjQwMjYxMzBlZjUyZjUyMjFiMmJlNjZmNThhOGIzYjA2ODI1",
+  "snapshot_id": "MCxiMjMzYmJlZjg0NGJjODZmMmMwYjE0MWE4NjE4M2UwY2EzMDMzZDBl",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 200495,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 179482,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 200495,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Parasite",
-        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Dance Devil Dance",
         "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Meat & Greet",
         "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Perhaps",
-        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 228406,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "I Am The Weapon",
-      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "I Am The Weapon",
+      "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vaxis II: A Window of the Waking Mind",
-        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 228834,
-      "name": "The Liars Club",
-      "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 227678,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Vaxis II: A Window of the Waking Mind",
+        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 228834,
+      "name": "The Liars Club",
+      "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Tippa My Tongue",
-        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 260808,
-      "name": "Tippa My Tongue",
-      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Tippa My Tongue",
+        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 260808,
+      "name": "Tippa My Tongue",
+      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
     },
     {
       "added_at": "2023-12-08 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > Somos una fusión que nunca termina..\. MEXCLA somos\. Peso Pluma, Anitta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,105 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,874 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 53 | [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 |
 | 54 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 |
 | 55 | [FREAKY FREAKY](https://open.spotify.com/track/4VpTPw4gPDdhSITd3okIaZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 |
-| 56 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 56 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 57 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
 | 58 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
 | 59 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 75 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 
-Snapshot ID: `MCwxN2E4ZTJiODMxMzNiNWM5YTUzODQzMzE3Mzg3YjgyZGY5YzRiYzg4`
+Snapshot ID: `MCxkMzZkZWFmZTI0ZjBmMGJhOGYxN2FiYzU5MGUwMDg2YmM0YmY4MWMz`

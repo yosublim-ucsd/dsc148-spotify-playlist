@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 41300,
+  "num_followers": 41397,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzVjYTdhNDFiYWIwZWVjZWVlNGY2MDBmNzU3ZmNmMzZhOWMxMTkw",
+  "snapshot_id": "MCw0OGM1YzZkMTk4MTgxZDg5MTMxZTU3N2RlMmNlYWU0OWEyYjhmNjRl",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+      },
+      "artists": [
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "duration_ms": 156280,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
-      },
-      "artists": [
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
-        }
-      ],
-      "duration_ms": 156280,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
         }
       ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
+      "duration_ms": 254465,
+      "name": "The Sun Comes Up",
+      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/067DByB9MxpzzHb07ORR3P"
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
       },
       "artists": [
         {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 254465,
-      "name": "The Sun Comes Up",
-      "url": "https://open.spotify.com/track/6aNVEIjxBi4gm0t1CFg7uk"
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Green Superintendent",
         "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Casino Twilight Dogs",
-        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
-      },
-      "artists": [
-        {
-          "name": "Youth Group",
-          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -939,18 +955,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+        "name": "Double Espresso",
+        "url": "https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
         }
       ],
-      "duration_ms": 281133,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+      "duration_ms": 205377,
+      "name": "Double Espresso",
+      "url": "https://open.spotify.com/track/5FJKZdHAJUBHF55LgWGesp"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -971,18 +987,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Double Espresso",
-        "url": "https://open.spotify.com/album/37b6N6qzjS2k1LvbdSCdF9"
+        "name": "Awake Is the New Sleep",
+        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
       },
       "artists": [
         {
-          "name": "DICE",
-          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+          "name": "Ben Lee",
+          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
         }
       ],
-      "duration_ms": 205377,
-      "name": "Double Espresso",
-      "url": "https://open.spotify.com/track/5FJKZdHAJUBHF55LgWGesp"
+      "duration_ms": 254106,
+      "name": "Catch My Disease",
+      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -999,22 +1015,6 @@
       "duration_ms": 243131,
       "name": "Drift",
       "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Awake Is the New Sleep",
-        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
-      },
-      "artists": [
-        {
-          "name": "Ben Lee",
-          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Catch My Disease",
-      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Believe (Triple J Like A Version)",
-        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 197594,
-      "name": "Believe (Triple J Like A Version)",
-      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Milyakburra",
         "url": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 171146,
       "name": "Lady Blue",
       "url": "https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Believe (Triple J Like A Version)",
+        "url": "https://open.spotify.com/album/3RNhkVTNmEXUSNeVt5S2AJ"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "Believe (Triple J Like A Version)",
+      "url": "https://open.spotify.com/track/24oDOsC6NhYkgKQUcpLBIm"
     },
     {
       "added_at": "2023-11-15 02:04:48",

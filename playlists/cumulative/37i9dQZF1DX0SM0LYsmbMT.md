@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,931 songs - 6 day 6 hr 23 min
+3,932 songs - 6 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,7 @@
 | [cherry](https://open.spotify.com/track/51mcuqQpPcsMRZ5KW0A0In) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [cherry](https://open.spotify.com/album/1wTr0NeYZivAevFTP2gU6a) | 2:06 | 2019-12-11 | 2020-04-24 |
 | [Cherry Blossom](https://open.spotify.com/track/0EkYkn90sCPhyaISD3KbyY) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Cherry Blossom](https://open.spotify.com/album/4sGKLG2fRyZ41ODIeW1p1r) | 2:21 | 2021-07-04 | 2022-01-28 |
 | [Cherry Stones](https://open.spotify.com/track/55KXvUcU1tvECZlpNFedXO) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Cherry Stones](https://open.spotify.com/album/2M68YNq9ZdZ64thqkTIxs1) | 2:32 | 2022-01-06 | 2022-04-22 |
-| [Cherub](https://open.spotify.com/track/334PH2p4kvl1ogPDnLQIXQ) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Cherub](https://open.spotify.com/album/2RNf7DJTzpzC9Z2nyK4lm6) | 2:14 | 2023-12-01 |  |
+| [Cherub](https://open.spotify.com/track/334PH2p4kvl1ogPDnLQIXQ) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Cherub](https://open.spotify.com/album/2RNf7DJTzpzC9Z2nyK4lm6) | 2:14 | 2023-12-01 | 2024-01-04 |
 | [chi min](https://open.spotify.com/track/5gZFmD6Bszxepn75fAdM0j) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [cloud sounds](https://open.spotify.com/album/3eiUaf9V3bysHOlQriQXdQ) | 1:34 | 2020-04-07 | 2020-05-29 |
 | [Childhood](https://open.spotify.com/track/3hZpcMWfacJLqVGd0ztxU9) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Childhood](https://open.spotify.com/album/7jdyTJRycpreAiWRz0etTm) | 2:02 | 2023-02-09 | 2023-03-18 |
 | [Chili Sin Carne Bowl](https://open.spotify.com/track/7j7AK2Iz3D37CxFrY8MCtZ) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Chili Sin Carne Bowl](https://open.spotify.com/album/7ChYgDAbK5ljCGw5xScxTX) | 1:44 | 2020-10-23 | 2020-12-09 |
@@ -1008,6 +1008,7 @@
 | [Equata](https://open.spotify.com/track/06IcYJVcONJEnswRGec8pM) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Equata](https://open.spotify.com/album/4dGpZpqO3Si2tVleR9xP7i) | 1:47 | 2023-03-09 | 2023-04-14 |
 | [Erik](https://open.spotify.com/track/4VyzbS5lqk3E4kJI4gM9M9) | [Titus Martinu](https://open.spotify.com/artist/5xgzUVEK9ndCxbJQIoZjlA) | [Epilogue](https://open.spotify.com/album/28oI2WkcZyWebTntwGmKrX) | 1:56 | 2020-08-04 | 2020-11-03 |
 | [Eros](https://open.spotify.com/track/6RGcJf0l7aBAmAJ4FoLuhl) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Eros](https://open.spotify.com/album/7FzaGM4XYmgRdEy7IZxcPd) | 2:30 | 2021-12-11 | 2021-12-30 |
+| [Escape](https://open.spotify.com/track/7LBVIdRdv59ilQhJmxvPOk) | [Kanzan](https://open.spotify.com/artist/56VRNuuhxCIqj5Vsi3lbXv) | [Escape](https://open.spotify.com/album/1TyDRgZQp1bYz9aHihy149) | 2:09 | 2023-12-21 |  |
 | [Escape](https://open.spotify.com/track/0e7h2gMsKNJtWq9rVnZBII) | [Nosuchthang](https://open.spotify.com/artist/1rbMei7LBIoFdT1NJTwX1J) | [Escape](https://open.spotify.com/album/2JreIwMV3ByLlVT0OZTPvT) | 2:16 | 2023-09-21 | 2023-11-14 |
 | [escape](https://open.spotify.com/track/2GJqqSgS3IjkMlq9IhOKka) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU) | [escape](https://open.spotify.com/album/4m4RyPqwc9e1Rcq1YBYUqT) | 2:15 | 2023-06-22 | 2023-06-30 |
 | [Escapes](https://open.spotify.com/track/75MWpYAYrTmQNvtlzLns2l) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Matthijs Geerts](https://open.spotify.com/artist/5drWMmikuA0FAJmNCxz3fE) | [Escapes](https://open.spotify.com/album/2vtQhWczbK1rJLL28aBbRh) | 2:55 | 2021-06-26 | 2022-04-22 |
@@ -1239,7 +1240,7 @@
 | [Gemini](https://open.spotify.com/track/0KLCCEZEHrBOdWqXT61oSy) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Gemini](https://open.spotify.com/album/2r6KWNnIXw0HeGJsmiVc3c) | 1:55 | 2021-08-27 | 2021-11-19 |
 | [Genesee](https://open.spotify.com/track/3z9GfV4SQsg2dVECeEldwv) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [The Melrose Avenue EP Vol\. I](https://open.spotify.com/album/4bHmqsV6XYhYiyVpT0URS6) | 1:45 | 2022-05-26 | 2022-11-25 |
 | [Gentile](https://open.spotify.com/track/5G9vRwuCNaX3OwY6OPqEN4) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Gentile](https://open.spotify.com/album/22kZqwlYpRCNM8Q35iyjky) | 2:06 | 2023-05-18 | 2023-06-02 |
-| [gentleman in grey](https://open.spotify.com/track/2mnDLmGX7TnIDgaw7nUQve) | [Walter Black & Pinky Jazzman](https://open.spotify.com/artist/5vSsNRvnWbmuEtH4HJlWKp) | [gentleman in grey](https://open.spotify.com/album/5FAdLPnhLQ59fDApKURpFg) | 2:15 | 2023-12-14 | 2023-12-27 |
+| [gentleman in grey](https://open.spotify.com/track/2mnDLmGX7TnIDgaw7nUQve) | [Walter Black & Pinky Jazzman](https://open.spotify.com/artist/5vSsNRvnWbmuEtH4HJlWKp) | [gentleman in grey](https://open.spotify.com/album/5FAdLPnhLQ59fDApKURpFg) | 2:15 | 2023-12-14 |  |
 | [Gentlyyy](https://open.spotify.com/track/7bOBBXCIgSbqB6CkaaR81a) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Gentlyyy](https://open.spotify.com/album/10NxiiHgxjuCyPjA3TQvS4) | 2:08 | 2020-04-10 | 2020-06-12 |
 | [Georgia](https://open.spotify.com/track/02u7h45sCjGQj32LjoUZ2f) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Georgia](https://open.spotify.com/album/7yE9HYhxgl5ewadykqPr7z) | 2:17 | 2020-09-11 | 2020-12-18 |
 | [Gerocco](https://open.spotify.com/track/7p1gJlddiggTIbhCyRrGL1) | [Fab Beat](https://open.spotify.com/artist/4J9EaXhlfJgEEVaN4hPkE6), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Gerocco](https://open.spotify.com/album/2E1JAFBTWbXAZTnGrr8tAb) | 4:31 | 2020-06-16 | 2020-09-11 |
@@ -2377,7 +2378,7 @@
 | [Non](https://open.spotify.com/track/70Fpfvw4EwnTiInSc1U3e0) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Flitzer](https://open.spotify.com/album/7I13wkKorEyQq5WCU7e0Vv) | 2:41 | 2021-08-13 | 2021-09-10 |
 | [Nonobody](https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Nonobody](https://open.spotify.com/album/4Yn55I0bFe87BrUFQIISXF) | 2:24 | 2022-10-13 |  |
 | [Noodle Soup](https://open.spotify.com/track/31pRixOWqVG7Gp1SpZj8mt) | [Cactus Vibrance](https://open.spotify.com/artist/6PVB0Ti5A0B4sCtcVKyQ5G) | [Noodle Soup](https://open.spotify.com/album/2EvTde1WHndypmL6zv8MmG) | 1:13 | 2021-12-11 | 2021-12-21 |
-| [Noontime Slouch](https://open.spotify.com/track/6pKt3ka7VKnowZgud26D7X) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Noontime Slouch](https://open.spotify.com/album/6URE1OMNv9fEaceZyRPtbH) | 2:04 | 2023-12-01 |  |
+| [Noontime Slouch](https://open.spotify.com/track/6pKt3ka7VKnowZgud26D7X) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Noontime Slouch](https://open.spotify.com/album/6URE1OMNv9fEaceZyRPtbH) | 2:04 | 2023-12-01 | 2024-01-04 |
 | [Northern Lights](https://open.spotify.com/track/5ie0eCg6MnIAXVyqg8VGGy) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Northern Lights](https://open.spotify.com/album/7fuQgnBnwhQOPUjkJtWUCX) | 2:00 | 2022-08-18 | 2023-10-06 |
 | [Nostalgia](https://open.spotify.com/track/3iT6bEadJKPuGhc01xKGLF) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [NXWA](https://open.spotify.com/artist/1sHBsHEfGEQIuSbvyMB8jn), [LOOF](https://open.spotify.com/artist/6hhRXLJb6Uvb29pFipoZGP) | [En Route](https://open.spotify.com/album/3numgBHs95MdGUKMcDgAT7) | 2:05 | 2023-04-13 | 2023-10-20 |
 | [Nostalgia](https://open.spotify.com/track/19NMCb0Ur6FPad3BU0ainP) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Nostalgia](https://open.spotify.com/album/1K0LekCXrnlYhzbc1HwGYj) | 1:31 | 2022-07-14 | 2023-04-21 |

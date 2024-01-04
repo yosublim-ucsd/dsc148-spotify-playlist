@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,009 songs - 2 day 21 hr 18 min
+1,010 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Echoes of Elegance](https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Echoes of Elegance](https://open.spotify.com/album/0S1X3z1LbNOqeRNzRjKDHn) | 4:11 | 2023-11-17 |  |
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 | 2023-12-24 |
+| [Eleanor](https://open.spotify.com/track/3acWM17VlZFZbYhgUKfpzt) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/0U3WgFMFWPqcR4xf1kEXLT) | 4:49 | 2023-12-22 |  |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 | 2023-12-08 |  |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-14 |  |
@@ -830,7 +831,7 @@
 | [Taplow](https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [Return to Mind](https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr) | 4:44 | 2022-04-14 | 2022-09-23 |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-28 | 2022-09-30 |
 | [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 | 2022-04-14 | 2022-10-08 |
-| [That Lingering Feeling](https://open.spotify.com/track/3hCYV3GlOiuywPLW6zchgr) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [That Lingering Feeling](https://open.spotify.com/album/7q3WdNTi4XHmFG3nxcrceZ) | 3:05 | 2023-08-31 |  |
+| [That Lingering Feeling](https://open.spotify.com/track/3hCYV3GlOiuywPLW6zchgr) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [That Lingering Feeling](https://open.spotify.com/album/7q3WdNTi4XHmFG3nxcrceZ) | 3:05 | 2023-08-31 | 2024-01-04 |
 | [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [That's All](https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:53 | 2022-06-30 | 2022-09-23 |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 |  |

@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-118 songs - 11 hr 11 min
+119 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
 | [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
-| [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 |  |
+| [Woh Dehleez](https://open.spotify.com/track/7417MJt7NRvYGAcltQ5fyr) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/65E83zzOXqaokPZl6yO1pN) | 5:28 | 2023-12-12 |  |
+| [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 | 2024-01-04 |
 | [Woh Kaghaz Ki Kashti](https://open.spotify.com/track/6qtSFL6qFbw7EmaRIsS0IR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [The Latest](https://open.spotify.com/album/07RBhfRhDPQO2ULIe68RYn) | 6:28 | 2023-05-15 |  |
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/0Uj2q3Z8g1OiMwc98Rjlhw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/6W4RhKBsth6Y371hcOd61j) | 6:18 | 2022-07-26 | 2023-12-14 |
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/5D89anW7HUv01m8jLHQZ7s) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/2R5vh8gBTTZw1PhXFBgtZp) | 6:18 | 2023-12-12 |  |

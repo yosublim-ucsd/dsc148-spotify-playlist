@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 249078,
       "name": "Ama a Quien Llora por Ti",
       "url": "https://open.spotify.com/track/7dx5nsXhkbc53tUhszjTP3"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Spinetta y los Socios del Desierto",
+        "url": "https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Y Los Socios Del Desierto",
+          "url": "https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243626,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
+    },
+    {
+      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 211653,
       "name": "Como Al\u00ed",
       "url": "https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs"
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 268213,
       "name": "Hab\u00eda una Vez ...",
       "url": "https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I"
@@ -4306,7 +4324,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 223040,
       "name": "Tarea Fina",
       "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 231533,
       "name": "Un \u00c1ngel para Tu Soledad",
       "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 214651,
       "name": "Volver a Nacer",
       "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
@@ -5006,6 +5024,24 @@
       "duration_ms": 208764,
       "name": "Ya Lo Sab\u00e9s",
       "url": "https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg"
+    },
+    {
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "album": {

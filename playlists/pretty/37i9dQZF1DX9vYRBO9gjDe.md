@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。1月1日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,216 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,234 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [旅をゆけ](https://open.spotify.com/track/3imZFhmB9bYSJYCKOnWTWm) | [奥田民生はっとり](https://open.spotify.com/artist/3oWHbGV27C3W2ZZz3rfGVs) | [旅をゆけ](https://open.spotify.com/album/6ZQsDrKZtuOoXC90iy0za3) | 3:51 |
 | 50 | [NEWSmile](https://open.spotify.com/track/3SWvchjVMjO00cc5aBghsn) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:21 |
 
-Snapshot ID: `MCwwMWRiYTk4MjJjMDQ2M2Y4NmU4YmI0MjEyY2VlODk2MTY3ZTcwZjFj`
+Snapshot ID: `MCw3NjI3NmE3YWUyMGVjMjFiOGFjMTE3ZjNlMmE3MWMxNTJmMzEzNGFm`

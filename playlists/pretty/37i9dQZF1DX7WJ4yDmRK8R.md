@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,190 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,268 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 47 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 |
 | 48 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 |
 | 49 | [Road Rash](https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Duck and Cover](https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0) | 2:01 |
-| 50 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:46 |
-| 51 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
+| 50 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
+| 51 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:46 |
 | 52 | [Where'd You Go](https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [More Noise And Other Disturbances](https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO) | 3:26 |
 | 53 | [Too Much Pressure](https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV) | 3:51 |
 | 54 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 74 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
 | 75 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
 | 76 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
-| 77 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
-| 78 | [On and On](https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn) | 2:17 |
+| 77 | [On and On](https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn) | 2:17 |
+| 78 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
 | 79 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
 | 80 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
-| 81 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
-| 82 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
+| 81 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
+| 82 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
 | 83 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
 | 84 | [El Coo Cooi](https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 2:37 |
 | 85 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 |
 | 100 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |
 
-Snapshot ID: `MCxjN2IxNDE2MDcxMzkyMWE4MDE0ZGQxZmYzYWIxZjcxMGMzYzY0Y2Zh`
+Snapshot ID: `MCw3ZGJmN2MwY2VhYjA2MzYxZTA1NTkwMDg4NDFlMGQ3Y2NkMTNkMzU5`

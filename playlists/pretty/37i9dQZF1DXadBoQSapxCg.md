@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,989 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,038 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [STR!PP3R](https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [STR!PP3R](https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9) | 3:07 |
 | 60 | [Playlist Transante](https://open.spotify.com/track/2qCps28vIziXwOKmici1g7) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Playlist Transante](https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS) | 3:17 |
 
-Snapshot ID: `MCwzM2Y2NWM1N2I1NzExOTUwMzY5ZTJiMWMyMDM0MjkwZDJjNjUwYzI4`
+Snapshot ID: `MCw0YTcwOWE1MzdmYzQ0NzMyMjlmZTVlYWQzZjY2MjA5MTY1OTI4MGRk`

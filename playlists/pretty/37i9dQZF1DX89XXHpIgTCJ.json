@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 299322,
+  "num_followers": 299311,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmNkYTcyNWI3YzA0ODM4NGZjNGIwZjNiZGU1ZDliY2E5YTBkY2Y4",
+  "snapshot_id": "MCw1ZDA1NmFhNDNhY2FhNDI2ZGU2ODZmOGZjOTU0YzU4M2QyOWY1NjYy",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 229573,
       "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
       "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -555,30 +555,18 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Run the Jewels 2",
-        "url": "https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY"
+        "name": "The Moment (Digital Deluxe)",
+        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
       },
       "artists": [
         {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+          "name": "Framing Hanley",
+          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Close Your Eyes (And Count to Fuck)",
-      "url": "https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136"
+      "duration_ms": 187906,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -603,18 +591,30 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "The Moment (Digital Deluxe)",
-        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
+        "name": "Run the Jewels 2",
+        "url": "https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY"
       },
       "artists": [
         {
-          "name": "Framing Hanley",
-          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
+      "duration_ms": 234160,
+      "name": "Close Your Eyes (And Count to Fuck)",
+      "url": "https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Nobody's Listening",
+      "url": "https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Remember That You Will Die",
         "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 151318,
       "name": "Fuck Around and Find Out (feat. $NOT)",
       "url": "https://open.spotify.com/track/4d0ySS7ajnuH4FFPaf3EQK"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Nobody's Listening",
-      "url": "https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ"
     },
     {
       "added_at": "2023-10-01 21:11:39",

@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-199 songs - 11 hr 7 min
+200 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Fight Back Time](https://open.spotify.com/track/1e0jxzKnJEKnjse5gfPBwZ) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/7vrjR8CtwCxt6WDON4Ph4C) | 3:17 | 2023-11-29 | 2024-01-01 |
 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2023-11-29 |  |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-11-29 |  |
-| [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 | 2023-11-29 |  |
+| [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 | 2023-11-29 | 2024-01-04 |
 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 | 2022-11-30 | 2023-11-30 |
 | [GATA](https://open.spotify.com/track/7bfsB9aEVuKUUZ7CTjmoGN) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SUPERNOVA](https://open.spotify.com/album/4stpoGWquK8Zb2Xq41NA39) | 2:11 | 2023-11-29 |  |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-11-29 |  |
@@ -119,13 +119,14 @@
 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 | 2023-11-29 |  |
 | [Love You By Myself](https://open.spotify.com/track/5sO4jLYdMpXIYf2dokSlSw) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Love You By Myself](https://open.spotify.com/album/70rRSR5tt1GdkQFLDmrFmj) | 3:01 | 2022-11-30 | 2023-11-30 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2022-11-30 | 2023-11-30 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-29 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-29 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-29 |  |
 | [Melody \(From You to Me\)](https://open.spotify.com/track/42DKD0UZbuzcFSxjA4nh7D) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Dreams, Pains & Paper Planes](https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV) | 3:23 | 2022-11-30 | 2023-11-30 |
 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 | 2022-11-30 | 2023-11-30 |
 | [Mi Amor](https://open.spotify.com/track/43LaVZm8uQN9RIj2j5JxCn) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/4qHKbdVCVJXbhXKrt2m1mE) | 2:38 | 2022-11-30 | 2023-04-30 |
 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 | 2022-11-30 | 2023-11-30 |
 | [milksugar](https://open.spotify.com/track/43jUhG1nmQC554vGhgbXnj) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/53bJVtuHxm3EkMaLLwpvUt) | 5:36 | 2023-11-29 |  |
-| [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-11-29 | 2024-01-03 |
+| [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-11-29 |  |
 | [Mirror Dance](https://open.spotify.com/track/6SXfklnxW14O5gKqkBNaMm) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Dame Dearest \(Pilot\)](https://open.spotify.com/album/4XbrkI4jqtyaUr7cBnwz4L) | 3:03 | 2022-11-30 | 2023-11-30 |
 | [Mirror Dance](https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Mirror Dance](https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V) | 3:03 | 2022-11-30 | 2023-07-19 |
 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 | 2023-11-29 |  |

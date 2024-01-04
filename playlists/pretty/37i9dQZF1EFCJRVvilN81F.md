@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,524 likes - 131 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,526 likes - 131 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 2 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
 | 3 | [YOU'RE THE ONE \(feat\. Syd\)](https://open.spotify.com/track/2kYf8lZWXI4Ajd7ZhVhKhu) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 3:47 |
 | 4 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
-| 5 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
+| 5 | [10%](https://open.spotify.com/track/7m0GLNroVLwS55FviKS0h7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [10% \(Official Video\)](https://open.spotify.com/album/58OuhrmqsKVdO5vC7tAzjT) | 3:11 |
 | 6 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 |
 | 7 | [CHANCES](https://open.spotify.com/track/0XEhhANHRAqXM9c3JSvLfX) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 3:38 |
 | 8 | [GLOWED UP](https://open.spotify.com/track/4v20N4W83XDJORt7WCedII) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:58 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 60 | [Blakkst Skn](https://open.spotify.com/track/7JCly2B16uFNXruzsSYmqr) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Blakkst Skn](https://open.spotify.com/album/056FmmhZZZeEs8dcjzcziI) | 3:30 |
 | 61 | [THE MOVE \- prod\. KAYTRANADA](https://open.spotify.com/track/5ZnZelwYbsrBsi2QmBcTXC) | [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [THE MOVE \(prod\. KAYTRANADA\)](https://open.spotify.com/album/0d9pwcDuixiZHEcxwnvFNU) | 3:14 |
 | 62 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/6IdCoC26mus1crAnWEiG9j) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:03 |
-| 63 | [Say Sumthin](https://open.spotify.com/track/6UAaa72nf55kRhyF1SjV4i) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [One Hand on the Future](https://open.spotify.com/album/2iXC1LP13glN7IQrsF7hUI) | 3:46 |
-| 64 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
+| 63 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
+| 64 | [Say Sumthin](https://open.spotify.com/track/6UAaa72nf55kRhyF1SjV4i) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [One Hand on the Future](https://open.spotify.com/album/2iXC1LP13glN7IQrsF7hUI) | 3:46 |
 | 65 | [Live in the Moment \(feat\. GoldLink\)](https://open.spotify.com/track/6dt1vglokVwAR8XuVC9Gnd) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:06 |
 | 66 | [September 21](https://open.spotify.com/track/7K1dTX1ydI3RMXTQU6dkgD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:51 |
 | 67 | [IT WAS MEANT 2 B](https://open.spotify.com/track/3AY6Umh7zKCxy5NoftF6cc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 4:00 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 130 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 131 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Mjg0MDQxMjAsMDAwMDAwMDBiNjY5NWQyNjE4NTg3YWE5OTkwYTI3Nzk4OTQxZTllYQ==`
+Snapshot ID: `Mjg0MDU1NjAsMDAwMDAwMDBiMjAwMDY0MjE3YzA1OTBiYWM3YmQ2Y2VkYmUxMTBmMg==`

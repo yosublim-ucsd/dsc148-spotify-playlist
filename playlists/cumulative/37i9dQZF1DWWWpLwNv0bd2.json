@@ -3869,6 +3869,32 @@
     },
     {
       "album": {
+        "name": "Velagaadha (From \"Lover\")",
+        "url": "https://open.spotify.com/album/03aHFYMBRVpssw2YjQYPKa"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202888,
+      "name": "Velagaadha - From \"Lover\"",
+      "url": "https://open.spotify.com/track/0KTyfuhoHpgiC9KMyQ4uMg"
+    },
+    {
+      "album": {
         "name": "Veyyon Silli (From \"Soorarai Pottru\")",
         "url": "https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx"
       },

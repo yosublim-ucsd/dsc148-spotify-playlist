@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,938,085 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,938,268 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 39 | [numb the pain](https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 1:22 |
 | 40 | [Off the Wall!](https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 3:23 |
 | 41 | [Guardian angel](https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:48 |
-| 42 | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb) | 1:34 |
+| 42 | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/1QKDXegQxJBzSs8ZBNtGbT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 1:44 |
 | 43 | [HEARTEATER](https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:16 |
-| 44 | [Looking for a Star](https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 2:17 |
-| 45 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 |
-| 46 | [Boost!](https://open.spotify.com/track/455IYy22hKJXgEwgownVqT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:17 |
+| 44 | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb) | 1:34 |
+| 45 | [Looking for a Star](https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 2:17 |
+| 46 | [King Of The Dead](https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:39 |
 | 47 | [Triumph](https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:46 |
-| 48 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 |
-| 49 | [I spoke to the devil in miami, he said everything would be fine](https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:58 |
-| 50 | [Snow \(feat\. Killstation\)](https://open.spotify.com/track/1TAEtwlUr2yawioB2T9neG) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ItWasntEnough](https://open.spotify.com/album/6WJROqk9sHdhBaaQcpOGk7) | 1:48 |
+| 48 | [Boost!](https://open.spotify.com/track/455IYy22hKJXgEwgownVqT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:17 |
+| 49 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 |
+| 50 | [I spoke to the devil in miami, he said everything would be fine](https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:58 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA5MzI3NzQ5ZmVhMTRkMzIzOTY2NjMwYzdmMjJkMjUxZA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAxNWFkYjIwMzUzZGMyOTVhM2ZiZTk0ODgyNmYyZDI2NQ==`

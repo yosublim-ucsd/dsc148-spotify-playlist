@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 4938,
+  "num_followers": 5006,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1",
+  "snapshot_id": "MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "</3 + :(",
+        "url": "https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": ":(",
+      "url": "https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Pretty Girls Love Slizzy",
         "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 169736,
       "name": "Rump (feat. Chow Lee)",
       "url": "https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "</3 + :(",
-        "url": "https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": ":(",
-      "url": "https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Pretty Ones",
-        "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Pretty Ones",
-      "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 186399,
       "name": "Cagoule",
       "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Pretty Ones",
+        "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "duration_ms": 221570,
+      "name": "Pretty Ones",
+      "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
     },
     {
       "added_at": "2023-12-01 14:44:59",

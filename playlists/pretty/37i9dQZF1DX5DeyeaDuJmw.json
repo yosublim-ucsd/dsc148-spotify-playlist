@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: AK4:20.",
-  "num_followers": 152428,
+  "num_followers": 152450,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDNmNDM3MmJlYjhmMmQ4ZWRiZjkxOWUxYTE3MDdhNDYzYjQ0NjI3",
+  "snapshot_id": "MCxiNzYzYTIwYmVkYjBhYTVjMDdhODg2MDAxMmE2OWIyMTEzMTQ0MjU3",
   "tracks": [
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2ZlrG0oMqhNUW4P7IbVUA7"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/7tNIS3BAd64vbGmaraU8hk"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Titubeo",
         "url": "https://open.spotify.com/album/5EVsvDYBjnXWPmnpdwVOVw"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 205434,
       "name": "Titubeo",
       "url": "https://open.spotify.com/track/5wMxXn08lUHAqtQ1oS5YtM"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/2ZlrG0oMqhNUW4P7IbVUA7"
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         },
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 201858,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/7tNIS3BAd64vbGmaraU8hk"
+      "duration_ms": 226520,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
     },
     {
       "added_at": "2023-06-09 14:06:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,243 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,263 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 29 | [Sin Querer Queriendo \(feat\. Mau y Ricky\)](https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:48 |
 | 30 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 | 31 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
-| 32 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
-| 33 | [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 |
+| 32 | [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 |
+| 33 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
 | 34 | [Bota Fuego \(feat\. Dímelo Flow, Justin Quiles & Lenny Tavárez\) \- Remix](https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Bota Fuego \(feat\. Dímelo Flow, Justin Quiles & Lenny Tavárez\) \[Remix\]](https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL) | 4:12 |
 | 35 | [PAPÁS](https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [PAPÁS](https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA) | 3:13 |
 | 36 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/5MVwgz47Vk7xknqySz0376) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/album/5ABQADzHNwWS2DoftWlvIS) | 3:24 |
 | 50 | [Amigos \(con Andry Kiddos\)](https://open.spotify.com/track/5w7KnO18gZntBOxIiubPOa) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:27 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAyN2IyOGFjODczMDBjYmIxNzgwZTYyMTRkNjFjODA2NA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAwMTQwYTMxYmZmNTA0OGI0NTk4ZWJjMWQxOTk1ZTk3ZQ==`

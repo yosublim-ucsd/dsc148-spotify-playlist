@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzY0NWY3YzJkOTNlNDgxODkwYWUwYzNkZDE4MjY5YjRlNmUzZDQ3",
+  "snapshot_id": "MCxkYjZmNTVmMzMyMjlmNmYxNWRhNzIxNmUxNGU1NmI0MmJhNTk3M2Uw",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -907,8 +907,8 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
       "artists": [
         {
@@ -916,17 +916,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Quem Tem Um Amigo (Tem Tudo)",
-      "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1003,6 +999,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Beto Villares",
+        "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
+      },
+      "artists": [
+        {
+          "name": "Beto Villares",
+          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Rio da Bossa Nova",
+      "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
       },
@@ -1039,22 +1051,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Beto Villares",
-        "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
-      },
-      "artists": [
-        {
-          "name": "Beto Villares",
-          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Rio da Bossa Nova",
-      "url": "https://open.spotify.com/track/07tHMgxtVHlo10234lOBML"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Tom Jobim",
         "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
       },
@@ -1071,8 +1067,8 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
       },
       "artists": [
         {
@@ -1080,13 +1076,17 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 233320,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+      "duration_ms": 249000,
+      "name": "Quem Tem Um Amigo (Tem Tudo)",
+      "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
     },
     {
       "added_at": "2023-06-23 03:00:00",

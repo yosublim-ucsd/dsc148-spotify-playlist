@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,865 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,900 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 48 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
 | 49 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBkZDRhNTk1NDZkNzhhNmY2OWY5ZDJmYWQ2M2NkM2I2MA==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDAxNTQyNWYwY2ZlMmVkZDc1ZTc4NTE0YWM5MzU5ODhjMQ==`

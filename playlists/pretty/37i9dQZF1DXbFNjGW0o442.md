@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,605 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,621 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,18 +67,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 57 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 |
 | 58 | [Palo de Amansar](https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos que ladran](https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT) | 3:12 |
 | 59 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
-| 60 | [Azul Casi Morado](https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [15 Años de Exitos](https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6) | 4:17 |
-| 61 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
-| 62 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
+| 60 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
+| 61 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
+| 62 | [Azul Casi Morado](https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [15 Años de Exitos](https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6) | 4:17 |
 | 63 | [Perfume](https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC) | 4:51 |
 | 64 | [Preguntame](https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx) | 3:24 |
 | 65 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
-| 66 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
-| 67 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
-| 68 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
-| 69 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
-| 70 | [Dibujo un Corazón](https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn) | 3:59 |
-| 71 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
+| 66 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
+| 67 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
+| 68 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
+| 69 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
+| 70 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
+| 71 | [Dibujo un Corazón](https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn) | 3:59 |
 | 72 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 |
 | 73 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 |
 | 74 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 |
@@ -87,15 +87,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 77 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 | 78 | [Ojos En El Carro](https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Pasar de las Luces](https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm) | 5:28 |
 | 79 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
-| 80 | [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra & Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 |
-| 81 | [Eras](https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7) | 4:24 |
+| 80 | [Eras](https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7) | 4:24 |
+| 81 | [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra & Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 |
 | 82 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 |
 | 83 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
 | 84 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 |
 | 85 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
-| 86 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 |
+| 86 | [give/UP](https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn) | 3:40 |
 | 87 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
-| 88 | [give/UP](https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/74buoPf0UxcLGAI0oUjkGn) | 3:40 |
+| 88 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 |
 | 89 | [Esquizofrenia](https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Esquizofrenia](https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD) | 3:08 |
 | 90 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
 | 91 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 93 | [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 |
 | 94 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 |
 | 95 | [Somos](https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Somos](https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik) | 3:00 |
-| 96 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
-| 97 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
-| 98 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
+| 96 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
+| 97 | [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 |
+| 98 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
 | 99 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
 | 100 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
 
-Snapshot ID: `MCxmOWQyNzM1ZDk3MDU1OGMzNjYxYzdjZGE0ZDBhYjhhNTNhMmQ2Nzgx`
+Snapshot ID: `MCw5ZjlhZWUxN2RhOTI5OWVkODU3NGM2OWNmMjA5ZGEwYWU3YzNmY2Rl`

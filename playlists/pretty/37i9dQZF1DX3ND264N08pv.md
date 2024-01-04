@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,981 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,017 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 60 | [The Ultimate Sound](https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Ultimate Sound](https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW) | 2:41 |
 | 61 | [Here To Stay](https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Serouj Guidanian](https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU) | [The Ultimate Killing Machine](https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23) | 3:25 |
 | 62 | [Woo](https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Woo](https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB) | 3:37 |
-| 63 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 |
-| 64 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
-| 65 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 |
-| 66 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 |
+| 63 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 |
+| 64 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 |
+| 65 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
+| 66 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 |
 | 67 | [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 |
 | 68 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 |
 | 69 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 80 | [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 |
 | 81 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 |
 | 82 | [Het Verbond](https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Het Verbond](https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM) | 4:16 |
-| 83 | [Locked Up](https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [Locked Up](https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla) | 3:53 |
+| 83 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
 | 84 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 |
-| 85 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
+| 85 | [Locked Up](https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [Locked Up](https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla) | 3:53 |
 | 86 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 |
 | 87 | [The Gospel \- Geck\-o's Gabber Confession Remix](https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Geck\-O](https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB) | [The Gospel \(Geck\-o's Gabber Confession Remix\)](https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo) | 3:51 |
 | 88 | [DON'T BE SCARED](https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [BLACK FREQUENCY](https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH) | [DON'T BE SCARED](https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Enemy](https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4), [TukkerTempo](https://open.spotify.com/artist/1hP1BT3aK40lWagFTrvLLN), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Enemy](https://open.spotify.com/album/4bMvupucD3bY4SIEZ9pBE7) | 3:21 |
 | 100 | [The Protector](https://open.spotify.com/track/48IF3j773hpoiFt97HyooD) | [Distinction](https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3), [Kelly](https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT) | [It's Time EP](https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp) | 3:59 |
 
-Snapshot ID: `MCxhMDg1MmU2NjQyMGMzMzQ5ODExNzlhOTE1YzNkMDBmODY4MjI5YjM3`
+Snapshot ID: `MCw0YmYzMTc5NWNkMzc5NmNmMTUxZWYxMDIwM2M4MTM3NTJkYTc3MzZm`

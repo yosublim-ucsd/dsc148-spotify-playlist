@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,635 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,543 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 27 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 4:18 |
 | 28 | [Jolly old st Nicolas](https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Jolly old st Nicolas](https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5) | 1:44 |
 | 29 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:15 |
-| 30 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
-| 31 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
+| 30 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
+| 31 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
 | 32 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 |
 | 33 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 | 34 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
 | 70 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 
-Snapshot ID: `MCwxNTlhNzRmMDJhMGZlMWNjZDM5NTE3MGUyMTg2N2YxNWMyMjU4MjY4`
+Snapshot ID: `MCwwODZjMzJiNjVjNjcxOGNiNmE1ODFhZmJhMDQxOGEzNzc5ZTJmYjMw`

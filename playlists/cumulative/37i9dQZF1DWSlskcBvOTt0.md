@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-552 songs - 2 day 5 hr 6 min
+553 songs - 2 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Birds and Smoke](https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/5yS2vHJXAfLwUNYmuJ556C) | 6:08 | 2022-07-01 | 2023-02-21 |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blaze \- J.O.P\. Remix](https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Blaze \(J.O.P\. Remix\)](https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9) | 5:50 | 2023-07-28 | 2023-10-21 |
-| [Blinded \- Colyn Remix](https://open.spotify.com/track/0I77MqBHPznJwG5nFOVwFX) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded Remixes](https://open.spotify.com/album/36Dm8iPeEe4hNpxw76e3rK) | 5:43 | 2023-10-06 |  |
+| [Blinded \- Colyn Remix](https://open.spotify.com/track/0I77MqBHPznJwG5nFOVwFX) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded Remixes](https://open.spotify.com/album/36Dm8iPeEe4hNpxw76e3rK) | 5:43 | 2023-10-06 | 2024-01-04 |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 | 2023-03-11 |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
 | [Bocat](https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Bocat](https://open.spotify.com/album/3U902JoOXXajnhsYNYk55B) | 6:25 | 2023-06-16 | 2023-07-12 |
@@ -270,6 +270,7 @@
 | [Let Us Be Free](https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Let Us Be Free](https://open.spotify.com/album/21mYe46OSTD40v2dq4Qgga) | 7:07 | 2022-12-09 | 2023-02-20 |
 | [Let's Pretend](https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Let's Pretend](https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K) | 3:40 | 2022-11-18 |  |
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
+| [Like Forever](https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Like Forever / Little Void](https://open.spotify.com/album/6EByNISL8uFeS2mW1kVzVA) | 6:20 | 2023-12-15 |  |
 | [Like That](https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Like That](https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq) | 3:42 | 2023-10-20 |  |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 | 2023-09-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 133078,
+  "num_followers": 133136,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDJhNDNhNDRmZmM2OWE1YmY5ODU3Mjc5ZDE0YTNlM2JlZGVmZDQz",
+  "snapshot_id": "MCxiMDA0ZTE4YjMzZjk3YjhhNGZlMjIwZmQxODQ2M2Q2NTAxMzI5NDM1",
   "tracks": [
     {
       "added_at": "2023-12-22 16:26:10",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-12-22 16:26:10",
       "album": {
-        "name": "Blue Hawaii",
-        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2023-12-22 16:26:10",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2023-12-22 16:26:10",
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
       "added_at": "2023-12-22 16:26:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-22 16:26:10",
       "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
-    },
-    {
-      "added_at": "2023-12-22 16:26:10",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 241066,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2023-12-22 16:26:10",
+      "album": {
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
     },
     {
       "added_at": "2023-12-22 16:26:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-12-22 16:26:10",
       "album": {
-        "name": "El alma al aire",
-        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
-    },
-    {
-      "added_at": "2023-12-22 16:26:10",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 276000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "added_at": "2023-12-22 16:26:10",
+      "album": {
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Cuando nadie me ve",
+      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
     },
     {
       "added_at": "2023-12-22 16:26:10",

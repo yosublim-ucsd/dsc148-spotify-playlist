@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-180 songs - 9 hr 49 min
+181 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,8 @@
 | [Christmastide](https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Christmastide](https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4) | 3:44 | 2021-12-17 | 2022-11-18 |
 | [Christmastime](https://open.spotify.com/track/3hnJoXTpYufVCd4blCGzo6) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:00 | 2023-11-14 |  |
 | [Christmastime](https://open.spotify.com/track/1qQFeYlob4mNY2Q2ZLRsqk) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 4:00 | 2022-11-18 | 2023-10-28 |
-| [Come On Home For Christmas](https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Come On Home For Christmas](https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn) | 3:00 | 2022-11-18 | 2023-12-06 |
-| [Come On Home For Christmas](https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:00 | 2022-11-18 |  |
+| [Come On Home For Christmas](https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Come On Home For Christmas](https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn) | 3:00 | 2022-11-18 |  |
+| [Come On Home For Christmas](https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:00 | 2022-11-18 | 2024-01-04 |
 | [Driving Home for Christmas](https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:59 | 2021-12-17 |  |
 | [Driving Home for Christmas](https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Driving Home For Christmas](https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo) | 3:03 | 2022-11-18 |  |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-12-17 |  |
@@ -70,7 +70,8 @@
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas Greetings](https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb) | 3:03 | 2021-12-17 |  |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- Single Version](https://open.spotify.com/track/1cvpw953AQ7d3SqnZWVDTn) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Novogodišnji Hitovi 2020](https://open.spotify.com/album/4qs4gIDAq7bLIHHP3LgHWz) | 3:03 | 2022-10-28 | 2022-11-13 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/4BOSE2easo41Q7nuvLm979) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas](https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl) | 3:21 | 2021-12-17 | 2022-07-29 |
-| [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 | 2021-12-17 |  |
+| [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 | 2021-12-17 | 2024-01-04 |
+| [Holly Jolly Christmas](https://open.spotify.com/track/5j2TuSC9kXrf4M0vzoqDMW) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Ultimate Deluxe Edition\)](https://open.spotify.com/album/0UKCFUDo5hCdAB4b6tPqQe) | 3:21 | 2023-11-28 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/7Lm2SpRFSiBUnojsvJUWuf) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Bonus Version\)](https://open.spotify.com/album/1TTRKFwM6ccmHdEpt37L7Z) | 3:21 | 2022-10-28 | 2022-11-13 |
 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 | 2022-11-18 |  |
 | [How I Know It's Christmas \- Acoustic Piano](https://open.spotify.com/track/44bnKOB8Ztbo8IRTVQQ3hH) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [How I Know It's Christmas with the Rte Concert Orchestra](https://open.spotify.com/album/7chkHHKHVlrMJqmOLiWIJd) | 3:47 | 2022-11-18 | 2023-02-14 |

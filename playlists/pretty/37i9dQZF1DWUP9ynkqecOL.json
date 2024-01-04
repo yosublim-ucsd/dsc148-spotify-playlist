@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21116,
+  "num_followers": 21123,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2JlNTQ5YTk5NmY5YjgxNDcwNTQxMDUzYTc1MzQ3ZjllZWM3MTRm",
+  "snapshot_id": "MCw4ZGQxMjRkZDU1OWI5MDFjZTQ4NDZmN2EwZGQ1NDY2YzVmNmMzZjk1",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Reverdecer (Remix)",
-        "url": "https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 181992,
-      "name": "Reverdecer - Remix",
-      "url": "https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Arriba Quemando el Sol",
         "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Reverdecer (Remix)",
+        "url": "https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 181992,
+      "name": "Reverdecer - Remix",
+      "url": "https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "CARNAVALITO DEL DUENDE",
-        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Ay Palomita",
         "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
       },
@@ -783,34 +767,18 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Juana Azurduy",
-        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
+        "name": "CARNAVALITO DEL DUENDE",
+        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
       "artists": [
         {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        },
-        {
-          "name": "Estela de Carlotto",
-          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 218461,
-      "name": "Juana Azurduy",
-      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+      "duration_ms": 172421,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -847,6 +815,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
+        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
+      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Coraz\u00f3n de Agua",
         "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
       },
@@ -867,22 +855,34 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
-        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
+        "name": "Juana Azurduy",
+        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
         },
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Estela de Carlotto",
+          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
-      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
+      "duration_ms": 218461,
+      "name": "Juana Azurduy",
+      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Como la Cigarra",
-        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 249970,
-      "name": "Como la Cigarra",
-      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Lupuna",
         "url": "https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F"
       },
@@ -979,6 +959,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Madre de la Sierra",
+        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+      },
+      "artists": [
+        {
+          "name": "Porangu\u00ed",
+          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+        }
+      ],
+      "duration_ms": 275256,
+      "name": "Madre de la Sierra",
+      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
       },
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Madre de la Sierra",
-        "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
+        "name": "Como la Cigarra",
+        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
       },
       "artists": [
         {
-          "name": "Porangu\u00ed",
-          "url": "https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG"
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 275256,
-      "name": "Madre de la Sierra",
-      "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+      "duration_ms": 249970,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1027,6 +1027,26 @@
       "duration_ms": 276029,
       "name": "Te digo Wayno",
       "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "La Monta\u00f1a Sin Nombre II",
+        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Raag",
+          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
+        }
+      ],
+      "duration_ms": 362653,
+      "name": "CUMBIA ORIENTAL",
+      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1059,26 +1079,6 @@
       "duration_ms": 272503,
       "name": "Truenatruena",
       "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "La Monta\u00f1a Sin Nombre II",
-        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Raag",
-          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
-        }
-      ],
-      "duration_ms": 362653,
-      "name": "CUMBIA ORIENTAL",
-      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
         "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
       },
@@ -1215,18 +1231,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
       },
       "artists": [
         {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
         }
       ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1251,26 +1271,6 @@
       "duration_ms": 259551,
       "name": "Luchin",
       "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "El tiempo de las cosas que frenan",
-        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
+        "name": "Do\u00f1a Ubenza (Remix)",
+        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
       },
       "artists": [
         {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+          "name": "Veronika Silva",
+          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
         },
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
         }
       ],
-      "duration_ms": 300250,
-      "name": "El tiempo de las cosas que frenan",
-      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+      "duration_ms": 281142,
+      "name": "Do\u00f1a Ubenza - Remix",
+      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1491,22 +1491,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Do\u00f1a Ubenza (Remix)",
-        "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
+        "name": "El tiempo de las cosas que frenan",
+        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
       "artists": [
         {
-          "name": "Veronika Silva",
-          "url": "https://open.spotify.com/artist/0pUXvpJVsz6JTJJQUDNhWu"
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
         },
         {
-          "name": "Philippe Cohen Solal",
-          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 281142,
-      "name": "Do\u00f1a Ubenza - Remix",
-      "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
+      "duration_ms": 300250,
+      "name": "El tiempo de las cosas que frenan",
+      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
     }
   ],
   "unique_name": "Electro Folklore",

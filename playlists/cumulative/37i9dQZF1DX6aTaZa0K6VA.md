@@ -2,7 +2,7 @@
 
 ### [Pop Up](https://open.spotify.com/playlist/37i9dQZF1DX6aTaZa0K6VA)
 
-> Super mega hits! Foto: Ken
+> Super mega hits! Foto: Selena Gomez
 
 435 songs - 1 day 0 hr 4 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,134 likes - 78 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,226 likes - 78 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 77 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 78 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCxhYzVjZmI4OWEzMTYxYTkyNzA3OTk4YTM1Yzg2ZDc2MTkyNmY3NGRl`
+Snapshot ID: `MCw1ZjQzZGY0YWM5OWU3MDA5ODlhMTVmMTBkYmZlNDIzZWEwY2Q3N2I3`

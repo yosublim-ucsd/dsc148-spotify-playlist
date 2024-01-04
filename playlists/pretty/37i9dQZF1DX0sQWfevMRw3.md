@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VILL HA KALLT ÖVERALLT ÅKA RULLE KÄKA PALT!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,344 likes - 93 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,369 likes - 93 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 92 | [EPA ANTHEM](https://open.spotify.com/track/1a2heLjas6cQZ3IV5hUEI0) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [EPA ANTHEM](https://open.spotify.com/album/5GqiROXEJFxsK0bTOahh6K) | 2:36 |
 | 93 | [ALKOHOL](https://open.spotify.com/track/1VozMxhW4wB8Xhe29w6FTa) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [ALKOHOL](https://open.spotify.com/album/76jwHf1OBMPy1AcJOKV4ZU) | 2:45 |
 
-Snapshot ID: `MCwwNDJhZjVkODM2YWNjZDI0N2EzYmE4NWJlYWY5ZGVkYTZjNDJkNWEy`
+Snapshot ID: `MCxhZjE3YjNhZmFkYTM4MjgzYjFjZTJiZTZjNjRmOGZkMDQxMTU4YWQ0`

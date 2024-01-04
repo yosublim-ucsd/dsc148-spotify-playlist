@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-145 songs - 9 hr 33 min
+146 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Badai Telah Berlalu](https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Badai Telah Berlalu](https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9) | 4:55 | 2023-04-17 |  |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan \- Single](https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW) | 4:48 | 2023-09-13 | 2023-12-16 |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-12-14 | 2023-08-24 |
+| [Belum Siap Kehilangan](https://open.spotify.com/track/7KXVbdLU70pHjYsVZg47KO) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 4:48 | 2023-12-06 |  |
 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 | 2022-12-14 | 2023-01-12 |
 | [Bercinta Lewat Kata \- OST Jatuh Cinta Seperti di Film\-Film](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(OST Jatuh Cinta Seperti di Film\-Film\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2023-09-13 |  |
 | [Berdua?](https://open.spotify.com/track/19bsxeWxJrEVcEdDdZ60GB) | [Adjani](https://open.spotify.com/artist/2ChD8hHQcN9XKTl52xfwy7) | [Berdua?](https://open.spotify.com/album/6EzUBbpJdny33PD0S3Cdbh) | 3:03 | 2023-09-20 | 2023-10-12 |
@@ -136,7 +137,7 @@
 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 | 2022-12-14 |  |
 | [Teman Tapi Menikah](https://open.spotify.com/track/2YBKZDLTHfoqe7IUEe2z6n) | [Dengarkan Dia](https://open.spotify.com/artist/0FYCcpBLjjMMnse9jIRbu3) | [Teman Tapi Menikah](https://open.spotify.com/album/61pxeWGW8w4LHpLorcVzL7) | 3:42 | 2022-12-14 | 2023-01-17 |
 | [Tentang Rindu](https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Kedua](https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7) | 4:01 | 2022-12-14 |  |
-| [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-12-14 |  |
+| [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-12-14 | 2024-01-04 |
 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-06-07 | 2023-09-15 |
 | [The Man In The Mirror](https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [The Man In The Mirror](https://open.spotify.com/album/7IqiUPXlA1shnkGEx6ZZRj) | 4:26 | 2023-09-20 | 2023-10-12 |
 | [The Only Blue I Love The Best](https://open.spotify.com/track/1APWUocHisr5wV4Fr2nH4j) | [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ), [Alan Davison](https://open.spotify.com/artist/6ZGyLidTBBdkYploi6dH3C) | [Jalan Sendiri](https://open.spotify.com/album/0QcRc65IOYDd5lA3p7fHqR) | 3:52 | 2022-12-14 | 2023-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Tom Odell
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,675 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,669 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 64 | [The Perfect Storm](https://open.spotify.com/track/1Q5NpZnaEwJEvWvWcG5diQ) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [The Perfect Storm](https://open.spotify.com/album/35B7vuQ0sBto0JxecyF6EL) | 3:54 |
 | 65 | [american fantasy](https://open.spotify.com/track/1Et21JkyGRd5rBTbPNUCmm) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [american fantasy](https://open.spotify.com/album/3PQcianQk4Nf2ksnFVrLxC) | 2:22 |
 
-Snapshot ID: `MCw2M2RhOTQwMzlmYzAwMTVmZGMzOTczMTYyOWM0NzZkMDU0NjczMjE4`
+Snapshot ID: `MCwzYzRjMGUzMzM1ZGUxZWI1ZmRmZTczMWE0ODFiZjY1YjIzMjQxOTVm`

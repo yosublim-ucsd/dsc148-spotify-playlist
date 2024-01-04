@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2023\. Cover: Kossisko \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,970 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,976 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 49 | [Glory \(feat\. Waajeed\)](https://open.spotify.com/track/3g9aqptwJdGB0Xrnqz9hha) | [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Glory \(feat\. Waajeed\)](https://open.spotify.com/album/2csRZtfPvyILJD2rzTsiPb) | 3:52 |
 | 50 | [I GOT IT](https://open.spotify.com/track/6ddW4TWSSIuQpJiNf2DN5I) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [I GOT IT](https://open.spotify.com/album/7Ittuxr5x2Z1mM8wxag9zS) | 3:03 |
 
-Snapshot ID: `MCwyOTczM2YxNDE0MDExNTJmYTA0Y2U3MGY2ZDA5NDNjM2RmMjQwYmM5`
+Snapshot ID: `MCxkZTM0YTQyZDIxMDcwN2YxMThhYjM0Y2EyYzk4MDE1NjMxZjM5ZTdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,970 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,032 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 27 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 28 | [Money \(with Tom Misch\)](https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Money](https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG) | 4:51 |
 | 29 | [Lido](https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 3:20 |
-| 30 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
-| 31 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 |
+| 30 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 |
+| 31 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
 | 32 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
 | 33 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 34 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
-| 35 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
-| 36 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
+| 35 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
+| 36 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 37 | [SBCNCSLY](https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 6:24 |
 | 38 | [Desire](https://open.spotify.com/track/7pQA1cjkXj1vKglpu6yZNY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Desire](https://open.spotify.com/album/2HBGW3u9MCS6nPtHMniUjv) | 4:43 |
 | 39 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 49 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
 | 50 | [Moments \- Ben Böhmer & Nils Hoffmann Remix](https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Moments \(Ben Böhmer & Nils Hoffmann Remix\)](https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc) | 4:10 |
 
-Snapshot ID: `MCw2MzgxOWVjNThlZjQ1ZjFiYzk0Y2Y3YzQ0YTEyNzliZjczMWQxNTZh`
+Snapshot ID: `MCw4MmQ1OGFmZmMxMzg4Y2Y2MjQxZTNlM2Y2NTVhZWEzNGQxNDNiMTQw`

@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2663179,
+  "num_followers": 2663232,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTVjMDBjOWUwYWMzMjZhOGU4MjQ2MDYwZjk3YzI5N2Q1OTViOTdi",
+  "snapshot_id": "MCwxMzUwNTExMjYyODEzMTk3NjlmOGM3NWFkZTE5MjY0YzQzZmFjMGFj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+      "duration_ms": 334743,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "The Velvet Underground (45th Anniversary)",
+        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
         }
       ],
-      "duration_ms": 295626,
-      "name": "Gold Dust Woman - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
+      "duration_ms": 339533,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Velvet Underground (45th Anniversary)",
-        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 339533,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+      "duration_ms": 295626,
+      "name": "Gold Dust Woman - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Indigo Girls (Expanded Edition)",
         "url": "https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 241600,
       "name": "Closer to Fine",
       "url": "https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 290733,
       "name": "One Of These Things First",
       "url": "https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 162413,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Kick Inside (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Wuthering Heights - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "San Francisco Days",
         "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Kick Inside (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 268933,
-      "name": "Wuthering Heights - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Odetta Sings",
         "url": "https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Solid Air",
-        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
-      },
-      "artists": [
-        {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "May You Never",
-      "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Pieces of the Sky (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 213026,
       "name": "Boulder to Birmingham - 2003 Remaster",
       "url": "https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Solid Air",
+        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
+      },
+      "artists": [
+        {
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "May You Never",
+      "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
     },
     {
       "added_at": "2023-03-31 04:00:00",

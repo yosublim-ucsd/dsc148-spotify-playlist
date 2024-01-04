@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 446654,
+  "num_followers": 446729,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE4NzIxODI2NzM2YTI1M2I1YzYxMDFmNDA4Y2QzMzFlMDI4Y2Zk",
+  "snapshot_id": "MCw5OGI0OTFiYzQyNDE4ZTE0MTg5ZjZmNDRhZTQ2ODcwYjI1ZTNiZWZh",
   "tracks": [
     {
       "added_at": "2023-11-24 01:06:53",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2023-11-24 01:06:53",
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 218493,
       "name": "La Guitarra",
       "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+    },
+    {
+      "added_at": "2023-11-24 01:06:53",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2023-11-24 01:06:53",
@@ -351,18 +351,22 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2023-11-24 01:06:53",
@@ -383,22 +387,18 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2023-11-24 01:06:53",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
       "artists": [
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+      "duration_ms": 229426,
+      "name": "TU ALMA MIA/ADELITA",
+      "url": "https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q"
     },
     {
       "added_at": "2023-11-24 01:06:53",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 229426,
-      "name": "TU ALMA MIA/ADELITA",
-      "url": "https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q"
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     },
     {
       "added_at": "2023-11-24 01:06:53",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "Quinta S\u00e9rie",
-        "url": "https://open.spotify.com/album/4ODOV14kHREVR543A7NhpF"
-      },
-      "artists": [
-        {
-          "name": "Banana Kush",
-          "url": "https://open.spotify.com/artist/0AKrnOIY3Ws6R4heYoLBx0"
-        }
-      ],
-      "duration_ms": 130882,
-      "name": "Quinta S\u00e9rie",
-      "url": "https://open.spotify.com/track/0pv84csez62xBpafUTjJLx"
-    },
-    {
-      "added_at": "2023-11-24 01:06:53",
-      "album": {
         "name": "Siente El Movimiento",
         "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
       },
@@ -1675,18 +1659,38 @@
     {
       "added_at": "2023-11-24 01:06:53",
       "album": {
-        "name": "La Bacha",
-        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
+        "name": "Quinta S\u00e9rie",
+        "url": "https://open.spotify.com/album/4ODOV14kHREVR543A7NhpF"
       },
       "artists": [
         {
-          "name": "Adhesivo",
-          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
+          "name": "Banana Kush",
+          "url": "https://open.spotify.com/artist/0AKrnOIY3Ws6R4heYoLBx0"
         }
       ],
-      "duration_ms": 196018,
-      "name": "La Bacha",
-      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
+      "duration_ms": 130882,
+      "name": "Quinta S\u00e9rie",
+      "url": "https://open.spotify.com/track/0pv84csez62xBpafUTjJLx"
+    },
+    {
+      "added_at": "2023-11-24 01:06:53",
+      "album": {
+        "name": "Fuera de Ritmo",
+        "url": "https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Dread",
+          "url": "https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV"
+        },
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 264354,
+      "name": "Fuera de Ritmo",
+      "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
     }
   ],
   "unique_name": "Ska Latino ",

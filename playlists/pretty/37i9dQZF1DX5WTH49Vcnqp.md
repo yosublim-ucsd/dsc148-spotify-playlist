@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Cigarettes After Sex
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,488 likes - 81 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,479 likes - 81 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 37 | [THE WAY](https://open.spotify.com/track/18z7n9keoWJQH13BiZEKTs) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [THE WAY](https://open.spotify.com/album/46a5l96JYADaY1NXA0bTDi) | 2:35 |
 | 38 | [Adam](https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Adam](https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ) | 3:16 |
 | 39 | [Kicking Up Daisies](https://open.spotify.com/track/5P9RhF4lbiKHvOGWXU5YQj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Kicking Up Daisies](https://open.spotify.com/album/6IX5m6KY4GI0UOV7gdguzk) | 2:47 |
-| 40 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
+| 40 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 41 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
 | 42 | [Come With Me](https://open.spotify.com/track/5vGlAX1G2A3wSykiggYcfr) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Come With Me](https://open.spotify.com/album/5SoJVpzfTJWGQir95h7i8n) | 3:36 |
 | 43 | [Paradise](https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Paradise](https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz) | 1:47 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 80 | [No Body](https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [No Body](https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW) | 2:42 |
 | 81 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 
-Snapshot ID: `MCxiOTQ5MWEyMTZlMGMzZDIzODQ0MmIwOGI4Mjg4Yjg5M2UwN2EyMDJh`
+Snapshot ID: `MCxlZTg4ZTgyNTRjNjgyNjgyOWQ3OGQ5NjZjOThhZTM1ZGM3ZDA1ZWVk`

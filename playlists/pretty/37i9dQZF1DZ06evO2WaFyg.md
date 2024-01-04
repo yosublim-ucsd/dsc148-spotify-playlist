@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,795 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,835 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 42 | [From A Man](https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [From A Man](https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP) | 3:27 |
 | 43 | [Came and Saw \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/3GkEnNf2RWmdwkA2FfjQ3g) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:54 |
 | 44 | [Jonesboro](https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:43 |
-| 45 | [Throw Sum Mo](https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 4:20 |
-| 46 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 |
-| 47 | [No Limit \(feat\. Young Thug\)](https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:48 |
+| 45 | [Power](https://open.spotify.com/track/0fujQqs6ybS47td4sEwPcA) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [D.A.B\. Muzic, Vol\. 1](https://open.spotify.com/album/1aBzIVyoNah5QzW5LHZEXD) | 3:07 |
+| 46 | [Throw Sum Mo](https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 4:20 |
+| 47 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 |
 | 48 | [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 |
-| 49 | [Payday \(feat\. Young Thug\)](https://open.spotify.com/track/2HolBGR6tpiWI80MXoV1dJ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:32 |
+| 49 | [No Limit \(feat\. Young Thug\)](https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:48 |
 | 50 | [die in california \(feat\. Gunna, Young Thug & Landon Barker\)](https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:27 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBiMDdmZGQ3NDRmNDNmMTQxNmJhMzU5YzVlNDZkZTE4OQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA1OWJiMDEyMDIxYjg3MGFlY2U5NmUyYTc3ZmQzNTM1Nw==`

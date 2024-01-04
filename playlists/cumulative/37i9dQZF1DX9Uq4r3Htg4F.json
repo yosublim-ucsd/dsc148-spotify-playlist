@@ -105,6 +105,42 @@
     },
     {
       "album": {
+        "name": "Maestra Audio Liner",
+        "url": "https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad"
+      },
+      "artists": [
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "Curated by JeA",
+      "url": "https://open.spotify.com/track/345dzgbWZZzWwOVgufJfbC"
+    },
+    {
+      "album": {
+        "name": "Maestra Audio Liner",
+        "url": "https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31250,
+      "name": "Curated by Sumi Jo",
+      "url": "https://open.spotify.com/track/7if8YWZvvldFhHH7GkMPTJ"
+    },
+    {
+      "album": {
         "name": "Symphonic Queen - The Greatest Hits",
         "url": "https://open.spotify.com/album/2cxk26Jcp16zhJv77IFd2v"
       },

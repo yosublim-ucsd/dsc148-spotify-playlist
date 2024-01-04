@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Indie in 2023\. Cover: Mali Velasquez
 
-1,994 songs - 4 day 13 hr 11 min
+1,995 songs - 4 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1107,7 +1107,8 @@
 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4eva](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 | 2022-08-10 | 2022-10-13 |
 | [medicine](https://open.spotify.com/track/4Si2UN4dDhVNJlu4lHnxXD) | [Niko Rose](https://open.spotify.com/artist/5HkHTiICQl3TDWanA5fWSe) | [honeydoo](https://open.spotify.com/album/2EXUWcaxBGQ33TXxITOGLg) | 2:25 | 2023-06-14 | 2023-07-12 |
 | [Medicine](https://open.spotify.com/track/7m554KOcL2xo6zScRNfTdB) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Medicine](https://open.spotify.com/album/2sbC6yTSD83EXcEtt0vR87) | 3:33 | 2023-08-16 | 2023-10-05 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-08 |  |
 | [Melody Machine](https://open.spotify.com/track/1cimggVM2iCiohMVFhQCpb) | [BOYSCOUTMARIE](https://open.spotify.com/artist/37blbfuDsR9IpqCWtTqxZE) | [Melody Machine](https://open.spotify.com/album/0izXpZcwkeEZnJDq74W7Tv) | 2:56 | 2023-07-27 | 2023-09-14 |
 | [Melon\-Candy](https://open.spotify.com/track/3B1b8vZ5arER92CjjGUwr6) | [Key Lime Coast](https://open.spotify.com/artist/550Y3JXcRbEpvMH6FEZjiv) | [Melon\-Candy](https://open.spotify.com/album/1VyPAwtvdOiOkD1E5GQYfD) | 3:02 | 2022-02-09 | 2022-02-23 |
 | [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 | 2023-07-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 123243,
+  "num_followers": 123414,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDk3OTA0MGRmYmM1Y2Y0MTU5YWViNjA5YjM4ZDkwNjRmMDM3ZmFi",
+  "snapshot_id": "MCw1ZTVkNDlkMTRhYzFjYjEyOTM3MDRmY2Q3MzBiMjliMDhkNjc1ZDI4",
   "tracks": [
     {
       "added_at": "2023-08-08 23:43:12",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "El Borracho",
         "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 159694,
       "name": "Mis Ra\u00edces",
       "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Somos Los Que Somos (En Vivo)",
         "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Con Experiencia Y Juventud",
-        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
         }
       ],
-      "duration_ms": 161671,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
+      "duration_ms": 226813,
+      "name": "Voy a Pintar Mi Raya",
+      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -599,34 +599,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "El Profeta Y Otros Caballos Famosos",
-        "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
+        "name": "Con Experiencia Y Juventud",
+        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 204920,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Voy a Pintar Mi Raya",
-      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
+      "duration_ms": 161671,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -643,6 +627,22 @@
       "duration_ms": 151742,
       "name": "Debajo De Los Laureles",
       "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "El Profeta Y Otros Caballos Famosos",
+        "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 143920,
-      "name": "Pa Que Te Casabas Juan",
-      "url": "https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Territorio Prohibido",
         "url": "https://open.spotify.com/album/50JoC611NpgapCzN11G4Xo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218470,
       "name": "Esos Tus Ojos",
       "url": "https://open.spotify.com/track/1BgnOcUE1rdcFtDphQtDOf"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 143920,
+      "name": "Pa Que Te Casabas Juan",
+      "url": "https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
-      },
-      "artists": [
-        {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 158442,
       "name": "Cuanto Me Gusta Este Rancho",
       "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+        "name": "Por Las Calles Enlodadas",
+        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 128733,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"
+      "duration_ms": 148573,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Por Las Calles Enlodadas",
-        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
+        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
+        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
       },
       "artists": [
         {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 148573,
-      "name": "El Amor No Se Vende",
-      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
+      "duration_ms": 128733,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"
     },
     {
       "added_at": "2023-08-08 23:43:12",

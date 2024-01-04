@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 3059486,
+  "num_followers": 3059905,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2U5YzE5NDNmNTVhMWU0YWQ5ZTFjNDYxMzFiOTQzMDhkMzUxNmM3",
+  "snapshot_id": "MCxhZmE1NmYyNjdiMTNkNmUyZDcxYzkyNzM2MzM4ZjgxNjk0YjkzYmQx",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 180133,
       "name": "Build Me Up Buttercup (Mono)",
       "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -337,20 +337,20 @@
       "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
     },
     {
-      "added_at": "2023-12-21 14:48:21",
+      "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -369,20 +369,20 @@
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
-      "added_at": "2022-08-12 11:06:50",
+      "added_at": "2023-12-21 14:48:21",
       "album": {
-        "name": "Four Tops Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Green River (Expanded Edition)",
         "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 154120,
       "name": "Green River",
       "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -659,22 +659,6 @@
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 133933,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Letter/Neon Rainbow",
-        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
-      },
-      "artists": [
-        {
-          "name": "The Box Tops",
-          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Letter/Neon Rainbow",
+        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+      },
+      "artists": [
+        {
+          "name": "The Box Tops",
+          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
         }
       ],
-      "duration_ms": 180943,
-      "name": "Pinball Wizard",
-      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 448720,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -1755,6 +1755,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1787,22 +1803,6 @@
       "duration_ms": 153333,
       "name": "Where Did Our Love Go",
       "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Begin Here",
-        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 145293,
-      "name": "She's Not There",
-      "url": "https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1923,34 +1923,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
       },
       "artists": [
         {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+      "duration_ms": 145293,
+      "name": "She's Not There",
+      "url": "https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Original Monster Mash",
-        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Boris\" Pickett",
-          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
-        },
-        {
-          "name": "The Crypt-Kickers",
-          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Monster Mash",
-      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Save the Last Dance for Me",
         "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
       },
@@ -2439,6 +2419,26 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     }
   ],
   "unique_name": "All Out 60s",

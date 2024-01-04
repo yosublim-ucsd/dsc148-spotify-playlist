@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: yonige
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,131 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,156 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
 | 70 | [リップシンク](https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [charm](https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ) | 3:10 |
 
-Snapshot ID: `MCw1NmE4MDAyYjEzOWU0NGQ5ZDI5MzIzN2I4MzI1Y2EzYzVmNDMxNDUz`
+Snapshot ID: `MCxiZjA5ZDgxNDRmMDdjYTYwZWYyYjI2NjA5ZWI3OGJkZDRkYjBhZGZh`

@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 708930,
+  "num_followers": 708970,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWVmNzU1ZDk0ZmYxOGQwMzU3ZTk2ZTY3NDViZDhjMWI3NWMzMWM4",
+  "snapshot_id": "MCxmZGIwN2Y2NDYwMjVlZGM4YzI1YzQ2MWNmZDllMWE2ZjIzODYzOWFl",
   "tracks": [
     {
       "added_at": "2023-12-15 14:55:15",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -875,18 +891,22 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
+        "name": "thoughts i have while lying in bed (with Beach Weather)",
+        "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+      "duration_ms": 219994,
+      "name": "thoughts i have while lying in bed",
+      "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -919,26 +939,6 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
-        "name": "thoughts i have while lying in bed (with Beach Weather)",
-        "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        },
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 219994,
-      "name": "thoughts i have while lying in bed",
-      "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "See You Later",
-      "url": "https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "See You Later",
+      "url": "https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "When I Was Younger",
         "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 177773,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 198019,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Let's go to Hell",
         "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 279691,
+      "name": "Post Humorous",
+      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Orca",
-        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 279691,
-      "name": "Post Humorous",
-      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "WHAT LOVE?",
-        "url": "https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR"
-      },
-      "artists": [
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
-        }
-      ],
-      "duration_ms": 195432,
-      "name": "WHAT LOVE?",
-      "url": "https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "WHAT LOVE?",
+        "url": "https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 195432,
+      "name": "WHAT LOVE?",
+      "url": "https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Adderall",
-        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
-      },
-      "artists": [
-        {
-          "name": "Max Frost",
-          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
-        }
-      ],
-      "duration_ms": 218025,
-      "name": "Adderall",
-      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "Moment In The Sun",
+        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Moment In The Sun",
+      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Moment In The Sun",
-        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4"
       },
       "artists": [
         {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+          "name": "Max Frost",
+          "url": "https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V"
         }
       ],
-      "duration_ms": 189634,
-      "name": "Moment In The Sun",
-      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
+      "duration_ms": 218025,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
     },
     {
       "added_at": "2023-12-15 14:55:15",

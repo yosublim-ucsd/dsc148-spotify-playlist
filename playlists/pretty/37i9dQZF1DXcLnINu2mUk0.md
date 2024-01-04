@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,292 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,308 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 33 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 34 | [So Flawless](https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:15 |
 | 35 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
-| 36 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
-| 37 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
+| 36 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
+| 37 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
 | 38 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 39 | [Saudade](https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:09 |
 | 40 | [Ride \(feat\. Bárbara Bandeira\)](https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [19.2k](https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K) | 3:13 |
 | 41 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 42 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
-| 43 | [Contigo](https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Contigo](https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC) | 2:42 |
+| 42 | [Contigo](https://open.spotify.com/track/4lbjQJBECRzR8WP3vVWZth) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Contigo](https://open.spotify.com/album/2cnzVmOOCiZfse0SMcMGkC) | 2:42 |
+| 43 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
 | 44 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 45 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
 | 46 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [PESO DA COROA](https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi) | [Don Kapa](https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR), [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw) | [PESO DA COROA](https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7) | 2:38 |
 | 72 | [Areias do Deserto](https://open.spotify.com/track/5cefcJbSVTJK6LV7XU0R6S) | [Jay Mezo](https://open.spotify.com/artist/2nkrSZPL5u1nT1poaujDnC) | [Areias do Deserto](https://open.spotify.com/album/3pquO8sScvt3C7kZkBIu79) | 3:23 |
 | 73 | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV), [Midnight Commander](https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR) | [Heartbreak Canvas \(Acoustic Version\)](https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp) | 2:24 |
-| 74 | [Sem Ti](https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6) | [None](https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x) | [Sem Ti](https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7) | 3:06 |
-| 75 | [Pausa](https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8) | [Sergio](https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7), [Fingaz](https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB) | [Pausa](https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ) | 3:11 |
+| 74 | [Pausa](https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8) | [Sergio](https://open.spotify.com/artist/5eimxLCITlwq8OnT8nxCw7), [Fingaz](https://open.spotify.com/artist/3rSDUm0Q6QFFISsUaanplB) | [Pausa](https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ) | 3:11 |
+| 75 | [Sem Ti](https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6) | [None](https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x) | [Sem Ti](https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7) | 3:06 |
 | 76 | [Selva](https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot) | [Cabaceira](https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp) | [Selva](https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ) | 2:54 |
 | 77 | [Strong](https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Strong](https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg) | 3:08 |
 | 78 | [M3lodia](https://open.spotify.com/track/7caI289frHAR8RLR0Ez0Xq) | [Belarmino Nascimento](https://open.spotify.com/artist/2eti7KfFdqkEquaNTlIZ4d) | [M3lodia](https://open.spotify.com/album/1pypARVuRnmDlBQBavMWdz) | 3:55 |
 | 79 | [Laços](https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Laços](https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw) | 3:26 |
 | 80 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 |
 
-Snapshot ID: `MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5`
+Snapshot ID: `MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl`

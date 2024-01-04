@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: JUNNY\(주니\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,850 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,898 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 29 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
 | 30 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 |
 | 31 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
-| 32 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
+| 32 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
 | 33 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 34 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 |
-| 35 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 |
+| 35 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
 | 36 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 |
 | 37 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
 | 38 | [Yours](https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Yours](https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn) | 3:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [Last](https://open.spotify.com/track/41r2Q4UEDdU9cktfgQETnx) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:55 |
 | 70 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 |
 
-Snapshot ID: `MCw0YWU2ZWQxNzBlZmRiZGQ5MmMyYjE3MDQ0NGE2NTNkNjQ2YzZhYjk3`
+Snapshot ID: `MCxmNjFiYzZkZTM2MTZjMGEzODkwOGRlZjg4ODBiOTNhY2UwMDAwMThh`

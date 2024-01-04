@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210909,
+  "num_followers": 210912,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2ViZTMzNzk5M2ViNzMwYjhjMmZjZDI4NmY5NWIwN2VmYWRjZmZk",
+  "snapshot_id": "MCwwZjdmM2M4ZmE1MTY3MmY3M2NhNmRlNzBhOTlhNjc1NTkzNGQ1MmQ2",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Bajo la Cruz",
+        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6rihen",
+          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
+        }
+      ],
+      "duration_ms": 295263,
+      "name": "Vida Eterna",
+      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Bajo la Cruz",
-        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
+        "name": "Sentir Metalero",
+        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
       },
       "artists": [
         {
-          "name": "L\u00f6rihen",
-          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
+          "name": "Aonikenk",
+          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
         }
       ],
-      "duration_ms": 295263,
-      "name": "Vida Eterna",
-      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+      "duration_ms": 256360,
+      "name": "Cacique Yatel",
+      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 182323,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Sentir Metalero",
-        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
-      },
-      "artists": [
-        {
-          "name": "Aonikenk",
-          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
-        }
-      ],
-      "duration_ms": 256360,
-      "name": "Cacique Yatel",
-      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
     },
     {
       "added_at": "2023-04-28 03:00:00",

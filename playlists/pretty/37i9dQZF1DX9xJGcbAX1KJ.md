@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,776 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,777 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 15 | [Mr\. Sandman](https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn) | 3:26 |
 | 16 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 |
 | 17 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
-| 18 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 |
-| 19 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 |
+| 18 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 |
+| 19 | [I'm Not the Only One \- Live from Spotify, London](https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Spotify Session](https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz) | 3:15 |
 | 20 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 |
 | 21 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
 | 22 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 49 | [Let It Go](https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV) | 3:14 |
 | 50 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
 
-Snapshot ID: `MCw0MmQwMGRmODU5Mjk4MDA2MzE1YzgwOTMwOGY0OThkMjgyNTZjYWU0`
+Snapshot ID: `MCwyYjJjNWNiZDg2NTJhZDcwYTIyMGE0ZjJjMzQ3MjdhN2RhOTUxOGY1`

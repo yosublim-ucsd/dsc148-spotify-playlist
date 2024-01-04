@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 224959,
+  "num_followers": 225011,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1",
+  "snapshot_id": "MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
-      },
-      "artists": [
-        {
-          "name": "The System",
-          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
-        }
-      ],
-      "duration_ms": 357812,
-      "name": "You Are in My System",
-      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Where Will You Go When The Party's Over",
         "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 259653,
       "name": "Don't Let Love Get You Down",
       "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe"
+      },
+      "artists": [
+        {
+          "name": "The System",
+          "url": "https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR"
+        }
+      ],
+      "duration_ms": 357812,
+      "name": "You Are in My System",
+      "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
-      },
-      "artists": [
-        {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Harmonies",
         "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 354213,
       "name": "The Sweetest Meditation",
       "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
-        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash",
-          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
-        },
-        {
-          "name": "Grandmaster Melle Mel",
-          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "White Lines (Don't Do It)",
-      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 453706,
       "name": "Family - Stereo Version",
       "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
+        "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        },
+        {
+          "name": "Grandmaster Melle Mel",
+          "url": "https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "White Lines (Don't Do It)",
+      "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
     },
     {
       "added_at": "2022-09-05 16:54:43",

@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 27982,
+  "num_followers": 28003,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE1ZDRmNDc3NDUxOWIwYzU1NzI0N2YyZDNjMzFhM2VjMzZmOGUy",
+  "snapshot_id": "MCxkZThhODEyMWVhZmY2N2U1NjQ2MjdlZTY5YTYyZWNmMmYzMGQwOGYw",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "A Safe Place",
         "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 128571,
       "name": "A Safe Place",
       "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -739,22 +739,18 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Lost Memories",
-        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
       },
       "artists": [
         {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
         }
       ],
-      "duration_ms": 146845,
-      "name": "Lost Memories",
-      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+      "duration_ms": 117779,
+      "name": "Mi Tierra",
+      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
+        "name": "Lost Memories",
+        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 117779,
-      "name": "Mi Tierra",
-      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+      "duration_ms": 146845,
+      "name": "Lost Memories",
+      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "At The Park",
-        "url": "https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Nuit",
-          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
-        }
-      ],
-      "duration_ms": 122278,
-      "name": "At The Park",
-      "url": "https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Call me",
         "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "At The Park",
+        "url": "https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Nuit",
+          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
+        }
+      ],
+      "duration_ms": 122278,
+      "name": "At The Park",
+      "url": "https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Playa del amor",
-        "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
+        "name": "jazz y cdmx",
+        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
       },
       "artists": [
         {
           "name": "Solo San",
           "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 117580,
-      "name": "Playa del amor",
-      "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
+      "duration_ms": 121213,
+      "name": "jazz y cdmx",
+      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "jazz y cdmx",
-        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+        "name": "Playa del amor",
+        "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
       },
       "artists": [
         {
           "name": "Solo San",
           "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 121213,
-      "name": "jazz y cdmx",
-      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+      "duration_ms": 117580,
+      "name": "Playa del amor",
+      "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Chillaquil",
+        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Chillaquil",
+      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Chillaquil",
-        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 180674,
-      "name": "Chillaquil",
-      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "find me",
+        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
+      },
+      "artists": [
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        }
+      ],
+      "duration_ms": 128118,
+      "name": "find me",
+      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "iced coffee",
         "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
       },
@@ -1439,38 +1455,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "find me",
-        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
-      },
-      "artists": [
-        {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
-        }
-      ],
-      "duration_ms": 128118,
-      "name": "find me",
-      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Thoughts",
-        "url": "https://open.spotify.com/album/0iLzW6pPI8X7o0Mr5ErVH7"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Nuit",
-          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/7y1jE8yAcIsicq1jPRxbEc"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/5ysdKCkyWk9CcyAmr0n3gK"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/0iLzW6pPI8X7o0Mr5ErVH7"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Nuit",
+          "url": "https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/7y1jE8yAcIsicq1jPRxbEc"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Opinable",
         "url": "https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 185791,
       "name": "Opinable",
       "url": "https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Efecto Foehn",
-        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
-      },
-      "artists": [
-        {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
-        }
-      ],
-      "duration_ms": 129350,
-      "name": "Efecto Foehn",
-      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
+        "name": "Efecto Foehn",
+        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
       },
       "artists": [
         {
-          "name": "Andros",
-          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
         }
       ],
-      "duration_ms": 74347,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
+      "duration_ms": 129350,
+      "name": "Efecto Foehn",
+      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1575,18 +1575,34 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
       "artists": [
         {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+          "name": "Andros",
+          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
         }
       ],
-      "duration_ms": 136941,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
+      "duration_ms": 74347,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
+      },
+      "artists": [
+        {
+          "name": "Adbeel",
+          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 122477,
       "name": "wandering",
       "url": "https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
-      },
-      "artists": [
-        {
-          "name": "Adbeel",
-          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
     },
     {
       "added_at": "2023-12-22 06:00:00",

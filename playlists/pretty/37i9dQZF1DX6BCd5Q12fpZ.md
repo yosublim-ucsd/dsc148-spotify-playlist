@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,822 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,821 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 33 | [Ne partez pas sans moi \(Grand prix de L'Eurovision 1988\)](https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:06 |
 | 34 | [Fly on the Wings of Love](https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT) | [Brødrene Olsen](https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri) | [Wings Of Love](https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5) | 3:05 |
 | 35 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
-| 36 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
-| 37 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 36 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 37 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 38 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
 | 39 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
 | 40 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 47 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
 | 48 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
 | 49 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
-| 50 | [Spirit in the Sky](https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT) | 3:05 |
-| 51 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 50 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
+| 51 | [Spirit in the Sky](https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [OKTA](https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT) | 3:05 |
 | 52 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 53 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
 | 54 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [My Star](https://open.spotify.com/track/1qn0J3EnF4zqvwoHYHxhgD) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/6aPBqnyWSiHwzR7H3OKXA3) | 3:03 |
 | 75 | [Waterline](https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Young Love](https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx) | 3:03 |
 
-Snapshot ID: `MCw5ZmRlMDk1YTJjYTAxNTY3NGMxMjRkN2IzNzVhOGE5MzBjYzAzMmUx`
+Snapshot ID: `MCwwZjViZWRjZDExNzI1YmQ4OGMzMTg2Y2NjYTRmNzNiZmUyYTU2MmZl`

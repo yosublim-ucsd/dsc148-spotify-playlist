@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Maestra\. \(마에스트라 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-36 songs - 2 hr 57 min
+38 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [A Whole New World \- From "Aladdin"](https://open.spotify.com/track/7pJ4qUAXYKIObqrHpN09Ds) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Whole New World \(From "Aladdin"\)](https://open.spotify.com/album/3QKlFrb003pEc0I321wmSt) | 2:43 | 2024-01-02 |  |
 | [Beethoven: Symphony No\. 6 in F Major, Op\. 68 "Pastoral": IV\. Gewitter\. Sturm\. Allegro \-](https://open.spotify.com/track/2pOR6p3xnfKv2cNe3DqCVl) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1) | [Beethoven: Symphony No\. 6 "Pastoral"](https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0) | 3:59 | 2024-01-02 |  |
 | [Cello Concerto in B Minor, Op\. 104, B\. 191: II\. Adagio ma non troppo](https://open.spotify.com/track/3z3wCIsXBj8yeBAl35hf0C) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Kian Soltani](https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ), [Staatskapelle Berlin](https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Dvořák: Cello Concerto](https://open.spotify.com/album/2DkUvnxlZmEMBmPOmzC4lE) | 12:06 | 2024-01-02 |  |
+| [Curated by JeA](https://open.spotify.com/track/345dzgbWZZzWwOVgufJfbC) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Maestra Audio Liner](https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad) | 0:25 | 2024-01-02 |  |
+| [Curated by Sumi Jo](https://open.spotify.com/track/7if8YWZvvldFhHH7GkMPTJ) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6) | [Maestra Audio Liner](https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad) | 0:31 | 2024-01-02 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/2ruB0oOIk52u2AWmiWrGgd) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Matthew Freeman](https://open.spotify.com/artist/1jWA34qvde90HAhYqjxXun) | [Symphonic Queen \- The Greatest Hits](https://open.spotify.com/album/2cxk26Jcp16zhJv77IFd2v) | 3:42 | 2024-01-02 |  |
 | [He's a Pirate / Davy Jones \(From "Pirates of the Caribbean: Dead Man's Chest"\)](https://open.spotify.com/track/4ZpoUVBJTa7sZMWkAsg0wy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX), [Ludwig Wicki](https://open.spotify.com/artist/2MclOoZqoxERDUziTaStUc) | [He's a Pirate / Davy Jones \(From "Pirates of the Caribbean: Dead Man's Chest"\)](https://open.spotify.com/album/4oIh8FzevbAIT6aPTpQgYU) | 4:34 | 2024-01-02 |  |
 | [Hedwig's Theme \- From "Harry Potter and the Philosopher's Stone"](https://open.spotify.com/track/0QlpQ1jiTo4EzA1WwTxLZo) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [John Williams \- 40 Years Of Film Music](https://open.spotify.com/album/0fIiu7F0xN7MXXoOE9JJPq) | 4:51 | 2024-01-02 |  |

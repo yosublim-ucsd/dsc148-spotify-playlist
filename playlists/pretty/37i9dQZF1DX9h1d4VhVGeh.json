@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 173985,
+  "num_followers": 174098,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDBlMTI5MTRiYmJmZTIxYTRjMDE0YThlMDA2NzhhYzgyM2ZiZDcx",
+  "snapshot_id": "MCw5NDkyNjkwZWU2Nzg0NDlmYmUwMTA4N2RiOTQ2MWI3ZDI5MzZjN2Y4",
   "tracks": [
     {
       "added_at": "2023-12-27 09:37:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Maa Al Salama",
-        "url": "https://open.spotify.com/album/591szzl5bQ3EuKa5o1HULT"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Maa Al Salama",
-      "url": "https://open.spotify.com/track/5m9ZLWzMOP21zDd03drqtY"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Saber",
         "url": "https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 254117,
       "name": "Saber",
       "url": "https://open.spotify.com/track/471yCuh5et463zfP1ZlipM"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Maa Al Salama",
+        "url": "https://open.spotify.com/album/591szzl5bQ3EuKa5o1HULT"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Maa Al Salama",
+      "url": "https://open.spotify.com/track/5m9ZLWzMOP21zDd03drqtY"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Nour",
-        "url": "https://open.spotify.com/album/39qrmahD2aHHwfXaoBgxXE"
-      },
-      "artists": [
-        {
-          "name": "Adonis",
-          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
-        }
-      ],
-      "duration_ms": 239571,
-      "name": "Al Khafif",
-      "url": "https://open.spotify.com/track/2ZJlmgrAuV1okMMYl3iJE6"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Wein Rayheen",
         "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185164,
       "name": "Wein Rayheen",
       "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Nour",
+        "url": "https://open.spotify.com/album/39qrmahD2aHHwfXaoBgxXE"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        }
+      ],
+      "duration_ms": 239571,
+      "name": "Al Khafif",
+      "url": "https://open.spotify.com/track/2ZJlmgrAuV1okMMYl3iJE6"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Caf\u00e9 Sessions",
-        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 232456,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Ella Enta (Live Session)",
         "url": "https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 248952,
       "name": "Ella Enta - Live Session",
       "url": "https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Caf\u00e9 Sessions",
+        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 232456,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 232618,
-      "name": "Bala Wala Shi (Live)",
-      "url": "https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Shou Byeb'a",
         "url": "https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 223014,
       "name": "Shou Byeb'a",
       "url": "https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 232618,
+      "name": "Bala Wala Shi (Live)",
+      "url": "https://open.spotify.com/track/0EP3x8Yh2JtvWmFjEOENU3"
     },
     {
       "added_at": "2023-12-27 09:37:08",

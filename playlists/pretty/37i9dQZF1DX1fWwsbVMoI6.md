@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,640 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,683 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 28 | [Muchahita](https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s) | 3:24 |
 | 29 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 | 30 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
-| 31 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
-| 32 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
+| 31 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
+| 32 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
 | 33 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
 | 34 | [Cervecero](https://open.spotify.com/track/3HfZfxi1UWSK0GssEUgM1R) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Historia Musical](https://open.spotify.com/album/13kU9mfnrPRqd0TPjk0Sms) | 5:30 |
 | 35 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 |
 | 50 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 |
 
-Snapshot ID: `MCwzNjZjMDViYzkyZjljNjg4ODhiNmNlNTgyNjgxNGNmYjFkYTkzZjBi`
+Snapshot ID: `MCxlYzk5NWMzOWFhNjNkYjgxMGZkY2E2Y2U0NWE3NzU2MjA0ZWUzNjcy`

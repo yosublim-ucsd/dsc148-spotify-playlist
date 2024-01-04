@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-730 songs - 1 day 17 hr 20 min
+731 songs - 1 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 | 2022-04-07 | 2022-08-09 |
 | [Akeed Rag3een](https://open.spotify.com/track/57rKoQpUb3WBqYLsrGv7Hq) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Akeed Rag3een](https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp) | 2:27 | 2023-08-28 | 2023-12-19 |
 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-06-27 |
+| [Akhuya](https://open.spotify.com/track/5Xei35cn3yZQG0YwnlVDt5) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Akhuya](https://open.spotify.com/album/3QQXegHz4Yeo6jG09jOYPc) | 2:46 | 2024-01-03 |  |
 | [Aktar Mn El Sekout](https://open.spotify.com/track/2hHb8MMgeDIxCiyQUTYANq) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Aktar Mn El Sekout](https://open.spotify.com/album/09xFJJod4MFAHNsk2CDBi9) | 3:56 | 2022-08-03 | 2022-10-21 |
 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 | 2021-12-23 | 2022-03-10 |
 | [Al Hob Al](https://open.spotify.com/track/4jbeCurXQEsNQjEUSVFkO6) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Al Hob Al](https://open.spotify.com/album/1JG05LPwvaHRp58FI4JgVY) | 6:26 | 2023-08-07 | 2023-09-26 |
@@ -313,7 +314,7 @@
 | [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 | 2023-03-10 | 2023-05-10 |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-01 | 2022-05-19 |
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 | 2022-09-24 |
-| [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 | 2023-09-22 |  |
+| [Leh](https://open.spotify.com/track/4D8ch2A9Z7oNMbo3h4EAd3) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Leh](https://open.spotify.com/album/2MxpLVlsLP3v7Jh8hdV2t0) | 4:21 | 2023-09-22 | 2024-01-04 |
 | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/track/6XqswjwRHsf5DMSdxEhFSm) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/album/2kSwBV93jeWgrbYcLUVXHV) | 3:45 | 2022-10-26 | 2023-01-08 |
 | [Leh Betaeday2](https://open.spotify.com/track/1NODXc70QAPN0GNvBpsgj2) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [Leh Betaeday2](https://open.spotify.com/album/3G8nVTaPY5m2vh2WrOeGkF) | 2:19 | 2022-12-29 | 2023-02-17 |
 | [Leila](https://open.spotify.com/track/33u0Y2MhCf5G2NW1UY3T6A) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Leila](https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4) | 3:23 | 2022-05-23 | 2022-08-21 |

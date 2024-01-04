@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,577 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,599 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 |
 | 60 | [Negro](https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/2jRVG4AZf6eFLc9Y1ELdgq) | 3:17 |
 
-Snapshot ID: `MCwwMzMzZTMwNWRhZDY2ZTI3ZTIwMWI3MWQ0ZGU3ZDZjNjNmM2QyNjZk`
+Snapshot ID: `MCw1N2M1MjBmOGM2NGM4ZmQ5NmRhMDNmMjIyOTliNTM2NmY2ZjE4N2Ey`

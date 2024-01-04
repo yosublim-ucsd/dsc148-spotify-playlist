@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,792 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,796 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Crazy](https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Crazy](https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS) | 3:09 |
 | 50 | [Agradecer](https://open.spotify.com/track/1l6Ft5qe5gSUjBYn2tXYKm) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Agradecer](https://open.spotify.com/album/4Ji39vIZY0YwdQSNw0ZmE4) | 2:19 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDAyNmE0Y2EwYjE3NTg4M2E0YTJjYTliYmU2NGI0MTQ5Yw==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBhMTJmNzk1MTEzN2JlZTFiOWRmOGQ1Yzg5NmQxMDUyZA==`

@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 26 min
+59 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Llévame En Tu Viaje](https://open.spotify.com/track/3DeH1wTB0Oo1341VJRTAGR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:19 | 2023-08-08 |  |
 | [Me Dueles](https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:47 | 2023-09-21 | 2023-10-11 |
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2023-08-08 |  |
-| [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2023-08-08 |  |
+| [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2023-08-08 | 2024-01-04 |
+| [No Me Hablen de Amor](https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:09 | 2024-01-03 |  |
 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 | 2023-08-08 |  |
 | [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 | 2023-08-08 |  |
 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-09 |  |

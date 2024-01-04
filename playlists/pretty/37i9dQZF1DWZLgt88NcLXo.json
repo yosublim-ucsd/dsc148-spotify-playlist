@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 11993,
+  "num_followers": 11994,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
+  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Tintern Abbey",
-        "url": "https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp"
-      },
-      "artists": [
-        {
-          "name": "Ciara Lowry",
-          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "Tintern Abbey",
-      "url": "https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Inside the stone",
         "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 124034,
       "name": "Inside the stone",
       "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Tintern Abbey",
+        "url": "https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "Tintern Abbey",
+      "url": "https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "When You Came Along",
-        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
-      },
-      "artists": [
-        {
-          "name": "Jonnie Snoilsky",
-          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
-        }
-      ],
-      "duration_ms": 126575,
-      "name": "When You Came Along",
-      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "In Search of Miracles",
         "url": "https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 147374,
       "name": "In Search of Miracles",
       "url": "https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "When You Came Along",
+        "url": "https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "duration_ms": 126575,
+      "name": "When You Came Along",
+      "url": "https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
-      },
-      "artists": [
-        {
-          "name": "Maria Isabel Ferrer",
-          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
-        }
-      ],
-      "duration_ms": 136609,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Millst\u00e4tter See",
-        "url": "https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG"
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
       },
       "artists": [
         {
-          "name": "Andreas Horschel",
-          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
         }
       ],
-      "duration_ms": 157034,
-      "name": "Millst\u00e4tter See",
-      "url": "https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0"
+      "duration_ms": 136609,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -343,6 +327,22 @@
       "duration_ms": 138336,
       "name": "Spring has sprung",
       "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Millst\u00e4tter See",
+        "url": "https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "duration_ms": 157034,
+      "name": "Millst\u00e4tter See",
+      "url": "https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Virginia (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns"
-      },
-      "artists": [
-        {
-          "name": "Byron Wolfe",
-          "url": "https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm"
-        }
-      ],
-      "duration_ms": 140839,
-      "name": "Virginia - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Summer House",
         "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 122449,
       "name": "The Summer House",
       "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Virginia (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns"
+      },
+      "artists": [
+        {
+          "name": "Byron Wolfe",
+          "url": "https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm"
+        }
+      ],
+      "duration_ms": 140839,
+      "name": "Virginia - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Private Investigation",
+        "url": "https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN"
+      },
+      "artists": [
+        {
+          "name": "Owen Larssen",
+          "url": "https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo"
+        }
+      ],
+      "duration_ms": 184076,
+      "name": "Private Investigation",
+      "url": "https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Vals del Poniente",
         "url": "https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 122817,
       "name": "Vals del Poniente",
       "url": "https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Private Investigation",
-        "url": "https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN"
-      },
-      "artists": [
-        {
-          "name": "Owen Larssen",
-          "url": "https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo"
-        }
-      ],
-      "duration_ms": 184076,
-      "name": "Private Investigation",
-      "url": "https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Fawns in Spring",
-        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
-      },
-      "artists": [
-        {
-          "name": "Celia Cloten",
-          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
-        }
-      ],
-      "duration_ms": 159926,
-      "name": "Fawns in Spring",
-      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Homebound",
         "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 144000,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Fawns in Spring",
+        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "duration_ms": 159926,
+      "name": "Fawns in Spring",
+      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "San Gervasi",
-        "url": "https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "San Gervasi",
-      "url": "https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 164000,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "San Gervasi",
+        "url": "https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "San Gervasi",
+      "url": "https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Cradle Song",
-        "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Salinas",
-          "url": "https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse"
-        },
-        {
-          "name": "Andrew York",
-          "url": "https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ"
-        }
-      ],
-      "duration_ms": 227588,
-      "name": "Cradle Song",
-      "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Bones (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 146875,
       "name": "Canci\u00f3n A Solas",
       "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Cradle Song",
+        "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Salinas",
+          "url": "https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse"
+        },
+        {
+          "name": "Andrew York",
+          "url": "https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ"
+        }
+      ],
+      "duration_ms": 227588,
+      "name": "Cradle Song",
+      "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Alloa",
+        "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "duration_ms": 128873,
+      "name": "Stirling",
+      "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
       },
@@ -2087,22 +2103,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Alloa",
-        "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
-      },
-      "artists": [
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "Stirling",
-      "url": "https://open.spotify.com/track/1HDPEUzDPniGZpULtKa4q4"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Am Flussufer",
         "url": "https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ"
       },
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Misty Midnight",
-        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
       },
       "artists": [
         {
-          "name": "Alina Hussain",
-          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
         }
       ],
-      "duration_ms": 134498,
-      "name": "Misty Midnight",
-      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
+      "duration_ms": 148374,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Velvet Morning",
-        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
       },
       "artists": [
         {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
         }
       ],
-      "duration_ms": 148374,
-      "name": "Velvet Morning",
-      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
-      },
-      "artists": [
-        {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Shimmering",
         "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 173026,
       "name": "Shimmering",
       "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Objects In The Mirror",
-        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Objects In The Mirror",
-      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Dreams We Share",
         "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 188000,
       "name": "The Dreams We Share",
       "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Objects In The Mirror",
+        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Objects In The Mirror",
+      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
     },
     {
       "added_at": "2023-09-15 09:04:35",

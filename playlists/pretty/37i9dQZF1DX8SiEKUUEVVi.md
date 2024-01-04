@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 
 > Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,911 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,910 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 | 28 | [Overcome \(feat\. Nile Rodgers\)](https://open.spotify.com/track/1U6EZRkaJy3II3ElJlpzMl) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Overcome \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6hLwtZhBzvpt8PomKTgA2N) | 3:10 |
 | 29 | [Agony](https://open.spotify.com/track/2SxirI2LVqTAa6YwZpTAyN) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Fall to Grace \(Expanded Edition\)](https://open.spotify.com/album/3kWgBxtkD8ZJ9Xu84xrhWj) | 3:11 |
 
-Snapshot ID: `MCwwMjRkODYxNDY2NWM2ZDk5ZmU0YzA5ZTU2NjBiMGU2NjYwZGJjM2Zl`
+Snapshot ID: `MCxhNGIyNGU4ZTY5MDkyNGQwNjZhYjRlNmJjMTU4MDQxYTM1NDNjNDg4`

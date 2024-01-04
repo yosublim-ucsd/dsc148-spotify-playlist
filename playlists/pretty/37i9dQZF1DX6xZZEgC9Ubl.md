@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,635 likes - 146 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,928 likes - 146 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
+| 1 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 2 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 | 3 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 |
 | 4 | [2055](https://open.spotify.com/track/664cU3y63AUikovlndCaNE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 2:03 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 49 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 |
 | 50 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
 | 51 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
-| 52 | [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 |
+| 52 | [World's a Fuck](https://open.spotify.com/track/204e7FPwiedVDmjKIgnnkP) | [Sematarik](https://open.spotify.com/artist/31o8VFTitHtHTqY7a64iSG) | [Laughing Through the Pain](https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f) | 2:58 |
 | 53 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 |
 | 54 | [Cherry Blossoms](https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7JXeLOZu3B2iArq61xATwX) | 2:17 |
 | 55 | [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 145 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
 | 146 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCxhNTRiM2YwYjk1NWY1M2YxZTE4NWNkMzM2YWVhMjNhODRmZDg2ZTk1`
+Snapshot ID: `MCxjMmRkYzIxYTA2NGY4MWMxMTlhMTY1NmJjZGE5NDQ0YmEyN2E4NzIw`

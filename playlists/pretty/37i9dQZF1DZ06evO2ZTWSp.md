@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,145 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,121 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 8 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 9 | [Pink](https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:23 |
 | 10 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
-| 11 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 |
-| 12 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 |
+| 11 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 |
+| 12 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 |
 | 13 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 14 | [Boys](https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:52 |
 | 15 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [W.E.R.K\. Pt\. II](https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:05 |
 | 50 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA5NDUwN2U4YWRjOWRkMDllNmFjM2IwYjAzOTEyM2U5Yg==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBlMmMyZWFkZjA5ZmRlMmE1ZTA1ZjdiMDMxMzhjZjk5ZA==`

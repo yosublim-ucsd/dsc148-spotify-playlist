@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 9026,
+  "num_followers": 9128,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmI4ODU1OWZjMGE4Y2Q4NzM0ZmNlOThjMWRlN2ViMmRmNjQyYTNj",
+  "snapshot_id": "MCxhMTJlNTI5MDQ5MGI3NzAwYjkzYWE1MjE4NmYxNjE4ZjgwMDE3MWEw",
   "tracks": [
     {
       "added_at": "2023-12-27 17:43:52",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-12-27 17:43:52",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "me jodi...",
-      "url": "https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF"
-    },
-    {
-      "added_at": "2023-12-27 17:43:52",
-      "album": {
         "name": "dEsANiMaO :(",
         "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 174600,
       "name": "7 Veces",
       "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
+    },
+    {
+      "added_at": "2023-12-27 17:43:52",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "me jodi...",
+      "url": "https://open.spotify.com/track/4trfOyEYrf0Ezx8LUDogU1"
     },
     {
       "added_at": "2023-12-27 17:43:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,605 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,608 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 42 | [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 |
 | 43 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 44 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
-| 45 | [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 |
+| 45 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 46 | [Across the universe](https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 4:07 |
-| 47 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 47 | [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 |
 | 48 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 |
 | 49 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 |
 | 50 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
 
-Snapshot ID: `MCxjNThjZjczMzYxNzFmOWM2ZDZlZmJlM2U0OGRlMTMzNmRlN2E4NjRj`
+Snapshot ID: `MCw2MDJjNDdhYzJkMWI1NmQ3MWI2MGM2MjM0NjdlZTUxNGRiMDc0MmMw`

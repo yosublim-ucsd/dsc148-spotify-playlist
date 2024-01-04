@@ -1,12 +1,12 @@
 {
   "description": "(Taylor's Version)",
-  "num_followers": 530830,
+  "num_followers": 530826,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzIxMGRiMTY5MDA2YmQ5ZmQxMTY0MDM5MmY3Y2ZjYmUyNjk5MTg0",
+  "snapshot_id": "MCwwZWNkZGE1YzJmMzVmZTliM2MxYmM2ZGZjNGZjNjExNGRmZWRjZTU3",
   "tracks": [
     {
       "added_at": "2023-12-19 08:22:11",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
       "added_at": "2023-12-19 08:22:11",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2023-12-19 08:22:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
     },
     {
       "added_at": "2023-12-19 08:22:11",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-12-19 08:22:11",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
       "added_at": "2023-12-19 08:22:11",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 229953,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
       "added_at": "2023-12-19 08:22:11",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-12-19 08:22:11",
       "album": {
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "added_at": "2023-12-19 08:22:11",
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2023-12-19 08:22:11",
-      "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
       "added_at": "2023-12-19 08:22:11",

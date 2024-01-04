@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Texas' own Cody Johnson is taking over to celebrate the release of his new album "Leather"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,441 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,518 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 22 | [Pretty Ugly](https://open.spotify.com/track/6Fcip5QYEptKIGptgqYTpJ) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/2T16hAVVFc1j9YzSjaBdcs) | 2:58 |
 | 23 | [Diamond In My Pocket](https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Different Day](https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k) | 3:16 |
 | 24 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 |
-| 25 | [Hell of a Year](https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 3:52 |
-| 26 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
+| 25 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
+| 26 | [Hell of a Year](https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 3:52 |
 | 27 | [My Mistake](https://open.spotify.com/track/3KKzYn1hHHwdATpAzYWV5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/6Augs9cdAbmK60GzMGx1gc) | 3:41 |
 | 28 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 |
 | 29 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 71 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 |
 | 72 | [New Year's Day](https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Good Times](https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z) | 3:54 |
 | 73 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 |
-| 74 | [She's Like Texas](https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She's Like Texas](https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au) | 3:55 |
-| 75 | [One I Want](https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:51 |
+| 74 | [One I Want](https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:51 |
+| 75 | [She's Like Texas](https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She's Like Texas](https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au) | 3:55 |
 | 76 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 77 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
 | 78 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [Don't Tell Me](https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:40 |
 | 100 | [17](https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN) | [Cross Canadian Ragweed](https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0) | [Cross Canadian Ragweed](https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI) | 5:19 |
 
-Snapshot ID: `MCxiOTk4YmNiNGRjYjc5ZTYwN2E2MjZhYjY3Y2JjY2E4ODBjMDcxYThi`
+Snapshot ID: `MCxlNDQzNGVhYzIwMDlkOTg5ZjRhMmZkMWNmYTllMThmNjE2MTc3N2Iz`

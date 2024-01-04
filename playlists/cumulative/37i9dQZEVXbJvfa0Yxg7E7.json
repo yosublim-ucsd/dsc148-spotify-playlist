@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 143520,
       "name": "Dans P\u00e5 Bordet",
       "url": "https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q"
@@ -7935,6 +7935,28 @@
     },
     {
       "album": {
+        "name": "Falsk Alarm",
+        "url": "https://open.spotify.com/album/3umxWipT0zsERYj80YeU2y"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179497,
+      "name": "Falsk Alarm",
+      "url": "https://open.spotify.com/track/27yH7HlGXTDrHvwDbhmjtn"
+    },
+    {
+      "album": {
         "name": "Family (feat. Annalisa, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/26Y50LexPXj5nFMH6UWXK9"
       },
@@ -10172,7 +10194,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -11656,7 +11678,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -12092,7 +12114,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 116197,
       "name": "H\u00e6ljetur (feat. Hagle)",
       "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
@@ -15937,6 +15959,28 @@
     },
     {
       "album": {
+        "name": "Long Natt",
+        "url": "https://open.spotify.com/album/2ZzK2UGINUP0rf2TUW7rCB"
+      },
+      "artists": [
+        {
+          "name": "Odin",
+          "url": "https://open.spotify.com/artist/2mahtxdlhgnZfENR1k7l6Z"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170149,
+      "name": "Long Natt",
+      "url": "https://open.spotify.com/track/2A8zz5wkADRJSPVmTYesXx"
+    },
+    {
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -18489,6 +18533,28 @@
     },
     {
       "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/33QP2nLnclbzfAwssyUMMs"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5mSExgcU9GYYt9wrgQD090"
+    },
+    {
+      "album": {
         "name": "Never Surrender (feat. Steve Garrigan)",
         "url": "https://open.spotify.com/album/7zSwjMZeGEQnCb3MMrvFrM"
       },
@@ -19524,6 +19590,32 @@
       "duration_ms": 231546,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4qeMMEoVX97kGLbGgfFm2r"
+    },
+    {
+      "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
       "album": {
@@ -23368,7 +23460,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -23538,6 +23630,28 @@
       "duration_ms": 194741,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/6hLUtAJPRXEFirS4TlDEa7"
+    },
+    {
+      "album": {
+        "name": "Sommer-feeling",
+        "url": "https://open.spotify.com/album/3qXsg8CGbgtEhk1btnkHaM"
+      },
+      "artists": [
+        {
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Sommer-feeling",
+      "url": "https://open.spotify.com/track/62ZgDjIsW7eXuAIe6eU8Aj"
     },
     {
       "album": {
@@ -27226,7 +27340,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"

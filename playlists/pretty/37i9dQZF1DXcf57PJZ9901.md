@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,040 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,066 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
 | 70 | [Wild Sun](https://open.spotify.com/track/5MfLVNkxZJ7VZPnNp9vHdl) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:29 |
 
-Snapshot ID: `MCwyZTg2ODdkYjkzNmU2NWFlMWZhN2NkMTIyYTY3OTgwNGVjMzNiNmUy`
+Snapshot ID: `MCw0YTI5NWMzMmU3OWU2ZmQ2ZDQxNWYyOTFmZjQyOGQ0MDQyZDY4MGQ5`

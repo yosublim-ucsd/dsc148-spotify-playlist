@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Kim Loaiza
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,558 likes - 202 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,571 likes - 202 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 23 | [ALAKRAN](https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 1:30 |
 | 24 | [50 PALOS](https://open.spotify.com/track/2FhmPPAersOD9YcQ9v8upy) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 2:47 |
 | 25 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 |
-| 26 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 26 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 27 | [ALUMBRE](https://open.spotify.com/track/2hdpglljEzt98X6zJkfW7k) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:16 |
 | 28 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 29 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Rositas](https://open.spotify.com/track/3M6Hgrfs2NQaIMs050UaZF) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:37 |
 | 202 | [Dubai](https://open.spotify.com/track/3PjBpkbEefSVJjD7zMiiLZ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:21 |
 
-Snapshot ID: `MCxlZTk3MmFjM2RiMDIzMDRiYjg1MWJhOWZjMTljMTIyNzFkOGVlNzA4`
+Snapshot ID: `MCxhODRkNWNmNzc3NjE5ZjM5M2ViZDQxYjg1ZTQ4YzllNjZhZTA3MzI5`

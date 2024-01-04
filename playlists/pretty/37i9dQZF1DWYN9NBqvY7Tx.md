@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,733 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,099 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 74 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 |
 | 75 | [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 |
 | 76 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 |
-| 77 | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Datura](https://open.spotify.com/artist/7Gd5WhhkYzzlMgtkT46oPN) | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId) | 2:22 |
-| 78 | [Hypnocurrency](https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P) | 4:52 |
-| 79 | [The Best Part of Life \- Imanbek Remix](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/00iyGsi6DHzNKEgko6SeJA) | 3:18 |
+| 77 | [The Best Part of Life \- Imanbek Remix](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/00iyGsi6DHzNKEgko6SeJA) | 3:18 |
+| 78 | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Datura](https://open.spotify.com/artist/7Gd5WhhkYzzlMgtkT46oPN) | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId) | 2:22 |
+| 79 | [Hypnocurrency](https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P) | 4:52 |
 | 80 | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 |
 | 81 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 |
 | 82 | [Pill](https://open.spotify.com/track/2e3wKwNMrYIvMgAS484EXQ) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT), [Emma Sameth](https://open.spotify.com/artist/0hac78iy32k7qYWLp6RPaz), [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq) | [Pill](https://open.spotify.com/album/707RNXJxcKVtqr2JPukjB0) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Starts Right Here](https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Starts Right Here](https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX) | 3:05 |
 | 100 | [U Ok?](https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [U Ok?](https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7) | 2:34 |
 
-Snapshot ID: `MCxmMmJlZTJmODVmYjEyNzNhOTkyY2IxZTRkMGM4MDNkYzY4ZmQzMmNh`
+Snapshot ID: `MCxlYTU2YWM1ZjNkNzQ4ZTEzYzQyODFkZTQ4OThlYmVlODRkYjQxNDZl`

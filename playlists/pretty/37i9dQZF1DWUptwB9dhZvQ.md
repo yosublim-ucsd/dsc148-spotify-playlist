@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,332 likes - 75 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,357 likes - 75 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 60 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
 | 61 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
 | 62 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
-| 63 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 |
-| 64 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 |
+| 63 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 |
+| 64 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 |
 | 65 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 |
 | 66 | [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 |
 | 67 | [Vaathi Kabbadi \- Background Score](https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 |
 | 75 | [Manmadhan Theme Music](https://open.spotify.com/track/4ObpDubU06zaWluKR7lCls) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Y7FfRUWBEKImjc2T6NjzO) | 1:23 |
 
-Snapshot ID: `MCw3MTIzMzZmNWU0MjBiODYyZGMyZTI4MzgxNmViMmY0YmFjMGM5NDUy`
+Snapshot ID: `MCxhMTcwZjQzM2JjOTE1MzhjZmI2MzkzNDFjNjkxNzZhYWIwNDRlYWU4`

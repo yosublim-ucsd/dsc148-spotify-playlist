@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Kali Uchis",
-  "num_followers": 78302,
+  "num_followers": 78389,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTU5MGNiZDc2MzEzNDk1YjRmYzFjN2RlMWY4NGRiNTcxYjA5Yzdm",
+  "snapshot_id": "MCxkMDVmNTZlYjNlNmQzMWQzOGY0NjhkNThhYTZjNDZjYTUxOGNhMTRi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Para No Romperme",
         "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 171413,
       "name": "Para No Romperme",
       "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Piensa en M\u00ed",
+        "url": "https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Piensa en M\u00ed",
-        "url": "https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,356 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,415 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 22 | [Y Me Besa](https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:41 |
 | 23 | [Palma Salazar](https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 3:00 |
 | 24 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 |
-| 25 | [Egoísta](https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:54 |
-| 26 | [Ando Bien](https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Asi Es la Vida](https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO) | 2:41 |
+| 25 | [Ando Bien](https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Asi Es la Vida](https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO) | 2:41 |
+| 26 | [Egoísta](https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:54 |
 | 27 | [Me Voy](https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
-| 28 | [Ahí No Era](https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:10 |
-| 29 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 |
+| 28 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 |
+| 29 | [Ahí No Era](https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:10 |
 | 30 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 |
 | 31 | [En el Pedir Está el Dar](https://open.spotify.com/track/6TwhEVtDU2LZFnkwEPrqed) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:00 |
 | 32 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 42 | [Archivos de Mi Vida](https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:56 |
 | 43 | [El Coach \(En Vivo\)](https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Coach \(En Vivo\)](https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe) | 3:31 |
 | 44 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
-| 45 | [Más Caro, que ayer](https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk) | 2:27 |
-| 46 | [El Omega](https://open.spotify.com/track/2190ZGlx9BK4BxKp9iRZ5x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:08 |
+| 45 | [El Omega](https://open.spotify.com/track/2190ZGlx9BK4BxKp9iRZ5x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:08 |
+| 46 | [Más Caro, que ayer](https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk) | 2:27 |
 | 47 | [Morir Y Existir](https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:05 |
 | 48 | [Sin Ver Atrás](https://open.spotify.com/track/1HSVtUCpIUvbHOWvsYFRaA) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:08 |
 | 49 | [El Pelo Chino](https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Pelo Chino](https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7) | 3:00 |
-| 50 | [El Ranchero](https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Décimo Aniversario \(Deluxe Edition\)](https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj) | 2:39 |
+| 50 | [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA0YTU1ZThiZjUwOWMyODZhN2U1NzRhYTc0OTE1YjNkMA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAyYTc4MmY3Mzk5MjMwYzZjMDI4MGNmNDMxYTc2NTNmNA==`

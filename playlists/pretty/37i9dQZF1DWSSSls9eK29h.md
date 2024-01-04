@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,551 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,632 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 33 | [City Lights](https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Long Night Out](https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC) | 5:34 |
 | 34 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
 | 35 | [Charisma](https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 3:41 |
-| 36 | [Aruban Nights](https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF) | [Bobby Lyle](https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On) | [The Power Of Touch](https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9) | 5:10 |
-| 37 | [Easy Street](https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Easy Street](https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74) | 5:17 |
-| 38 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
+| 36 | [Easy Street](https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Easy Street](https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74) | 5:17 |
+| 37 | [Aruban Nights](https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF) | [Bobby Lyle](https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On) | [The Power Of Touch](https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9) | 5:10 |
+| 38 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
 | 39 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
-| 40 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
+| 40 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
 | 41 | [I Just Can't Stop Thinking About You](https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Better Days](https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5) | 5:20 |
 | 42 | [Follow Your Bliss](https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Classical Soul](https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72) | 5:08 |
 | 43 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 46 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
 | 47 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
 | 48 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
-| 49 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
-| 50 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
+| 49 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
+| 50 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
 | 51 | [Breakfast with Tiffany](https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Decisions](https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX) | 4:40 |
 | 52 | [Glass Dolphins](https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe) | [John Klemmer](https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK) | [Touch](https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ) | 3:27 |
 | 53 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Personal Touch](https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:55 |
 | 60 | [There's Only You](https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Undercover](https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp) | 5:09 |
 
-Snapshot ID: `MCwwZjQ3NDFjNzJjMWQ3MDY4ZGY3OWZkNGJmYjk3MzQyZGQzNDIxYWIz`
+Snapshot ID: `MCwzMWY3YWE4MjYxNDVlZWU5NzFkNWE2NWViY2ZjZTBlNjIyZWE3ZWQ2`

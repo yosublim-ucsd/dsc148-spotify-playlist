@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,255 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,324 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 21 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 |
 | 22 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 |
 | 23 | [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 |
-| 24 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
-| 25 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
+| 24 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
+| 25 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
 | 26 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST) | 3:42 |
 | 27 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
 | 28 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 49 | [City Of Angels \- Piano Version](https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [City Of Angels \(Piano Version\)](https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ) | 4:22 |
 | 50 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 |
 | 51 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
-| 52 | [Você Vai Lembrar de Mim \- Acústica](https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim \(Edição Especial\)](https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb) | 2:55 |
-| 53 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
+| 52 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
+| 53 | [Você Vai Lembrar de Mim \- Acústica](https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim \(Edição Especial\)](https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb) | 2:55 |
 | 54 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
 | 55 | [Follow Me Around](https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Follow Me Around](https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5) | 5:19 |
 | 56 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 5:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/3la3tXndnn0xnlm8y1Z3Kv) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Brasileiro](https://open.spotify.com/album/1RK1b09Jzt9c78iAU3o4lY) | 2:31 |
 
-Snapshot ID: `MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3`
+Snapshot ID: `MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy`

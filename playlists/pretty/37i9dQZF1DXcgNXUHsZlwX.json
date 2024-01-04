@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 116670,
+  "num_followers": 116712,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTJjMDFlYjcwOGNjMjMyOGI1NGU3MDQzMzdlZGMyN2M0MDQ3ZDYx",
+  "snapshot_id": "MCxiNWExNTY3YjY1N2IwNTc0NjQ2NWViZWFmZjAyMjk3ZWRjY2RjNTY4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
         }
       ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 200005,
       "name": "Le Tour",
       "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Glossover",
-        "url": "https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        }
-      ],
-      "duration_ms": 229463,
-      "name": "Glossover",
-      "url": "https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "No Water, No Flowers",
         "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 175746,
       "name": "Lost River",
       "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Glossover",
+        "url": "https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "duration_ms": 229463,
+      "name": "Glossover",
+      "url": "https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Sieste sur l'oreille droite",
         "url": "https://open.spotify.com/album/4vFqlPd7dkDP3Qs4eMbAn0"
       },
@@ -1195,38 +1227,6 @@
       "duration_ms": 188320,
       "name": "Couleur pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/6tR8LvLFFzGqtDJ45Fc4TW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "(les) m\u00e9andres de la soif",
         "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 231360,
       "name": "Passagers",
       "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Pourchasser l'aube",
-        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Mille et un",
-      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 208573,
       "name": "Dormir dans l'auto",
       "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Pourchasser l'aube",
+        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Mille et un",
+      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Fables (The Garden Version)",
         "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2023-12-15 05:00:00",

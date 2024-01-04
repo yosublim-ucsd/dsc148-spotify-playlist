@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,564 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,653 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 6 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 |
 | 7 | [Sab Kuch](https://open.spotify.com/track/4wZ9N55zJvZbsi868fb3Wt) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Sab Kuch](https://open.spotify.com/album/1xqZjW5tYNPApXAZRu8VVf) | 2:20 |
 | 8 | [Rehem](https://open.spotify.com/track/0kxygsw2zngxvhsmNMbpwj) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Rehem](https://open.spotify.com/album/0xsZ9ulRB98Df9mTZqPWQn) | 2:24 |
-| 9 | [Moon \- Tunnel Vision](https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [Harleen Khera](https://open.spotify.com/artist/7mLdGhPzRNItq5xzNKPMLX) | [Moon \(Tunnel Vision\)](https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8) | 3:06 |
+| 9 | [Moon](https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [Harleen Khera](https://open.spotify.com/artist/7mLdGhPzRNItq5xzNKPMLX) | [Moon](https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8) | 3:06 |
 | 10 | [Humnasheen](https://open.spotify.com/track/0fr7aoYFseuvPN6q2FfFWV) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Humnasheen](https://open.spotify.com/album/1lrsCjg7ktVG4Db5gB7ZKH) | 3:00 |
 | 11 | [Aaropi](https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:14 |
 | 12 | [Damh](https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 2:45 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 36 | [THAT’S A FACT!](https://open.spotify.com/track/7mmC9oJZxmYkIyDeghEGCd) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Manïn](https://open.spotify.com/artist/0Ln67JbkAdFwzpuF8uA5ZD) | [LADKE CONVICT](https://open.spotify.com/album/2IU5jXA80Y2yhfGqW5LxZc) | 3:01 |
 | 37 | [Sod Lacharicha Paksh](https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Sod Lacharicha Paksh](https://open.spotify.com/album/33nEaGaN27RBcHlTAzhkz4) | 6:08 |
 | 38 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 |
-| 39 | [No ID \- Tunnel Vision](https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [No ID \(Tunnel Vision\)](https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ) | 2:39 |
+| 39 | [No ID](https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [No ID](https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ) | 2:39 |
 | 40 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 |
 | 41 | [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 |
 | 42 | [Haath Varthi](https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Haath Varthi](https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
 | 75 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 
-Snapshot ID: `MCwwYTNkYWU5N2Y2NGVlZWY5YzliOTQwMjlhMzk5NTAzYjg0NDg1ZjRi`
+Snapshot ID: `MCw2MGU5MTkzOTI3NmE1MWM5MTExMjU4ZGRiMWY3MmE2N2ZiZWE5MzQx`

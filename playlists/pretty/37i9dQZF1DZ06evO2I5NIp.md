@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,411 likes - 46 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,415 likes - 46 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 23 | [No Heart At All](https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:17 |
 | 24 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 |
 | 25 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
-| 26 | [Livin' On Love](https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:03 |
-| 27 | [Have Mercy](https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:23 |
+| 26 | [Have Mercy](https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:23 |
+| 27 | [Livin' On Love](https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:03 |
 | 28 | [One I Love](https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 2:54 |
 | 29 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 |
-| 30 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 |
-| 31 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 |
+| 30 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 |
+| 31 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 |
 | 32 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 |
 | 33 | [Suspicion](https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:55 |
 | 34 | [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 42 | [Isn't That So](https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:17 |
 | 43 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
 | 44 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
-| 45 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 |
-| 46 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 45 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 46 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAwYzkxZWNiN2FkMDgwZjQzMGYwNGEzYTQ5YmVjZjdiYg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAzZmY1ZWU0NzQzMDE1NDJlOTQyMzc2M2Y4ODVjODZlYg==`

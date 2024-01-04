@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 663930,
+  "num_followers": 664824,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ2NDBmZDA5M2JiMjAzM2ZkNWM1NTJkMjA1MTRlMzJhNTc1MGEy",
+  "snapshot_id": "MCw0NDM0ZjhmYjc0ZmNjMmI2N2JmZjRlOWQ4MWJlZjJiN2FhYmVlNjZk",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Super Trouper",
@@ -867,6 +851,22 @@
       "duration_ms": 252853,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Living In The Background",
         "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 378946,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Part-Time Lover",
-      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Call Me",
@@ -1239,6 +1223,22 @@
       "duration_ms": 212226,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "Forget Me Nots - Remastered",
+      "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 284506,
-      "name": "Forget Me Nots - Remastered",
-      "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
       },
       "artists": [
         {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
         }
       ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+      "duration_ms": 205533,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/00isIFJWVpXIQ8HkGICSQp"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
       },
       "artists": [
         {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/00isIFJWVpXIQ8HkGICSQp"
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Pipes Of Peace",
@@ -1691,22 +1707,6 @@
       "duration_ms": 235693,
       "name": "Say Say Say - Remastered 2015",
       "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1745,6 +1745,22 @@
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Keep On Movin'",
@@ -1763,22 +1779,6 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2053,22 +2053,6 @@
       "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Freedom of Choice",
@@ -2083,6 +2067,22 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2133,22 +2133,6 @@
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Get Close (Expanded & Remastered)",
@@ -2163,6 +2147,22 @@
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
-      },
-      "artists": [
-        {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Dancing with Tears in My Eyes",
-      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Another Step",
         "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
+      },
+      "artists": [
+        {
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2373,22 +2373,6 @@
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Hotter Than July",
-        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Master Blaster (Jammin')",
-      "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Invisible Touch (2007 Remaster)",
@@ -2403,6 +2387,22 @@
       "duration_ms": 208026,
       "name": "Invisible Touch - 2007 Remaster",
       "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Master Blaster (Jammin')",
+      "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
     },
     {
       "added_at": "2021-09-08 13:09:25",

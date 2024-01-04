@@ -1,12 +1,12 @@
 {
   "description": "The songs we've been partying to in 2023. Cover:  #SpotifyWrapped",
-  "num_followers": 59018,
+  "num_followers": 59095,
   "original_name": "Top Party Hits of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzRmMTQ0NmJlOGE0NDRlODJmNzQxM2RiYjQwODMwOTRiZmE0NjM0",
+  "snapshot_id": "MCw5MjJlNGJlNzhhYTYxZjA1OTRhMmJmZjBhM2Q0YTBjY2M1ZDgwN2Zj",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "IT'S GETTING HOT",
-        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 134424,
-      "name": "IT'S GETTING HOT",
-      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 134880,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "IT'S GETTING HOT",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 134424,
+      "name": "IT'S GETTING HOT",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Put It On Da Floor Again (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "Put It On Da Floor Again (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "On My Love (Sped Up)",
         "url": "https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "JUMPIN",
-        "url": "https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "JUMPIN",
-      "url": "https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4W4QNwe6Cm4BKDk46nuofO"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "JUMPIN",
+        "url": "https://open.spotify.com/album/2Gf3rUMIPtYL29TQx4Xnob"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "JUMPIN",
+      "url": "https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH"
     },
     {
       "added_at": "2023-11-29 12:15:00",

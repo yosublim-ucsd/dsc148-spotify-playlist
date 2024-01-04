@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
-  "num_followers": 3503839,
+  "num_followers": 3504735,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2MyZTBlYzA2YmY0ODFhZWNiNjhhN2NhNDM5NGM4Y2Y5OGRmYjBk",
+  "snapshot_id": "MCw3YTMxZjcyYTNlOTIwODMxOGIxYTc0NWFkNTdlYzM1N2Q4YjJjM2Ux",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "Release Some Tension",
+        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Release Some Tension",
-        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2021-08-20 04:02:00",

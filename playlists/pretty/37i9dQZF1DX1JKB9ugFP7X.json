@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23875,
+  "num_followers": 23880,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JiZDAyYmQ1M2Y4YzczOTU4OWRjYTI3YTIzMmIyZTYyZTNlOGI0",
+  "snapshot_id": "MCxkZDRjMTRiZDFiZDQwZGVmZTFjYzBjYjRlYzM4Y2MyODQ2NTkzOWVm",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -127,6 +127,26 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "I SEE U LATER",
+        "url": "https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 205838,
+      "name": "I SEE U LATER",
+      "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "SAETA",
         "url": "https://open.spotify.com/album/2xqdV2npgZXiowXCAYwd2Y"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 212390,
       "name": "DARKSOULS",
       "url": "https://open.spotify.com/track/1pBugwted2IO3pR7APQPP5"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "I SEE U LATER",
-        "url": "https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 205838,
-      "name": "I SEE U LATER",
-      "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1263,6 +1247,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "ELET\u00c9",
+        "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -1323,38 +1323,34 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
       },
       "artists": [
         {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        },
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
     },
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "ELET\u00c9",
-        "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
       },
       "artists": [
         {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
         }
       ],
-      "duration_ms": 311386,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        },
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+      "duration_ms": 183500,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
-      },
-      "artists": [
-        {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "BOTON",
         "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 138436,
       "name": "BOTON",
       "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+      },
+      "artists": [
+        {
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "MELONI",
-        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "MELONI",
-      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Peces Raros (Vivo Buenos Aires)",
         "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 310890,
       "name": "Sombras en la Pared - Vivo Buenos Aires",
       "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "MELONI",
+        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "MELONI",
+      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
     },
     {
       "added_at": "2023-12-15 03:00:00",

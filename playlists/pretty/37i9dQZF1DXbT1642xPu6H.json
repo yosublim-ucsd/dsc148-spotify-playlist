@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 354454,
+  "num_followers": 354446,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWYwYzgxNDFmMmYxMGI5YjY1YzliNzRiNDcxN2IxZjE1NDI5MDFk",
+  "snapshot_id": "MCwzMjdlZGFjN2M3N2ViZmM3YzQ0ZTVkNjRmYmNmM2I0MzYzOGM5Njdl",
   "tracks": [
     {
       "added_at": "2023-12-15 19:19:16",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-12-15 19:19:16",
       "album": {
-        "name": "Rara Vez",
-        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
-      },
-      "artists": [
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 128677,
-      "name": "Rara Vez",
-      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
-    },
-    {
-      "added_at": "2023-12-15 19:19:16",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2023-12-15 19:19:16",
+      "album": {
+        "name": "Rara Vez",
+        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
+      },
+      "artists": [
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 128677,
+      "name": "Rara Vez",
+      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
     },
     {
       "added_at": "2023-12-15 19:19:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-15 19:19:16",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2023-12-15 19:19:16",
-      "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 221407,
       "name": "All Of The Girls You Loved Before",
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "added_at": "2023-12-15 19:19:16",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
       "added_at": "2023-12-15 19:19:16",

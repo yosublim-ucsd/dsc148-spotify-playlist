@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 | 23 | [Animal Skin](https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:28 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDA0NTcxYmIzOWE2MGY1ZTE1Yzc5OWUxMjZlMTkzMTEwMA==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBmM2U1Njk5MjE2MDc2MjRjZTM4NTZiMTM5NzRiYmUzZA==`

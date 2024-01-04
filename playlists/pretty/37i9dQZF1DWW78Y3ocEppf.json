@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43226,
+  "num_followers": 43224,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjA2OWZhZTg4NGNmOTEzY2Y2NmI2ZjIxYzYzNTdjZmVjMGE5Y2U2",
+  "snapshot_id": "MCxjYjQwOWZkMDdjOTVkZDY1NGUzZjU4NGM1ZTllZjc1MjJlYjMyN2I0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "duration_ms": 151664,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "The Love Album: Off The Grid",
@@ -623,22 +639,6 @@
       "duration_ms": 247873,
       "name": "Pick Up (feat. Jacquees and Fabolous)",
       "url": "https://open.spotify.com/track/6fWbDYXfnAPJWfgzWrRaW0"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7"
-      },
-      "artists": [
-        {
-          "name": "GoGo Morrow",
-          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
-        }
-      ],
-      "duration_ms": 151664,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1253,20 +1253,20 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2022-11-04 06:34:53",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
       },
       "artists": [
         {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 158661,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2022-11-04 06:34:53",
       "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
       },
       "artists": [
         {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7"
     },
     {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1443,22 +1459,6 @@
       "duration_ms": 128506,
       "name": "For The Girls",
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 147792,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1613,26 +1613,6 @@
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "No Rules (Slut Me Out) (Single)",
-        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
-      },
-      "artists": [
-        {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
-        },
-        {
-          "name": "Paxquiao",
-          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "No Rules (Slut Me Out)",
-      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "WNTRS OUTCAST",
@@ -1665,6 +1645,42 @@
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "No Rules (Slut Me Out) (Single)",
+        "url": "https://open.spotify.com/album/6KSFtsn6YSViWcgLtrHBYd"
+      },
+      "artists": [
+        {
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        },
+        {
+          "name": "Paxquiao",
+          "url": "https://open.spotify.com/artist/1YhthHHCDrrokQ3xsYImWd"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "No Rules (Slut Me Out)",
+      "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "RollBack",
@@ -1685,20 +1701,20 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
       },
       "artists": [
         {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
         }
       ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+      "duration_ms": 175151,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1717,20 +1733,20 @@
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
+        "name": "LOVERS WAVE VOL. 1",
+        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
       },
       "artists": [
         {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
         }
       ],
-      "duration_ms": 175151,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
+      "duration_ms": 108588,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1747,22 +1763,6 @@
       "duration_ms": 143903,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "LOVERS WAVE VOL. 1",
-        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
-      },
-      "artists": [
-        {
-          "name": "Lehla Samia",
-          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
-        }
-      ],
-      "duration_ms": 108588,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     }
   ],
   "unique_name": "Some Kinda Way",

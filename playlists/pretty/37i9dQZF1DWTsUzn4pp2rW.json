@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 145037,
+  "num_followers": 145086,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg2Y2RiMDYzODEyZWIyOTc0OTJjZDM4ZDI1NDZjYmY1OGUzYTUy",
+  "snapshot_id": "MCxiZThmNThjMjVhNGY1MGQyZTMzYzhhNWFiMzMwMDI4NGE2ZTQ1ZGIw",
   "tracks": [
     {
       "added_at": "2023-12-20 10:53:16",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "Rachael & Vilray",
+        "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 175071,
+      "name": "Do Friends Fall in Love?",
+      "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Rachael & Vilray",
-        "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 175071,
-      "name": "Do Friends Fall in Love?",
-      "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Adventure Of A Lifetime",
-      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Me and My Radio",
         "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 196185,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Adventure Of A Lifetime",
+      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Not For Me",
         "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 188413,
       "name": "You Can't Hide Away From Love",
       "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
-      },
-      "artists": [
-        {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
-        }
-      ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -935,6 +919,38 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+        "name": "Bagatelles",
+        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Nellie McKay",
+          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
         }
       ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+      "duration_ms": 127426,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1007,22 +1023,6 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Bagatelles",
-        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
-      },
-      "artists": [
-        {
-          "name": "Nellie McKay",
-          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
-      },
-      "artists": [
-        {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Just A Little Lovin' (Early In The Mornin')",
-      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 278239,
       "name": "By the Time I Get to Phoenix",
       "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Just A Little Lovin' (Early In The Mornin')",
+      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
         }
       ],
-      "duration_ms": 284213,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
       "artists": [
         {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         }
       ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
+      "duration_ms": 284213,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
-      },
-      "artists": [
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Day by Day",
         "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
       },
       "artists": [
         {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
         }
       ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1539,6 +1523,22 @@
       "duration_ms": 189884,
       "name": "What Love Is For",
       "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Chamomile Tea",
-        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farstar",
-          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
-        }
-      ],
-      "duration_ms": 252261,
-      "name": "Chamomile Tea",
-      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 311002,
       "name": "Visions",
       "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Farstar",
+          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
+        }
+      ],
+      "duration_ms": 252261,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
-      },
-      "artists": [
-        {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
-        }
-      ],
-      "duration_ms": 295560,
-      "name": "Move Me No Mountain",
-      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/2YrxQ8cVq9Rcw0vLOKx2cy"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "Move Me No Mountain",
+      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Enough to Be on Your Way",
-        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
         }
       ],
-      "duration_ms": 318175,
-      "name": "Enough to Be on Your Way",
-      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
-        "name": "Back to the Start",
-        "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
+        "name": "Enough to Be on Your Way",
+        "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
       "artists": [
         {
-          "name": "Gordon Robertson",
-          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 196154,
-      "name": "Back to the Start",
-      "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
+      "duration_ms": 318175,
+      "name": "Enough to Be on Your Way",
+      "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "Beautiful Way",
+        "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Beautiful Way",
+      "url": "https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 260852,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Beautiful Way",
-        "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Beautiful Way",
-      "url": "https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE"
     },
     {
       "added_at": "2023-12-20 10:53:16",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-12-20 10:53:16",
       "album": {
+        "name": "Midnight Jones",
+        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "Peace - First Sessions Demo",
+      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
+    },
+    {
+      "added_at": "2023-12-20 10:53:16",
+      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 226240,
       "name": "A Happy Thought (feat. Stu Mindeman)",
       "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
-    },
-    {
-      "added_at": "2023-12-20 10:53:16",
-      "album": {
-        "name": "Midnight Jones",
-        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "Peace - First Sessions Demo",
-      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
     },
     {
       "added_at": "2023-12-20 10:53:16",

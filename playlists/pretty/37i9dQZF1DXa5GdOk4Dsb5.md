@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,572 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,623 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
 | 100 | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/track/0Wf3yEjUOKzdxMeOlxGfzC) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/album/1BZLPRfhdCTyb4zg0BNzTC) | 3:14 |
 
-Snapshot ID: `MCxlNWQ4NWZmZTQ4Nzk2YTJkNTE4YmZlMGE0NmM5YWU5YmI5ZTJlMmQ0`
+Snapshot ID: `MCxkM2IwMzIwN2E0YzRiOTJiMmFjNTFkMmQ3NDkyMmY2ZTliMjM1ZTI1`

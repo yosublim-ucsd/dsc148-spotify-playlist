@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,937 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,940 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 | 37 | [Visions](https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Conception \- An Interpretation Of Stevie Wonder's Songs](https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q) | 5:34 |
 | 38 | [I Love Every Little Thing About You](https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:56 |
 
-Snapshot ID: `MCwwYzY2Y2MyYmE1YmQ4OGY0OTE3MmIyOWYwYzYxMTZiNjYzZDIzZDIx`
+Snapshot ID: `MCxhNmQ5YTM2ZTc2MmM0ZGIyNGMyNTI0MWMzMmZiY2FmZjFlYzQ2ZGRk`

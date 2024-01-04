@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 
 > Pop para refrescarte los días, featuring Morat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,713 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,727 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 | 40 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 |
 | 41 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 |
 | 42 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
-| 43 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 |
-| 44 | [EFECTO](https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:40 |
-| 45 | [Negar](https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 3:19 |
+| 43 | [EFECTO](https://open.spotify.com/track/23l2pykoSycSn8O68jXn5H) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:40 |
+| 44 | [Negar](https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 3:19 |
+| 45 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 |
 | 46 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 |
 | 47 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 |
 | 48 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 | 50 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
 | 51 | [TV](https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 2:45 |
 | 52 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
-| 53 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
-| 54 | [La Idea](https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [La Idea](https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU) | 3:14 |
-| 55 | [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 |
+| 53 | [La Idea](https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [La Idea](https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU) | 3:14 |
+| 54 | [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 |
+| 55 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
 | 56 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
 | 57 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 |
 | 58 | [Se Siente Así](https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 | 99 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
 | 100 | [no quiero olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [no quiero olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
 
-Snapshot ID: `MCwwMDdhMTc1Njk1NzJiZDU0YzEzZGNhZTkzZDNjODFmNmNlYTQzMzQ0`
+Snapshot ID: `MCwyYzdiZjQyYTUyMWRhNDQ0ZThlZTgwMGM0NGY2MzcwMWI5OGNiODFk`

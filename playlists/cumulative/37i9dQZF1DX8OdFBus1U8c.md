@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
 
-126 songs - 6 hr 48 min
+127 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bobby & Sulaiman](https://open.spotify.com/track/4dZg42I2oAMIa86UNeqZhp) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [JUNGLE SPEAKS, Vol\. 1](https://open.spotify.com/album/64hiwux15xTgMb9Fc8u5hM) | 3:23 | 2022-06-23 | 2023-12-20 |
 | [Boss Kid](https://open.spotify.com/track/2mquWSV8POF4pfkQ1eQFOm) | [Rap Kid India](https://open.spotify.com/artist/40KXGueq8yPOb6dtZD6QmA), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Boss Kid](https://open.spotify.com/album/2S2nHAPutWZIhHsQgiCqRf) | 2:44 | 2023-07-23 | 2023-08-10 |
 | [BREAKFAST](https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 3:56 | 2023-07-23 | 2023-12-20 |
-| [CALICITY](https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF) | [Shihab Huzzain](https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [CALICITY](https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED) | 1:54 | 2023-11-06 |  |
+| [CALICITY](https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF) | [Shihab Huzzain](https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [CALICITY](https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED) | 1:54 | 2023-11-06 | 2024-01-04 |
 | [Ceasefire Now](https://open.spotify.com/track/1vLVrRcfDIKhRlsrQ6gIuK) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Ceasefire Now](https://open.spotify.com/album/4i7U8lSSrQeS18qqeVRgqE) | 3:06 | 2023-11-28 |  |
 | [Chathi](https://open.spotify.com/track/0HJVTFwv2ht5u4y9RCzfho) | [Sweezy Trip](https://open.spotify.com/artist/5v61kr8mEQuzSocL9c0DTl), [VKDKV](https://open.spotify.com/artist/2is3kAPzIxjgRHXd9qZB3n), [AMANI KL10](https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr) | [Chathi](https://open.spotify.com/album/0CyndZDyLdIqYlcG1JiwzL) | 3:54 | 2023-11-28 | 2023-12-20 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2021-12-03 |  |
@@ -46,6 +46,7 @@
 | [Hey Nima](https://open.spotify.com/track/5PUkJvKMnevgDUktjt5DR2) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Hey Nima](https://open.spotify.com/album/0B36i98w5vbYZv6ZZUX2IY) | 2:44 | 2022-06-23 |  |
 | [Hope](https://open.spotify.com/track/3oMeTMaSY44CZLkefVhQHR) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:18 | 2022-06-23 | 2023-12-20 |
 | [Hope](https://open.spotify.com/track/2nujuLW4cF1iqUXQvcPL5Q) | [Praveen Kay William](https://open.spotify.com/artist/5klbbSjhiOCdvF5iYYatcf), [Jibin Krishna](https://open.spotify.com/artist/7ys1Gv482wuxQRWcGH1FfK) | [Hope](https://open.spotify.com/album/6pgDb9UUgOUF8ugOHSL0px) | 3:42 | 2023-08-31 | 2023-09-12 |
+| [Hyena](https://open.spotify.com/track/6OlurkzGXQ5myTKEtC1NQk) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR), [Tasi](https://open.spotify.com/artist/1ew8nsHMEw9DBGmWcuRqiN) | [Hyena](https://open.spotify.com/album/3eyGEU7OV4SYx7KQELKD8n) | 2:40 | 2024-01-03 |  |
 | [I Am Back](https://open.spotify.com/track/2ZCPrOFtAR4vPBq9dhEYE0) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [I Am Back](https://open.spotify.com/album/5jllAmlWcEI7gwP7JewXV7) | 1:59 | 2023-07-23 | 2023-08-29 |
 | [I'm a Mallu](https://open.spotify.com/track/3UlcuRM1VI5YdKhV8xzRX6) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [I'm a Mallu](https://open.spotify.com/album/5ZGvMnAnwl9hxIIZ0mRwne) | 2:40 | 2022-04-18 |  |
 | [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 | 2023-12-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,716 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,720 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 25 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 |
 | 26 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 27 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
-| 28 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 29 | [LOVE](https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Guardian \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9) | 2:57 |
+| 28 | [LOVE](https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Guardian \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9) | 2:57 |
+| 29 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 30 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
 | 31 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
 | 32 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 38 | [Celeb](https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:19 |
 | 39 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 40 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 |
-| 41 | [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 |
-| 42 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
+| 41 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
+| 42 | [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 |
 | 43 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 44 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 45 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 |
 | 60 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 |
 
-Snapshot ID: `MCxiZTFjNzA4ZmUwOTFjMzRiZmM2NTI5ODA2N2RkOGFhZjBlNTg2YjZl`
+Snapshot ID: `MCxjMDhiODRjNzE3M2U1MzY3MGFmNzk5NGVhZDBiNjk1OTBiMDI0MWVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3Vh1gmbW2N.md) - [plain]
 
 > Indie dosmilero para echar una partida épica con los compas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,462 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,474 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3Vh1gmbW2N.md) - [plain]
 | 58 | [North American Scum](https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:28 |
 | 59 | [3rd Planet](https://open.spotify.com/track/7Gi8kaILAUgjYqgdee9410) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 3:58 |
 | 60 | [This Is Love](https://open.spotify.com/track/04Glred2wGdSNH11Qh4EDe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:46 |
-| 61 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
-| 62 | [Hearts On Fire](https://open.spotify.com/track/4hwGyvMsfyFkCFHlNuawXt) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours \(UK Version Delux\)](https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS) | 4:54 |
+| 61 | [Hearts On Fire](https://open.spotify.com/track/4hwGyvMsfyFkCFHlNuawXt) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours \(UK Version Delux\)](https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS) | 4:54 |
+| 62 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 63 | [Bandages](https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/02KvZdz1ZwyGTok0Sl5g3a) | 3:32 |
 | 64 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
 | 65 | [Yet Again](https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 5:18 |
 
-Snapshot ID: `MCwzZWEyNjgzY2M1ZGY5ZjViYmU3ZDA0YTJjYjBlOGVlMDhhZTVjZjVm`
+Snapshot ID: `MCw4ODQzNzA5Yjg4YjRlNzI5MWY0ZmJiMDZkODNiZjllMWYzNzAzZWUz`

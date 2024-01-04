@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,598,942 likes - 52 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,600,071 likes - 52 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 46 | [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 |
 | 47 | [Remember The Name \(feat\. Eminem & 50 Cent\)](https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:27 |
 | 48 | [Like Toy Soldiers](https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:56 |
-| 49 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
-| 50 | [Bump Heads](https://open.spotify.com/track/4OYGHze5MiMkgozardIRxU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 4:41 |
+| 49 | [Bump Heads](https://open.spotify.com/track/4OYGHze5MiMkgozardIRxU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 4:41 |
+| 50 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
 | 51 | [Berzerk](https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 3:58 |
 | 52 | [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA5ZTQ0ZjAwNjY4Y2M0Y2FhZWE4MzFmNmI2ZjkwZWNhMA==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA1YWYxMjhkZDhjOTMwZTc1Y2JkYWEwM2MxYTI5MDI4OA==`

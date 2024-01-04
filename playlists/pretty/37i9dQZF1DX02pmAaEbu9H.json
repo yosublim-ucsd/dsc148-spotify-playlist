@@ -1,12 +1,12 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1440805,
+  "num_followers": 1440922,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWE4NTUxZGFkNzZhMmI5YzM3NGEzMTYxYzM5MjQxZGI3YzQwMDJh",
+  "snapshot_id": "MCxkNzgxNWY3OWY5MWUzNzliYzQ3MGIwMzA1NzVmZTBkYTc5ZTc4MTU5",
   "tracks": [
     {
       "added_at": "2021-10-25 21:05:32",
@@ -323,6 +323,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Don't Stop Believin' (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -415,22 +431,6 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony - Remastered 2016",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 221360,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -807,6 +807,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 225080,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2021-10-25 21:05:32",

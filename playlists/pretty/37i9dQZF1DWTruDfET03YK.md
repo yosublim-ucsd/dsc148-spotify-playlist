@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,754 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,803 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 15 | [El Baile de los Animales](https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 3](https://open.spotify.com/album/3COabJotsgeogBvNsNpcok) | 2:54 |
 | 16 | [Perry the Platypus Theme](https://open.spotify.com/track/0gG4SZ5weal3dd11pf5SzV) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 0:47 |
 | 17 | [Pom pom gallinita](https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:04 |
-| 18 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/3VzVFDEJ3cvOCDB08X5WIk) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/40U4IxZZ5vPTZ3L9piyH38) | 2:26 |
-| 19 | [La Vaca Lola](https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:55 |
+| 18 | [La Vaca Lola](https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:55 |
+| 19 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/3VzVFDEJ3cvOCDB08X5WIk) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/40U4IxZZ5vPTZ3L9piyH38) | 2:26 |
 | 20 | [El Baile del Gorila \(Versión 2019\)](https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:42 |
 | 21 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
 | 22 | [En el Arca de Noe](https://open.spotify.com/track/6uw29DF8FcbWlvf7AqR1va) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 4:31 |
 | 23 | [El Cocodrilo Dante](https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:14 |
 | 24 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
-| 25 | [La Carrera](https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito De La Tele Cepillín, Vol\. 1](https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR) | 3:15 |
-| 26 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
+| 25 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
+| 26 | [La Carrera](https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito De La Tele Cepillín, Vol\. 1](https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR) | 3:15 |
 | 27 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
 | 28 | [Coco En Su Cueva](https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Fiesta En La Aldea Encantada](https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3) | 1:56 |
 | 29 | [La Gata](https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 1:38 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 44 | [Quiero un Perrito](https://open.spotify.com/track/2iTTot0TDxXhnjV7fs4LMN) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:30 |
 | 45 | [Piquito pajarito](https://open.spotify.com/track/14eG0RZsk1rp7dCOYkLbWK) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 0:49 |
 | 46 | [Pato Con Tres Patas](https://open.spotify.com/track/79eWa4cjirSHSmKg8f3WTN) | [Pez al Revés](https://open.spotify.com/artist/027ItQs3vdLG019LNccXr2), [Cascacuerda](https://open.spotify.com/artist/42JQQWzk1ZzwSbj9JqBUF3), [Juan Pablo Ezquerra](https://open.spotify.com/artist/7jVd7dSHaEDxcZMyiZsQ23) | [Pez Al Revés](https://open.spotify.com/album/02qZvX116VfuLdtIjwS49x) | 2:08 |
-| 47 | [A Bunny Can Go Savage](https://open.spotify.com/track/2ALNmcdQmMBk8WSDcnjZBA) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 1:45 |
-| 48 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
+| 47 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
+| 48 | [A Bunny Can Go Savage](https://open.spotify.com/track/2ALNmcdQmMBk8WSDcnjZBA) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 1:45 |
 | 49 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
 | 50 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
 
-Snapshot ID: `MCwxMmE4ODU3ZjBiNDM5NzJkNzk2ZDIwOTQzYjAzYTViNTlkNzQ4MTQ3`
+Snapshot ID: `MCwzYzZhN2NlYmUwY2QxNDI2NTMzN2JmODExNzc0NjlhNjMzY2Q5MTEy`

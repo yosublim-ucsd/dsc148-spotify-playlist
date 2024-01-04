@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 78457,
+  "num_followers": 78624,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGZjMmMwZGQ3OWNhNzU3OTNmODFhZTE3ZmU3YjVmMTMwNDQ5MzBj",
+  "snapshot_id": "MCw2NmM1YzM4Mjg4YmU3MDQxZWU3OTIzNjMwMDNjYmExNjkwM2RiMDAz",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+      },
+      "artists": [
+        {
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 289802,
       "name": "El Venadito",
       "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
-      },
-      "artists": [
-        {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Amores Fingidos",
-      "url": "https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn"
     },
     {
       "added_at": "2023-11-09 23:10:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,766 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,927 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [¿Y Qué? \(with Gianmarco\)](https://open.spotify.com/track/0uKbiRx2RlQEVOcfcSmOYC) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:18 |
 | 100 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 |
 
-Snapshot ID: `MCw1ZjY2OGRiNGY2ZWVkZDU4YTI3ZWQwN2IwNzExMDFkM2YyMTM0ZmM0`
+Snapshot ID: `MCw3NGNiYjczYWE1ZWMyYWQ3YmU5NTllMzU5YTc0ZGIzNjA0MDNlMGIw`

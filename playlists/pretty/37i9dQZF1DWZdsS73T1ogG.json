@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: lil joujou\n",
-  "num_followers": 522555,
+  "num_followers": 522562,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzY5M2NkMDFkYmFjMTlhNTAzMWVjM2JmZWM2Yzg1NmU3N2FhNWE0",
+  "snapshot_id": "MCw1M2JhNjEyOTQ0NTFiNTAzYWQ3ZDEzNWI0NTY0MjNiYTJhMzY1NDdj",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -303,30 +303,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "El De La Nueva Baby",
-        "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "\u00bfCu\u00e1l Es Su Nombre?",
-      "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "El De La Nueva Baby",
+        "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "\u00bfCu\u00e1l Es Su Nombre?",
+      "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Mal Hombre",
-        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Mal Hombre",
-      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -631,30 +615,18 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 265999,
-      "name": "COLMILLO",
-      "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -683,26 +655,30 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 226725,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
+      "duration_ms": 265999,
+      "name": "COLMILLO",
+      "url": "https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -723,6 +699,30 @@
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 226725,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Suena El Bajo",
         "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 194968,
       "name": "Suena el Bajo",
       "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
-      },
-      "artists": [
-        {
-          "name": "Teo",
-          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "PA' DONDE",
         "url": "https://open.spotify.com/album/65uWsdrhHJcp21CmoUiqm8"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 156983,
       "name": "PA' DONDE",
       "url": "https://open.spotify.com/track/7FOgviTCYxVeUDVrldzTr2"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
     },
     {
       "added_at": "2023-12-29 05:00:00",

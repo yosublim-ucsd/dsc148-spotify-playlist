@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 18379,
+  "num_followers": 18408,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDZjNmE1NDE4NWQ4ZTg5NzE1OWQ4Zjk1YzQwNzQ4MjVhOTYzN2Vk",
+  "snapshot_id": "MCxiZWYwZmNiYjE2N2QyOWQwZmQ0M2E2MDQ1ZGM0MmM3YzYxYTMzYzdi",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/5TrjLIYChGEUMbJIu4UVwk"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 153152,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2YDRLaRfmwdtwfcg0nVLeO"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -927,30 +927,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Where Dem Dey (Remix)",
-        "url": "https://open.spotify.com/album/2xh0FtjHY2TH41Wo5j4Dhj"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
       },
       "artists": [
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Where Dem Dey - Remix",
-      "url": "https://open.spotify.com/track/5Lxbl2U3zVqF93OYsQgLhY"
+      "duration_ms": 144168,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -979,22 +971,30 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N"
+        "name": "Where Dem Dey (Remix)",
+        "url": "https://open.spotify.com/album/2xh0FtjHY2TH41Wo5j4Dhj"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
         },
         {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
         }
       ],
-      "duration_ms": 144168,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
+      "duration_ms": 172500,
+      "name": "Where Dem Dey - Remix",
+      "url": "https://open.spotify.com/track/5Lxbl2U3zVqF93OYsQgLhY"
     },
     {
       "added_at": "2023-12-22 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 43746,
+  "num_followers": 43796,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTdiMmZkYTI5ZjYxM2JjMjY4NzVkYTFiMDRhZWQ1ZDRiODJjZjk2",
+  "snapshot_id": "MCxlNTNkYTI2MmZjNGRiZWYzODlhZWUzZWJiMTgxNDUzYzUyZWIxZDBm",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Country, Blues & More",
         "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 133481,
       "name": "Blue Dreamer",
       "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -555,6 +555,42 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Mr. B.",
+        "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
+      },
+      "artists": [
+        {
+          "name": "Tomislav Goluban",
+          "url": "https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN"
+        },
+        {
+          "name": "Bo\u0161ko Petrovi\u0107",
+          "url": "https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA"
+        }
+      ],
+      "duration_ms": 405346,
+      "name": "Mr. B.",
+      "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -583,42 +619,6 @@
       "duration_ms": 197466,
       "name": "Lookin' Good",
       "url": "https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "End Of The Blues",
-      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Mr. B.",
-        "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
-      },
-      "artists": [
-        {
-          "name": "Tomislav Goluban",
-          "url": "https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN"
-        },
-        {
-          "name": "Bo\u0161ko Petrovi\u0107",
-          "url": "https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA"
-        }
-      ],
-      "duration_ms": 405346,
-      "name": "Mr. B.",
-      "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "The Screwdriver",
-      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Mile End ll",
         "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 217893,
       "name": "Runner",
       "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "The Screwdriver",
+      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Roll Forward",
         "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 361689,
       "name": "Easy Does It Blues",
       "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 564133,
       "name": "The Messiah Will Come",
       "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Evans' Shuffle",
-      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Spiekeroog Sessions",
         "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 263276,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Evans' Shuffle",
+      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Dockside Boogie",
-      "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Mellow Blues",
         "url": "https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 344266,
       "name": "Long gone",
       "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Dockside Boogie",
+      "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
     },
     {
       "added_at": "2023-08-23 10:31:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 978 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 38 | [BBS Interlude](https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 0:30 |
 | 39 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
 | 40 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
-| 41 | [XQ](https://open.spotify.com/track/5i7Xg48Q0gS40rKVZwDuRA) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [XQ](https://open.spotify.com/album/1mK5rEIJ2p7QQCN1XVYmqy) | 2:21 |
-| 42 | [Pa Mi Gente](https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Prolifek](https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX), [Sam King](https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r) | [Pa Mi Gente](https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X) | 4:21 |
+| 41 | [Pa Mi Gente](https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Prolifek](https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX), [Sam King](https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r) | [Pa Mi Gente](https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X) | 4:21 |
+| 42 | [XQ](https://open.spotify.com/track/5i7Xg48Q0gS40rKVZwDuRA) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [XQ](https://open.spotify.com/album/1mK5rEIJ2p7QQCN1XVYmqy) | 2:21 |
 | 43 | [Slumped Freestyle](https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 4:16 |
 | 44 | [Like Sheen](https://open.spotify.com/track/6dMLp2T3kdrEJjmnUssBhn) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Ronnie Trees](https://open.spotify.com/artist/5wvqDnrMEfNwAPCFr8u0qR) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 1:27 |
 | 45 | [Bo Bundy In Japan](https://open.spotify.com/track/7t9BQNLGNQvW4OCS8T9T1i) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Bo Bundy In Japan](https://open.spotify.com/album/1qEth0z87VWwEUyOu54kv1) | 2:26 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 47 | [Money Manziel](https://open.spotify.com/track/4ZlgEjgVTgnOgCC7uEI9XR) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Glock Simmons](https://open.spotify.com/artist/3HcXn8TlSRaOcRCtGNvCzL) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:51 |
 | 48 | [Iced Up](https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Trill Wavy](https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:28 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA3ZWE5YjM4YzRlYzNlNjViOTdiNTJiMmRkMDUyNzU4Mw==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBjOWJmYjRiZmVjZTkxOWFjMWNhODBmY2RlM2U2OTYxNg==`

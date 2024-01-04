@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,452 likes - 65 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,507 likes - 65 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 45 | [I Have This Hope](https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 3:24 |
 | 46 | [Tremble](https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Tremble](https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz) | 3:58 |
 | 47 | [Good Fight](https://open.spotify.com/track/6ukP8PkZshgCEw8u9rPsho) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 2:55 |
-| 48 | [Hope Has a Name](https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:48 |
-| 49 | [He Knows](https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:28 |
+| 48 | [He Knows](https://open.spotify.com/track/1sglby2dgYxUyca0wcBRhw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:28 |
+| 49 | [Hope Has a Name](https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:48 |
 | 50 | [The Comeback](https://open.spotify.com/track/3QiF0PF9ciUoyHFrr6DBme) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:11 |
 | 51 | [What If](https://open.spotify.com/track/3OPriamtEJuT0E2A8HqVRR) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:43 |
 | 52 | [All My Hope](https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [All My Hope](https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe) | 3:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
 | 65 | [Stronger \- With Cold Ending](https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [What If We Were Real](https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V) | 3:33 |
 
-Snapshot ID: `MCxkOWUxNjlhOGJiZThiMjAzMWQ2ZmFiOGE1MjcyODU2ZmY2MDFkZWI3`
+Snapshot ID: `MCxlNTliYzgxYjlkMWNjY2Y5Y2I5MDRiM2IxZTUzYjU1OTNjOWIzZGNk`

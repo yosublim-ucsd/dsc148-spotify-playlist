@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,465 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,598 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Fearless and Brave](https://open.spotify.com/track/17GshEAJNdAnoXKqtF3Qpm) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [The Perfect Match](https://open.spotify.com/album/03SaEIWMLWXZp3Rd1fkQRa) | 2:57 |
 | 50 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
 
-Snapshot ID: `MCxmZWZjNjVkZDg5MDA3OTA0YjU5NGM4OTQ2YmJlYTlkY2I0YmU2NGRm`
+Snapshot ID: `MCw2OWNiN2E1MWZmNTFkYjgwOTAwZWUyZjczYTFkYzQzY2Q2ZmFhNDA3`

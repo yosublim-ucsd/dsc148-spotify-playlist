@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-196 songs - 11 hr 31 min
+197 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Christmas Love](https://open.spotify.com/track/1bSqmWIWw4AHevbOXBtBwm) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [KIM TAE WOO with Friends](https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef) | 3:04 | 2021-12-21 | 2022-12-13 |
 | [Christmas Rose \(feat\. LEEBADA\)](https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Christmas Rose](https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o) | 3:43 | 2021-12-21 |  |
 | [Christmas Time](https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD), [YOO SEUNGWOO](https://open.spotify.com/artist/6pR1ySndn2rTiCX0izqJU9), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB), [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN), [DUETTO](https://open.spotify.com/artist/6PvXDvysAc002NKTISIYBV), [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [STARSHIP PLANET 2018](https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq) | 4:01 | 2021-12-21 |  |
+| [Christmas Time](https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Christmas Time](https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA) | 3:50 | 2023-12-27 |  |
 | [Christmas Train](https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB) | [Linus' Blanket](https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy) | [Semester](https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy) | 3:39 | 2021-12-21 | 2022-12-16 |
 | [Christmas without You](https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:19 | 2021-12-21 |  |
 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 | 2021-12-21 |  |
@@ -166,7 +167,7 @@
 | [This Christmas](https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:27 | 2021-12-21 |  |
 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 | 2022-11-23 | 2023-12-14 |
 | [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH) | 2:03 | 2021-12-21 | 2023-11-07 |
-| [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 | 2023-01-10 |  |
+| [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 | 2023-01-10 | 2024-01-04 |
 | [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 | 2022-12-09 | 2023-11-24 |
 | [Warm wishes on christmas](https://open.spotify.com/track/1lzqz6Ac9YYAqfYo8076iU) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/1W7ehCzsS567jcOlWr9Mdi) | 1:46 | 2021-12-21 | 2022-12-03 |
 | [welove Christmas](https://open.spotify.com/track/4lw7EB0UFAeK0FJHndNOeM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/2ENjIrBqMnvvcuyb8yIEKS) | 2:45 | 2021-12-21 | 2023-12-08 |

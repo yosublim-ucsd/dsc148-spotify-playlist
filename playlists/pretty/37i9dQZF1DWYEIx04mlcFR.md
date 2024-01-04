@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva generación del pop que definió el 2023 con RENEE en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,114 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,115 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 27 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
 | 28 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
 | 29 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
-| 30 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
-| 31 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
+| 30 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
+| 31 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
 | 32 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
 | 33 | [hot wheels](https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [hot wheels](https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2) | 2:49 |
 | 34 | [Alta Joya](https://open.spotify.com/track/3eULD3gV9SBdt3yYsycDUd) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [A Sus Órdenes](https://open.spotify.com/album/23cpCT5WYsJq7lr1C5JTOO) | 3:21 |
-| 35 | [Despejao](https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:46 |
-| 36 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
+| 35 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
+| 36 | [Despejao](https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Retrofuturismo](https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK) | 2:46 |
 | 37 | [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 |
 | 38 | [Mi Fantasma](https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Mi Fantasma](https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1) | 2:42 |
 | 39 | [no soy yo](https://open.spotify.com/track/0tAacdFeAEMvufvMJWPDWY) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [no soy yo](https://open.spotify.com/album/3gS6OyLqYMKvBJelzhUCHP) | 2:33 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 44 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 |
 | 45 | [Levitando en la Ciudad](https://open.spotify.com/track/1tENiVcTTaM6xmhDO2HR9Z) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Levitando en la Ciudad](https://open.spotify.com/album/156lO3PeIUpcTVwZocak40) | 3:34 |
 | 46 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 |
-| 47 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
-| 48 | [Viral](https://open.spotify.com/track/2mvJIj7K8000broZTq6eks) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:32 |
-| 49 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
+| 47 | [Viral](https://open.spotify.com/track/2mvJIj7K8000broZTq6eks) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Me gusto de noche](https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC) | 2:32 |
+| 48 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
+| 49 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
 | 50 | [Victoria](https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Victoria](https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi) | 3:05 |
 
-Snapshot ID: `MCw4NzU5ZDI5MmM1MDI4Yjc0Yjk0YWFiYzhlNzQxNzYzNTk4ZmE3MDZj`
+Snapshot ID: `MCw0ODgyMDIxZWU3NzU1NmVmM2IzYzNjOTA0MGRmY2FiMmYxNmQ4MmNk`

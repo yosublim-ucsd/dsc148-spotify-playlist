@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: Glass Animals",
-  "num_followers": 907634,
+  "num_followers": 907594,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUwY2I5NWJjMzg4YmVlNDUzZGFmNjNkNzE0OGI4OThjNWQ3MzI4",
+  "snapshot_id": "MCxhMDMwZTgxZjEzODIyMzc1MGZlY2ZlYzA5NTY2MmE1OTRhOWEyOTk0",
   "tracks": [
     {
       "added_at": "2023-04-28 10:51:34",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 318591,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Young The Giant (Special Edition)",
         "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 249520,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "bad idea!",
         "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2022-09-29 15:30:40",

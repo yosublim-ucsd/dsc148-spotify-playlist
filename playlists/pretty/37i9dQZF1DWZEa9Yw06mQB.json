@@ -1,12 +1,12 @@
 {
   "description": "Los cl\u00e1sicos de hoy y siempre.",
-  "num_followers": 314388,
+  "num_followers": 314457,
   "original_name": "Mix Universal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTVjYTczZTZjNDE2OGI5Y2E0NGNiMWUxNjBiN2U0YTA1YjVmOGVh",
+  "snapshot_id": "MCwwNmI1NmNkODU1YzkyYTQ1YmY5NjE4NWU5YzE0OTYwOGYxODNhYWIx",
   "tracks": [
     {
       "added_at": "2021-08-31 21:15:04",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Don't Stop Believin' (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 299240,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Four Tops Second Album",
         "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
-      },
-      "artists": [
-        {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Dish of the Day",
         "url": "https://open.spotify.com/album/3epesmrZX0KYpeImQtcVUa"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 191026,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/2epbL7s3RFV81K5UhTgZje"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Who Loves You",
         "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Daddy Cool",
-      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 212253,
       "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Daddy Cool",
+      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 382296,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 382296,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "White Wedding - Pt. 1",
-      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "White Wedding - Pt. 1",
+      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2021-08-31 21:15:04",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2021-08-31 21:15:04",
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2021-08-31 21:15:04",
+      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 449160,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
-    },
-    {
-      "added_at": "2021-08-31 21:15:04",
-      "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     }
   ],
   "unique_name": "Mix Universal",

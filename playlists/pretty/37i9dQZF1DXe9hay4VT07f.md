@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,689 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,777 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 5 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
 | 6 | [It Wasn't Me](https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:47 |
 | 7 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 |
-| 8 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
-| 9 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:49 |
+| 8 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:49 |
+| 9 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
 | 10 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 |
 | 11 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 12 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 79 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 80 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
 | 81 | [Walking Trophy](https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Walking Trophy](https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf) | 3:35 |
-| 82 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
-| 83 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
+| 82 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
+| 83 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
 | 84 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
 | 85 | [Breaking News](https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 3:27 |
 | 86 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
 | 87 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 |
 | 88 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
 | 89 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
-| 90 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 |
-| 91 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
+| 90 | [Live n' Learn](https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Live n' Learn](https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ) | 2:41 |
+| 91 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 |
 | 92 | [MOB STYLE](https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [MOB STYLE](https://open.spotify.com/album/7ru4iUaCzq9CyvVCZvj1fX) | 2:26 |
-| 93 | [Live n' Learn](https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Live n' Learn](https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ) | 2:41 |
+| 93 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 | 94 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 95 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
 | 96 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
 | 100 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 
-Snapshot ID: `MCwxNmRlMWFiNWU5OGZlMDgyNThjNDdkYjI5MGI0ODZhOGEwNjFmMTg0`
+Snapshot ID: `MCw4NGUzMGEzZDM4MTFjNzU0MjkzYmJhZWJkNDFiOGUyYjYxNjFhOTc2`

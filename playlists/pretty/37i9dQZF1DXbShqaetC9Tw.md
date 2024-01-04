@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,687 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,697 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 18 | [bath](https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [bath](https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r) | 4:21 |
 | 19 | [11:59 \(feat\. Goopy\)](https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [11:59 \(feat\. Goopy\)](https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk) | 2:57 |
 | 20 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
-| 21 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 |
-| 22 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
+| 21 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
+| 22 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 |
 | 23 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 24 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 |
 | 25 | [study abroad \(Feat\. Han\-All\)](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 |
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 28 | [PIZZA](https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/43toiDnPej9XfkfNB821JD) | 3:31 |
 | 29 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 30 | [Please Love Me](https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE) | 4:19 |
-| 31 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
+| 31 | [You](https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [You](https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7) | 3:41 |
 | 32 | [in the car](https://open.spotify.com/track/3pYKGgI0CzsiXUtqI97tuR) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 2:57 |
-| 33 | [You](https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [You](https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7) | 3:41 |
+| 33 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
 | 34 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
 | 35 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
-| 36 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 |
-| 37 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
+| 36 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
+| 37 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 |
 | 38 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 39 | [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 |
-| 40 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
+| 40 | [Sad Love Song \(feat\. slchld & Rheehab\)](https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Seoul Vibes Pt.1](https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY) | 3:02 |
 | 41 | [Blue Candle](https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 3:18 |
-| 42 | [Sad Love Song \(feat\. slchld & Rheehab\)](https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Seoul Vibes Pt.1](https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY) | 3:02 |
+| 42 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
 | 43 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
 | 44 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 45 | [ANTIRIVER](https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [ANTIRIVER](https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [Blanche](https://open.spotify.com/track/7sZLNlcmE9fDPC8Mx4GzOX) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/2Ae2tMRKZsu376uIJx7MRP) | 3:19 |
 | 50 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
 
-Snapshot ID: `MCw4YmI2ZjkzNjU3ZDYxNzExMDZjMDBkZmU3NmY5NDI3YThmOWZiMDY5`
+Snapshot ID: `MCxmOTFmNzJiNzg1YzRlMDBiMTM4YjA0ZTM5MGU5MTg5NjYzZGMyYjQ2`

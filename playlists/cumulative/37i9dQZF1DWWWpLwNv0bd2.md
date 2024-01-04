@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Captain Miller
 
-167 songs - 11 hr 9 min
+168 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Vaadi Vaadi \- From "Think Originals"](https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Nicholas Samuel](https://open.spotify.com/artist/3frp84DqTsoZ8tgdgzGHqr) | [Vaadi Vaadi \(From "Think Originals"\)](https://open.spotify.com/album/7hEKTiFRftKnqTeOG19Inh) | 3:44 | 2022-06-30 | 2023-08-15 |
 | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/track/7ALvmqFkZIZ5lChU2P22zu) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/album/3mKCbP8HJl2cDGb1TcjvvI) | 3:28 | 2023-06-14 | 2023-06-16 |
 | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/track/19pRrxOQCRg8j0uQxe2d0V) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/album/1HcB2vrrODInH3wZOXSY9k) | 3:28 | 2023-06-14 |  |
+| [Velagaadha \- From "Lover"](https://open.spotify.com/track/0KTyfuhoHpgiC9KMyQ4uMg) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Velagaadha \(From "Lover"\)](https://open.spotify.com/album/03aHFYMBRVpssw2YjQYPKa) | 3:22 | 2024-01-03 |  |
 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 | 2021-11-29 | 2022-06-21 |
 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 | 2021-11-29 | 2022-10-19 |
 | [Yaaro Yaaro Iva \- From "Pattathu Arasan"](https://open.spotify.com/track/2PLN6smipRqWw3gzKtqoTx) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Mani Amudhavan](https://open.spotify.com/artist/1kSTKro0qSNVuTIzuS6LQa) | [Yaaro Yaaro Iva \(From "Pattathu Arasan"\)](https://open.spotify.com/album/1CbNcQqjEjQfPScUB3MYbp) | 3:37 | 2022-11-16 | 2023-02-16 |

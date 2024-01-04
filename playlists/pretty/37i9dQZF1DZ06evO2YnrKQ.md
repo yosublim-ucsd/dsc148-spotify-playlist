@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,470 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,476 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 35 | [Midnight Regulations](https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:11 |
 | 36 | [Old Crows](https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:17 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDAwMzI0ZmEzMTlmZDIyYjI4OThlMDg5ZDY1NGNkZTRiOA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBhZTM3ZWM1ZDJmMWFmYjQ5ZWNjZjkzMDVmN2VlOGNkZQ==`

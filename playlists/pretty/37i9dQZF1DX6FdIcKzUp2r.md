@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,462 likes - 80 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,501 likes - 80 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back to the Old House \- 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:06 |
-| 2 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
-| 3 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
+| 2 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
+| 3 | [The Power Of Love](https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 5:32 |
 | 4 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 |
 | 5 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 6 | [Slipping Through My Fingers](https://open.spotify.com/track/6TvxPS4fj4LUdjw2es4g21) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:53 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 55 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 |
 | 56 | [Abraham's Theme](https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:20 |
 | 57 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
-| 58 | [Father to Son \- 2016 Remaster](https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 3:27 |
-| 59 | [Lady Marian \(2003 \- Remaster\)](https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Legend \(2003 \- Remaster\)](https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV) | 3:21 |
+| 58 | [Lady Marian \(2003 \- Remaster\)](https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Legend \(2003 \- Remaster\)](https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV) | 3:21 |
+| 59 | [Father to Son \- 2016 Remaster](https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 3:27 |
 | 60 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
 | 61 | [Can't Stay Away from You](https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Let It Loose](https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x) | 3:55 |
 | 62 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
 | 80 | [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 |
 
-Snapshot ID: `MCw1ZTAwZmQ2Yjg5ZWQ2ZGYwNDhhZDY2ODRhMDlhYjdhZjgyYWEwN2Uy`
+Snapshot ID: `MCwxNWI4ZTUwM2M1NzRiY2RlOTY3MDdhYWExMDBlZWMwY2I3ZDk0NDU2`

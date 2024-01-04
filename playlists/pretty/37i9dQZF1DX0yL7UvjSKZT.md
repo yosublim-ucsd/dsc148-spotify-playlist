@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,550 likes - 168 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,580 likes - 168 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 54 | [Tried to Ruin My Name](https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Tried to Ruin My Name](https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN) | 2:23 |
 | 55 | [Get Out](https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Get Out](https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7) | 3:40 |
 | 56 | [Sleepy Time](https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S) | [Hotspur Johnny](https://open.spotify.com/artist/0mqmWeOf4VWEOPNtDUsMx1) | [Hotspur Johnny](https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB) | 3:29 |
-| 57 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 |
+| 57 | [The Tide](https://open.spotify.com/track/6rXDs0kr2sbSnGMjmHb4s4) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/70KRJLwEXK6ZDGecwM92xb) | 4:18 |
 | 58 | [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 |
 | 59 | [All the Way \(remix\)](https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C) | [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd), [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All The Way \(Remix\)](https://open.spotify.com/album/3QnFtoqpCQLFZUU8S0R9dF) | 2:25 |
 | 60 | [A Distant Land to Roam](https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Mighty Poplar](https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6) | 2:33 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 167 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 168 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCxhMWIyYjU1NTE5N2QzNzBjN2ZmOTAyOGRlNjg1MDdkY2FjNTIwYTgx`
+Snapshot ID: `MCxjNzliZGMwMGQ5ZmMwMjU0OWQ1NGFmODdkYWNjODVmMmViM2NmYjZi`

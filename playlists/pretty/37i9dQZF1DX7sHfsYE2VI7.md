@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,748 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,783 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 19 | [Sing It Back \(Boris Musical Mix\) \(Edit\)](https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Michael Lange](https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw) | [Sing It Back](https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U) | 4:38 |
 | 20 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
 | 21 | [Touch Me \(Radio Edit\) \[feat\. Cassandra\]](https://open.spotify.com/track/6j8nh1kHwezw8pkC2eU87F) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v), [Cassandra](https://open.spotify.com/artist/2y8183jDSJ0E4jQSrRqMli) | [Kismet Records Presents Touch Me \(feat\. Cassandra\)](https://open.spotify.com/album/2Frul2fiPFYTGneYeqJOCi) | 3:33 |
-| 22 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 |
-| 23 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
+| 22 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
+| 23 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 |
 | 24 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 25 | [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 |
 | 26 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 38 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 39 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 40 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 |
-| 41 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
-| 42 | [Foreign Language](https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s) | [Foreign Language \(10 Year Anniversary\)](https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC) | 4:04 |
+| 41 | [Foreign Language](https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s) | [Foreign Language \(10 Year Anniversary\)](https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC) | 4:04 |
+| 42 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 |
 | 43 | [One Too Many Mornings](https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 4:13 |
 | 44 | [Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:24 |
 | 45 | [Since I Left You](https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO) | 4:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [8 Ball](https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 8:58 |
 | 70 | [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 |
 
-Snapshot ID: `MCwzN2Y4MjAzNGRlOWE4YzUwYWQ3NzlmODBkMzA1ZmFhYTBiMTI3ZmQ2`
+Snapshot ID: `MCwwZDIyM2UxNTllM2E2N2Y4MWM2YmIwNjEyMzcyNmE5YTg4YjZjMzk2`

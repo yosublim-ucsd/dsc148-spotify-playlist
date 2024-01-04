@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47269,
+  "num_followers": 47270,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2ZlZmVhZjNhY2UxZWYxMjJkZjRkODBmMWZhYTFkYjMzOWZmNDEy",
+  "snapshot_id": "MCxhMjQ0NzVkMDc3ZWJlMjQ4NmJlYTU4ODU2ODYzNGY2NTQ4MDAwMWM0",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 183460,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
-      },
-      "artists": [
-        {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
-        },
-        {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
-        }
-      ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
+      },
+      "artists": [
+        {
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+        },
+        {
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+        }
+      ],
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
-      },
-      "artists": [
-        {
-          "name": "W\u00e4nderlost",
-          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
-        },
-        {
-          "name": "MEDEIA",
-          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Hold on Tight",
         "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 206384,
       "name": "Hold on Tight",
       "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        },
+        {
+          "name": "MEDEIA",
+          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        },
+        {
+          "name": "Electric Pineapple",
+          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        },
-        {
-          "name": "Electric Pineapple",
-          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Waiting in The Dark",
         "url": "https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 119097,
       "name": "Waiting in The Dark",
       "url": "https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1527,22 +1527,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Kick Up The Dust EP",
-        "url": "https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
       "artists": [
         {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
         },
         {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
         }
       ],
-      "duration_ms": 319175,
-      "name": "Valente",
-      "url": "https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t"
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
       "added_at": "2023-12-21 23:00:00",

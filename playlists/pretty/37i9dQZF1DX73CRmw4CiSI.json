@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 83697,
+  "num_followers": 83747,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGEzYWRiZTU0OWI0NmM4ODgzYjY3NGU0ZjgyM2JhNTc4YTgyODhl",
+  "snapshot_id": "MCw1ZDEwNDRjMmQ4NTkzZThiZjYxMjE3YTNmYzVkOTk1ZTNlOTBmYTg3",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Que Salga El Sol Por Donde Quiera",
-        "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
-      },
-      "artists": [
-        {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "B\u00fascate un hombre que te quiera",
-      "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Todos Los D\u00edas Sale El Sol",
         "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 146337,
       "name": "Todos los d\u00edas sale el sol",
       "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Que Salga El Sol Por Donde Quiera",
+        "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "B\u00fascate un hombre que te quiera",
+      "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Esclava De Tu Piel",
-        "url": "https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB"
-      },
-      "artists": [
-        {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Solo Se Vive una Vez",
-      "url": "https://open.spotify.com/track/0ATzislS5SvAp69hjHczej"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 232640,
       "name": "Desde Brasil",
       "url": "https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Esclava De Tu Piel",
+        "url": "https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB"
+      },
+      "artists": [
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Solo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/0ATzislS5SvAp69hjHczej"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Toro y la Luna (20 Aniversario)",
-        "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
-      },
-      "artists": [
-        {
-          "name": "Los Centellas",
-          "url": "https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG"
-        }
-      ],
-      "duration_ms": 218647,
-      "name": "El Toro y la Luna - 20 Aniversario",
-      "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 212226,
       "name": "Grita",
       "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Toro y la Luna (20 Aniversario)",
+        "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
+      },
+      "artists": [
+        {
+          "name": "Los Centellas",
+          "url": "https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG"
+        }
+      ],
+      "duration_ms": 218647,
+      "name": "El Toro y la Luna - 20 Aniversario",
+      "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
     },
     {
       "added_at": "2022-01-25 22:47:02",

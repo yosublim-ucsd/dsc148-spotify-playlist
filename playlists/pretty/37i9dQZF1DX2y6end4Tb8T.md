@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,855 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,875 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 44 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
 | 45 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 |
 | 46 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 |
-| 47 | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz) | 2:15 |
-| 48 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 |
+| 47 | [Solitaires \(feat\. Travis Scott\)](https://open.spotify.com/track/4kfeRwpq5KUaqTkgi4TbDF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:25 |
+| 48 | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz) | 2:15 |
 | 49 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 |
 | 50 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 |
 | 51 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 65 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 66 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
 | 67 | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Chucky73: Bzrp Music Sessions, Vol\. 43](https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9) | 2:21 |
-| 68 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
-| 69 | [Second Emotion \(feat\. Travis Scott\)](https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:22 |
+| 68 | [Second Emotion \(feat\. Travis Scott\)](https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:22 |
+| 69 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
 | 70 | [Los Dioses](https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 4:38 |
 | 71 | [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 |
 | 72 | [Cascada](https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
 | 100 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
 
-Snapshot ID: `MCw5NjU3NGNmZWRjNTIwYzU5MmYxMzA0OGQzMGU5MGQ2MWFlZjI4ODg1`
+Snapshot ID: `MCwwYmVjYmVjMjFjNDU2N2RkZDgyYWUwM2Y0ZDkzMDY4ZWRkMThiNWZl`

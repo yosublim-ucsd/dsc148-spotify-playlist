@@ -6100,7 +6100,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -8798,6 +8798,24 @@
       "duration_ms": 209047,
       "name": "\u05d0\u05d9\u05df \u05dc\u05d9 \u05db\u05d7",
       "url": "https://open.spotify.com/track/4XCGTV9uchQOFffzH1eqDo"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1"
+      },
+      "artists": [
+        {
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u05d0\u05d9\u05df \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE"
     },
     {
       "album": {
@@ -12076,7 +12094,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 298213,
       "name": "\u05db\u05dc \u05d4\u05d6\u05de\u05df \u05d4\u05d6\u05d4",
       "url": "https://open.spotify.com/track/60GvepzSwgGx8kaZNln4L0"
@@ -13934,7 +13952,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 136500,
       "name": "\u05de\u05e9\u05d5\u05d2\u05e2\u05ea (Prod. by Triangle)",
       "url": "https://open.spotify.com/track/3idINUuyRidKbQiMFt6EkU"
@@ -15914,7 +15932,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
@@ -16224,7 +16242,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 218692,
       "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
       "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"

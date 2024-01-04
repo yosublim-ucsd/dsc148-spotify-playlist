@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,438 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,524 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olvídala](https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:04 |
 | 2 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:00 |
-| 3 | [No Voy A Llorar](https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI) | 4:43 |
+| 3 | [Busca Un Confidente](https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:06 |
 | 4 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
 | 5 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 |
 | 6 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 |
 | 7 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
-| 8 | [Busca Un Confidente](https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:06 |
+| 8 | [No Voy A Llorar](https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI) | 4:43 |
 | 9 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 |
 | 10 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
 | 11 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
 | 60 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 |
 
-Snapshot ID: `MCxiMTM5OGU5NDY0YjI5ZDZjYmE4MTkyZDk4YzI2ZDc3Yzc0NTNmN2Jk`
+Snapshot ID: `MCxhOGEzZmNmYTEzNDg2NGJlNTAwYmFlNGMzNGQ2NTY2Y2M2YTg3MzRi`

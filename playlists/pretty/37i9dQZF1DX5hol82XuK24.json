@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 422820,
+  "num_followers": 422845,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmNjOTI3NzA4ZTRmZDI5OWM5ZDY2MWIxZTI2MGEyMWUyMzRjZmE2",
+  "snapshot_id": "MCw5NDRlMzZkNTAxNDU2ODhmNWNjNGU5ZWY1MmM0M2MwMmJjN2ZlZWJm",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -75,8 +75,8 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
         }
       ],
-      "duration_ms": 172137,
+      "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Let Them In",
+        "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 233968,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Horror Scene (feat. aldn)",
         "url": "https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Let Them In",
-        "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 233968,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Satanic Slumber Party",
         "url": "https://open.spotify.com/album/2v4jEVLq0kmKeWCE7svpyq"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 183423,
       "name": "Satanic Slumber Party",
       "url": "https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Slowdance I",
-      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Spelling",
         "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 241133,
       "name": "Spelling",
       "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 241332,
+      "name": "Slowdance I",
+      "url": "https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6"
     },
     {
       "added_at": "2023-11-03 23:08:22",

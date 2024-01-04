@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-813 songs - 1 day 10 hr 46 min
+816 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 | 2022-03-17 |
 | [I Was Thinking](https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [I Was Thinking](https://open.spotify.com/album/5CAT5ZnVtK4zp2XpBVVo5i) | 2:27 | 2021-12-07 | 2023-04-26 |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-08-21 |  |
+| [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-03 |  |
 | [Il Gondoliere](https://open.spotify.com/track/4Js006shgozGVBa03rr3Wg) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Il Gondoliere](https://open.spotify.com/album/1W6dRLL6nw8Gf1DlXI8yY3) | 2:20 | 2023-09-29 |  |
 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2021-12-07 | 2023-05-10 |
 | [Imagery Noir](https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Imagery Noir](https://open.spotify.com/album/1AuorWIwxQ0oM0S3G4skZG) | 2:39 | 2021-12-07 |  |
@@ -621,6 +622,7 @@
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-02-14 | 2023-01-27 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 |  |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 |  |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-03 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2023-07-26 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2023-03-21 |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-01-27 |
@@ -694,6 +696,7 @@
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-24 | 2023-09-30 |
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-12-07 | 2022-08-26 |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-10-25 |
+| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-03 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-03-06 |  |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 | 2023-07-19 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2022-10-05 |

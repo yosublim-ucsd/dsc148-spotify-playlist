@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1scaras de Sal",
+        "url": "https://open.spotify.com/album/4m2rRkMOGAowNa674LYU3y"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Capit\u00e1n Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1NhLJcFWLjrBax77kFft28"
+    },
+    {
+      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 212400,
       "name": "El Pibe de los Astilleros",
       "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 182440,
       "name": "La Yapa",
       "url": "https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 155893,
       "name": "Mi Perro Dinamita",
       "url": "https://open.spotify.com/track/2ySokxMhynpB3Vb8UWKvO0"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 261133,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO"
@@ -950,6 +968,24 @@
       "duration_ms": 227373,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
+    },
+    {
+      "album": {
+        "name": "Rodrigo - El potro",
+        "url": "https://open.spotify.com/album/790Iky5B8XDGflaJkhJvY8"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356626,
+      "name": "Ocho cuarenta",
+      "url": "https://open.spotify.com/track/2wcIn5fYUBBdbuqRRJDWRD"
     },
     {
       "album": {
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 292493,
       "name": "Queso Ruso",
       "url": "https://open.spotify.com/track/3Zf6FUeAVlk0Rk1VIgBHlb"
@@ -1259,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "La Vida Vale La Pena",
+        "url": "https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B"
+      },
+      "artists": [
+        {
+          "name": "Sergio Denis",
+          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Te Quiero Tanto, No Me Preguntes M\u00e1s",
+      "url": "https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s"
+    },
+    {
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
@@ -1454,7 +1508,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 176840,
       "name": "Yo Can\u00edbal",
       "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"

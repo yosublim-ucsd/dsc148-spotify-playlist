@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-167 songs - 9 hr 51 min
+168 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Dawn \(Song by SARU\) \(Prod\. By Vische\)](https://open.spotify.com/track/55RGhiuNWGAbzjgB08ZM7O) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#509.](https://open.spotify.com/album/4W8yKsryaOIeCVmKMlvZVu) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-03 |  |
 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 | 2023-03-03 | 2023-05-07 |
-| [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 | 2022-06-18 |  |
+| [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 | 2022-06-18 | 2024-01-04 |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-05-03 | 2022-07-29 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2022-05-03 | 2023-07-08 |
 | [Falling](https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 4:25 | 2022-05-03 | 2022-07-21 |
@@ -126,7 +126,7 @@
 | [Summer Night You and I](https://open.spotify.com/track/1zCRu6ONQa4FCADwoZnHuI) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Summer Night You and I](https://open.spotify.com/album/2vo3nvT5oqGlEHGbh1QvhO) | 3:26 | 2022-05-03 | 2023-04-12 |
 | [Summer Night You and I](https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [DRAMATIC](https://open.spotify.com/album/121hzDPacQ66zpqcLw3ZSX) | 3:26 | 2023-04-07 |  |
 | [Sunshine](https://open.spotify.com/track/7elypRmnPaKr4GgDjyCpwv) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 4:09 | 2022-05-03 | 2022-07-21 |
-| [Sweet Kiss Like Coffee](https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe), [Lee Sung\-kyung](https://open.spotify.com/artist/71GtNPltMLFyPOXCfZf0TF) | [Sweet Kiss Like Coffee](https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5) | 3:54 | 2022-05-03 |  |
+| [Sweet Kiss Like Coffee](https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Sweet Kiss Like Coffee](https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5) | 3:54 | 2022-05-03 |  |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-09 |  |
 | [Tahiti](https://open.spotify.com/track/2Y6wXSfzN1rWB4Xdr5juE2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Dream](https://open.spotify.com/album/3hBlDkaiR7KU5bFaJaT0t2) | 4:21 | 2022-05-03 | 2022-07-08 |
 | [That day](https://open.spotify.com/track/3BVt9Ua8FkPEo1vBK6Adsp) | [YEAHSHINE](https://open.spotify.com/artist/5U7zy9djpWwawFg5B5RNbo) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.12](https://open.spotify.com/album/7wBRv1g1DLvzVtH536bC3t) | 2:56 | 2022-06-18 | 2022-07-06 |
@@ -164,6 +164,7 @@
 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 | 2022-05-03 |  |
 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 | 2022-09-05 | 2022-12-13 |
 | [넌 you](https://open.spotify.com/track/2Lv4ICVjaLlBkSV63oktFV) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [넌 you](https://open.spotify.com/album/4BJAHipUlFcQ1YXvYoWf0x) | 3:46 | 2022-11-09 | 2023-08-29 |
+| [넌 You \- 2022 Album Remastered](https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:46 | 2023-11-04 |  |
 | [버드나무 Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [버드나무 Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 | 2023-11-04 |  |
 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 | 2023-07-07 |  |
 | [소낙비 Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [그대와 춤을 Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 | 2022-11-09 | 2023-07-08 |

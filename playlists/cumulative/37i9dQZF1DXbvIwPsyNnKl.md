@@ -2,9 +2,9 @@
 
 ### [Kalye Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Hev Abi
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: O SIDE MAFIA
 
-93 songs - 5 hr 10 min
+94 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-20 | 2023-11-23 |
 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 | 2023-09-20 |  |
 | [4u](https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ) | [RB Slatt](https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk) | [4u](https://open.spotify.com/album/0RkWVWCivVaatlwqwErefx) | 3:38 | 2023-10-18 | 2023-12-14 |
+| [911](https://open.spotify.com/track/4HB03HtBWjgkDjbpGY50vW) | [GHR](https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC), [Wing Goods](https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [911](https://open.spotify.com/album/3VSQyP9w2j2Z5Q77O6xE0D) | 4:30 | 2024-01-03 |  |
 | [ALABAMBANG](https://open.spotify.com/track/5kKjzkcKdk7yPHc39b95Ue) | [Paul Cassimir](https://open.spotify.com/artist/6Q6o0QNejNJNu2O86CJVHQ), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [ALABAMBANG](https://open.spotify.com/album/5Wlq2jyxmMzh0RceGkqmTb) | 3:25 | 2023-09-20 | 2023-11-02 |
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2023-11-08 |  |
 | [Amboy Shit \- Remix](https://open.spotify.com/track/4VcZYr4uByjtmwAsoIypBs) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Amboy Shit \(Remix\)](https://open.spotify.com/album/298TlujqrKvwxUrfoGwKJj) | 2:48 | 2023-11-22 |  |
@@ -24,7 +25,7 @@
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 |  |
 | [BMW](https://open.spotify.com/track/7C9Knp9FzLY6RwgktmW9Ge) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Heartbreak SZN 2](https://open.spotify.com/album/4DMjaQksbK2Ccrevh7Qy1B) | 2:48 | 2023-09-20 |  |
 | [C2 Boyz](https://open.spotify.com/track/7hGExswhBJ50VPifCdOjjw) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:38 | 2023-11-01 |  |
-| [CC](https://open.spotify.com/track/3A9shHYppHFDDr0VAABXAa) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [CC](https://open.spotify.com/album/3FFmsxw48gR6Sx3bsxO2Af) | 2:36 | 2023-11-15 |  |
+| [CC](https://open.spotify.com/track/3A9shHYppHFDDr0VAABXAa) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [CC](https://open.spotify.com/album/3FFmsxw48gR6Sx3bsxO2Af) | 2:36 | 2023-11-15 | 2024-01-04 |
 | [Cerrero Hollywood](https://open.spotify.com/track/0kkkPJLXpZvZMPX0jD0tcK) | [Binangonan Hustla](https://open.spotify.com/artist/4nbv1AEQvTma8vfCNOpkvE), [2ldok](https://open.spotify.com/artist/3O7sy66x9UVd2NmfmFPNw9), [Madman Stan](https://open.spotify.com/artist/3Fvc5E874c40ofVqKBBU2s) | [Cerrero Hollywood](https://open.spotify.com/album/3SRz8IDSk2voegG81PLcSe) | 3:40 | 2023-12-20 |  |
 | [Choosy](https://open.spotify.com/track/06Sf9li5Lhw1w39EbqLmnt) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Choosy](https://open.spotify.com/album/0HVNpa18LV450niP7Mi0UU) | 2:56 | 2023-09-20 | 2023-11-18 |
 | [City Girl](https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/4iG7VV7lveOx4wM0iCLg2j) | 3:08 | 2023-09-20 |  |

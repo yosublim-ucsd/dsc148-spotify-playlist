@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,723 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 31 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 |
 | 32 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
 | 33 | [Agradecido](https://open.spotify.com/track/0ZHiVXwpcteAbqEJmFYBdy) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Agradecido](https://open.spotify.com/album/58g9KaWSWjKq81CVyIsv9z) | 2:41 |
-| 34 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
-| 35 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
+| 34 | [NI MUERTA](https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:59 |
+| 35 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
 | 36 | [Donde Se Fue el Sol](https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Donde Se Fue el Sol](https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ) | 3:39 |
 | 37 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 | 38 | [Olivia Rodrigo](https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Olivia Rodrigo](https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu) | 2:21 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 46 | [Luces De La Calle](https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d) | 3:09 |
 | 47 | [Is It Me?](https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Is It Me?](https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB) | 2:41 |
 | 48 | [Corazón Dañado](https://open.spotify.com/track/0ft4G7aJUXgPQ0i3UFKu29) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:04 |
-| 49 | [XO clubeteado](https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado / NOS SOLTAMOS chiliado](https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho) | 2:34 |
-| 50 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
-| 51 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
-| 52 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
+| 49 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
+| 50 | [XO clubeteado](https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado / NOS SOLTAMOS chiliado](https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho) | 2:34 |
+| 51 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
+| 52 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
 | 53 | [Thinking Too Much \(feat\. Honeywhip\)](https://open.spotify.com/track/4Du7N4FFyuBfMwzbb9ObqB) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO), [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Thinking Too Much \(feat\. Honeywhip\)](https://open.spotify.com/album/0o98jQsqyD17geNENkarz8) | 3:11 |
 | 54 | [Tú Goza](https://open.spotify.com/track/0L5QiM8fk6Xi2xtSpVuCry) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [Tú Goza](https://open.spotify.com/album/6NnZTyRJby5psrrWEJLbW5) | 3:43 |
 
-Snapshot ID: `MCw2MmNkYTE1MDk0OGE5NDE3YzNmODVkZmIxMWRhZTAyNzFhYmYwN2I0`
+Snapshot ID: `MCxkOTU4YzRiZDcyZDVlMWUzNGQyZWNkZWRmYzZmMTQyNmIyODVkNmNh`

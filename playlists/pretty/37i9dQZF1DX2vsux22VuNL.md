@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Thiaguinho, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,207 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,195 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 59 | [Naquele Pique](https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Naquele Pique](https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn) | 3:10 |
 | 60 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 61 | [Queria Te Ver](https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Queria Te Ver](https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8) | 3:09 |
-| 62 | [Você Falou pra Mim](https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1) | [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Lucas Arcanjo](https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj), [Andrei Zucco](https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN) | [Você Falou pra Mim](https://open.spotify.com/album/3C4GwIc7117OxDuu66G248) | 2:21 |
-| 63 | [não te amo mais](https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [não te amo mais](https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj) | 2:13 |
+| 62 | [não te amo mais](https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [não te amo mais](https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj) | 2:13 |
+| 63 | [Você Falou pra Mim](https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1) | [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Lucas Arcanjo](https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj), [Andrei Zucco](https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN) | [Você Falou pra Mim](https://open.spotify.com/album/3C4GwIc7117OxDuu66G248) | 2:21 |
 | 64 | [Desliga](https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Desliga](https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx) | 2:47 |
 | 65 | [Tá Fod\*](https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Tá Fod\*](https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N) | 3:01 |
 | 66 | [Essa Daqui Você Sabe Que É pra Você](https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs) | [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Essa Daqui Você Sabe Que É pra Você](https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Búzios](https://open.spotify.com/track/1CSakNQI6TxCLkCFYjRiTQ) | [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Búzios](https://open.spotify.com/album/7urP2fYm3ZN5xl1OljLWff) | 2:36 |
 | 80 | [Devi](https://open.spotify.com/track/7ztSM4otmMcgWQF7yd05qv) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Pêssego](https://open.spotify.com/album/3x36px2sBmvdOt0RcD0U1w) | 3:16 |
 
-Snapshot ID: `MCxhZDVmN2VmYTgyOTRlNWExYjkwYzU4NTc4OWFmZjUyNTBkYTg5NTY5`
+Snapshot ID: `MCwwYzJlZDQ1MjY1MDRiM2NlOTllNDg3NDkxNWYwNDE5OWJlYjE3MmUy`

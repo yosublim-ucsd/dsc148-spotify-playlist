@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,893 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,354 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 38 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 |
 | 39 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 |
 | 40 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 |
-| 41 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
-| 42 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
-| 43 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 |
-| 44 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
+| 41 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
+| 42 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
+| 43 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
+| 44 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 |
 | 45 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 |
 | 46 | [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 |
 | 47 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 49 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 |
 | 50 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 |
 
-Snapshot ID: `MCxkMWQyMWM5N2M2ODJhYjBmYzViYTBiZGQ5YTA0ZjViOGZkZTAwNDcz`
+Snapshot ID: `MCw1OTUwYTU2MjRlMjdkY2Q1NTMxMTFjZTQ3NDBiYzNkZGUyMzUxYjYw`

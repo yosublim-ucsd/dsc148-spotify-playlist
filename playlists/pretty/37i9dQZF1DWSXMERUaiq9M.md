@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,372 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,704 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 42 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 |
 | 43 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 |
 | 44 | [Donkers](https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Donkers](https://open.spotify.com/album/06SEttic5htIY70LgIXuQR) | 5:04 |
-| 45 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 |
-| 46 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
-| 47 | [My Little White Pony](https://open.spotify.com/track/33yObVbcqIYJp9P2KqxpRr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/3efBd0Ks3qLk0pL1S98BXb) | 4:59 |
+| 45 | [My Little White Pony](https://open.spotify.com/track/33yObVbcqIYJp9P2KqxpRr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/3efBd0Ks3qLk0pL1S98BXb) | 4:59 |
+| 46 | [Cool Kids](https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lavinia Hope](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Cool Kids](https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh) | 2:01 |
+| 47 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
 | 48 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
 | 49 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
 | 50 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 |
 
-Snapshot ID: `MCwyNjliMTQ1MzYxNDA0NjllODdiMTU0YjlmM2Y1NzA3MWIwNGQzMzhh`
+Snapshot ID: `MCxjYjlmN2MxOGQ4Y2M0ZWIwNzYxYzllNTljOTZmZGI0MDcwYTcxN2Zh`

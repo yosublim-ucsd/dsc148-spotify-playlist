@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 47182,
+  "num_followers": 47200,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDQ3M2UxMjM1NjEzNzM3NjQ0NzM3MWZjNmZjM2Y1MWY2NzZkYjY1",
+  "snapshot_id": "MCxiMWU1NmNlZjg0NGIzODM0ZDE5NzUwYTNhMzgwMTBiNjZjNmNmYzBm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jump Blue: Rockin' The Jukes",
-        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
-      },
-      "artists": [
-        {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
-        }
-      ],
-      "duration_ms": 124333,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Come on and Have Your Fun",
         "url": "https://open.spotify.com/album/56kya17Zle3APMlEAXgkYL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 119386,
       "name": "The Flirt",
       "url": "https://open.spotify.com/track/57ReV13secms86t42AdOWq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Jump Blue: Rockin' The Jukes",
+        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
+      },
+      "artists": [
+        {
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+        }
+      ],
+      "duration_ms": 124333,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 191306,
       "name": "Say Hey (The Willie Mays Song)",
       "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Nervous Man Nervous",
-      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Nervous Man Nervous",
+      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
     },
     {
       "added_at": "2022-03-28 19:44:25",

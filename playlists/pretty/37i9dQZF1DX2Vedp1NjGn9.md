@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,740 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,822 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 57 | [Kill Your Heroes](https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:58 |
 | 58 | [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:48 |
 | 59 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
-| 60 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
-| 61 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
+| 60 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
+| 61 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
 | 62 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
 | 63 | [Santa Fe](https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 4:14 |
 | 64 | [Two Against One \(feat\. Jack White\)](https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Rome](https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A) | 2:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 95 | [Comeback Kid \(That's My Dog\)](https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Loverboy](https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8) | 3:25 |
 | 96 | [East Harlem](https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ) | 3:58 |
 | 97 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 |
-| 98 | [Space Is Only Noise If You Can See](https://open.spotify.com/track/5zdXRoKLZ54VBdbdn7yhz4) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Space Is Only Noise](https://open.spotify.com/album/6h1AzRdT3rTjT5wRMgjYvh) | 5:42 |
-| 99 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
+| 98 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
+| 99 | [Space Is Only Noise If You Can See](https://open.spotify.com/track/5zdXRoKLZ54VBdbdn7yhz4) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Space Is Only Noise](https://open.spotify.com/album/6h1AzRdT3rTjT5wRMgjYvh) | 5:42 |
 | 100 | [The Cascades](https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 2:07 |
 
-Snapshot ID: `MCxiNjQ4OGQzOGRhN2MwZGJhZjIzZWE5ZGQwNWFjYjY5MzVlMzZjNGU0`
+Snapshot ID: `MCw2OTczOWU0MTk2NTU1ZWQ2NWE0YTczOTEyMGNjMmFhOGI2ZTAzYjRj`

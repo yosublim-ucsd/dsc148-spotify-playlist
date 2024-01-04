@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-245 songs - 19 hr 27 min
+246 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Clouds](https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s) | 4:05 | 2022-01-11 | 2022-11-12 |
 | [Clouds](https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb) | 4:05 | 2022-01-11 | 2022-07-29 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-15 | 2022-01-13 |
+| [Create Machines](https://open.spotify.com/track/7FOYuFCff3wYlAuO2m8zYe) | [Venjent](https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd) | [R U Guna Move](https://open.spotify.com/album/3mTh8XaiVOGtGLsopbTbjU) | 2:49 | 2024-01-03 |  |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2022-03-12 |
 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 | 2022-08-24 | 2023-03-29 |
 | [DAZED](https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7) | [Galaksit](https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X) | [DAZED](https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6) | 2:12 | 2022-04-06 | 2022-09-22 |
@@ -156,7 +157,7 @@
 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 | 2023-03-31 |  |
 | [Otomo](https://open.spotify.com/track/1W5uQX7z1bnsgIW4zSPD4a) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 6:11 | 2022-01-05 | 2022-06-08 |
 | [Outer Sunset](https://open.spotify.com/track/1PegwUCHFmpuV81dXMt3nh) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Outer Sunset](https://open.spotify.com/album/137NWAM1UiQ2cpJPidOhaG) | 4:10 | 2021-10-15 | 2022-04-12 |
-| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 |  |
+| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 | 2024-01-04 |
 | [Parallel 4](https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 4:47 | 2021-10-15 | 2022-02-10 |
 | [Parallel 43](https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Parallel 43](https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga) | 4:17 | 2022-01-20 | 2022-05-13 |
 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-10-15 | 2022-04-24 |

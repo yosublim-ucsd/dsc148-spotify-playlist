@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,459 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,464 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 39 | [Pretty Girl \- Cheat Codes X CADE Remix](https://open.spotify.com/track/1NDxZ7cFAo481dtYWdrUnR) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Pretty Girl \(Cheat Codes X CADE Remix\)](https://open.spotify.com/album/1XYA8eDvomdYTbQBzk0jT1) | 3:13 |
 | 40 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 |
 | 41 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 |
-| 42 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
-| 43 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 |
+| 42 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 |
+| 43 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
 | 44 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB) | 2:37 |
 | 45 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 |
 | 46 | [Gyal You a Party Animal \- Remix](https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gyal You a Party Animal \(Remix\)](https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly) | 3:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 69 | [Alien](https://open.spotify.com/track/1Tqshmc0rnQPaIGJfRp2Da) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien](https://open.spotify.com/album/490i1hn8BjKIiUbaolvRdS) | 2:18 |
 | 70 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 
-Snapshot ID: `MCwwMGRmZjA2MDU1ODhiOTVmNTIwMGZlNzIzZDNhZjNjZGU1MDNhMzcy`
+Snapshot ID: `MCwwMTUwODVkYzQ3ZDQwNjA5NDllYjE2OThiZDFjNjgxMzYyNjllOWMw`

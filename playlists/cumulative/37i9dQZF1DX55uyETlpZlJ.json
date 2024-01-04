@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Kanna Muche Kaade Goode",
+        "url": "https://open.spotify.com/album/3TF3D2bEEkwEl1Z5KQNUm6"
+      },
+      "artists": [
+        {
+          "name": "SIDWIN",
+          "url": "https://open.spotify.com/artist/6rWRYMJoiSYkmRHxg9YWin"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Kanna Muche Kaade Goode",
+      "url": "https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh"
+    },
+    {
+      "album": {
         "name": "Kannada Balso",
         "url": "https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO"
       },

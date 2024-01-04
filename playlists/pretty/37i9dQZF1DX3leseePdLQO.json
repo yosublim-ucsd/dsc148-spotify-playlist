@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Morat.",
-  "num_followers": 9713,
+  "num_followers": 9727,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDdhMTc1Njk1NzJiZDU0YzEzZGNhZTkzZDNjODFmNmNlYTQzMzQ0",
+  "snapshot_id": "MCwyYzdiZjQyYTUyMWRhNDQ0ZThlZTgwMGM0NGY2MzcwMWI5OGNiODFk",
   "tracks": [
     {
       "added_at": "2023-12-15 19:59:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 199497,
       "name": "Negar",
       "url": "https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-12-15 19:59:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-15 19:59:39",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
-    },
-    {
-      "added_at": "2023-12-15 19:59:39",
-      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
+    },
+    {
+      "added_at": "2023-12-15 19:59:39",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2023-12-15 19:59:39",

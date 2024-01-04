@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 271878,
+  "num_followers": 272005,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTBiMGM0MWJhZTZmMTNjYTEwYjI5NmI3OGE2Yzc0ODI2ZGY1Y2Fm",
+  "snapshot_id": "MCxmY2NkYjRiYjQ4YmVjOTEzNTc1YTdiYWYzZjBmMmY0MmY0NzE3ZWJm",
   "tracks": [
     {
       "added_at": "2023-12-30 07:46:05",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-30 07:46:05",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 203216,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
-    },
-    {
-      "added_at": "2023-12-30 07:46:05",
-      "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "added_at": "2023-12-30 07:46:05",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "added_at": "2023-12-30 07:46:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-12-30 07:46:05",
       "album": {
-        "name": "Mainstream",
-        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Mainstream",
-      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
-    },
-    {
-      "added_at": "2023-12-30 07:46:05",
-      "album": {
         "name": "CRAZY IN LOVE",
         "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+    },
+    {
+      "added_at": "2023-12-30 07:46:05",
+      "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
       "added_at": "2023-12-30 07:46:05",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-12-30 07:46:05",
       "album": {
-        "name": "\u305f\u3060\u58f0\u4e00\u3064",
-        "url": "https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t"
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
       "artists": [
         {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 161561,
-      "name": "\u305f\u3060\u58f0\u4e00\u3064",
-      "url": "https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J"
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2023-12-30 07:46:05",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-12-30 07:46:05",
       "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+        "name": "\u305f\u3060\u58f0\u4e00\u3064",
+        "url": "https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+      "duration_ms": 161561,
+      "name": "\u305f\u3060\u58f0\u4e00\u3064",
+      "url": "https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J"
     },
     {
       "added_at": "2023-12-30 07:46:05",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-12-30 07:46:05",
       "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+        "name": "Love&Letter repackage album",
+        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 166946,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+      "duration_ms": 192092,
+      "name": "VERY NICE",
+      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
     },
     {
       "added_at": "2023-12-30 07:46:05",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-12-30 07:46:05",
       "album": {
-        "name": "Love&Letter repackage album",
-        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 192092,
-      "name": "VERY NICE",
-      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
       "added_at": "2023-12-30 07:46:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,111 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,141 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 21 | [A Fool No More](https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB) | 7:44 |
 | 22 | [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 |
 | 23 | [Reconsider Baby](https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 3:09 |
-| 24 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
-| 25 | [The Super\-Natural](https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road](https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z) | 2:56 |
+| 24 | [The Super\-Natural](https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road](https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z) | 2:56 |
+| 25 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
 | 26 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 |
 | 27 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
 | 28 | [Tattoo'd Lady](https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 49 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 |
 | 50 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
 
-Snapshot ID: `MCw3NmFkY2E3NWZjYjQwMjlmYzViYjFjODY0OWU1MDhmZjViNzdmNTFl`
+Snapshot ID: `MCxlM2QzYzMzODQ0NWMxMzRlNjkyN2NjYWNlMDZhMGE1NmZlYWFkNDQx`

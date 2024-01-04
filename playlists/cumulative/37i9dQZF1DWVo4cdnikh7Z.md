@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-1,052 songs - 2 day 16 hr 32 min
+1,053 songs - 2 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Kaadhal Kannadi \- From "Aasai"](https://open.spotify.com/track/0dyPutmOgQazTfK5MngTu5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kaadhal Kannadi \(From "Aasai"\)](https://open.spotify.com/album/5GO2cXtXQvu4ClHe8BHb6V) | 3:42 | 2023-02-17 | 2023-03-07 |
 | [Kaadu Onnu](https://open.spotify.com/track/5oflI4gX5J6I32hllk1nSX) | [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA), [Aravind Srinivas](https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY) | [Parundhagadhu Oor Kuruvi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TSokMnpCpjfqBYBvR2lS3) | 3:01 | 2023-03-08 | 2023-03-25 |
 | [Kaaka Kadha \- From "Think Indie"](https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kaaka Kadha \(From "Think Indie"\)](https://open.spotify.com/album/2Rf7Tu3ZqCmUdwqPosFaH4) | 3:30 | 2022-07-15 | 2023-01-11 |
+| [Kaakarattan \| Coke Studio Tamil](https://open.spotify.com/track/7odAlVKH5KnIL6pJCCS9rC) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN), [Rajalakshmi Senthilganesan](https://open.spotify.com/artist/22n1vZPRa0tSAPrPhKMADh), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Kaakarattan \| Coke Studio Tamil](https://open.spotify.com/album/7LF7U4HH0fNuPwvlOYRmeP) | 3:28 | 2024-01-03 |  |
 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 | 2022-05-06 | 2022-12-27 |
 | [Kaali vs Gramam \- From "Harkara"](https://open.spotify.com/track/06PwjYHYIPVJarVSGQwW1w) | [Ramshanker S](https://open.spotify.com/artist/5QRO0Uwp7YanrCmZ05axjc), [N Pavithraa](https://open.spotify.com/artist/4P0o3WxFb52zw3IkR9RUh1), [R\. Deepak Krishna](https://open.spotify.com/artist/4E6dYWIZoCICa20uam2zLE) | [Kaali vs Gramam \(From "Harkara"\)](https://open.spotify.com/album/0nuKo1fnI22N8XTew4Pxin) | 3:18 | 2023-07-06 | 2023-07-21 |
 | [Kaalidhasan Sangundhala](https://open.spotify.com/track/6R6O5HgYnwJTnIt6Bbqo70) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Keertana Vaidyanathan](https://open.spotify.com/artist/0a0IGsUt7bEnl8wYB1BCmr) | [Vijayanand \- Tamil](https://open.spotify.com/album/4PSvBhUhhnVfmw188YockO) | 3:36 | 2022-11-09 | 2022-11-22 |

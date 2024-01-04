@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,746 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,779 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 74 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 75 | [Coup De Grâce](https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Coup De Grâce](https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx) | 3:43 |
 
-Snapshot ID: `MCw1NjVlOWY2YjBkNGMxM2VkZjZiNWFiZGI2ZTJiOGY1NDYwMzA4NDAw`
+Snapshot ID: `MCw2MWMxN2U2OTYxYzdiYTYwOWJmNDJkZDkzOGRiNmJjOTJkMjkxOWM1`

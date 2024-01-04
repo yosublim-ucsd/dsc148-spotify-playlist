@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2784125,
+  "num_followers": 2784504,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA4NjY3MWZjMTUyYzBhOTYzMDg4MjQwMDFjMDhlNjhkMTFhNDQ2",
+  "snapshot_id": "MCwxMjM1YjMxYTU4MGM1NmIyZTI4ZDgwODgxZGY0ODYzYWE0NmY0M2I4",
   "tracks": [
     {
       "added_at": "2023-12-05 22:35:20",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2023-12-05 22:35:20",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2023-12-05 22:35:20",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2023-12-05 22:35:20",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-12-05 22:35:20",
+      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
-    },
-    {
-      "added_at": "2023-12-05 22:35:20",
-      "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2023-12-05 22:35:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
-    },
-    {
-      "added_at": "2023-12-05 22:35:20",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2023-12-05 22:35:20",
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": "2023-12-05 22:35:20",

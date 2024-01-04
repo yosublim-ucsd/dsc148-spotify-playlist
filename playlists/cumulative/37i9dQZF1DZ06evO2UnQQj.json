@@ -805,6 +805,36 @@
     },
     {
       "album": {
+        "name": "NASCER",
+        "url": "https://open.spotify.com/album/2SfbLw0AW0ZpFy6rlGNvH4"
+      },
+      "artists": [
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "NP Vocal",
+          "url": "https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU"
+        },
+        {
+          "name": "Lucas Gali",
+          "url": "https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203081,
+      "name": "NASCER",
+      "url": "https://open.spotify.com/track/09BjtLm8oNHufc1Qwnd2Bv"
+    },
+    {
+      "album": {
         "name": "SELFIE",
         "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
       },
@@ -1338,7 +1368,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 172500,
       "name": "V.B.S V.B.D",
       "url": "https://open.spotify.com/track/61NFtoVZFTQlrJkWIIkPjc"

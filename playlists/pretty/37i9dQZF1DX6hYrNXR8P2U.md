@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,950 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,955 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 6 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 |
 | 7 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
 | 8 | [NO ME SORPRENDE](https://open.spotify.com/track/0s5FgdxYJm0tB68OICOglY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:30 |
-| 9 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 9 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 10 | [MINIMI](https://open.spotify.com/track/4peKgHvfUAadkQWllTK6GA) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AD HONOREM, Vol\. 1](https://open.spotify.com/album/6DZvxJ78oNsSIg4oYGXSJo) | 2:24 |
 | 11 | [Carta para no llorar](https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta para no llorar](https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw) | 2:58 |
 | 12 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 100 | [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 |
 | 101 | [Delirando](https://open.spotify.com/track/2YK1bWEZYctEqUmk6dnTFi) | [Eloisa](https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG) | [Delirando](https://open.spotify.com/album/5IO7Xu0Nb5gP9DqNLsA0zf) | 2:34 |
 
-Snapshot ID: `MCxiOThlMDMzYTZkZTIxODU1ZjI0OWZjZDQxOTcxZjVmNDg3YjE1NmM4`
+Snapshot ID: `MCw2YTE4ZmIwYzIxMmU3YTc5ZDNkMDQ5ZWY3YWE2NmY5NzAwZjRjYTY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Break the speakers with these absolute House Party BANGERS!!! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Project X \| House Party \| Frat Party \| Pre\-Drink Playlist
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 114,611 likes - 60 songs - 3 hr 16 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 114,605 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 59 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 |
 | 60 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 |
 
-Snapshot ID: `NDczNiw3OGE1NWZhYTEyNWJhNzg5OWFlNjBlZDE3YjNlMDFjYWIyMDAzZWZj`
+Snapshot ID: `NDczOCxmN2U1OTVlYjBkYmExODQwY2RmZDNkMDVmYzc3MDY3NTY3NWIwODBl`

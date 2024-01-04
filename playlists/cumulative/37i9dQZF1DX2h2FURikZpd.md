@@ -29,6 +29,6 @@
 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 | 2023-12-27 |  |
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-18 |  |
 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 | 2023-12-18 |  |
-| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 | 2023-12-18 |  |
+| [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 | 2023-12-18 |  |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

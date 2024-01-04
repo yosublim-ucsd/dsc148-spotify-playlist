@@ -2,9 +2,9 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that rocks\. Cover: Treaty Oak Revival
+> Country Music that rocks\. Cover: HARDY
 
-330 songs - 18 hr 57 min
+331 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alive and Well](https://open.spotify.com/track/2BqHBd0xqUUGxYBJ6rFyJB) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Alive and Well](https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF) | 3:18 | 2021-11-01 | 2022-07-28 |
 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 | 2023-06-02 | 2023-09-17 |
 | [All I Can Think About Lately](https://open.spotify.com/track/5pkNN8QrCbPAvgh0QAfupx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [All I Can Think About Lately](https://open.spotify.com/album/3JrC0f2pdNHKs2Fx8xK0AW) | 3:46 | 2022-03-25 | 2022-07-09 |
-| [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 | 2023-01-13 |  |
+| [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 | 2023-01-13 | 2024-01-04 |
 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 | 2021-11-01 | 2023-01-07 |
 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 | 2021-11-01 | 2023-06-06 |
 | [All Or Nothing](https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [All Or Nothing](https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s) | 3:13 | 2023-02-03 | 2023-07-25 |
@@ -260,6 +260,7 @@
 | [Sleeve](https://open.spotify.com/track/4320xN7twzyH6QAGM3bvYZ) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Sleeve](https://open.spotify.com/album/3OYTWn6pvI4mowfEA3WGu9) | 4:21 | 2021-11-01 | 2022-07-29 |
 | [Sleeve](https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 4:21 | 2023-04-28 |  |
 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 | 2022-03-18 |  |
+| [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 | 2024-01-03 |  |
 | [Sound of a Saturday Night](https://open.spotify.com/track/1T3UYXsrPFc6iP5VqjCSxk) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Sound of a Saturday Night](https://open.spotify.com/album/2b13avuST7edA3frvztBUq) | 3:30 | 2023-06-02 | 2023-08-26 |
 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 | 2021-11-01 | 2023-01-15 |
 | [Southbound](https://open.spotify.com/track/1jxiUxaIBx8C2IOlak1j4Q) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream Part II](https://open.spotify.com/album/7xpZ5rRDizgbzLEwl88p7m) | 3:57 | 2021-11-01 | 2022-07-23 |

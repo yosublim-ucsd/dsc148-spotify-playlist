@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 846467,
+  "num_followers": 846474,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzAyYjM2NzU5MWNhMjVhOTJiYTJiOTI5NDE3M2Q0MjNjZjJmMjFh",
+  "snapshot_id": "MCwxYWQwMzgxYTMwZTAwZDRkOWY1ZjM0MWMwNTMxY2ViZjMyYmQ4NmQw",
   "tracks": [
     {
       "added_at": "2023-11-23 01:08:19",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-11-23 01:08:19",
+      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "added_at": "2023-11-23 01:08:19",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -439,18 +439,34 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "Sigue Bailandome",
+        "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Yannc",
+          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+      "duration_ms": 352441,
+      "name": "Sigue Bailandome",
+      "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -491,34 +507,18 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "Sigue Bailandome",
-        "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
       "artists": [
         {
-          "name": "Yannc",
-          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
-        },
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 352441,
-      "name": "Sigue Bailandome",
-      "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
-    },
-    {
-      "added_at": "2023-11-23 01:08:19",
-      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 174482,
       "name": "TUS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+    },
+    {
+      "added_at": "2023-11-23 01:08:19",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -739,18 +739,22 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "Mal Hombre",
-        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 162061,
-      "name": "Mal Hombre",
-      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -787,22 +791,18 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 233639,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Detente",
+      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
+    },
+    {
+      "added_at": "2023-11-23 01:08:19",
+      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 225013,
       "name": "Imaginate",
       "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
-    },
-    {
-      "added_at": "2023-11-23 01:08:19",
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Detente",
-      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 150644,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
-    },
-    {
-      "added_at": "2023-11-23 01:08:19",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 220853,
       "name": "Yo Te Lo Dije",
       "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "added_at": "2023-11-23 01:08:19",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 150644,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
+        "name": "Esclavo de Tus Besos",
+        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
+    },
+    {
+      "added_at": "2023-11-23 01:08:19",
+      "album": {
         "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
         "url": "https://open.spotify.com/album/6qvGkkeW9g7I2k04lEwGU0"
       },
@@ -1895,22 +1915,22 @@
     {
       "added_at": "2023-11-23 01:08:19",
       "album": {
-        "name": "Esclavo de Tus Besos",
-        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 219302,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-11-23 01:08:19",
@@ -1959,26 +1979,6 @@
       "duration_ms": 240773,
       "name": "Me Ense\u00f1aste - Remix",
       "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
-    },
-    {
-      "added_at": "2023-11-23 01:08:19",
-      "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-11-23 01:08:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Zhamira Zambrano & Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,857 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,878 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 31 | [fuimos amigos](https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [fuimos amigos](https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr) | 2:48 |
 | 32 | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué No Me Fui Antes?](https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L) | 2:47 |
 | 33 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
-| 34 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 |
-| 35 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
+| 34 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
+| 35 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 |
 | 36 | [REVOLUCION AZUL](https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [REVOLUCION AZUL](https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm) | 4:14 |
 | 37 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
 | 38 | [solo x ti \- Remix](https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [solo x ti \(Remix\)](https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 50 | [Vale Madres](https://open.spotify.com/track/02YhaoVERYV2QhGq8NEYnZ) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Introspección](https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx) | 2:12 |
 
-Snapshot ID: `MCwwOWQxNTE4M2JiZDE4ZTUxMDZiYTZjMWI4ZjYwZWZiOWFiZTMxY2M2`
+Snapshot ID: `MCw1YmJmZWQ5MTM2OTI0ZjJjZmFmMzkwZjE1ZTAzMDFjZmViYjllZTY4`

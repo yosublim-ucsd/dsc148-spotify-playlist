@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,001 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,707,958 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 18 | [Someone Else's Love](https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8) | [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Someone Else's Love](https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK) | 2:54 |
 | 19 | [PASAJERO](https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:29 |
 | 20 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
-| 21 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 |
+| 21 | [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 |
 | 22 | [COPENHAGUE](https://open.spotify.com/track/2EmVWDyNM4DJuyiEOuVCkx) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:33 |
 | 23 | [GOZANDO](https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [GOZANDO](https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH) | 2:51 |
 | 24 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 59 | [Tambor](https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Tambor](https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd) | 2:15 |
 | 60 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
 
-Snapshot ID: `MCw5MTFiNjRiNzkwNDgzOTBjMTNkMDNmZTNmYTAzNzM0ZTIwOGYyYzcz`
+Snapshot ID: `MCwxMzk1M2RhNDAwM2UxYmFkNDg2ZWU3NGNkNzcyOTU1ZDA5NGFhOTQz`

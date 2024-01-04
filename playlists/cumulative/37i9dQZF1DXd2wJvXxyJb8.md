@@ -4,7 +4,7 @@
 
 > oii chefe psshshhs relatorio? pshhhshshhs ta cortando aqui...psshshshs ta chiando psshhshshs vou fazer sim pshhhs
 
-361 songs - 16 hr 49 min
+362 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-05-10 |  |
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2022-05-26 | 2022-07-05 |
 | [Dança do Pombo \(The Pigeon's Dance\)](https://open.spotify.com/track/5oTX1rD4zw9GIkcE4Ye7D9) | [Mc Faísca e os Perseguidores](https://open.spotify.com/artist/4hU7ku38ByYhGbLqQBRFqg) | [Dança do Pombo \(The Pigeon's Dance\)](https://open.spotify.com/album/0HAuF52pdqyTihq9hs1THk) | 2:34 | 2022-11-24 | 2022-11-29 |
-| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 | 2023-12-08 |  |
+| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 | 2023-12-08 | 2024-01-04 |
+| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 | 2023-12-27 |  |
 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 | 2022-05-26 | 2023-02-18 |
 | [DE GLOCK RAJADA AQUI NO PPG](https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz) | [Mc Bocão Capixaba](https://open.spotify.com/artist/775iJyr1r8cC7zDyaADidj) | [DE GLOCK RAJADA AQUI NO PPG](https://open.spotify.com/album/5hrZRZMhgnl1TK1AqGHf47) | 1:01 | 2022-11-07 | 2022-11-23 |
 | [De Love](https://open.spotify.com/track/24yhU1uQVX0u5Rvc0gProL) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [De Love](https://open.spotify.com/album/09GN4TaBw3LneSw4MBYdt6) | 3:07 | 2023-03-27 | 2023-05-30 |

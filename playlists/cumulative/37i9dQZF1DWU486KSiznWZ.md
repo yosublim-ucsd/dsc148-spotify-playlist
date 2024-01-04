@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: عايض
 
-148 songs - 10 hr 31 min
+149 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-20 |  |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-12-08 | 2023-05-07 |
 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 | 2023-05-16 |  |
+| [كل أحبك](https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:20 | 2024-01-03 |  |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 | 2022-10-05 |
 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-09-07 | 2022-09-29 |
 | [لا لا يالخيزرانه](https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [لا لا يالخيزرانه](https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q) | 3:36 | 2023-02-14 | 2023-10-12 |
@@ -142,7 +143,7 @@
 | [معشر العشاق](https://open.spotify.com/track/6ICQlcNHmIY6JTf4pTNCkJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Layali Dehrab](https://open.spotify.com/artist/5Jm0HiIbPtXDptk9iWN9uf) | [Maashar AlOshag](https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG) | 3:32 | 2022-10-04 | 2023-02-08 |
 | [معكازي](https://open.spotify.com/track/68vRWVHLdGaKFI5SYcDVVa) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣](https://open.spotify.com/album/5sBNL3QLKoRAJ88mgVppqZ) | 4:57 | 2023-03-14 | 2023-05-07 |
 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 | 2023-04-29 |  |
-| [مليون مرة](https://open.spotify.com/track/57sUOJMuLSA85ru2ewTgbB) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [مليون مرة](https://open.spotify.com/album/01agi93fzsZrICOs1b8G6a) | 4:38 | 2023-01-09 |  |
+| [مليون مرة](https://open.spotify.com/track/57sUOJMuLSA85ru2ewTgbB) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [مليون مرة](https://open.spotify.com/album/01agi93fzsZrICOs1b8G6a) | 4:38 | 2023-01-09 | 2024-01-04 |
 | [ناس غداره](https://open.spotify.com/track/25g7LLrHMwaFFl9kfOJtwi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/26f39nh2u5lNJEuiSF96fx) | 4:08 | 2022-09-07 | 2022-09-29 |
 | [ناس غداره](https://open.spotify.com/track/5bPtrvFUxWFIjpxvlvB7mH) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/56uwlCTBtL3laF34jUmiOh) | 4:08 | 2022-04-07 | 2022-10-05 |
 | [هدي نفسك](https://open.spotify.com/track/5EeZSRaCnXiLPaxlAKXyAN) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٢](https://open.spotify.com/album/1S54dgimOLppLTB38OokOW) | 4:52 | 2023-01-16 | 2023-05-23 |

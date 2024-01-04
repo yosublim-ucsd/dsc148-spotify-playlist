@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,614 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,637 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 53 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
 | 54 | [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 |
 | 55 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 |
-| 56 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
-| 57 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
-| 58 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |
-| 59 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
-| 60 | [Waiting For Nothing](https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 4:08 |
+| 56 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
+| 57 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |
+| 58 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
+| 59 | [Waiting For Nothing](https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 4:08 |
+| 60 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
 
-Snapshot ID: `MCxkOTNhOGYyZjU4NWJjNDVkNTY2MjBmMzNmMjI1NDU3ZjE3YjNjMTc5`
+Snapshot ID: `MCwwMzJlYzQwNGExNTFkMDM3ZWYzYTg0NmIwNWE5MDFmM2FkOTMwMzE4`

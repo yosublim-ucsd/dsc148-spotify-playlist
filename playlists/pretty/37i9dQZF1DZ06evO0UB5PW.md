@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,823 likes - 45 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,833 likes - 44 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 38 | [Circle of Cysquatch](https://open.spotify.com/track/02YSFQqaj2WClCrMmfIW4V) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:19 |
 | 39 | [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 |
 | 40 | [Crack the Skye](https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:54 |
-| 41 | [Black Tongue](https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 3:27 |
+| 41 | [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 |
 | 42 | [Capillarian Crest](https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:25 |
-| 43 | [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 |
+| 43 | [Black Tongue](https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 3:27 |
 | 44 | [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 |
-| 45 | [Mother Puncher](https://open.spotify.com/track/0mMi2FQIfXbHb8SilRoX8R) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 3:50 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDA4MjRjNWFhNzBlNzNiMmYxYzEwODZjMzZiMjI4YTgwMA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA3N2M4MjQxYzQzZGU2ZjA0YThiYjU1OTJjNGE4ODliNg==`

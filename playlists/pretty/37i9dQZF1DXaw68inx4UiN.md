@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,987 likes - 87 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,075 likes - 87 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 45 | [Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress\. Nature Sounds Relaxing](https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Green Escape \- Water Sound, Natural Sounds and Relaxing Sounds of Nature](https://open.spotify.com/album/1te6990GFMS4RRg7gJzPUF) | 13:16 |
 | 46 | [Na Foresta](https://open.spotify.com/track/6z3iPlhweUAe8gWOeYWYX4) | [Precipitação](https://open.spotify.com/artist/46km264wFWt9vtPfr9kls2) | [Chove Chuva](https://open.spotify.com/album/3tFdVqYCmj14H7FTOn3bOq) | 2:46 |
 | 47 | [Distant Gentle Stream](https://open.spotify.com/track/3VtBYUFa9A3oqOrale3kO2) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
-| 48 | [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 |
+| 48 | [Jungle Relaxation Sleep](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Ambient Nature White Noise](https://open.spotify.com/artist/2vgMXbvbpzLc0CuugRYpL3) | [Rain Forest Ambience Sleep Sounds \- Sounds From The Jungle For A Clearer Mind](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
 | 49 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
-| 50 | [Jungle Relaxation Sleep](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Ambient Nature White Noise](https://open.spotify.com/artist/2vgMXbvbpzLc0CuugRYpL3) | [Rain Forest Ambience Sleep Sounds \- Sounds From The Jungle For A Clearer Mind](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
+| 50 | [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 |
 | 51 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
 | 52 | [Nap In The Rainforest](https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
 | 53 | [A Night In The Jungle With Birds At River \(Fluss\)](https://open.spotify.com/track/5LVx4ofVD3DXNfkiDajr4a) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 5:16 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 86 | [Whispering Trees in the Wild](https://open.spotify.com/track/45TgpexaojOZb4zok0pJaD) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Whispering Trees in the Wild](https://open.spotify.com/album/48ApjSa0knz7AVh9xKFPL5) | 2:05 |
 | 87 | [Safari Monkey Calls](https://open.spotify.com/track/1B3Xinpm6B2lr8aPar5fXv) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea) | 3:20 |
 
-Snapshot ID: `MCw4ZmM3MzUxZjc3MDRkN2E0ZmM5YzA0N2QyZjhlNzIwMzEwZGRmZGE2`
+Snapshot ID: `MCxmZDk2NTdmNDRhNzM0M2I4M2QyMDUzOGRmNzk5ZmRmYzY4ODQ2YTVj`

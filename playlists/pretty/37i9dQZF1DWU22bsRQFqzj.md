@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,980 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,016 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 65 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 |
 | 66 | [Unholy \(feat\. Kim Petras\) \- ACRAZE Remix](https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Unholy \(feat\. Kim Petras\) \[ACRAZE Remix\]](https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg) | 2:56 |
 | 67 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
-| 68 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
-| 69 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
+| 68 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
+| 69 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 | 70 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 71 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 |
 | 72 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 |
 | 75 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 
-Snapshot ID: `MCw3MzgxNDY2MDFlNDcyMmE4Nzk4MmVkOWNlNGM0ODEwMzBjMjAyZmVm`
+Snapshot ID: `MCw4NjQ3YmRhNTBjNjljNjY3Njk5YTg1Y2VmMTUwNGIyMDAxYWNiNzA1`

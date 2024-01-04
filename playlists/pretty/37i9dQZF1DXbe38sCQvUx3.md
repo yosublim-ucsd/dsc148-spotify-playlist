@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain]
 
 > a la orden pa'l desorden
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,307 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,957 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain]
 | 54 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 |
 | 55 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
 | 56 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 |
-| 57 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 57 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 58 | [Aquí Sigue El 19](https://open.spotify.com/track/5bV7l3ESQtlHoDc4ui1BfP) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Aquí Sigue El 19](https://open.spotify.com/album/3oApMT28jZcuVunsTu6Dgv) | 3:01 |
 | 59 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 |
 | 60 | [Gente De Accionar](https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Si Lo Digo Es Porque Puedo](https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain]
 | 99 | [Clave 18](https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Clave 18](https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S) | 3:55 |
 | 100 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 
-Snapshot ID: `MCw3MWYxMWI2Njc3YjhmN2MzYzZkMTk2MzY1Y2U4MGIxZmUxNDA0Nzhj`
+Snapshot ID: `MCwzYTZiNTgxMGY2YmRhNDM2ZmU2YTA5ZDgwYmIwYTU2NGIwZGM4NmNi`

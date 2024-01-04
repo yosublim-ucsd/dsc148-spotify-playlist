@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 315659,
+  "num_followers": 315969,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGRhNzVkY2JlNzRiY2Q5MTVhOGRhZTUyMjhhNTI1MWFhNzVjNWNj",
+  "snapshot_id": "MCw1MmQ1YmMxYTBlNTg2ZTFjY2U2M2Y2ZTM0ZGU1ZjlhNDNiYWQ5Y2Jk",
   "tracks": [
     {
       "added_at": "2023-12-13 17:45:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "The Concrete Confessional",
-        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Looking Down the Barrel of Today",
-      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "Doom (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 257734,
       "name": "Rip & Tear",
       "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "The Concrete Confessional",
+        "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Looking Down the Barrel of Today",
+      "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Blessed & Possessed",
-        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Army of the Night",
-      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
       },
@@ -979,18 +963,34 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+        "name": "Blessed & Possessed",
+        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
       },
       "artists": [
         {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+      "duration_ms": 201386,
+      "name": "Army of the Night",
+      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
       "artists": [
         {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Faceless",
-        "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "I Stand Alone",
-      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 246209,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "Faceless",
+        "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "I Stand Alone",
+      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
     },
     {
       "added_at": "2023-12-13 17:45:11",

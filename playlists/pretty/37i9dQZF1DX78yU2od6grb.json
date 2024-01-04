@@ -1,12 +1,12 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 577811,
+  "num_followers": 577814,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzRjM2U1NDA0NmNkZWQ4NDE5ZTFkMjE2ZjhiOGYxNjQzZTMwMTQ5",
+  "snapshot_id": "MCw0YjhhODM1YjgxNDQyMmQ2ZmM5YWY3ZTMzZTAzNmYxMjIxZGZhNzQy",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "i miss u (with Au/Ra)",
         "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
       "added_at": "2022-11-25 03:00:00",

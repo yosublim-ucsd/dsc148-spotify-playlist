@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,701 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,797 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 35 | [Living In A Rave](https://open.spotify.com/track/1jtelkyKjyRJTIhhf4yfxG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Living In A Rave](https://open.spotify.com/album/2cBej5XP6FobrzbHVLooZW) | 3:19 |
 | 36 | [Lose It All](https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Lose It All](https://open.spotify.com/album/6uUPzHoAFzIIjRu7PNSNVT) | 3:28 |
 | 37 | [Bounce B\#tch](https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Bounce B\#tch](https://open.spotify.com/album/4AeJff1Luy0nNTDchtaacw) | 2:07 |
-| 38 | [Dirty](https://open.spotify.com/track/6AWeDqvevggPd0FITDYshW) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Dirty](https://open.spotify.com/album/4Uzg555qgiltdiFp9hr3Fv) | 2:56 |
-| 39 | [Making History](https://open.spotify.com/track/490OtmKonSLbMTvOyet1T8) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Artifact](https://open.spotify.com/artist/39B5R5tWbwQyHX4AitOU9U), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Making History](https://open.spotify.com/album/7l1MrEOxplrmHb7dC3BcAe) | 4:32 |
+| 38 | [Making History](https://open.spotify.com/track/490OtmKonSLbMTvOyet1T8) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Artifact](https://open.spotify.com/artist/39B5R5tWbwQyHX4AitOU9U), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Making History](https://open.spotify.com/album/7l1MrEOxplrmHb7dC3BcAe) | 4:32 |
+| 39 | [Dirty](https://open.spotify.com/track/6AWeDqvevggPd0FITDYshW) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Dirty](https://open.spotify.com/album/4Uzg555qgiltdiFp9hr3Fv) | 2:56 |
 | 40 | [In Hardstyle We Trust \- Melody Mix](https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [In Hardstyle We Trust \(Melody Mix\)](https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP) | 3:55 |
 | 41 | [Open Up Your Heart](https://open.spotify.com/track/2klFM38gNMzVJdgGGfskhE) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Open Up Your Heart](https://open.spotify.com/album/2HIciu2sc1pzveLUV6x3wu) | 3:58 |
 | 42 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 |
 | 80 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 |
 
-Snapshot ID: `MCxlZWM1NDI1NjQ1ODgxNjRmMzMwZWE1MmE0MTEzNWU1N2VkMjYwZmNj`
+Snapshot ID: `MCw3MTFjODBjZjYwNDhkYTY5MzViY2U2MDhjZjJjMDc2YmJkZDg2YTE1`

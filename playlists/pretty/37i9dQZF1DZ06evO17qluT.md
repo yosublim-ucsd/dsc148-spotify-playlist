@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,791 likes - 38 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,824 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 37 | [O Próximo Nascer do Sol](https://open.spotify.com/track/0ohQxfwxXcXA6TsZK6egvJ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:06 |
 | 38 | [Titãs](https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:54 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBjNjU3MzMzNzk3MjkxMGMyZGE4MDMyOTZlNDA2NzJmMQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA4NzRlYjVjMmM2Zjc0OThlYzJlZTI4ODNiNzM1ZTljYw==`

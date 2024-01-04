@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings (Chapter 1)",
+        "url": "https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Lackin'",
+      "url": "https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },

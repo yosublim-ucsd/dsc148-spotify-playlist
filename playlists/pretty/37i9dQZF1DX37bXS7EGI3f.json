@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 759723,
+  "num_followers": 759842,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZkMmRhODUzYmE1MzkzZTAwOTc0MDUzN2I2YzA5OTkxMGU2NmNh",
+  "snapshot_id": "MCw1YzUxZTk0NjEwZTcwOGQyNjZiM2JhNmM1ZmZhMjdmZjAyNDJjNjFj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Wonders Still Awaiting",
         "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 312626,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Winter Is Coming",
         "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 277493,
       "name": "Winter Is Coming",
       "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -971,34 +971,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
       "artists": [
         {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
         }
       ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "We Are Legion",
-        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
+        "name": "Animus",
+        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
       },
       "artists": [
         {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 221720,
-      "name": "We Are Legion",
-      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
+      "duration_ms": 242320,
+      "name": "We'll Be Free",
+      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "We Are Legion",
+        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We Are Legion",
+      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Not All Those Who Wander Are Lost",
         "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Animus",
-        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "We'll Be Free",
-      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "One More River to Cross",
+        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
+      },
+      "artists": [
+        {
+          "name": "The Ferrymen",
+          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
+        }
+      ],
+      "duration_ms": 294105,
+      "name": "Hunt Me to the End of the World",
+      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "One More River to Cross",
-        "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
-      },
-      "artists": [
-        {
-          "name": "The Ferrymen",
-          "url": "https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7"
-        }
-      ],
-      "duration_ms": 294105,
-      "name": "Hunt Me to the End of the World",
-      "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Over the Horizon Radar",
-        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
-      },
-      "artists": [
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
-        }
-      ],
-      "duration_ms": 323990,
-      "name": "Over the Horizon Radar",
-      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Over the Horizon Radar",
+        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
+      },
+      "artists": [
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 323990,
+      "name": "Over the Horizon Radar",
+      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
       "added_at": "2023-05-19 04:00:00",

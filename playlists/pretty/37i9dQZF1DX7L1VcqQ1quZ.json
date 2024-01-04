@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Mariah Carey",
-  "num_followers": 338724,
+  "num_followers": 338853,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTg5OTUzMmUyMWM0YzUwMDU0OWIyZTdjNTZhOWJkZmJlNDMzZGUx",
+  "snapshot_id": "MCxmMjlkNzU0MmZlNjM4MThiZjMwMjhmNmQ4N2Q1M2Y5OGQ3ZmU3ZThm",
   "tracks": [
     {
       "added_at": "2023-09-07 22:07:21",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 345600,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
+      "duration_ms": 231066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
       "artists": [
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 231066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
+      "duration_ms": 345600,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -807,22 +807,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
         }
       ],
-      "duration_ms": 296266,
-      "name": "Every Time I Close My Eyes (with Kenny G)",
-      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     }
   ],
   "unique_name": "90s Ballads",

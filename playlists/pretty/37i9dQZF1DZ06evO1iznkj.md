@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,831 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,884 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 7 | [Life Goes On](https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 4:07 |
 | 8 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
 | 9 | [Hot \(Remix\) \[feat\. Gunna and Travis Scott\]](https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 4:39 |
-| 10 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
-| 11 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 |
+| 10 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 |
+| 11 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
 | 12 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
 | 13 | [Stuck In A Dream \(feat\. Gunna\)](https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Certified Hitmaker](https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp) | 2:03 |
 | 14 | [Bachelor](https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bachelor](https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk) | 4:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 50 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 |
 | 51 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBkZDBlNmZlNjVhYjdjMzk5MTFiNzgwODU5NGM1MTIxZQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAxZjQ1MzQ2NTg2NjdkZjIzNDQwYjI1Y2Y3NjliZWZlZg==`

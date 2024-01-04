@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [Forbidden Joy](https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Fellow Travelers \(Original Series Soundtrack\)](https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP) | 1:33 |
 | 33 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
 
-Snapshot ID: `MCw3MGJhOTIxNmM2MDNmMTAxMmVhZTdjZGI4YjM4MGU2NDg1OGQ1ZmNm`
+Snapshot ID: `MCxhMDFiM2YzYzJiNGM2N2E5NmNiOGNjZjgxMTNlMjBmZDRlOTMyYjI1`

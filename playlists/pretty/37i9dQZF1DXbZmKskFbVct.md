@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,291 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,304 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 19 | [Laura Says ASMR](https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 3:44 |
 | 20 | [Removing Negative Energy](https://open.spotify.com/track/5ZkeEqISDLs7RG4bPkDobc) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3zr7dqQ2k9EG0MCAubYqql) | 4:54 |
 | 21 | [Sending Tingle Sleep Vibes Pt.1](https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Sending Tingle Sleep Vibes](https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw) | 6:03 |
-| 22 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
-| 23 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 |
+| 22 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 |
+| 23 | [Unintelligble Sleep Whisper Breathing Scratching](https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:50 |
 | 24 | [Close Ear to Ear Whispered Countdown to Sleep Pt.4](https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:39 |
 | 25 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
 | 26 | [Personal Attention and Positive Affirmations Just For You Pt.1](https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm) | [Jinx ASMR](https://open.spotify.com/artist/0xl6qcCkuTgiBrb4pGEOrx) | [Personal Attention and Positive Affirmations Just For You](https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn) | 5:06 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 28 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 | 29 | [Relaxing You HEAD to TOE Pt.5](https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy) | [Alana ASMR](https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM) | [Relaxing You HEAD to TOE](https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg) | 4:05 |
 | 30 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
-| 31 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
-| 32 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 |
+| 31 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 |
+| 32 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
 | 33 | [ROLEPLAY VENDEUSE DE CHAUSSURES, Pt\. 1](https://open.spotify.com/track/7jd2Sqru43mcGjzxlkKWn0) | [Dolce Romy ASMR](https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n) | [ROLEPLAY VENDEUSE DE CHAUSSURES](https://open.spotify.com/album/4HFd8jrnnZ7OUYXWGWggUU) | 5:02 |
 | 34 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6) | 3:36 |
 | 35 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 49 | [Identifying the Different Fantasy Coins](https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF) | 5:03 |
 | 50 | [Fluffy Mic & Slow Whispering Around Your Head, Pt\. 2](https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [8D ASMR \- Fluffy Mic & Slow Whispering Around Your Head](https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY) | 5:16 |
 
-Snapshot ID: `MCwwNTRhMmYwN2I5NzE4YTQxMGYxNDkxMzVjMmViNjBkMWJiMDkwNTFi`
+Snapshot ID: `MCw3MzgzZmIxYjJmMDViOTIxODNmOWJiYjI3MTA5MTE0NDQyMjBjYzI4`

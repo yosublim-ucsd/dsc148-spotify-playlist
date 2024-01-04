@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Milo J, Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,063 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,147 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 1 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 2 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 3 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
 | 4 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 37 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 |
 | 38 | [LA CHERRY](https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:32 |
 | 39 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
-| 40 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
-| 41 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
+| 40 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
+| 41 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 42 | [Otro Día, Otra Aventura](https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Otro Día, Otra Aventura](https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j) | 3:20 |
 | 43 | [Malas Rachas](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 44 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ) | 3:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 84 | [Viviendo La Vida](https://open.spotify.com/track/3YtskysZfjttxlEc963bKf) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Concentrado](https://open.spotify.com/album/2wXPBkIk4rqRLbU70y4oEV) | 2:26 |
 | 85 | [En La Lumbre \- En Vivo, Sonora, México, 2023](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo, Sonora, México, 2023\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
 
-Snapshot ID: `MCw1OTI1NmE0OTFmNTk1YzMwYThkN2RkMjRkNDRkMTQxYTYyM2UyODQ5`
+Snapshot ID: `MCwyZWFkZDYxM2EwOWFjOGMyZTg3ZTEzMTEyMDhkMTIwMzAyODNkM2Q3`

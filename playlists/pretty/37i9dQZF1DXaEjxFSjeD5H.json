@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 17779,
+  "num_followers": 17784,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTk2YTM0NTc5Nzk2NGU5N2FiN2MyMzRiZTQ3YjNkOWI4OGYxMjk2",
+  "snapshot_id": "MCw2MTRkZTM0M2U1MGUwN2U0YTlhNjQyNWY3NTk5ODM1NjE2NzU2NGEy",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Danz\u00f3n Nunca Muere",
-        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
-      },
-      "artists": [
-        {
-          "name": "Los Mejores Danzones De Todos Los Tiempos",
-          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Popurr\u00ed Mambos, Danz\u00f3n Nereidas y Varios M\u00e1s",
         "url": "https://open.spotify.com/album/50DGxJynqVVHx33ZKp96NN"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 269573,
       "name": "Potpurr\u00ed Cha Cha Cha: El Maletero / Coraz\u00f3n de Mel\u00f3n / Calculadora",
       "url": "https://open.spotify.com/track/2YhwzPB0x55lsG7BZ8VzYH"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "El Danz\u00f3n Nunca Muere",
+        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones De Todos Los Tiempos",
+          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
       "artists": [
         {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
+          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 287360,
-      "name": "La Antigua",
-      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
+      "duration_ms": 238147,
+      "name": "Aires del Sur",
+      "url": "https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
       },
       "artists": [
         {
-          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
-          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
         }
       ],
-      "duration_ms": 238147,
-      "name": "Aires del Sur",
-      "url": "https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp"
+      "duration_ms": 287360,
+      "name": "La Antigua",
+      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "55 A\u00f1os En El Danzon",
-        "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 341720,
-      "name": "Mi Consuelo Es Amarte",
-      "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
         "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 228623,
       "name": "El Pichi",
       "url": "https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "55 A\u00f1os En El Danzon",
+        "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 341720,
+      "name": "Mi Consuelo Es Amarte",
+      "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Homenaje A Gonzalo Varela",
-        "url": "https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Juan Va Pa'l Guerra",
-      "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzonera Joven de Mexico de Chamaco Aguilar, Vol. 8",
         "url": "https://open.spotify.com/album/3CCGZUuLXFevDPis8kFCtO"
       },
@@ -807,22 +791,6 @@
       "duration_ms": 259765,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
-      },
-      "artists": [
-        {
-          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
-          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
-        }
-      ],
-      "duration_ms": 160705,
-      "name": "El Fotografo de las Estrellas",
-      "url": "https://open.spotify.com/track/03aE4kh3RkKnUd3XI6Q1uC"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -843,6 +811,38 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
+      },
+      "artists": [
+        {
+          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
+          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
+        }
+      ],
+      "duration_ms": 160705,
+      "name": "El Fotografo de las Estrellas",
+      "url": "https://open.spotify.com/track/03aE4kh3RkKnUd3XI6Q1uC"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Homenaje A Gonzalo Varela",
+        "url": "https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 294066,
+      "name": "Juan Va Pa'l Guerra",
+      "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "Danzas del Mundo Danz\u00f3n",
         "url": "https://open.spotify.com/album/6Q7HaW9yc2jPhHuos8h0NM"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 349387,
       "name": "Linda Cubana",
       "url": "https://open.spotify.com/track/6w5CTA7ieQTNW4eEc2O1c6"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 379626,
-      "name": "Hay Que Echar Manteca",
-      "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -919,6 +903,22 @@
       "duration_ms": 135053,
       "name": "Murmurando (Whispering)",
       "url": "https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 379626,
+      "name": "Hay Que Echar Manteca",
+      "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
     },
     {
       "added_at": "2022-08-02 23:28:22",

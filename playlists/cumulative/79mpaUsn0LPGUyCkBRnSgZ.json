@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Schlagenheim",
+        "url": "https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN"
+      },
+      "artists": [
+        {
+          "name": "black midi",
+          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320666,
+      "name": "953",
+      "url": "https://open.spotify.com/track/6TYqetg2GzbwdeDvLBZbZF"
+    },
+    {
+      "album": {
         "name": "The Expanding Flower Planet",
         "url": "https://open.spotify.com/album/10e1mx1PykreNOn02pFjIU"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 213000,
       "name": "Alewife",
       "url": "https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d"
@@ -1011,6 +1029,36 @@
     },
     {
       "album": {
+        "name": "Cake Pop 2",
+        "url": "https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8"
+      },
+      "artists": [
+        {
+          "name": "Cake Pop",
+          "url": "https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        },
+        {
+          "name": "Lewis Grant",
+          "url": "https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146946,
+      "name": "Black Rum",
+      "url": "https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf"
+    },
+    {
+      "album": {
         "name": "Acid Tongue",
         "url": "https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae"
       },
@@ -1416,6 +1464,24 @@
       "duration_ms": 262320,
       "name": "Citizen of the Planet",
       "url": "https://open.spotify.com/track/6F3HmpbVHKaEnURkxrZqqv"
+    },
+    {
+      "album": {
+        "name": "the first glass beach album",
+        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304144,
+      "name": "classic j dies and goes to hell part 1",
+      "url": "https://open.spotify.com/track/3ezuOjWuTirncJITAb8ahf"
     },
     {
       "album": {
@@ -2105,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Earth Worship",
+        "url": "https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18317,
+      "name": "Earth Worship Intro",
+      "url": "https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT"
+    },
+    {
+      "album": {
         "name": "Yellow House",
         "url": "https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta"
       },
@@ -2120,6 +2204,24 @@
       "duration_ms": 223466,
       "name": "Easier",
       "url": "https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz"
+    },
+    {
+      "album": {
+        "name": "i don\u2019t know who needs to hear this...",
+        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341245,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/0wJvASZtBXXxNAfnmHd0Tr"
     },
     {
       "album": {
@@ -2318,6 +2420,24 @@
       "duration_ms": 854333,
       "name": "Fear Not For Man",
       "url": "https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6"
+    },
+    {
+      "album": {
+        "name": "5 to the Eye with Stars",
+        "url": "https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf"
+      },
+      "artists": [
+        {
+          "name": "R.A.P. Ferreira",
+          "url": "https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135648,
+      "name": "fighting back",
+      "url": "https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe"
     },
     {
       "album": {
@@ -3064,6 +3184,24 @@
       "duration_ms": 177433,
       "name": "I'd Have You Anytime - 2014 Remaster",
       "url": "https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD"
+    },
+    {
+      "album": {
+        "name": "I Could Have Smiled at You More",
+        "url": "https://open.spotify.com/album/61FSSaX2fMgXurISMrx96T"
+      },
+      "artists": [
+        {
+          "name": "Olivia Barton",
+          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358094,
+      "name": "If You Say I'm Special",
+      "url": "https://open.spotify.com/track/0K1WX02P3ANoLTcKIkcmaC"
     },
     {
       "album": {
@@ -3863,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Los Reales de Cajamarca",
+        "url": "https://open.spotify.com/album/5wUjtHs9fmIxeP48KOp263"
+      },
+      "artists": [
+        {
+          "name": "Los Reales de Cajamarca",
+          "url": "https://open.spotify.com/artist/5bFtFHmArN3NMPSREcnun7"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "Loca Juventud",
+      "url": "https://open.spotify.com/track/1rzJDjsaA2rNoPvBfMGifD"
+    },
+    {
+      "album": {
         "name": "PARTY GATOR PURGATORY",
         "url": "https://open.spotify.com/album/0c9GiN1Zkg2Wz9Qk5AJa3l"
       },
@@ -3908,7 +4064,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 427733,
       "name": "Looking For Someone",
       "url": "https://open.spotify.com/track/2lvM9dA12IIqBVU2aF5MaV"
@@ -3948,6 +4104,24 @@
       "duration_ms": 314433,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu"
+    },
+    {
+      "album": {
+        "name": "The Art of Forgetting",
+        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241288,
+      "name": "Love / Lover / Friend",
+      "url": "https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi"
     },
     {
       "album": {
@@ -4468,6 +4642,24 @@
       "duration_ms": 248211,
       "name": "Nothing\u2019s Impossible",
       "url": "https://open.spotify.com/track/1UegvfqeikDPozAcaIWIuI"
+    },
+    {
+      "album": {
+        "name": "Rubblebucket",
+        "url": "https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328400,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo"
     },
     {
       "album": {
@@ -5118,6 +5310,24 @@
       "duration_ms": 36280,
       "name": "Ramona Park Legend Pt. 1",
       "url": "https://open.spotify.com/track/1wjyGxvNK5POKbIfNroB3E"
+    },
+    {
+      "album": {
+        "name": "Positive Force",
+        "url": "https://open.spotify.com/album/2aZxhSUDHeE3tXSlWvao1w"
+      },
+      "artists": [
+        {
+          "name": "Delicate Steve",
+          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Ramona Reborn",
+      "url": "https://open.spotify.com/track/4dMRURWuPZmjpAMeNqvUkt"
     },
     {
       "album": {
@@ -6597,6 +6807,28 @@
     },
     {
       "album": {
+        "name": "Garbology",
+        "url": "https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        },
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45333,
+      "name": "The Only Picture",
+      "url": "https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz"
+    },
+    {
+      "album": {
         "name": "A Written Testimony",
         "url": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
       },
@@ -6894,6 +7126,24 @@
       "duration_ms": 201560,
       "name": "Tiny Little Bows",
       "url": "https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw"
+    },
+    {
+      "album": {
+        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89173,
+      "name": "To All The Girls",
+      "url": "https://open.spotify.com/track/7JSHs5GH7pq5moVo8wu1I6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,512 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,610 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 49 | [Good Grief](https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:01 |
 | 50 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:49 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBmODhhMWM0ZTY5MzY1ZDJiN2Y0YmI1ZWM4M2FkOTE1Yg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBiMzYzNGY4NTEyNGI2NjhhNTNmOGE2NDM2YjdmOGI4Nw==`

@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 362320,
       "name": "Mi Credo (En Vivo)",
       "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
@@ -1084,6 +1084,24 @@
       "duration_ms": 257773,
       "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
       "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
+    },
+    {
+      "album": {
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290653,
+      "name": "Vu\u00e9lveme a Querer - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/2Hhxygof6UeksbABhZKop4"
     },
     {
       "album": {

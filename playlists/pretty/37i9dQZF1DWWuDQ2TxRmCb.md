@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,519 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,567 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Saawariya](https://open.spotify.com/track/2qdj04pkNkCo9kuVF8sdKv) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM) | [Saawariya](https://open.spotify.com/album/6oWXro6c6y4pD2CIKPN2xg) | 4:51 |
 | 50 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
 
-Snapshot ID: `MCw3YWE2Y2RiODVlNGIwODkxZDQyZTA5YWRhNTE3NDhkOTFiMTU2ZmMw`
+Snapshot ID: `MCxlZWEzNTg3NTAwNTdmYWEwOTQzYjk0MDVjNThiMzZhNDU4MzJhNmU5`

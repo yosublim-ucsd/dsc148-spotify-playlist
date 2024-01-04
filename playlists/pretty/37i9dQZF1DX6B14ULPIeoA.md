@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,011 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,024 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 58 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
 | 59 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
 | 60 | [La Puerta Negra](https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [La Puerta Negra](https://open.spotify.com/album/73yWEfBEFLueOketILhoIg) | 2:27 |
-| 61 | [A Traves Del Vaso](https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [A Traves Del Vaso](https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB) | 3:20 |
-| 62 | [Cucurrucucú paloma](https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 5:02 |
+| 61 | [Cucurrucucú paloma](https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 5:02 |
+| 62 | [A Traves Del Vaso](https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [A Traves Del Vaso](https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB) | 3:20 |
 | 63 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 64 | [Piel canela](https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 3:20 |
 | 65 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 72 | [Una Vez Mas](https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Una Vez Mas](https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw) | 3:50 |
 | 73 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
 | 74 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
-| 75 | [Aguanta Corazón](https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Aguanta Corazón](https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1) | 3:12 |
-| 76 | [No Me Conoces Aun](https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [No Me Conoces Aun](https://open.spotify.com/album/0ptz54h0O1QdrkyJR5B6S0) | 3:50 |
+| 75 | [No Me Conoces Aun](https://open.spotify.com/track/6HcczuR38XM8B5Mf0SnQdw) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [No Me Conoces Aun](https://open.spotify.com/album/0ptz54h0O1QdrkyJR5B6S0) | 3:50 |
+| 76 | [Aguanta Corazón](https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Aguanta Corazón](https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1) | 3:12 |
 | 77 | [No Llega El Olvido](https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [No Llega El Olvido](https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q) | 3:00 |
 | 78 | [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 79 | [De que manera te olvido](https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [La hiedra \(arr\. R\. Jonas\)](https://open.spotify.com/track/4XxMsPO1y0bIApGUdgMvHm) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:51 |
 | 100 | [Solo Vine A Despedirme](https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [Solo Vine A Despedirme](https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm) | 3:21 |
 
-Snapshot ID: `MCwxMWQxNTY4Yjg1YTNmYjNhNWY5MTIyYTdjMGFmYzRkNDE0YzhlYzQz`
+Snapshot ID: `MCwyNDRiMDg1YzdkZmU3Yzk0ZGI2NWQ0Yjc2MTVmZDIxMmExMWE0YWQ5`

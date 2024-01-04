@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,095 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,119 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 42 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
 | 43 | [City of the Dead \(Live\) \[Remastered\]](https://open.spotify.com/track/744eHv8kvVhIYc4le3NEvt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [From Here to Eternity \(Live\) \[Remastered\]](https://open.spotify.com/album/70NjH8NkxcbYNvWAHnyv1e) | 2:47 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA3NzJlMmNkODIyMmIwNDY5ZTQ5MzExM2QwZTdlNDRlYg==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA1Y2U4OThiZTY5ODRhMzdmNGEzZDAzYTBkNzQ4MTU3Yw==`

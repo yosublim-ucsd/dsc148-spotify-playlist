@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,427 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,448 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 28 | [Margarita \(con Marracash\)](https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 2:57 |
 | 29 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
 | 30 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 |
-| 31 | [MADAME \- L'anima](https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:41 |
-| 32 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
+| 31 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
+| 32 | [MADAME \- L'anima](https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:41 |
 | 33 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
 | 34 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 |
 | 35 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
 | 50 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 
-Snapshot ID: `MCw3NGVkNzA4MGM4YzFhYjJhOWE2ZjlkMWQxOTMwZTdkNTlkYjlhYTY1`
+Snapshot ID: `MCw2MTU4NDg4ZTc4YjdlOTM1MjVmMTYwOGIyMzUzN2ZiM2ZiNmEzODQx`

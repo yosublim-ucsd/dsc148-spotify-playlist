@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Lainey Wilson
 
-358 songs - 19 hr 50 min
+359 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [7500 OBO](https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:41 | 2022-08-01 | 2023-04-14 |
 | [Ain't Always The Cowboy](https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:40 | 2021-12-03 |  |
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2022-02-01 | 2022-03-13 |
-| [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 | 2023-11-13 |  |
+| [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 | 2023-11-13 | 2024-01-04 |
 | [All the Pretty Girls](https://open.spotify.com/track/66pxmg3Jhjm09tHoWR1wVR) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 3:32 | 2021-12-03 |  |
 | [All To Myself](https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:49 | 2021-12-03 | 2022-05-26 |
 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 | 2021-12-03 | 2022-11-13 |
@@ -318,6 +318,7 @@
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-11-14 | 2023-02-07 |
 | [Under My Skin](https://open.spotify.com/track/3G3OwFCrkc86mMuLPOvgjc) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin](https://open.spotify.com/album/5NhqmLmAXBje7W8yfT5Z9j) | 2:58 | 2022-07-01 | 2023-05-01 |
 | [Under My Skin](https://open.spotify.com/track/59SoAaZ8tWxL5OBkWOG6aN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin](https://open.spotify.com/album/0KZJ9CMf2E4hi7uC55Bp6X) | 2:58 | 2021-12-03 | 2022-07-29 |
+| [Under My Skin](https://open.spotify.com/track/0uXhQHd0wYV9gvXyMcpnQj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 2:58 | 2023-11-13 |  |
 | [Up](https://open.spotify.com/track/1GOMHxclGDvkcODCfYuuje) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:03 | 2021-12-03 | 2022-07-29 |
 | [Villain](https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/3qdprgT9HXDTzav58XtZpN) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 | 2022-11-14 |  |

@@ -4,12 +4,13 @@
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-73 songs - 5 hr 31 min
+74 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 | 2022-02-23 |  |
 | [Anything But Time](https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Anything But Time](https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2) | 3:38 | 2020-10-21 |  |
+| [Backbone](https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg) | 2:48 | 2020-10-21 |  |
 | [Backbone](https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi) | 2:48 | 2020-10-21 | 2023-05-30 |
 | [Balafon \- Instrumental](https://open.spotify.com/track/6KXdjv2j74QBKDFzO4DllX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Balafon \(Instrumental\)](https://open.spotify.com/album/4eCkTbLKzj4i3yULucs277) | 3:30 | 2021-07-02 | 2022-07-29 |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2020-10-21 |  |
@@ -32,7 +33,7 @@
 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 | 2020-10-21 |  |
 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 | 2020-10-21 |  |
 | [Don't Bring Me Down](https://open.spotify.com/track/4T50jDAzjMQ8KDrhjoPCmf) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Don't Bring Me Down](https://open.spotify.com/album/1FmtnFX0qZPWLQMSfEmuTW) | 4:21 | 2021-06-18 | 2022-07-29 |
-| [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 | 2020-10-21 |  |
+| [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 | 2020-10-21 | 2024-01-04 |
 | [Father Son Holy Spirit](https://open.spotify.com/track/1fM3aySZNTA1xXHdIGY6yQ) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:59 | 2020-10-21 | 2022-07-02 |
 | [Found out the Hard Way](https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL) | 5:52 | 2020-10-21 |  |
 | [Found out the Hard Way](https://open.spotify.com/track/4USHtkju7lWv8YAhmcf3AV) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/1X3V7gdTJnzvyh4iAGe0zy) | 5:52 | 2020-10-21 | 2022-07-02 |

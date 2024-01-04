@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 123946,
       "name": "Autumn Becomes Winter",
       "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 160624,
       "name": "En Este Momento (feat. Gabriela Martinez)",
       "url": "https://open.spotify.com/track/4qTcmOgCo92nYfslCYTWxg"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 154638,
       "name": "Leaving Lone Pine Falls",
       "url": "https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"
@@ -1500,6 +1500,24 @@
       "duration_ms": 98613,
       "name": "Ted Saves The Day",
       "url": "https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak"
+    },
+    {
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83240,
+      "name": "Ted's Riding Lesson",
+      "url": "https://open.spotify.com/track/3d05X9MgZXqp8QDz7tr94j"
     },
     {
       "album": {

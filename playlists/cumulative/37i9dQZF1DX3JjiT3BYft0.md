@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-371 songs - 1 day 2 hr 58 min
+372 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [LOUDER](https://open.spotify.com/track/10D7xUQI6nfHvkmUEiCgwM) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [BLACK SHOUT](https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3) | 3:35 | 2022-05-17 | 2022-07-23 |
 | [mind of Prominence](https://open.spotify.com/track/7EC74dEUT319QY1x7nLaPo) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [mind of Prominence](https://open.spotify.com/album/555mc5p9BwL1u7yZPyij3C) | 4:26 | 2022-05-17 | 2022-07-29 |
 | [Moonlight Walk](https://open.spotify.com/track/1BAbb94XTVroE18RcpfqD9) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 3:46 | 2022-05-17 | 2022-07-28 |
+| [Neo\-Aspect](https://open.spotify.com/track/5cgXMOSZLF9lfbG7nrxF25) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 5:07 | 2023-12-12 |  |
 | [Neo\-Aspect](https://open.spotify.com/track/2ctkJPzluv1BfsEcsOPsS5) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:10 | 2022-05-17 | 2022-07-27 |
 | [NO GIRL NO CRY \- Poppin'Party Ver.](https://open.spotify.com/track/7vjHI1ZrjMFuynrPmwvgG3) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 5:11 | 2022-05-17 | 2022-07-19 |
 | [ON YOUR MARK](https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:00 | 2022-10-25 | 2023-12-25 |
@@ -342,7 +343,7 @@
 | [影色舞](https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 3:29 | 2023-04-11 | 2023-11-05 |
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
-| [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 |  |
+| [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 | 2024-01-04 |
 | [極彩色](https://open.spotify.com/track/1ZweKgc1qVZjCt81HIW1M9) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:58 | 2023-05-09 | 2023-12-13 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/2mEX3FAVxS2fIcAxnrzqfm) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [激動](https://open.spotify.com/track/5ocLAN2ZYl38qGKbGVWHEw) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 5:33 | 2022-05-17 | 2022-07-27 |

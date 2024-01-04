@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
-  "num_followers": 119494,
+  "num_followers": 119516,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTQxYjE4ODk4ZTc0ZjNhZDczYWJiMDZkMDE1YTM2YmY3YzdhZjgx",
+  "snapshot_id": "MCw1NGFlOThhMGU4NTcxZDljOTYwMzU3Nzg0YWRkYTkwNzcyN2UwNTRj",
   "tracks": [
     {
       "added_at": "2023-12-21 22:17:17",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Eu Me Rendo",
-        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
-      },
-      "artists": [
-        {
-          "name": "Man\u00fa Paiva",
-          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Primeiro Amor",
         "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 236828,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Eu Me Rendo",
+        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa Paiva",
+          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -587,18 +587,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Destemida",
+        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Adai Music",
+          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
+        },
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 298285,
+      "name": "Destemida",
+      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -623,22 +627,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Destemida",
-        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
       },
       "artists": [
         {
-          "name": "Adai Music",
-          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
-        },
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
         }
       ],
-      "duration_ms": 298285,
-      "name": "Destemida",
-      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Kethelen Baittinger",
-        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
       },
       "artists": [
         {
-          "name": "Kethelen Baittinger",
-          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
         }
       ],
-      "duration_ms": 366222,
-      "name": "Em uma s\u00f3 voz",
-      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+        "name": "Kethelen Baittinger",
+        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
       },
       "artists": [
         {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+          "name": "Kethelen Baittinger",
+          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
         }
       ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+      "duration_ms": 366222,
+      "name": "Em uma s\u00f3 voz",
+      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -943,6 +943,22 @@
       "duration_ms": 307600,
       "name": "Em Nome de Jesus",
       "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -1011,22 +1027,6 @@
       "duration_ms": 251936,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Cansado de Partir",
-        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Cora\u00e7\u00e3o Cansado de Partir",
-      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     },
     {
       "added_at": "2023-12-21 22:17:17",

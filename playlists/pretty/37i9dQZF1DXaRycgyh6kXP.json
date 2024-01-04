@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 203434,
+  "num_followers": 203538,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDhkNTQyMDgwZGZmYmE1MjQ0MzU0NzI1YzU4NDEzMzEzNDI3OTZk",
+  "snapshot_id": "MCxiYjU5MTcyZTg3MTk1ODE1YmJlYTQ4M2YzNTBkZThmMDI5NTY3YTE5",
   "tracks": [
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 252735,
-      "name": "Inspirit",
-      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "I Become A Shade",
         "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 237945,
       "name": "Stay With Us",
       "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 252735,
+      "name": "Inspirit",
+      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 340276,
       "name": "As Much as Possible",
       "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1282,11 +1282,15 @@
         {
           "name": "Joy Orbison",
           "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
         }
       ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+      "duration_ms": 272093,
+      "name": "born slipping",
+      "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1303,6 +1307,22 @@
       "duration_ms": 236703,
       "name": "Appeayl 2 U part 1",
       "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Can't Do Without You",
+      "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1343,6 +1363,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Under The Sun (Expanded Vol. 1)",
         "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
       },
@@ -1355,26 +1391,6 @@
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "born slipping",
-      "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Can't Do Without You",
-      "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
     },
     {
       "added_at": "2023-11-13 21:00:00",

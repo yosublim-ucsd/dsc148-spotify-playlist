@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,651 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,672 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 24 | [Malhar](https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Virat](https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra) | 4:09 |
 | 25 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
 | 26 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
-| 27 | [Baharla Ha Madhumas](https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk) | 3:43 |
+| 27 | [Baharla Ha Madhumas](https://open.spotify.com/track/0eVmQAZIHRnrcPLgguW0hS) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/5rCE5WjJPzuVQqLqy8RJ6E) | 3:43 |
 | 28 | [Aika Dajiba](https://open.spotify.com/track/4UBC20ayn5J864fPoLp7GS) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Aika Dajiba](https://open.spotify.com/album/5rJeNTeUR4l1XowSGY2zTa) | 4:44 |
 | 29 | [Ishkkachi Nauka](https://open.spotify.com/track/1TEwYTZpzOolIP4jaNQfs4) | [Shubhangi Kedar](https://open.spotify.com/artist/5d3m8OlPS7ZtfIRf3Ofsgc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Ishkkachi Nauka](https://open.spotify.com/album/5og3wPJ2Kh22iEuZUE4TfU) | 4:04 |
 | 30 | [Ye Go Ye Ye Maina](https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV) | [Ajay](https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH) | [Jatra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv) | 5:23 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 40 | [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 |
 
-Snapshot ID: `MCwwNjU5YmQwZmRlYjUxNGQ3NzgzODgzYzg0YmMwNDZkNjAxMjUyNTRj`
+Snapshot ID: `MCwwOWIwNjdiYjM2ZGY1Y2ViZDdlZTVmZTQyZmE3Yjg3NDhiMDk3NzU0`

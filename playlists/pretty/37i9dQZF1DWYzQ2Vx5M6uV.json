@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 115352,
+  "num_followers": 115354,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGQ3ZWU3M2IwZWYyNjE0MmMxN2MwMGJjYjViYWU5MmZlZGI1NDI3",
+  "snapshot_id": "MCxhNzhkYzhiNWMwYjdiZDlkNGJkOGFkZjQ0ZDNjZTc2ZGFkMWIyMWIw",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 145909,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -1347,22 +1367,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
       },
       "artists": [
         {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
         }
       ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 215240,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-12-08 05:00:00",

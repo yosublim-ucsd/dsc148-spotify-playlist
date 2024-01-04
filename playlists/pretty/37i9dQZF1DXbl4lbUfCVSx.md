@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,561 likes - 40 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,579 likes - 40 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 26 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
 | 27 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 |
 | 28 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
-| 29 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
-| 30 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
-| 31 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 |
+| 29 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
+| 30 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 |
+| 31 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 | 32 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
 | 33 | [Kimbé sa nan rinw](https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [Turbulan's Kompa, Vol\. 2 \(Special Gouyad Mixed by DJ Mayass\)](https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn) | 2:45 |
 | 34 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 36 | [Turn Me On](https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq) | [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Invictus](https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy) | 3:34 |
 | 37 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 |
 | 38 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
-| 39 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
-| 40 | [Lakay](https://open.spotify.com/track/6ulOU7gP6XTPnohMCkaion) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Sans limites](https://open.spotify.com/album/6A1Dvjmqa22Rr68IhBTkDc) | 6:23 |
+| 39 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
+| 40 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
 
-Snapshot ID: `MCxjOTE5MmE1ZjkyMWQ3YmE5YjM5MjY1MzMyYTRlOTJhZGQ4MWQ0M2Rj`
+Snapshot ID: `MCw3MTQzNmZiNzZlZGU2MzZjYzMzYzk5NWM4N2VkNWM2NjE0ZmNlMmVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 星野源 \*👉 <a href="https://spice.eplus.jp/articles/324821?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,512 likes - 79 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,585 likes - 79 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 19 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 |
 | 20 | [MoonLight](https://open.spotify.com/track/4EvjxBxeSjHq160dzNc9fq) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [MoonLight](https://open.spotify.com/album/2QxJBmcOf3dkA1K7tgUpVI) | 3:08 |
 | 21 | [アーティスト](https://open.spotify.com/track/7s5lA70AK4nnSI50tdvPsh) | [平山みき](https://open.spotify.com/artist/16eUjAZ2A6E4i8Hy3Q2npG), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [アーティスト](https://open.spotify.com/album/19hCarTppFvMeTXXQklrmY) | 3:55 |
-| 22 | [水仙 \(Prod\. GeG\)](https://open.spotify.com/track/3el86CZHLXxlW7fAfjOrcE) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [Mellow Mellow \~GeG's Playlist vol.2\~](https://open.spotify.com/album/0TEfDVtos4UfwJz6jKPMtG) | 3:14 |
+| 22 | [SUiSEN \(Prod\. GeG\)](https://open.spotify.com/track/1vE1Y6wZsiHDd37cDNGr5W) | [tubaki](https://open.spotify.com/artist/21qUVQdbz0u61NXcWYdfdP), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [Mellow Mellow \~GeG's Playlist vol.2\~](https://open.spotify.com/album/3Sun6NkBawPCsx5FrWcBkB) | 3:14 |
 | 23 | [dame un beso](https://open.spotify.com/track/6PNS6uP80uCchkfpRL0rbE) | [Jin Akanishi](https://open.spotify.com/artist/5gSFxPK5Te7WRIKL5CEWos), [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k) | [YELLOW NOTE](https://open.spotify.com/album/1qIeBADh8JAZ0g2sAmTBlZ) | 3:22 |
 | 24 | [I'm Prince](https://open.spotify.com/track/5OiEfsEEm8nFxKDB5ijySR) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [I'm Prince](https://open.spotify.com/album/0wIUrMzreRprpPCXx0D8lY) | 3:10 |
 | 25 | [ROCK STAR LIFE STYLE](https://open.spotify.com/track/1yp6cwdxeYJgT6R7gyAjLt) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SYNCHRONICITY 2](https://open.spotify.com/album/4oWNDEZmSKN64sw3TypAda) | 3:06 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 41 | [君がサヨナラ言えたって・・・](https://open.spotify.com/track/5CG60s0L8ax0UPQBuIiKFl) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [君がサヨナラ言えたって・・・](https://open.spotify.com/album/4AsdDdaEPCapGJCWB17Q3I) | 4:40 |
 | 42 | [マツケンサンバII×行くぜっ!怪盗少女 \-TeddyLoid ULTRA MASHUP ver.\-](https://open.spotify.com/track/1M2hb61cix3ZhM17zM83h9) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [マツケンサンバII×行くぜっ!怪盗少女 \-TeddyLoid ULTRA MASHUP ver.\-](https://open.spotify.com/album/3Knm7PiVwrw39BM3FCyLza) | 4:33 |
 | 43 | [小悪魔的ッ☆相当キレてる \- feat\. の子\(神聖かまってちゃん\)](https://open.spotify.com/track/65jrDwaUJRc8fzmp0gDPhi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E) | [小悪魔的ッ☆相当キレてる \[feat\. の子\(神聖かまってちゃん\)\]](https://open.spotify.com/album/5Y57sDj7dR9W9jNBdarr86) | 3:34 |
-| 44 | [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 |
+| 44 | [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 |
 | 45 | [Rebel](https://open.spotify.com/track/4Vawz7UCdavhRW1OxovN4a) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [20&2 \- The 9th Album](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) | 2:44 |
 | 46 | [Heart of Gold](https://open.spotify.com/track/5ECY6ioMnM7qcZ3Fpeztep) | [iScream](https://open.spotify.com/artist/0e5pQ7WhkRfa6kEhzjQ9Bx) | [Heart of Gold](https://open.spotify.com/album/2fUkY3mmOcDDdDmZiF6Oot) | 2:49 |
 | 47 | [N.E.X.T.](https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [N.E.X.T.](https://open.spotify.com/album/3oF9aJrGYphxIZ2JYa6cHa) | 4:47 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [Catch a Wave](https://open.spotify.com/track/65N0K4xrPDFDN0FoYrTuH9) | [Kenta Ebara](https://open.spotify.com/artist/4KEKd88P1nvU9TQALcEWFS) | [Unforgettable Memories](https://open.spotify.com/album/70Bnm757VymEFOEb3SAyp4) | 3:05 |
 | 70 | [恋…情念](https://open.spotify.com/track/5eopuTmQdl80gun7yo8UTq) | [三山ひろし](https://open.spotify.com/artist/1w61Z4Tm20rD2lYIxw0f8K) | [恋…情念／雲](https://open.spotify.com/album/2MPNEfJ7kFx7Jtu2nlHMaB) | 4:30 |
 | 71 | [Euphoria Running Away](https://open.spotify.com/track/3Aeqnm5tMc1mqRlrnkkmAK) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Euphoria Running Away](https://open.spotify.com/album/3HASLyktJimnf5va4hG4uz) | 3:09 |
-| 72 | [I'm Ready](https://open.spotify.com/track/3v140Hxf0bZDTp9uS6oYi8) | [TARO SOUL](https://open.spotify.com/artist/0ZhEHpz2hGZWf993Bo7B0O) | [I'm Ready](https://open.spotify.com/album/12ZZOZYEat5vTrWckipvC4) | 3:00 |
+| 72 | [I'm Ready](https://open.spotify.com/track/7hHNvZPKHtfN0m9WpqVnOU) | [TARO SOUL](https://open.spotify.com/artist/0ZhEHpz2hGZWf993Bo7B0O) | [I'm Ready](https://open.spotify.com/album/0S7qgUqyxpa2MVy1VkSor4) | 3:00 |
 | 73 | [KI\-SE\-KI](https://open.spotify.com/track/48xy8zLPsYVWUA1bvzkYCY) | [PONEY](https://open.spotify.com/artist/0b9sdjVUzTniTdqwiTWYzK) | [KI\-SE\-KI](https://open.spotify.com/album/2ygxXC11PCNIEm1SUmXobu) | 3:24 |
 | 74 | [TASER ME](https://open.spotify.com/track/49S0GLamuXeJVX40FlVSWq) | [RIS\-707](https://open.spotify.com/artist/4ES1QNmEX5bYxGXxDKZmTI) | [TASER ME](https://open.spotify.com/album/36mLSHRpqGWGEqXUjv6dPD) | 3:18 |
 | 75 | [WILL KILL](https://open.spotify.com/track/5jd8yyQUQ1LwLkYlQfY6mt) | [BANBI](https://open.spotify.com/artist/5BLReHe5qLB6wbDZU8YWwx), [ZTMZ](https://open.spotify.com/artist/07dhsJPzstj686BA5HyJKH) | [WILL KILL](https://open.spotify.com/album/0lK6pV9bAbWF0wZWTLJC7Y) | 4:12 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [Tokyo Under Construction](https://open.spotify.com/track/5HbTUAaixA61HUb3U9zdbj) | [DJ TANAKEN](https://open.spotify.com/artist/2JbB2acDrN9qLBVPNVMP81), [Rino Latina II](https://open.spotify.com/artist/6RdQUqN8PjAPmAK5zwz9Gh) | [Tokyo Under Construction](https://open.spotify.com/album/1glPK1RdCUs4u52tOKRc7p) | 2:36 |
 | 79 | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT) | 3:26 |
 
-Snapshot ID: `MCwwOGUxMzAwZjY5NjU5YjMwNGQ1NDI1YjEwMDM3OWEyYjMwZjMwNzkz`
+Snapshot ID: `MCxmN2JjNzM2ZjM2N2FkNzlkZmRmMDYxZWFiMjY2OGJhNjEzNDkxYWZh`

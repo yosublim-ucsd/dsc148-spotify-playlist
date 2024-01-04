@@ -1,12 +1,12 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 77215,
+  "num_followers": 77328,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmFhYjM1MGUxZDEwMmU0YzI1N2RkYzdiMDgwMTg3OTA0ZGQzZWJh",
+  "snapshot_id": "MCwzMGU5ZDAwZjE4ZGE1YTUwMjVkOTE5OWUzY2E0NTRlZGJkYzZiNmNk",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -303,6 +303,22 @@
       "duration_ms": 334901,
       "name": "Become the Warm Jets",
       "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
+    },
+    {
+      "added_at": "2024-01-03 15:57:05",
+      "album": {
+        "name": "special",
+        "url": "https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx"
+      },
+      "artists": [
+        {
+          "name": "Richard Orofino",
+          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "i heard you were looking like the moon",
+      "url": "https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6"
     },
     {
       "added_at": "2023-06-13 18:31:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,303 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,364 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 82 | [A Quien Le Importa \(Versión Bachata\)](https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Ironia](https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB) | 4:05 |
 | 83 | [Como Serás Tu](https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 3:50 |
 | 84 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
-| 85 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
-| 86 | [Abrazame Amor](https://open.spotify.com/track/0QFY7BoSoL3f7hRBmTCvTn) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 3:56 |
+| 85 | [Abrazame Amor](https://open.spotify.com/track/0QFY7BoSoL3f7hRBmTCvTn) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 3:56 |
+| 86 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
 | 87 | [Decidí](https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Decidí](https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs) | 3:14 |
 | 88 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
 | 89 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
 | 90 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 |
 | 91 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
 | 92 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
-| 93 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
-| 94 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 |
-| 95 | [Besito en la Boca](https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Besito en la Boca](https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk) | 4:11 |
+| 93 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 |
+| 94 | [Besito en la Boca](https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Besito en la Boca](https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk) | 4:11 |
+| 95 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
 | 96 | [Ese Hombre Soy Yo](https://open.spotify.com/track/4A20TRyeqAkxhkdWlASegH) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Uniquehits](https://open.spotify.com/album/26va0BYB9jWj7c7vtEKuHx) | 4:00 |
 | 97 | [El Placer Del Sexo](https://open.spotify.com/track/4KpVIifnbELoZGWuLDVJAa) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Yo Vivo Por Ti](https://open.spotify.com/album/6YXsyzDWNloJgp3ggyC86B) | 3:54 |
 | 98 | [Sin Ti](https://open.spotify.com/track/57d0Lp2QxoP6myHm5n2RbR) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Sin Ti](https://open.spotify.com/album/6wxv5GFsir64vZzYzihoFM) | 3:25 |
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCw1ZjZlMzI5NDVkNDAxNWIzNzFkOTAwNjY1ZDk1ZjgxOTcwNmQzMjBi`
+Snapshot ID: `MCw0NTQwN2Q2MzljMmE3N2M0ODk4OWE3YjQ3MjllNzgwOTAyOGM5MDEw`

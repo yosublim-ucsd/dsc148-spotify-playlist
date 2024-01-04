@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 498850,
+  "num_followers": 499086,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2UzZjM0MWMzYzNiMjllM2E0YTFhYmFiOWNlNjM5YzNmYjEwNzc2",
+  "snapshot_id": "MCw1NjJkYjM3ZDE1ZDNjZDRmMDEyNjNiNGUyMGMyOGY4N2YzZDQwZjEx",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "I Do (Vandelux Remix)",
         "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 196558,
       "name": "I Do - Vandelux Remix",
       "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Where Angels Fear To Tread",
-      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Where Angels Fear To Tread",
+      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/387xCAELz6eeONugqwsY3x"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "GRAACE",
+          "url": "https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV"
+        }
+      ],
+      "duration_ms": 217296,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/0LOuhyBqfn1diyqKIsCbOJ"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Zanzibar",
         "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
       },
@@ -1399,22 +1419,18 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/387xCAELz6eeONugqwsY3x"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "GRAACE",
-          "url": "https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 217296,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/0LOuhyBqfn1diyqKIsCbOJ"
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1451,22 +1467,6 @@
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Should be Fine",
-      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 324266,
       "name": "Kin",
       "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Should be Fine",
+      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "It's All a Bit Fuzzy",
-        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "On the Quiet (Expanded Edition)",
         "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "It's All a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1719,38 +1719,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -1767,6 +1735,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": "2023-12-29 05:00:00",

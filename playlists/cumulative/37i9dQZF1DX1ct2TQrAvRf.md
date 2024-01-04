@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- MC SQUARE
 
-128 songs - 7 hr 11 min
+129 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [170CM from Think Indie](https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [170CM from Think Indie](https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H) | 2:12 | 2023-09-22 | 2023-10-04 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-03-27 |  |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-08-17 |  |
+| [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-03 |  |
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2023-03-27 | 2023-04-20 |
-| [Adakaari \(Intro\)](https://open.spotify.com/track/4AaSAW6veyvZ8gZhOMHJLz) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 4:25 | 2023-12-09 |  |
+| [Adakaari \(Intro\)](https://open.spotify.com/track/4AaSAW6veyvZ8gZhOMHJLz) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 4:25 | 2023-12-09 | 2024-01-04 |
 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 | 2023-03-27 | 2023-06-02 |
 | [Angaar](https://open.spotify.com/track/6sXibluMzgiLgLBvjySOdd) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [I](https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB) | 3:48 | 2023-03-27 | 2023-04-20 |
 | [Ayyayyo](https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Ayyayyo](https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf) | 3:40 | 2023-10-09 | 2023-12-10 |

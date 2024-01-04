@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > "I am never drinking again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,140 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 60 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 61 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |
 | 62 | [Ever \(Foreign Flag\)](https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 2:51 |
-| 63 | [skins](https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [GHOSTAPE2](https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug) | 3:12 |
-| 64 | [Under My Skin](https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:13 |
+| 63 | [Under My Skin](https://open.spotify.com/track/6Jqk2PWC70GEBNmXwmTGHp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:13 |
+| 64 | [skins](https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [GHOSTAPE2](https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug) | 3:12 |
 | 65 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 66 | [Epiphany](https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:16 |
 | 67 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 79 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 |
 | 80 | [Ain't It The Life](https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:14 |
 
-Snapshot ID: `MCw3Nzc2MDcwNDllNTE2NzU5NmNkOWY3M2I1OTcwNGE1Mzk2M2UyZGU4`
+Snapshot ID: `MCxjNDllY2Y3NzgxNTlkNjMxYjg4ZDNlZjVkZGU0NzVlNzBmYzAwYzc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,924 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,921 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 97 | [Milk & Honey](https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN) | 3:51 |
 | 98 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
 | 99 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 |
-| 100 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
+| 100 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 |
 
-Snapshot ID: `MCw5YmE0YzRhNmQ2OWMxMzcwMmE1Y2RkNzczMWY5MDFlYmM4MjVjMzMx`
+Snapshot ID: `MCwxZmNiYWY2ZGEyNTA1NTE1YzVmNmI0OWMzNWFkNzRmM2MyMjUyYTdl`

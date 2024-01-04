@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,231 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,299 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 35 | [Young Volcanoes](https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:24 |
 | 36 | [Hum Hallelujah](https://open.spotify.com/track/028njLMKzGg4gAVSgMeOhm) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:50 |
 | 37 | [Saturday](https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:36 |
-| 38 | [7 Minutes In Heaven \(Atavan Halen\)](https://open.spotify.com/track/2erNwv0Yti7uirpIU8wbvv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:02 |
+| 38 | [Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued](https://open.spotify.com/track/73A0DxzMGDhVGsvHQSaaBq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:08 |
 | 39 | [Church](https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:31 |
 | 40 | [Headfirst Slide Into Cooperstown On A Bad Bet](https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:54 |
 | 41 | [Dead on Arrival](https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:14 |
-| 42 | [Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued](https://open.spotify.com/track/73A0DxzMGDhVGsvHQSaaBq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:08 |
+| 42 | [7 Minutes In Heaven \(Atavan Halen\)](https://open.spotify.com/track/2erNwv0Yti7uirpIU8wbvv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:02 |
 | 43 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |
 | 44 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
 | 45 | [Where Did The Party Go](https://open.spotify.com/track/3Q7jFW6nxqhwbUctqqthSa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 50 | [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 |
 | 51 | [America's Suitehearts](https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAxNjBjYTFmMjk1ODg4NmI4NzE1MjdhYTExMzBiZjYxNg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAxOTk4ZjllYzhlMGQ2N2E5ZDM4YzQ1NjI1ZDUwNDA2Yw==`

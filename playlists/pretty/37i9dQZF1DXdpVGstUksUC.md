@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,215 likes - 100 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,228 likes - 100 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 36 | [Let the Devil In](https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 5:00 |
 | 37 | [An Alternative to Freedom](https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp) | 5:17 |
 | 38 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 39 | [Seer](https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz) | 7:57 |
-| 40 | [Negasonic Teenage Warhead](https://open.spotify.com/track/39M82JuLd0Fe6w62q0zPMF) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS) | 4:27 |
+| 39 | [Negasonic Teenage Warhead](https://open.spotify.com/track/39M82JuLd0Fe6w62q0zPMF) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS) | 4:27 |
+| 40 | [Seer](https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz) | 7:57 |
 | 41 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 42 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 |
 | 43 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 53 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
 | 54 | [Death's Door](https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 7:15 |
 | 55 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
-| 56 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
-| 57 | [Dead Rock Commandos](https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK) | 3:16 |
+| 56 | [Dead Rock Commandos](https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK) | 3:16 |
+| 57 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 58 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 |
 | 59 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 |
 | 60 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 96 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 |
 | 98 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 |
-| 99 | [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 |
-| 100 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
+| 99 | [Mississippi King](https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs) | 3:34 |
+| 100 | [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 |
 
-Snapshot ID: `MCw1ODE2NWJmMWQzODlhODQwN2ZlYTdhM2JkOGM2MGU0NGMzYmY5Yjg4`
+Snapshot ID: `MCw0NjNkN2IwMDNkZTYzMDBmYzlkYjNhM2ZhNDI0NjYzZmQyMGUzN2M2`

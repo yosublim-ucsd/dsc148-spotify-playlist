@@ -1,12 +1,12 @@
 {
-  "description": "M\u00fasica <a href=\"spotify:genre:edm_dance\">dance</a> suave.",
-  "num_followers": 3707444,
+  "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
+  "num_followers": 3707815,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmE1MzVkMGRhN2I1NzllNzYyMjM1NDJkN2Y2M2I0YThjNDk2MDA1",
+  "snapshot_id": "MCxhNzY0YTZiNjVjN2JiOTYyNGViYTVhMzE2MzFlZDBkYzk5NmQ2NDY2",
   "tracks": [
     {
       "added_at": "2023-12-26 18:51:37",
@@ -595,22 +595,18 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "All Night Long (Y.V.E. 48 Remix)",
-        "url": "https://open.spotify.com/album/7BN9NaiHbxoUuLpEFuI7LB"
+        "name": "Spring Embers",
+        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 157812,
-      "name": "All Night Long - Y.V.E. 48 Remix",
-      "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
+      "duration_ms": 212459,
+      "name": "Spring Embers",
+      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -635,18 +631,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Spring Embers",
-        "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
+        "name": "All Night Long (Y.V.E. 48 Remix)",
+        "url": "https://open.spotify.com/album/7BN9NaiHbxoUuLpEFuI7LB"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Spring Embers",
-      "url": "https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2"
+      "duration_ms": 157812,
+      "name": "All Night Long - Y.V.E. 48 Remix",
+      "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "Running In A Dream",
         "url": "https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 269221,
       "name": "Running In A Dream",
       "url": "https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
       },
@@ -1135,22 +1155,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
         },
         {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
+      "duration_ms": 186472,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "Do You Feel The Same? (OCULA Remix)",
         "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+      },
+      "artists": [
+        {
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Love Like We're Dying",
         "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 183876,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
-      },
-      "artists": [
-        {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Anywhere (Road Trippin')",
+        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Anywhere (Road Trippin')",
+      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Breaking Apart",
         "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "Anywhere (Road Trippin')",
-        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Anywhere (Road Trippin')",
-      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
+        "name": "Roused",
+        "url": "https://open.spotify.com/album/0PglcPyz0IqanKtax5Bkx1"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 251474,
+      "name": "Roused",
+      "url": "https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
         "name": "Into The Sun (Chill Mix)",
         "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
@@ -1763,6 +1783,22 @@
       "duration_ms": 164723,
       "name": "Into The Sun - Chill Mix",
       "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1791,42 +1827,6 @@
       "duration_ms": 299512,
       "name": "I Will Leave a Light On - Sultan + Shepard Remix",
       "url": "https://open.spotify.com/track/6wZ8MVg77od27vH3444rW6"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "Roused",
-        "url": "https://open.spotify.com/album/0PglcPyz0IqanKtax5Bkx1"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 251474,
-      "name": "Roused",
-      "url": "https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ"
     },
     {
       "added_at": "2023-12-26 18:51:37",
@@ -1867,38 +1867,6 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 220625,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 186643,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
-    },
-    {
-      "added_at": "2023-12-26 18:51:37",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/0kTUETKwjoj5x8iHJaOb4Y"
       },
@@ -1919,8 +1887,40 @@
     {
       "added_at": "2023-12-26 18:51:37",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 186643,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 220625,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
+    },
+    {
+      "added_at": "2023-12-26 18:51:37",
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
       "artists": [
         {
@@ -1928,9 +1928,9 @@
           "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     }
   ],
   "unique_name": "Chill Tracks",

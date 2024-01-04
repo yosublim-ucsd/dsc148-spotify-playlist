@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,671 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,681 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 36 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 |
 | 37 | [Paint My Bedroom Black](https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:49 |
 | 38 | [I Could Be A Florist](https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 1:21 |
-| 39 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 |
+| 39 | [Crown Your Love](https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:04 |
 | 40 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
-| 41 | [Crown Your Love](https://open.spotify.com/track/64jnWr7d0fgtycXQfyGBo7) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:04 |
+| 41 | [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 |
 | 42 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 43 | [Without You](https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Without You](https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w) | 2:32 |
 | 44 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 |
 | 45 | [Mountain](https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Mountain](https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw) | 2:49 |
 | 46 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
-| 47 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
-| 48 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 |
-| 49 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 |
+| 47 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 |
+| 48 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
+| 49 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 |
 | 50 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 |
 | 51 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
 | 52 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 59 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 |
 | 60 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
 | 61 | [If I Was A God](https://open.spotify.com/track/3CIWI8DBoxqPycMudrgmtk) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:55 |
-| 62 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
-| 63 | [Paradise Calling](https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:06 |
+| 62 | [Paradise Calling](https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:06 |
+| 63 | [Look Mom I Made It](https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Look Mom I Made It](https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns) | 2:59 |
 | 64 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
-| 65 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
-| 66 | [Dear Body](https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Dear Body](https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh) | 3:09 |
+| 65 | [Dear Body](https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Dear Body](https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh) | 3:09 |
+| 66 | [Room Service](https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:46 |
 | 67 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
 | 68 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 | 69 | [wish you would](https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [wish you would](https://open.spotify.com/album/0M1Oz5d6jsNjAGcAATbWNk) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Crash](https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Crash](https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt) | 2:39 |
 | 80 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
 
-Snapshot ID: `MCwxMzYxYWUwZjUzMDA0YzAyMGFhZjQ3OTFlMjI3YjczN2JkZmQzNWFi`
+Snapshot ID: `MCxhNWM0MjBkYWViMTc3MTkzYWE4NzgwYWVjY2EzZWFhMDEyNWZhYTcx`

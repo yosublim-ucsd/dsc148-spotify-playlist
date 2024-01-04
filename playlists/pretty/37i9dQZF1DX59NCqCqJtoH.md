@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,217 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,320 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 6 | [Mary](https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 3:17 |
 | 7 | [Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 2:20 |
 | 8 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 |
-| 9 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
+| 9 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 10 | [My Friend \(feat\. Kara Jackson & MJ Lenderman\)](https://open.spotify.com/track/5khPTiW1Ufc5uXMEqOaOXP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Blanket](https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK) | 3:30 |
 | 11 | [I Won't Beg for You](https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [I Won't Beg for You](https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz) | 2:03 |
 | 12 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 88 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 89 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 |
 | 90 | [If I Showed You](https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [If I Showed You](https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku) | 3:15 |
-| 91 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
-| 92 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
+| 91 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
+| 92 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 |
 | 93 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
-| 94 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |
-| 95 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
-| 96 | [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 |
-| 97 | [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 |
+| 94 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
+| 95 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |
+| 96 | [Meant to Be](https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Meant to Be](https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx) | 1:50 |
+| 97 | [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 |
 | 98 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
-| 99 | [trust exercises](https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [trust exercises](https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8) | 3:34 |
-| 100 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 99 | [Rage](https://open.spotify.com/track/3ammZjwN6FtKFcnsoZn7de) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rage](https://open.spotify.com/album/5DOU5HNaALZj7ErsuXHg29) | 2:41 |
+| 100 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
 
-Snapshot ID: `MCw4OGQ4ZGI2OGIwZGM2ZjUyNjA5MGMyYjYzNDE4OTViYzQ1ZTU3NGEz`
+Snapshot ID: `MCwwMDQ1YmUxM2Q2M2JlYjdiOWM2NzdlYTRjMDk2NjBjNDAxYzI4MDNj`

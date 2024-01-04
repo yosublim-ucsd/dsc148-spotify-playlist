@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 
 > Les meilleures musiques de l'année 2023 sélectionnées par la radio GRRIF\. <a href="http://www.grrif.ch">www.grrif.ch</a>
 
-[GRRIF](https://open.spotify.com/user/grrifradio) - 717 likes - 100 songs - 6 hr 3 min
+[GRRIF](https://open.spotify.com/user/grrifradio) - 720 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

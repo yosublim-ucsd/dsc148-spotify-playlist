@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 420793,
+  "num_followers": 420829,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2MyMDNiNTM3YWYyYmY3Nzk2M2Q3ZDhiYTlmNDEzNTU5ODg0MTJm",
+  "snapshot_id": "MCxjYzJjNWE5MTEyOTBmOGNmODA5NzQxZmVlODZlZDliOTAzZTJiM2Nk",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "duration_ms": 269196,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Ahyre",
-        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        }
-      ],
-      "duration_ms": 269196,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "En La Vereda del Sol",
+        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Inconsciente Colectivo",
+      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Dios Los Cr\u00eda",
         "url": "https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 226858,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/5mDIMiKvZ71kx5eUBYhRFi"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "En La Vereda del Sol",
-        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Inconsciente Colectivo",
-      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "M\u00edrenla (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Ojitos de Md (Remix)",
         "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 170192,
       "name": "Ojitos de Md - Remix",
       "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "M\u00edrenla (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
     },
     {
       "added_at": "2023-12-01 03:00:00",

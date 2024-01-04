@@ -1,12 +1,12 @@
 {
   "description": "J'sors la b\u00e9cane di-di-da-da #fyp\n",
-  "num_followers": 452256,
+  "num_followers": 452677,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjAyYjViZWEzZjZjODcwMWVhNzY1YzAwYTkzZWVkM2IwODQxYTFj",
+  "snapshot_id": "MCw4ZDlmZThkMzc2MjA3MzczOWM3M2Y2Mjc3MTU4ZDIzZjkxYmYyYzM0",
   "tracks": [
     {
       "added_at": "2023-11-17 17:00:33",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2023-11-10 17:49:17",
+      "added_at": "2023-12-30 14:50:08",
       "album": {
-        "name": "Ghetto",
-        "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
+        "name": "Citadelle",
+        "url": "https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
         }
       ],
-      "duration_ms": 137437,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+      "duration_ms": 165728,
+      "name": "Citadelle",
+      "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
     },
     {
       "added_at": "2023-11-10 17:49:17",
@@ -161,10 +161,10 @@
       "url": "https://open.spotify.com/track/2inSUOF1dSiy3NP2i3Wnxc"
     },
     {
-      "added_at": "2023-12-30 14:50:08",
+      "added_at": "2023-11-10 17:49:17",
       "album": {
-        "name": "Citadelle",
-        "url": "https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA"
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
         }
       ],
-      "duration_ms": 165728,
-      "name": "Citadelle",
-      "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
+      "duration_ms": 137437,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
     },
     {
       "added_at": "2023-11-24 17:25:20",

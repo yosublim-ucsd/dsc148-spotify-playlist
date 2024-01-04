@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-291 songs - 15 hr 4 min
+292 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-30 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 | 2023-05-27 |
 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 | 2023-11-29 |  |
-| [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-06-30 |  |
+| [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-06-30 | 2024-01-04 |
+| [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 | 2023-12-15 |  |
 | [VOLVERÁS](https://open.spotify.com/track/0GlBekgy9Z2YEKCHxj33T2) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:37 | 2023-06-05 |  |
 | [Vuela](https://open.spotify.com/track/6nJtkNn2xNPS7wnMqqxkUN) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60), [Dj Flechas](https://open.spotify.com/artist/5Fw4n5XRnte30eKCBAdwWH) | [Vuela](https://open.spotify.com/album/5uh94tIV50XBqUTR3trC2c) | 3:35 | 2022-03-22 | 2022-04-29 |
 | [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-03-22 | 2022-05-14 |

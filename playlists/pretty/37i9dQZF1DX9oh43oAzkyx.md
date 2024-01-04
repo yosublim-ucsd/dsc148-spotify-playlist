@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,521,129 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,522,077 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 59 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 |
 | 60 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 61 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 62 | [Big Diamonds \(feat\. 21 Savage\)](https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:19 |
-| 63 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 62 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 63 | [I Gotta](https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 |
 | 64 | [CMON FREESTYLE](https://open.spotify.com/track/7vNwsXLLZIZfJifJxzuqXU) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CMON FREESTYLE](https://open.spotify.com/album/2H8nRvoykSWLqr94sL9IRU) | 2:41 |
-| 65 | [I Gotta](https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 |
+| 65 | [Big Diamonds \(feat\. 21 Savage\)](https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:19 |
 | 66 | [Presidential Rolex](https://open.spotify.com/track/5t0MkcpR3E24eNQcJN48WP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:28 |
 | 67 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
 | 68 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 |
@@ -83,6 +83,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 73 | [HOME](https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:54 |
 | 74 | [Cold \(feat\. B.G\. & Mike WiLL Made\-It\)](https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Cold \(feat\. B.G\. & Mike WiLL Made\-It\)](https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh) | 2:35 |
 | 75 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
-| 76 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
+| 76 | [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 |
 
-Snapshot ID: `MCwzN2JjN2Q2ZTU1NDlhNDhjNmFmZmUxMzhmMzIyMGZhYWIwOGJiZWY2`
+Snapshot ID: `MCxjMDMxNjhhMzJmZWZhN2YxNjkzM2JkMTUxYTY5NjI1MjFhMjg5ZjNh`

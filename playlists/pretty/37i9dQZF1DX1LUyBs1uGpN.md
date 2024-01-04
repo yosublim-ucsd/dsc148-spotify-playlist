@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,480 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,114 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 | 12 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 | 13 | [NUEVA VIDA](https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:10 |
 | 14 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
-| 15 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 15 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 16 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 |
 | 17 | [Peligro](https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peligro](https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M) | 2:25 |
 | 18 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 | 59 | [El Viejón de la Loma](https://open.spotify.com/track/7wqz5T8euVMYuv3BAOxWdu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:50 |
 | 60 | [Con Dinero Baila el Perro](https://open.spotify.com/track/6BLwiPtCG3OxqBpWQitbGR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 3:45 |
 
-Snapshot ID: `MCw2NTZkNjRjOTM2MGFiMjVlYjc1NWVlNGIzMWM1M2QyMDBhNDQ2MmVj`
+Snapshot ID: `MCwyODc5N2NiMTI4OWIyZGI0Yjk3YTk1NDJkODU0NDhhNDc1NjRiYTE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,003 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,026 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 46 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
 | 47 | [Blue Spotted Tail](https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 3:05 |
 | 48 | [Something](https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl) | 3:52 |
-| 49 | [Too Many Birds](https://open.spotify.com/track/7ydapdmQ4oivP54X29q7Af) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:27 |
-| 50 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 |
+| 49 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 |
+| 50 | [Too Many Birds](https://open.spotify.com/track/7ydapdmQ4oivP54X29q7Af) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:27 |
 | 51 | [Swimming Away](https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE) | 3:08 |
 | 52 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 53 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 61 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
 | 62 | [Something About Your Love](https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [In The Ever](https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2) | 4:30 |
 | 63 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
-| 64 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
-| 65 | [The Healing Day](https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People](https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb) | 5:14 |
+| 64 | [The Healing Day](https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People](https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb) | 5:14 |
+| 65 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
 | 66 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
 | 67 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
-| 68 | [Dusty Trails](https://open.spotify.com/track/7a3KuESGwpeKOWOGDmuWpX) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/2raayEKy9gvlMN6Op4NzMy) | 4:24 |
-| 69 | [After Midnight](https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 2:20 |
+| 68 | [After Midnight](https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 2:20 |
+| 69 | [Dusty Trails](https://open.spotify.com/track/7a3KuESGwpeKOWOGDmuWpX) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/2raayEKy9gvlMN6Op4NzMy) | 4:24 |
 | 70 | [Gospel](https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 4:29 |
 
-Snapshot ID: `MCw4Yzk1YjQyOTNiZmUxNjA4ODBiOTk1MDc2NzM3MDYxM2E3ZTFjOWVi`
+Snapshot ID: `MCxiNWNmYzVjNmU0MmJlMDRlNzE3ZDBkNWQ4ZWE0YjU0NjYxZjA0NTU1`

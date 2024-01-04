@@ -2,7 +2,7 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Il sogno di ogni zanza si è avverato: 𝑴𝒂𝒇𝒊𝒂 𝒅𝒆𝒍 𝑩𝒐𝒐𝒎 𝑩𝒂𝒑
+> Beat e rime, oggi come una volta\. Ensi e Nerone in cover.
 
 333 songs - 19 hr 21 min
 

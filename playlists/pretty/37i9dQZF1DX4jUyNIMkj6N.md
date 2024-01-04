@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,141 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,209 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 19 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
 | 20 | [You Wanted Free](https://open.spotify.com/track/0rEFSbepPWBirgECb0CV63) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [You Wanted Free](https://open.spotify.com/album/6tM3BjwLZFKBeYHzGpG86Q) | 2:57 |
 | 21 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
-| 22 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 |
-| 23 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
+| 22 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
+| 23 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 |
 | 24 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
 | 25 | [Hymn](https://open.spotify.com/track/2MXX8H5R8UMmI5oYzgqrYA) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Hymn](https://open.spotify.com/album/5TXCV14ZfHcQrJTruMbQNp) | 5:35 |
 | 26 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 53 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 |
 | 54 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
 | 55 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
-| 56 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 |
-| 57 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 |
+| 56 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 |
+| 57 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 |
 | 58 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 |
 | 59 | [Still Here](https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Still Here](https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN) | 3:38 |
 | 60 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 |
 
-Snapshot ID: `MCw0YTk1MmU4NDg4ZjcxN2Y3MDYyN2ZhYTkyY2NiZjkxNjk5YzI3N2Ex`
+Snapshot ID: `MCxlMTFmYjI2MzU5ZTYwOGM1ODNjNjg4NGE0YTVlYjhmNjhmMjc3Nzg1`

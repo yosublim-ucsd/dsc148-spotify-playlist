@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > in our emo cowgirl era
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,302 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,406 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 49 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 |
 | 50 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
 
-Snapshot ID: `MCw3ZTVmYWJmNDI1NzEwN2Q2M2U1OGVmZjU1MDc0ZWI0OTJiZTA2MWQ5`
+Snapshot ID: `MCw4YjU1YWE0ZDRkZDUzY2IwMDNjZGI3MDcxNzZjYzFlNTkwN2RmYzMx`

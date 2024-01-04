@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,750 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,958 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 47 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
 | 48 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
 | 49 | [O Me Voy O Te Vas](https://open.spotify.com/track/4WTTh1YtBwf8hhKvRyJPwi) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:47 |
-| 50 | [Só Hoje](https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Discotecagem Pop Variada](https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS) | 3:31 |
-| 51 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 50 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 51 | [Só Hoje](https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Discotecagem Pop Variada](https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS) | 3:31 |
 | 52 | [Suelta Mi Mano](https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 4:00 |
 | 53 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
 | 54 | [Y Si Te Quedas, ¿Qué?](https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de Caminos](https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW) | 3:38 |
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 80 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 81 | [Duele \(Crazy\)](https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 3:50 |
 | 82 | [Siempre me quedará](https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:49 |
-| 83 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
-| 84 | [Que Nadie](https://open.spotify.com/track/1Qo29QfhrhhhoniBr1WCDq) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Inercia](https://open.spotify.com/album/1FYPgqEEVzC50FVkU0DhpS) | 3:56 |
-| 85 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
+| 83 | [Que Nadie](https://open.spotify.com/track/1Qo29QfhrhhhoniBr1WCDq) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Inercia](https://open.spotify.com/album/1FYPgqEEVzC50FVkU0DhpS) | 3:56 |
+| 84 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
+| 85 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
 | 86 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
 | 87 | [Si Tú Quieres](https://open.spotify.com/track/51LfO8PLG7Qi0sUwA74tCw) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 5:24 |
 | 88 | [Sin ti no soy nada](https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Estrella De Mar](https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ) | 4:28 |
 | 89 | [No Me Quiero Enamorar](https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 3:37 |
 | 90 | [El Tiempo de Ti](https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Canciones De Hotel](https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v) | 5:06 |
-| 91 | [Tu Hombre Perfecto](https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:21 |
-| 92 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
+| 91 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
+| 92 | [Tu Hombre Perfecto](https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:21 |
 | 93 | [¿Dónde Están Corazón?](https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [¿Dónde Están Corazón?](https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p) | 4:19 |
 | 94 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
 | 95 | [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [No Puedo Dejarte de Amar \(with Jesús Navarro\)](https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 5:17 |
 | 100 | [Amores Prohibidos](https://open.spotify.com/track/3vJM77KoiopgMv32I5fejb) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 4:07 |
 
-Snapshot ID: `MCwwODI2OWY4OGUyYjkzZTljN2FjZGY5NTcwMjZhZDFjZTg3NjFlZmFl`
+Snapshot ID: `MCw2YzBjMWMxNjQxZjUyYTc3ZTExZDg0NGMyYTBlMDc0Y2I0NmNkYjIx`

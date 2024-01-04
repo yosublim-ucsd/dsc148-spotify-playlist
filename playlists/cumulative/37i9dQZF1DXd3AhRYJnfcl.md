@@ -4,10 +4,11 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=bxJJjjGbRUO5zUw\_sWadeA">  رامي جمال </a>
 
-244 songs - 14 hr 6 min
+246 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 | 2024-01-03 |  |
 | [3amalna Ema](https://open.spotify.com/track/17JMZQiLWe3NxHGBv80ll3) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [3amalna Ema](https://open.spotify.com/album/3Udz2hgIlmKqxSW8c0mYJm) | 4:17 | 2023-09-01 | 2023-09-03 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-02 |
 | [3atma](https://open.spotify.com/track/47dZKuQLD7ubcY0TT0Q04x) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [3atma](https://open.spotify.com/album/0BDmbzmtap74a1IbNieQr1) | 3:19 | 2023-09-01 |  |
@@ -83,7 +84,7 @@
 | [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 | 2023-05-30 | 2023-06-05 |
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2022-07-19 | 2022-11-29 |
 | [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hadalaany \(From Bhabak Movie\)](https://open.spotify.com/album/2dQZwRz9UH0MLwKmxeegsz) | 3:26 | 2022-07-13 | 2022-11-10 |
-| [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-09-01 |  |
+| [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-09-01 | 2024-01-04 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2022-04-13 | 2022-07-06 |
 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 | 2023-06-20 |  |
 | [Hateshtaou](https://open.spotify.com/track/6NcgWiRX9L2j6w8ZeoIsGG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Hateshtaou](https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM) | 4:35 | 2022-04-13 | 2022-06-29 |
@@ -95,6 +96,7 @@
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-04-13 | 2022-09-27 |
 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2023-04-07 | 2023-05-18 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-26 | 2022-10-11 |
+| [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2024-01-03 |  |
 | [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2022-04-13 | 2023-01-20 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [La Malama \(Bonus Track\)](https://open.spotify.com/album/6PMtOPP4EYJEOoqBJE5pP2) | 3:48 | 2022-04-13 | 2022-07-26 |
 | [Law Bas Nergaa](https://open.spotify.com/track/7ogQhlO9miA7gt18l0tlRT) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Hady Moamer](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD) | [Law Bas Nergaa](https://open.spotify.com/album/7mxi6m5tjRolq6U2HTTlq2) | 2:43 | 2022-10-13 | 2022-11-24 |

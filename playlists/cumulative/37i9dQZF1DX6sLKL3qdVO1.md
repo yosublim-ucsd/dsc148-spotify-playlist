@@ -4,7 +4,7 @@
 
 > Shawty lo que necesitas es darle flow\. Karol G en portada.
 
-517 songs - 1 day 4 hr 19 min
+518 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,8 @@
 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-02-10 | 2023-10-07 |
 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 | 2021-12-17 | 2022-01-15 |
 | [Midtown](https://open.spotify.com/track/4lyhbrXClLAza4bFA21ir0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Midtown](https://open.spotify.com/album/0XEPeZszOiMvSVTWmpgR5s) | 3:25 | 2021-12-17 | 2022-01-15 |
-| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-06-30 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 | 2023-12-22 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-06-30 | 2024-01-04 |
 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 | 2022-07-01 | 2022-07-23 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-03-25 | 2022-07-30 |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2021-12-17 | 2022-07-20 |

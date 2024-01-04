@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,572 likes - 55 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,618 likes - 55 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,22 +46,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 36 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 | 37 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
 | 38 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
-| 39 | [The Best Thing](https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 4:52 |
-| 40 | [Life Of The Party](https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4) | 3:51 |
+| 39 | [Life Of The Party](https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4) | 3:51 |
+| 40 | [The Best Thing](https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 4:52 |
 | 41 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
 | 42 | [Fly Away](https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:30 |
 | 43 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
 | 44 | [Shut Your Mouth and Do Something](https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV) | [Ali Handal](https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N) | [Shut Your Mouth and Do Something](https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of) | 3:20 |
-| 45 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
-| 46 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
+| 45 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
+| 46 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 47 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 |
 | 48 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
 | 49 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
-| 50 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
-| 51 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
-| 52 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
-| 53 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
+| 50 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
+| 51 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
+| 52 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
+| 53 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
 | 54 | [Masters of War](https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ) | 4:56 |
 | 55 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 
-Snapshot ID: `MCw4MmYzZmRmMDhhNzY2ZDE0YThlNTU0YjJhZDc4ZjliNjc5OWM4OTNl`
+Snapshot ID: `MCwzNmUyMzU5NWZjMDQwOWU5Zjg1NDEwMjA4ZDMwMjdmYjRkYjdkMTdl`

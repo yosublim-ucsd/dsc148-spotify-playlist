@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,277 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,302 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 37 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 38 | [GOLDEN TAN](https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [GOLDEN TAN](https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W) | 2:16 |
 | 39 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
-| 40 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
+| 40 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 41 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
 | 42 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 |
 | 43 | [Like A Girl Does](https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Like A Girl Does](https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW) | 2:52 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 60 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 |
 | 61 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 
-Snapshot ID: `MCxhZjIzMWMzNWUyZTgxYWNmNzJhZWU5Y2Q3MTZmMjFlZGI4ZjZmNjZj`
+Snapshot ID: `MCxkMzQwMTI5NDcwYTZiY2NiMzU1ODdkYzI5NDc2MDkzY2RhY2FiNjdk`

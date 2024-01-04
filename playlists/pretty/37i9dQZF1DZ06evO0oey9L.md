@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,000 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,015 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 34 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 |
 | 35 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
 | 36 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 |
-| 37 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
+| 37 | [La Gente Del Toro](https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:29 |
 | 38 | [Cookies En Las Pipas](https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:30 |
 | 39 | [Botas Ariat](https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Botas Ariat](https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF) | 3:03 |
 | 40 | [Vida De Locura](https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:26 |
-| 41 | [La Gente Del Toro](https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:29 |
+| 41 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
 | 42 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
 | 43 | [Fino El Porteson](https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:27 |
 | 44 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
-| 45 | [Soy El Cholo Soy El 7](https://open.spotify.com/track/73zTFBi0S4u3sAa4vT2Cnn) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Soy El Cholo Soy El 7](https://open.spotify.com/album/5XUY9Ibmxbyk1dU3222hPR) | 3:02 |
-| 46 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
+| 45 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
+| 46 | [Soy El Cholo Soy El 7](https://open.spotify.com/track/73zTFBi0S4u3sAa4vT2Cnn) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Soy El Cholo Soy El 7](https://open.spotify.com/album/5XUY9Ibmxbyk1dU3222hPR) | 3:02 |
 | 47 | [Peter King Kong](https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:43 |
 | 48 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 |
 | 49 | [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 |
 | 50 | [JJ Es La Clave](https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:33 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA0MTAyZjJiYjAyYTA1NWI1ZGRiMTUyM2NiYmM4ZmY0MA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA3MjhlZmIxOTI5MTNiOWJjYThlYmVkZjRhY2QxNGViOA==`

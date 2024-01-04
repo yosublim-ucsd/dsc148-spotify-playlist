@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459 likes - 120 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 31 | [Devil I Know](https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 |
 | 32 | [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
 | 33 | [Real Love](https://open.spotify.com/track/6vuwpMl38xfscWpoxquFiW) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Real Love](https://open.spotify.com/album/1eW90EbtZZZV3LHHy0NJUW) | 3:47 |
-| 34 | [How Soon](https://open.spotify.com/track/1KUiTZjA5fEMT3MlBZNifv) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/6yQpOyThTfe6Za8iwCWFXZ) | 3:17 |
+| 34 | [How Soon](https://open.spotify.com/track/1oG2Ool6Y60sPNsOTjLeeF) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Where Do We Go From Here?](https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP) | 3:10 |
 | 35 | [Nothing Here](https://open.spotify.com/track/2u8W9YjnCuR7tgaefRDYx7) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Journey](https://open.spotify.com/album/4vTfrB4P9R7ozSk7H2jdLI) | 2:37 |
 | 36 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 37 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 43 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 |
 | 44 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 45 | [Remember Us \(feat\. Rapsody\)](https://open.spotify.com/track/3vS7px4CSV1I8hP5MXEdk8) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:51 |
-| 46 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 |
-| 47 | [Feed The Beast](https://open.spotify.com/track/3qfovimS6NXaSKxskfkGX5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:30 |
+| 46 | [Feed The Beast](https://open.spotify.com/track/3qfovimS6NXaSKxskfkGX5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:30 |
+| 47 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 |
 | 48 | [I Don't Love You](https://open.spotify.com/track/5lmNLpttoz07aUCITtAKhX) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/352YNkVFSV9KDvGlLpEwRc) | 3:24 |
 | 49 | [Good Things](https://open.spotify.com/track/2XabyO1YcTW7BZ8wfKLB1X) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things \(R3HAB Remix\)](https://open.spotify.com/album/38flhAaxVeSTNa4l0fKCZd) | 3:01 |
 | 50 | [Sharpest Edges](https://open.spotify.com/track/3UFTGvTWqfFzQuVCIMBeet) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:09 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 53 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 54 | [Midnight Dreams](https://open.spotify.com/track/6xKUJ0HwdyEIeiuwM3sfQ1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:12 |
 | 55 | [Still Love You](https://open.spotify.com/track/4HhYCUVN6YEXY9Wi7VRwut) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 |
-| 56 | [Tell Me \(feat\. Vic Mensa\)](https://open.spotify.com/track/4wMBHhPp9eHO0xJ1mmAFmb) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Fireside](https://open.spotify.com/album/6EZJiq22sPeZK7fz1LYLVV) | 2:54 |
-| 57 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
+| 56 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
+| 57 | [Tell Me \(feat\. Vic Mensa\)](https://open.spotify.com/track/4wMBHhPp9eHO0xJ1mmAFmb) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Fireside](https://open.spotify.com/album/6EZJiq22sPeZK7fz1LYLVV) | 2:54 |
 | 58 | [Look at Us Now](https://open.spotify.com/track/0u8yYdOuMq7KyslQ4Chi5z) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:18 |
 | 59 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 |
 | 60 | [Contact](https://open.spotify.com/track/1tBIQgGTfEzZVLLcKK8wIp) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Contact](https://open.spotify.com/album/69zHpPx9IkCA2V3WkjrG87) | 3:42 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 66 | [Healing Hurts](https://open.spotify.com/track/1b0KbkFk1LvwkWhOJfmevW) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:42 |
 | 67 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 |
 | 68 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 |
-| 69 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 |
+| 69 | [Extra Agenda](https://open.spotify.com/track/7MVTWohUrXo3UyLbUaWnLL) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6F4SlhiXa9I1eAQXAVxb9v) | 3:40 |
 | 70 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 71 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
 | 72 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 119 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 120 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDBhODhjYTQ4YTVhMGIxNDk0MTQyZTBhOWZkNGQ2YjRhMA==`
+Snapshot ID: `Mjg0MDU1NzAsMDAwMDAwMDA5N2FhN2I4NGUzYWZlZDU1MmRmZDUxOWUwNWVmMzVlOA==`

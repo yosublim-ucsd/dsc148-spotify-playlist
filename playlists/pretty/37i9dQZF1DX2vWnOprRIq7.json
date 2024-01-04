@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Delfina Campos.",
-  "num_followers": 17256,
+  "num_followers": 17265,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTE3ZjFiZGUyYTQ3NTM1NmNjNGQ0MjI0N2ExNmQ0YWE1NjViNTM5",
+  "snapshot_id": "MCwzYmQ1MjdlYWY5Njg1ZDVmNThiYzNmZWQ3YTg4MGU4ZjhhOGY0ZWNj",
   "tracks": [
     {
       "added_at": "2023-12-22 23:49:07",
@@ -291,46 +291,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
-      },
-      "artists": [
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Tomy Sainz",
-          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
-        }
-      ],
-      "duration_ms": 192389,
-      "name": "CABEZAS DEL TIEMPO",
-      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
-        "name": "Delfines",
-        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        }
-      ],
-      "duration_ms": 278274,
-      "name": "Delfines",
-      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -355,6 +315,46 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
+        "name": "Delfines",
+        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        }
+      ],
+      "duration_ms": 278274,
+      "name": "Delfines",
+      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
+      },
+      "artists": [
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Tomy Sainz",
+          "url": "https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ"
+        }
+      ],
+      "duration_ms": 192389,
+      "name": "CABEZAS DEL TIEMPO",
+      "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
         "name": "Amor de Verano (Remix)",
         "url": "https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Nuestros Besos",
         "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 247500,
       "name": "Nuestros Besos",
       "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
+        "name": "El \u00daltimo Romance",
+        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "El \u00daltimo Romance",
+      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm"
+        "name": "Bola Oro",
+        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
         }
       ],
-      "duration_ms": 199875,
-      "name": "Atormentada",
-      "url": "https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR"
+      "duration_ms": 245245,
+      "name": "Bola Oro",
+      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "Bola Oro",
-        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 245245,
-      "name": "Bola Oro",
-      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Qu\u00e9 piensas hacer sin mi amor?",
         "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "El \u00daltimo Romance",
-        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm"
       },
       "artists": [
         {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 302750,
-      "name": "El \u00daltimo Romance",
-      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
+      "duration_ms": 199875,
+      "name": "Atormentada",
+      "url": "https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
+        "name": "BESO",
+        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
         "name": "No te sueltes",
         "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 257042,
       "name": "BERLIN",
       "url": "https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
-        "name": "BESO",
-        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
         "name": "Nadie+",
         "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
       },
       "artists": [
         {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
         }
       ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -1259,22 +1275,6 @@
       "duration_ms": 222090,
       "name": "Si S\u00f3lo",
       "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "D\u00eda de Noche (B-Sides & Remixes)",
-        "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Cr\u00e1neo",
         "url": "https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 200875,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
+        "name": "D\u00eda de Noche (B-Sides & Remixes)",
+        "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "Las Fuerzas Almadas",
-        "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
-      },
-      "artists": [
-        {
-          "name": "Dat Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
-        }
-      ],
-      "duration_ms": 272384,
-      "name": "Todo es Conectividad",
-      "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 254583,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
+        "name": "Las Fuerzas Almadas",
+        "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
+      },
+      "artists": [
+        {
+          "name": "Dat Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
+        }
+      ],
+      "duration_ms": 272384,
+      "name": "Todo es Conectividad",
+      "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "La Luna de Madrid",
-        "url": "https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu"
-      },
-      "artists": [
-        {
-          "name": "DouleurDolor",
-          "url": "https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "La Luna de Madrid",
-      "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
         "name": "Aparecido",
         "url": "https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T"
       },
@@ -1719,22 +1703,18 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
-        "name": "Salto al Alba",
-        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
+        "name": "La Luna de Madrid",
+        "url": "https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu"
       },
       "artists": [
         {
-          "name": "Florencia Lira",
-          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
-        },
-        {
-          "name": "PORO",
-          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
+          "name": "DouleurDolor",
+          "url": "https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T"
         }
       ],
-      "duration_ms": 247149,
-      "name": "Tiene Sentido",
-      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
+      "duration_ms": 219800,
+      "name": "La Luna de Madrid",
+      "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
     },
     {
       "added_at": "2023-12-22 23:49:07",
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
+        "name": "Salto al Alba",
+        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
+      },
+      "artists": [
+        {
+          "name": "Florencia Lira",
+          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
+        },
+        {
+          "name": "PORO",
+          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "Tiene Sentido",
+      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
         "name": "CASI ANGELES <3",
         "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
       },
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-12-22 23:49:07",
       "album": {
+        "name": "Modernos",
+        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Modernos",
+      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
+    },
+    {
+      "added_at": "2023-12-22 23:49:07",
+      "album": {
         "name": "Tiempo Sin Piel",
         "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 248700,
       "name": "Tiempo Sin Piel",
       "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
-    },
-    {
-      "added_at": "2023-12-22 23:49:07",
-      "album": {
-        "name": "Modernos",
-        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Modernos",
-      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
     }
   ],
   "unique_name": "NE\u00d3N",

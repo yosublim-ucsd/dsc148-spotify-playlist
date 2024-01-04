@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,199 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,203 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 52 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 53 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
 | 54 | [Corridor](https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Corridors](https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV) | 3:58 |
-| 55 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
-| 56 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
+| 55 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
+| 56 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
 | 57 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
 | 58 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
 | 59 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/7uPhAd69hpKEPkQ72IVCQ6) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 | 75 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 
-Snapshot ID: `MCxlODU5MGVlMWI3NDY3NTgwODE0MzYyOTg4NmQyYTNlYjI3YTE1ZTIx`
+Snapshot ID: `MCxiMTAxMTY1Y2I5NWNmYTQxYzNmZmI4NWEyMmUzZDQ4YzA3ODJhNDc2`

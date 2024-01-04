@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4261525,
+  "num_followers": 4261767,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzExMGQ3Y2Q3ODllY2ExNjliMDU5NTE4YWU3NDc2ZGE5ZTZjNzc5",
+  "snapshot_id": "MCw1MjM0Y2MzMTRhOTQ2MzM3ODk5YmZmMWQyMmQzYTk0ZjU1ZmVmNTdj",
   "tracks": [
     {
       "added_at": "2023-11-24 01:39:50",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": "2023-11-24 01:39:50",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-11-24 01:39:50",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": "2023-11-24 01:39:50",
@@ -335,18 +335,22 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+        "name": "TESTING",
+        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+      "duration_ms": 205040,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
     },
     {
       "added_at": "2023-11-24 01:39:50",
@@ -375,22 +379,18 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "TESTING",
-        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 205040,
-      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
-      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "added_at": "2023-11-24 01:39:50",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2023-11-24 01:39:50",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -639,34 +655,22 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
-    },
-    {
-      "added_at": "2023-11-24 01:39:50",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 167915,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
       "added_at": "2023-11-24 01:39:50",
@@ -691,22 +695,18 @@
     {
       "added_at": "2023-11-24 01:39:50",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+      "duration_ms": 167915,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
     },
     {
       "added_at": "2023-11-24 01:39:50",

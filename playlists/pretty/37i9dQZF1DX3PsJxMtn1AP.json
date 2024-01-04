@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 73165,
+  "num_followers": 73225,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDBkMmFkYWM0NGJmNTQ5NzY4NDYxNzdmYjM3NzM5N2RhNzgzZmJj",
+  "snapshot_id": "MCxkOGM2MTRkMWMxOWM0NjUwNzNlNGZiZWUwYmJjZjJmZDkzMjMzZDhi",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv"
     },
     {
+      "added_at": "2024-01-03 18:18:42",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
       "added_at": "2023-11-07 01:56:08",
       "album": {
         "name": "Like Coconut Water",
@@ -139,6 +155,22 @@
       "duration_ms": 191862,
       "name": "Like Coconut Water",
       "url": "https://open.spotify.com/track/28pnWcdTLT64CupOvo26Ed"
+    },
+    {
+      "added_at": "2024-01-03 18:34:06",
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
+      },
+      "artists": [
+        {
+          "name": "Better Joy",
+          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
     },
     {
       "added_at": "2023-10-10 00:48:53",
@@ -187,6 +219,22 @@
       "duration_ms": 262427,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
+    },
+    {
+      "added_at": "2024-01-03 18:11:52",
+      "album": {
+        "name": "La boca aigua",
+        "url": "https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "Encaix",
+      "url": "https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6"
     },
     {
       "added_at": "2023-05-24 06:00:00",
@@ -303,6 +351,26 @@
       "duration_ms": 300122,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
+    },
+    {
+      "added_at": "2024-01-03 19:21:01",
+      "album": {
+        "name": "Calling For You",
+        "url": "https://open.spotify.com/album/5d0hLlk0kKwzBkiF0Ch4lV"
+      },
+      "artists": [
+        {
+          "name": "Venjent",
+          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+        },
+        {
+          "name": "Oktae",
+          "url": "https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Calling For You",
+      "url": "https://open.spotify.com/track/5AvbixdcGe6TOwfte5lB3A"
     },
     {
       "added_at": "2023-12-20 04:40:36",
@@ -541,22 +609,6 @@
       "url": "https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te"
     },
     {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/3N5KIKMpAXi8Qf9P9Gpimv"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/65EFPZLRMqYM8VvHoTr7LE"
-    },
-    {
       "added_at": "2023-07-25 04:57:53",
       "album": {
         "name": "Bend The Round",
@@ -729,42 +781,6 @@
       "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
-      "added_at": "2023-08-18 23:21:59",
-      "album": {
-        "name": "Thoughtless Feeling",
-        "url": "https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z"
-      },
-      "artists": [
-        {
-          "name": "Bloomhaus",
-          "url": "https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb"
-        }
-      ],
-      "duration_ms": 244754,
-      "name": "Thoughtless Feeling",
-      "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk"
-    },
-    {
-      "added_at": "2023-10-27 23:55:37",
-      "album": {
-        "name": "There is only love and fear",
-        "url": "https://open.spotify.com/album/7BbJbTCSb20LE3uSXSA2Y0"
-      },
-      "artists": [
-        {
-          "name": "Bex Burch",
-          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Dawn blessings",
-      "url": "https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12"
-    },
-    {
       "added_at": "2023-12-22 16:00:51",
       "album": {
         "name": "Ciutat de sorra",
@@ -827,22 +843,6 @@
       "duration_ms": 168798,
       "name": "Girl Supreme",
       "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Lonely Times",
-        "url": "https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lonely Times",
-      "url": "https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI"
     }
   ],
   "unique_name": "Kaleidoscope",

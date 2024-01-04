@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > J'sors la bécane di\-di\-da\-da \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,256 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,677 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 |
-| 2 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 |
+| 2 | [Citadelle](https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Citadelle](https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA) | 2:45 |
 | 3 | [1 2 3 4](https://open.spotify.com/track/5JVR0F2Gya13oWlAG3dc62) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [SÛR ET CERTAIN](https://open.spotify.com/album/2XOWQl3JrnpzrUcD3QgMFl) | 3:00 |
 | 4 | [Tu Me Donne Des Idées](https://open.spotify.com/track/0nMl1BkJR6d9SwhrKEzq5C) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Zombie Life](https://open.spotify.com/album/4xtjyr3GAf3uQFyl3VSSWK) | 3:37 |
 | 5 | [Embrasse\-moi](https://open.spotify.com/track/44X8jiakA6Aw5TZqxMWVSl) | [MZ](https://open.spotify.com/artist/0xEVr5H3VEj3g11u1q6ifW) | [MZ Music, Vol\. 3.5](https://open.spotify.com/album/0OQnvAbr1445HkrQiPzBP7) | 4:39 |
 | 6 | [Elle a mal \(feat\. Niska\)](https://open.spotify.com/track/2ct8sYE8u8UZT229rWvXwL) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 3:13 |
 | 7 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 |
 | 8 | [On y va](https://open.spotify.com/track/2inSUOF1dSiy3NP2i3Wnxc) | [Smily](https://open.spotify.com/artist/6uz6yX6ZXG4XWprCf3ukx2) | [On y va](https://open.spotify.com/album/1KbEnw957NKsSQ1cxgIXnt) | 2:03 |
-| 9 | [Citadelle](https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Citadelle](https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA) | 2:45 |
+| 9 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 |
 | 10 | [Tu connais](https://open.spotify.com/track/2QSswvVqhYPlZuWTua3uZb) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 2:49 |
 | 11 | [Christian Dior](https://open.spotify.com/track/6YRplhBAorNmsdLf4eHIxc) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Christian Dior](https://open.spotify.com/album/3Zj4TuPXuharEk359TBOxc) | 2:34 |
 | 12 | [Ailleurs](https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [lucy & les chanteurs pour dames](https://open.spotify.com/track/1vHyrtMZ71kLl8cdUVSk5k) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [lucy & les chanteurs pour dames](https://open.spotify.com/album/7K8tMuEQrHoL1vG0bZfYYV) | 4:00 |
 | 100 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 
-Snapshot ID: `MCw0NjAyYjViZWEzZjZjODcwMWVhNzY1YzAwYTkzZWVkM2IwODQxYTFj`
+Snapshot ID: `MCw4ZDlmZThkMzc2MjA3MzczOWM3M2Y2Mjc3MTU4ZDIzZjkxYmYyYzM0`

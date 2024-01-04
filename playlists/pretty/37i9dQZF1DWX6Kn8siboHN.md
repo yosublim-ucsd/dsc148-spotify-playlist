@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,457 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,964 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 37 | [Prenda Del Alma](https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 3:16 |
 | 38 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
 | 39 | [Ave Cautiva](https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Decide Tú](https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU) | 3:32 |
-| 40 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 |
-| 41 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
+| 40 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
+| 41 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 |
 | 42 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
 | 43 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
 | 44 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 2:20 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 61 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:18 |
 | 62 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
 | 63 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
-| 64 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
-| 65 | [No Me Conoces Aún](https://open.spotify.com/track/0SEBeqUfnoYzadZbejyypI) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [No Los Conoces Aún](https://open.spotify.com/album/2XgdI0ypvhm38qXsvKfhNV) | 3:42 |
+| 64 | [No Me Conoces Aún](https://open.spotify.com/track/0SEBeqUfnoYzadZbejyypI) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [No Los Conoces Aún](https://open.spotify.com/album/2XgdI0ypvhm38qXsvKfhNV) | 3:42 |
+| 65 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
 | 66 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 |
 | 67 | [Mi tesoro](https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 exitazos](https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp) | 2:59 |
 | 68 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc) | [Chuy Vega](https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A) | [Puras de Juan Gabriel, vol\. 2](https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911) | 3:32 |
 | 69 | [Amores Fingidos](https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:59 |
 | 70 | [Acepto Mi Derrota](https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [Aquí Están!..](https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF) | 3:29 |
 | 71 | [Hay Unos Ojos](https://open.spotify.com/track/5qWXKWK2m1w949LMpQoeRz) | [Eliseo Robles y sus Barbaros del Norte](https://open.spotify.com/artist/350augiHUErOvbeblIJS2o) | [40 Aniversario, Vol\. 1](https://open.spotify.com/album/5iaYoqKoHUa1kIJjOeXB7F) | 3:04 |
-| 72 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |
-| 73 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
+| 72 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
+| 73 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |
 | 74 | [Celos del Viento](https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:47 |
 | 75 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 |
 | 76 | [Abeja Reína](https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:50 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 120 | [Compréndala](https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:26 |
 | 121 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 122 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |
-| 123 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
-| 124 | [Amor Añejo](https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:14 |
+| 123 | [Amor Añejo](https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:14 |
+| 124 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
 | 125 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
 | 126 | [Belleza De Cantina](https://open.spotify.com/track/28V858H8DAUHqxh6KsNx5l) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:00 |
 | 127 | [Actos De Un Tonto](https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdoname Mi Amor](https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n) | 3:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 149 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 | 150 | [Cuánto Me Cuesta](https://open.spotify.com/track/3tspSMZdOZ0ST8Zelcw54I) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Me Sacas De Onda \(Remasterizado\)](https://open.spotify.com/album/3IUhX96QR1b3Xw3bWZ14dc) | 2:31 |
 
-Snapshot ID: `MCw0ZTA3NWU2ZGM2MjVjOTZjNzA4N2ZkNmNjZmUxZDA5MTA5MDkzYTRk`
+Snapshot ID: `MCxkY2ZiNGViYjk0ODI3YmNkOGU4ZjZkMTlhYWMwODBkZWJhYTcwY2Yw`

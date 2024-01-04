@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 142555,
+  "num_followers": 142605,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQwNDgzMTk3NWY5OGJkNzM3ODQwZWI4ZjE0ZjY2NDY4Mzg5OTIx",
+  "snapshot_id": "MCwwNTc3NDdkMTE4ODc0Mjc2YzEwMGQ1Nzg4MzVlZmQxMzUzYWMyNzc4",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Dark Cold Night",
-        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
+        "name": "Death By Admiration",
+        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 281117,
-      "name": "Dark Cold Night",
-      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+      "duration_ms": 218347,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Death By Admiration",
-        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
+        "name": "Dark Cold Night",
+        "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 218347,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
+      "duration_ms": 281117,
+      "name": "Dark Cold Night",
+      "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
       "artists": [
         {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 197336,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -891,6 +891,38 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -959,18 +975,34 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1023,22 +1055,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Hidden",
         "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 168000,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Songs for the Late Night Drive Home",
-        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
-      },
-      "artists": [
-        {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
-      },
-      "artists": [
-        {
-          "name": "Danger Scene",
-          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
-        }
-      ],
-      "duration_ms": 246286,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "I'm Only Dreaming",
         "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
@@ -1367,6 +1335,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Songs for the Late Night Drive Home",
+        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+      },
+      "artists": [
+        {
+          "name": "Danger Scene",
+          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+        }
+      ],
+      "duration_ms": 246286,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "The Seventh Seal",
         "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 214728,
       "name": "The Seventh Seal (feat. Ulf Christiansson)",
       "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2023-11-17 22:08:15",

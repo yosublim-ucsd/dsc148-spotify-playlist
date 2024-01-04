@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=FlCL7cSwSUWq7pgwyQAANw"> Wizkid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,837 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,008 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 19 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |
 | 20 | [Diamonds](https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 2:29 |
 | 21 | [Oh My](https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Oh My](https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1) | 3:02 |
-| 22 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
-| 23 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
+| 22 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
+| 23 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 24 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 25 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 |
 | 26 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 28 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 |
 | 29 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 |
 | 30 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |
-| 31 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
-| 32 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 |
+| 31 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 |
+| 32 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
 | 33 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 34 | [Soro](https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:42 |
 | 35 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 |
 | 70 | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM) | 3:03 |
 
-Snapshot ID: `MCxhYWVmMTE2ZjRjOWNjNzkwNGUyYjJiOWI4ZmQyN2FjNjQxYThlNTEz`
+Snapshot ID: `MCxhOTNhNjYyMTY3MzcyZTA2OGUzZDg0YTlmZWI4MDAwMTFhZjg5Mzll`

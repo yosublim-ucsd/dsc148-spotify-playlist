@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1095430,
+  "num_followers": 1095930,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDQ1ZjFkZjkzYjdjZDRkM2MwNmQxMGRkNjEwZWQ2NjY3MzdhODQ5",
+  "snapshot_id": "MCxjNzQzNjI2N2M4Nzg1YmVjYzkwZWY2ZDdjOGYwMGY2OGY0MTdmNTAz",
   "tracks": [
     {
       "added_at": "2023-08-03 14:07:21",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Blue Hawaii",
-        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Dock of the Bay (Mono)",
         "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 133933,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Little Girl Blue (2013 - Remaster)",
         "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 215746,
       "name": "My Baby Just Cares for Me (2013 - Remaster)",
       "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Make Way for Dionne Warwick",
         "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 178333,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 199600,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Stay Awhile / I Only Want To Be With You",
         "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+      "duration_ms": 197093,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1659,6 +1643,22 @@
       "duration_ms": 194520,
       "name": "Waterloo Sunset",
       "url": "https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Ultimate Petula Clark",
         "url": "https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 143200,
       "name": "Travelin' Man - Remastered",
       "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2431,18 +2431,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
       },
       "artists": [
         {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
         }
       ],
-      "duration_ms": 140120,
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
-      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
+      "duration_ms": 130533,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR"
     }
   ],
   "unique_name": "Classic Oldies",

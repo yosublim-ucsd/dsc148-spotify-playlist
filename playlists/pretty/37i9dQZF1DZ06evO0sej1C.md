@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,876 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,906 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 34 | [Otra Oportunidad](https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc) | 3:51 |
 | 35 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 |
 | 36 | [Soñar](https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Soñar](https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k) | 3:29 |
-| 37 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 |
-| 38 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
+| 37 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
+| 38 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 |
 | 39 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 |
 | 40 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
 | 41 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 |
 | 50 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAyMWFiOGU4MGZkY2E2Zjc0M2ViZjNlOTRmYzlhZGFjNQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA4MGI3MDcyZTdiMWVmYzhlNGU1OTFjOGYzOTNmYzc4ZQ==`

@@ -597,6 +597,42 @@
     },
     {
       "album": {
+        "name": "Dois Palitos Fofinhos",
+        "url": "https://open.spotify.com/album/20HJ1KS55VbcT6tomohpxq"
+      },
+      "artists": [
+        {
+          "name": "C+C=Maxigross",
+          "url": "https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167665,
+      "name": "Dois Palitos Fofinhos",
+      "url": "https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu"
+    },
+    {
+      "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
+    },
+    {
+      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 357552,
       "name": "Lam Phu Thai # 1",
       "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
@@ -1162,7 +1198,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 190653,
       "name": "Te Ao M\u0101rama / Solar Power",
       "url": "https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul"
@@ -2426,6 +2462,24 @@
       "duration_ms": 239875,
       "name": "Yemay\u00e1",
       "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
+    },
+    {
+      "album": {
+        "name": "Shirushi",
+        "url": "https://open.spotify.com/album/2SCgXvQQ6Kljbasf9NR7Vc"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240121,
+      "name": "Yoru Ni",
+      "url": "https://open.spotify.com/track/0daxQGhaNTiE8HZn2aoIhH"
     },
     {
       "album": {

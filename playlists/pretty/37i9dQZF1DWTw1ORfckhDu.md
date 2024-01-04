@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Adi L Hasla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,059 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,053 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 |
 | 60 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 |
 
-Snapshot ID: `MCwyOTEwYmYyZGE3YjJlMjRhNzZhN2U3NWIyYjY5NjY1MzlkNzBkY2Zi`
+Snapshot ID: `MCxlOTlhNjU5NWQ5YzM4ODQzYTQ1MDYyZWVhNjE1MGRmMjZjZmUxMWQy`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 942751,
+  "num_followers": 942820,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDQ2NGZhM2M5NjcyMDAyYmUxNDY4ZDRhMWJkYjg1YmIwYTlhMmIx",
+  "snapshot_id": "MCw2MjIxMGVjNTgwM2MxNmYyMWQxMWE3ZDk2ZjIwN2U5YjBkMjRlNzA2",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 156093,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
         "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
         "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
     },
     {
       "added_at": "2023-12-29 05:00:00",

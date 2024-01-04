@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,281 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,283 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 6 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
 | 7 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
 | 8 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
-| 9 | [Baby Oficial](https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Baby Oficial](https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O) | 3:01 |
-| 10 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
+| 9 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
+| 10 | [Baby Oficial](https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Baby Oficial](https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O) | 3:01 |
 | 11 | [Ice](https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Ice](https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR) | 4:15 |
 | 12 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 13 | [Te Solté](https://open.spotify.com/track/6CGzjSgRvW7kJEb1a0vWaY) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Te Solté](https://open.spotify.com/album/54tdI3PTq41uaeMje6QvCU) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
 | 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl`
+Snapshot ID: `MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1`

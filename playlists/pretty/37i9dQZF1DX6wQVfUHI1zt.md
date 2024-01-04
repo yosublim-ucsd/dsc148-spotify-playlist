@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,793 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,812 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 67 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
 | 68 | [Tú, Solo Tú](https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:12 |
 | 69 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 |
-| 70 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 |
-| 71 | [Que Creías](https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:34 |
+| 70 | [Que Creías](https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:34 |
+| 71 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 |
 | 72 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 |
 | 73 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 |
 | 74 | [Ya Ves](https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:16 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [No Te Olvidaré](https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:09 |
 | 120 | [Si No Te Hubiera Conocido](https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Si No Te Hubiera Conocido](https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY) | 3:14 |
 
-Snapshot ID: `MCxhN2E0NjUwZDg1ODA0MmJiYjY5MDkyYWJhZjg3YmFhYTQ4YzAxZjJl`
+Snapshot ID: `MCwxODFiMGM1NWFiZjE5OTFlYzhmM2M2MDcxZjJlNzQzOWZjMmIyYzc0`

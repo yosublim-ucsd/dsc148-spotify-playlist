@@ -1,12 +1,12 @@
 {
   "description": "Sit back, relax, and let these chill tunes calm you down.",
-  "num_followers": 1331518,
+  "num_followers": 1331617,
   "original_name": "Chillax Ka Muna!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWJmZmYzNmQ5NWNiN2IxMmVjNjg5NmY3NTY5NDgzMmM1ZmFlMjhk",
+  "snapshot_id": "MCwxMTE2NGExM2QzNTZmZGE5MGE0NzY5NTBlNzQ1YTBhYTFiZDk2YzNi",
   "tracks": [
     {
       "added_at": "2023-11-12 17:49:11",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-11-12 17:49:11",
       "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
+      "added_at": "2023-11-12 17:49:11",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
-    },
-    {
-      "added_at": "2023-11-12 17:49:11",
-      "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2023-11-12 17:49:11",

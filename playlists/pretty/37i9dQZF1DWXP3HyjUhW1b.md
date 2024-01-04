@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,260 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,304 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 91 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
 | 92 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 93 | [Por Las Calles De Chihuahua \- En Vivo](https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [En Vivo Para Ti](https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b) | 2:35 |
-| 94 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 |
+| 94 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
 | 95 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
-| 96 | [El Muchacho Alegre](https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Muchacho Alegre](https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx) | 2:36 |
-| 97 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
+| 96 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 |
+| 97 | [El Muchacho Alegre](https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Muchacho Alegre](https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx) | 2:36 |
 | 98 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
 | 99 | [Nube Viajera](https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:04 |
 | 100 | [Ella](https://open.spotify.com/track/2o4z9hi2ULRELWbvsJq4Er) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:08 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 124 | [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 |
 | 125 | [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 |
 
-Snapshot ID: `MCwxZDgwYWQ4NTBmMjJjODU4NmRhMWQ2OGUzMjlhYzAzNGUyZmQ0NTc2`
+Snapshot ID: `MCxmYTRkYjAzOTBkODc0YzY4NjkwOTM4NWM5NmVjNTM1Mzk5YjY5NjFi`

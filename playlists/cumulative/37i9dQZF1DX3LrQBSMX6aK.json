@@ -2108,6 +2108,24 @@
     {
       "album": {
         "name": "Sur Tarangini Part 2",
+        "url": "https://open.spotify.com/album/17h9vZvPfXwBLB1jTQNjyx"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 890477,
+      "name": "Thumri - Raag Khambawati",
+      "url": "https://open.spotify.com/track/3XB645riWmBrwb63OFyIhN"
+    },
+    {
+      "album": {
+        "name": "Sur Tarangini Part 2",
         "url": "https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3"
       },
       "artists": [
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 890477,
       "name": "Thumri - Raag Khambawati",
       "url": "https://open.spotify.com/track/4Yo0CJZIaezK8eAybLsx8l"

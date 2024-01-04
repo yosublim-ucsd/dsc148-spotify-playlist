@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,624 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,665 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 30 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 |
 | 31 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
 | 32 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
-| 33 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
-| 34 | [Mi Desengaño](https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Lucky 7](https://open.spotify.com/album/4cowySOrdhav97PZipt4Uz) | 5:35 |
+| 33 | [Mi Desengaño](https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Lucky 7](https://open.spotify.com/album/4cowySOrdhav97PZipt4Uz) | 5:35 |
+| 34 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
 | 35 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
 | 36 | [Achilipú](https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Sin Salsa No Hay Paraíso](https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l) | 4:41 |
 | 37 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCxlNWUyOWI4NjNhNGVmYWY4NGQzYmJiZGY5YTY1YzMzN2Y3NTYyOTM2`
+Snapshot ID: `MCxlZmEyMDJlOWNjYjMyZmNkMzgyMGVlOTA1NmIyYWVlZTkyMWUwOGE4`

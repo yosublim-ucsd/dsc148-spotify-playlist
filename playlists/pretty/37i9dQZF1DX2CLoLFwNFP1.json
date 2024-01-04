@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 33129,
+  "num_followers": 33159,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTE4NGNlZGI0YmY5NGU1ZmJiZDM2Yjk3NzY4MDlkYzg2OWZhMDQx",
+  "snapshot_id": "MCwxMWE0ZWY4ZWViYWE3MTNlYmNjZGUzMjdmYjYwMDdhNzk1N2YyZDA1",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "POST IT",
-        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
+        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "SGBOYZ",
+          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
         }
       ],
-      "duration_ms": 226989,
-      "name": "POST IT (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
+      "duration_ms": 256437,
+      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -679,18 +675,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
+        "name": "POST IT",
+        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
       },
       "artists": [
         {
-          "name": "SGBOYZ",
-          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 256437,
-      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
+      "duration_ms": 226989,
+      "name": "POST IT (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
     },
     {
       "added_at": "2023-11-27 14:05:19",

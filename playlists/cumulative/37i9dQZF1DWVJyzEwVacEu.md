@@ -4,7 +4,7 @@
 
 > Bekende hits van de afgelopen tijd\. Cover: Miley Cyrus
 
-165 songs - 8 hr 14 min
+166 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Amsterdam](https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Amsterdam](https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3) | 2:53 | 2023-01-30 | 2023-09-30 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-03-31 |  |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2023-01-30 | 2023-12-07 |
-| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/7feKoS4dc8ZBxQq9ZH5rb2) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:07 | 2023-11-13 |  |
+| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/71UNUlgxJTnkO8SlgI7wbH) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:07 | 2023-12-12 |  |
+| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/7feKoS4dc8ZBxQq9ZH5rb2) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 3:07 | 2023-11-13 | 2024-01-04 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-11-13 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2023-01-30 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-03-31 | 2023-09-08 |

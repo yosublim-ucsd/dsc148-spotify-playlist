@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,459 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,492 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 34 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
 | 35 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
 | 36 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
-| 37 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 |
-| 38 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
+| 37 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
+| 38 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 |
 | 39 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
 | 40 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
 | 41 | [Amor Sem Limites](https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Um Novo Tempo](https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE) | 3:43 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 43 | [Onde Está Você](https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Onde Está Você](https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW) | 4:06 |
 | 44 | [Como da Primeira Vez](https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Como da Primeira Vez](https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4) | 3:46 |
 | 45 | [Florescer](https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Florescer](https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI) | 4:56 |
-| 46 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
-| 47 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 |
+| 46 | [Amar pra Sempre](https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Amar pra Sempre](https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR) | 4:45 |
+| 47 | [Meu Bem](https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Meu Bem](https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2) | 2:07 |
 | 48 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
 | 49 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
 | 50 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 64 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
 | 65 | [Por Favor](https://open.spotify.com/track/4XiC5sMUQvbnN0UTKzZYcd) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/49RcO5A7VwTpspYop2Nz5B) | 3:47 |
 
-Snapshot ID: `MCxjYTM3YTkwNDhkNDRmYmE4MjgzZGNkZWI5ZTA4YzBlNDVlZGQ2YzE0`
+Snapshot ID: `MCw5OWMwZTZhNjk0YjkyYzM4ZDNkNzIyOGM0NTk4NjlhNzQzZWExMDA0`

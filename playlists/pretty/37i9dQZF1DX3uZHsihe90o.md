@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,130 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,131 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 23 | [The Bullfrog Opera](https://open.spotify.com/track/2sBt9lzwuND9cCKCjMUAOe) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:01 |
 | 24 | [Every Day is a Dance](https://open.spotify.com/track/0ToVKgF95Q5YB0nsc0FRg7) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 2:29 |
 | 25 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 |
-| 26 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
-| 27 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
+| 26 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
+| 27 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
 | 28 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
-| 29 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
-| 30 | [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 |
-| 31 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
+| 29 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
+| 30 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
+| 31 | [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 |
 | 32 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
 | 33 | [Can You Canoe?](https://open.spotify.com/track/0WhyyOzUomECzP2vkSLmJC) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:04 |
 | 34 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
-| 35 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
+| 35 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 36 | [Kind Words](https://open.spotify.com/track/7wDBk2wRzyJsx97QVbeVCq) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 4:03 |
 | 37 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
 | 38 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 67 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
 | 68 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 69 | [Shoobeedoo \(We Go Together\)](https://open.spotify.com/track/0bbtmAAVUxxWBZPn3z92bM) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Little Steps Big Adventures](https://open.spotify.com/album/40hZGwdhnrfNcfE6HqWjte) | 3:24 |
-| 70 | [The Tailor and the Mouse](https://open.spotify.com/track/2GROeDv4VmlGbM80k3KHX4) | [Glenn Yarbrough](https://open.spotify.com/artist/4GxVmha4ELBwUE4bPyChzS) | [Come and Sit by My Side](https://open.spotify.com/album/11ES2isDgMh7BpZTlKFU6a) | 1:34 |
+| 70 | [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 |
 
-Snapshot ID: `MCw3MmJmYTlkOTMwYjBhN2FkY2UxMjdiMjllMmZlZjVmZDVjY2U0NzMz`
+Snapshot ID: `MCwyZmFhY2U3MmM4NzRiODhjNDRkZDQ0ZmIwYmJiNTYyM2RlYTAxMGY0`

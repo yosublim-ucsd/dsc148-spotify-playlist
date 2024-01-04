@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,113 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,332 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [ARMED](https://open.spotify.com/track/2exH5Jiafijol1Y5toP5xL) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:04 |
 | 75 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 
-Snapshot ID: `MCw5MzkwYzA1NzMyMTU4YWNkNzA2NzdhYzc3NmRiNjEzYjg0ZTdkMmQ4`
+Snapshot ID: `MCxiN2VjNTk0MDZhNjk2MWZiYTM1NGY0ZjI3ZWY5NDlmMGQ3Yjc5OTgx`

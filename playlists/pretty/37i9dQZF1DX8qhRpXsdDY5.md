@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,575 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,543 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 39 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
 | 40 | [Mi Estrella](https://open.spotify.com/track/4c8OEUMc9R5wn4xmx6ujwa) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Selección Operación Triunfo](https://open.spotify.com/album/7HuT7DcexUsrAC93qDZctx) | 4:25 |
 | 41 | [Esta Navidad Mi Deseo Eres Tú \- Sinfónico](https://open.spotify.com/track/6pY7Gm2HvHDzNedY4YtF8b) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 2:51 |
-| 42 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
-| 43 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
+| 42 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
+| 43 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
 | 44 | [Ya Viene la Vieja](https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Feliz Navidad](https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE) | 2:13 |
 | 45 | [Jingle Bell Rock](https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:28 |
 | 46 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 49 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 50 | [Navidad en América](https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Navidad en America](https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH) | 7:58 |
 
-Snapshot ID: `MCw3NjIwNDk1Y2YzMDEyNzVkZmFjYWZmMGZlOGJjYjc5MWEzMTRkMDU0`
+Snapshot ID: `MCxhNjA0ZWNlZDAyNmYyZWVhZTM4NDllYTkzZjI1ZDkwZTIyODc0Y2Qz`

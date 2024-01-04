@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Sofía Reyes & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,805 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,873 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 46 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
 | 47 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
 | 48 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
-| 49 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 |
-| 50 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
+| 49 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
+| 50 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 |
 | 51 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
 | 52 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
 | 53 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 66 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
 | 67 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
 | 68 | [Volvio el dolor](https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 3:33 |
-| 69 | [Me Puedo Matar](https://open.spotify.com/track/5nHpjvTs9EQoK755qThyHt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Bachat Heightz](https://open.spotify.com/artist/2K2jez7AWc6Eb7w74DSWVg) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:24 |
-| 70 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
+| 69 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
+| 70 | [Me Puedo Matar](https://open.spotify.com/track/5nHpjvTs9EQoK755qThyHt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Bachat Heightz](https://open.spotify.com/artist/2K2jez7AWc6Eb7w74DSWVg) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:24 |
 | 71 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 72 | [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 |
 | 73 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 86 | [Te Parece Poco](https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [La Voz de La Juventud](https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO) | 4:10 |
 | 87 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 |
 | 88 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 |
-| 89 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 |
+| 89 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 |
 | 90 | [En Todo Fuiste la Mejor](https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:49 |
-| 91 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 |
+| 91 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 |
 | 92 | [Los Infieles](https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 4:17 |
-| 93 | [Religión](https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Religión](https://open.spotify.com/album/59M5urdBBastXOof10375B) | 3:40 |
-| 94 | [HASTA QUE LA MUERTE NOS SEPARE](https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:27 |
+| 93 | [HASTA QUE LA MUERTE NOS SEPARE](https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:27 |
+| 94 | [Religión](https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Religión](https://open.spotify.com/album/59M5urdBBastXOof10375B) | 3:40 |
 | 95 | [Tengo un Amor](https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:18 |
 | 96 | [Que Vuelvas](https://open.spotify.com/track/0GRf5AtssrXQqe0P2mAFkD) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [DJ Ramon](https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1) | [Que Vuelvas](https://open.spotify.com/album/6QdnnFdQB5baFm1CFHaa8D) | 3:33 |
 | 97 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 |
-| 98 | [La Carta](https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Carta](https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3) | 3:03 |
+| 98 | [Me Gusta](https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Me Gusta](https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP) | 3:40 |
 | 99 | [Soy Yo](https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Soy Yo](https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU) | 3:49 |
 | 100 | [With or Without You](https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:57 |
 
-Snapshot ID: `MCw5YTVjMjI2Zjk2ZjJjOTU0N2QxNGY0NmE0NTZmYTJiNmU2YjdlODYx`
+Snapshot ID: `MCxlZTU3YWZlNTUwYjY2ZDFiNmRhYTFiODMxMjE2MzgzOTgzYWU3ZGMx`

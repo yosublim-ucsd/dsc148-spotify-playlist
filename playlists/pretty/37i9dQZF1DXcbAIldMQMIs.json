@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 522624,
+  "num_followers": 522701,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTY2MTA4OThiOTMzZjM2ZTI4MWZiYjEzMjMxMWUzZjY4Yzk5NmI2",
+  "snapshot_id": "MCw3Mzc2MTExYjAyZmZiZDU1N2FiMzk1ZmNiMWU1N2E2YWRiNTgxNTMy",
   "tracks": [
     {
       "added_at": "2023-09-29 20:24:12",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -331,6 +315,22 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Comfort Crowd",
-      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Pleaser",
         "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187895,
       "name": "Pleaser",
       "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Comfort Crowd",
+      "url": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Youth Novels",
         "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 273426,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 176732,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "space girl",
-        "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
-      },
-      "artists": [
-        {
-          "name": "Frances Forever",
-          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "space girl",
-      "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Inbred",
         "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "space girl",
+        "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
+      },
+      "artists": [
+        {
+          "name": "Frances Forever",
+          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "space girl",
+      "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
     },
     {
       "added_at": "2023-09-29 20:24:12",

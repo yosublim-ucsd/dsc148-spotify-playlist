@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,725,608 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,725,988 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [MUTUAL FRIEND](https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:26 |
 | 100 | [more than i should \(feat\. jessie reyez\)](https://open.spotify.com/track/20jLHaXVhMFjwHs1JPjL4S) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:20 |
 
-Snapshot ID: `MCwxYThmOTE2YzA0ZTUzYTI4MGZmODM4ZDA2Mzk5MmU1OTZkY2I3N2Q4`
+Snapshot ID: `MCw0MjY0Y2U0ZjhkZWRkYWZhMDE0ZTU5MjBhNzFkMzE4MWFhMTZiMTAy`

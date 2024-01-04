@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Il sogno di ogni zanza si è avverato: 𝑵𝒂𝒕𝒐 𝑷𝒆𝒓 𝑸𝒖𝒆𝒔𝒕𝒐
+> Solo il meglio dello street rap italiano\. Cover: Rhove, ANNA
 
 432 songs - 20 hr 0 min
 
@@ -229,7 +229,7 @@
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-10 | 2023-05-25 |
 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 | 2023-04-20 | 2023-05-05 |
 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-21 | 2023-10-20 |
-| [M\-I Bastard](https://open.spotify.com/track/58LRqWuOEv8U7i916lK8fm) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Vile Denaro](https://open.spotify.com/album/57LDZpXD1nSl88hpUGwtNe) | 3:13 | 2024-01-02 |  |
+| [M\-I Bastard](https://open.spotify.com/track/58LRqWuOEv8U7i916lK8fm) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Vile Denaro](https://open.spotify.com/album/57LDZpXD1nSl88hpUGwtNe) | 3:13 | 2024-01-02 | 2024-01-04 |
 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 | 2023-12-01 |  |
 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 | 2023-11-02 | 2023-12-08 |
 | [Madame](https://open.spotify.com/track/1YuwtGNJID9U7nfvhTovql) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/44QCkU2JXCsvOfwRHCXCxZ) | 2:13 | 2023-10-19 | 2023-11-06 |
@@ -319,7 +319,7 @@
 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 | 2023-09-26 | 2023-12-01 |
 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 | 2022-12-08 | 2022-12-16 |
 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 | 2022-05-11 | 2022-05-27 |
-| [Puro Bogotà](https://open.spotify.com/track/0GO0UbQoLP78jWf6lmwSbq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Vincenzo](https://open.spotify.com/artist/4AaOibM7lYBox7yJQJcVLb), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [RAP ITALIANO OLD SCHOOL HITS](https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe) | 4:24 | 2024-01-02 |  |
+| [Puro Bogotà](https://open.spotify.com/track/0GO0UbQoLP78jWf6lmwSbq) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Vincenzo](https://open.spotify.com/artist/4AaOibM7lYBox7yJQJcVLb), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [RAP ITALIANO OLD SCHOOL HITS](https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe) | 4:24 | 2024-01-02 | 2024-01-04 |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft) | 2:50 | 2022-10-20 | 2022-10-25 |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:50 | 2022-10-24 | 2023-03-10 |
 | [PYPPARE](https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [PYPPARE](https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U) | 2:36 | 2022-07-14 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,010 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,038 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Dr\. Beat](https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Eyes Of Innocence](https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf) | 4:22 |
 | 50 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 
-Snapshot ID: `MCwwOTVmYWUzYTFiNTMxZmJiMzQ1ZDJmOWNhMDBiMTU5NWY1MDU1OGE5`
+Snapshot ID: `MCwzYThmMWRlZjkwODc4OTkzNjlhMjA3NzNjNDQ0ZDcwNDhiNmU1OGJh`

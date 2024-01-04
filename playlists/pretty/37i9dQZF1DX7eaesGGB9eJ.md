@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,532 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,604 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 18 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |
 | 19 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 20 | [Vato Sencillo](https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. 4](https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe) | 3:03 |
-| 21 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
-| 22 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
+| 21 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
+| 22 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 23 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
 | 24 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 |
 | 25 | [Pues Que Pues](https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 37 | [Andamos Armados](https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:56 |
 | 38 | [La Pelotona](https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:41 |
 | 39 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
-| 40 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 |
-| 41 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |
+| 40 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |
+| 41 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 |
 | 42 | [No Me Porto Bien](https://open.spotify.com/track/1nR9xvzMPVrEJZPbpotmwl) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 3:26 |
 | 43 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 44 | [Policías En Helicóptero \(con El Aarón\)](https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Deja Vú](https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
 | 50 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 
-Snapshot ID: `MCxhNDIwYTNjMzRjN2FkNWRkYzQzNjU2ZGUzODMwNTI4NTE3MTcwM2M5`
+Snapshot ID: `MCxhNTVjNjE1MGRlZjM5ZjEzYTQ5NWI3OTI2YzBlNTc1M2M4ZDY1MTZk`

@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1576686,
+  "num_followers": 1576773,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTE0OTJkYjM2YjNkOTUxYTc5YzllN2Y5ZTM3NmQzMDliYTcwODg4",
+  "snapshot_id": "MCxiN2I0OWMxOTM5Y2ZkODAwZDI0OTc3MTdiNTAwYTgwZTY5ZWE3YmY0",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Don't Stop Believin' (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 173680,
       "name": "I Bet You Look Good On The Dancefloor",
       "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 145746,
       "name": "I Want To Hold Your Hand - Remastered 2015",
       "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
       "added_at": "2023-10-13 04:00:00",

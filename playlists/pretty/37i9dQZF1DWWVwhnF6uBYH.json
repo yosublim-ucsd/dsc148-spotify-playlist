@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 428334,
+  "num_followers": 428568,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDkxOGJmNDRiYzNmZWUxNTAxNjVkOGRiY2ZlMjgyYjJhZmMzMDgy",
+  "snapshot_id": "MCwzNjk4ZGYzNDc0NjYyNWU2ZWE5M2E2YjU5Y2QzMjhmMDBmNGI1NDJi",
   "tracks": [
     {
       "added_at": "2023-12-29 00:00:00",
@@ -383,26 +383,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "CCC (Remix)",
-        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 147877,
-      "name": "CCC - Remix",
-      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -459,18 +451,26 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+        "name": "CCC (Remix)",
+        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+      "duration_ms": 147877,
+      "name": "CCC - Remix",
+      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "El Jelty",
+        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Sorry Pa\u2019 Los Gabachos",
-      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
+      "duration_ms": 189605,
+      "name": "El Jelty",
+      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "El Jelty",
-        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 189605,
-      "name": "El Jelty",
-      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
+      "duration_ms": 198321,
+      "name": "Sorry Pa\u2019 Los Gabachos",
+      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "La Fresa",
         "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 174923,
       "name": "La Fresa",
       "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2023-12-29 00:00:00",

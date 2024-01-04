@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-236 songs - 13 hr 33 min
+237 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [breakout](https://open.spotify.com/track/2p3oY7YCPiAr5EBtP6xFZc) | [THE FROGLETS](https://open.spotify.com/artist/31kWXrEdHomiyrPrZhoXhc) | [THE FROGLETS](https://open.spotify.com/album/0cND80hJtxdUgVkJP8Sh5s) | 2:30 | 2023-12-26 |  |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-12-13 |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 |  |
+| [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 | 2024-01-02 |  |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-07-20 |  |
 | [Chin Age Negotiation](https://open.spotify.com/track/2DGJX6CxOTpXvYspATCQRg) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Chin Age Negotiation](https://open.spotify.com/album/51Wg05oEpQ48VcwdskP7R7) | 4:02 | 2023-11-21 | 2023-12-13 |
 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 | 2023-11-14 | 2023-12-30 |
@@ -241,7 +242,7 @@
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-07-20 | 2023-12-06 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-07-20 |  |
 | [蜃気楼](https://open.spotify.com/track/2K2fKGu0wJuByM2dTBTUsr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [蜃気楼](https://open.spotify.com/album/6Jhc9KCqAkl1NqFhQ1dORC) | 3:10 | 2023-10-31 |  |
-| [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 | 2024-01-02 |  |
+| [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 | 2024-01-02 | 2024-01-04 |
 | [都会の森](https://open.spotify.com/track/5wd7lEHk2f95i924JiaoZM) | [湾岸の羊\~Sheep living on the edge\~](https://open.spotify.com/artist/3tB2xQ555Rr6YiseCfzomT) | [都会の森](https://open.spotify.com/album/3u6pEvEf99Ape8QSg3aVR2) | 6:48 | 2023-07-20 | 2023-08-02 |
 | [風の日](https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELLEGARDEN BEST 1999\-2008](https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK) | 4:12 | 2023-07-20 |  |
 

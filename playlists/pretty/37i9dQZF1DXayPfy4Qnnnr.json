@@ -1,12 +1,12 @@
 {
   "description": "Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie-le bien fort, use tes cordes vocales !",
-  "num_followers": 43461,
+  "num_followers": 43490,
   "original_name": "Motiv\u00e9s ! Motiv\u00e9s !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjgzNDE4OGU1MGJlNTM3ZmE1MDQ0ZjdiOTQzODI4NDBiNDhhMTIw",
+  "snapshot_id": "MCwwNmRiNzZlODRkNDdmYmI1YjNlNTQ3MjQ2YzM5Yjk3NWE4YjhjYTVl",
   "tracks": [
     {
       "added_at": "2023-10-06 17:05:31",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Lave toi la bouche!",
-        "url": "https://open.spotify.com/album/5Nl6uturtkxYcbh36Adlnz"
-      },
-      "artists": [
-        {
-          "name": "Les Amis D'ta Femme",
-          "url": "https://open.spotify.com/artist/27zZxSk7AynBSC0XYiivLp"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "Cayenne",
-      "url": "https://open.spotify.com/track/5AqfidifdwIatLfJiIDHH0"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
         "name": "Billy Ze Kick Et Les Gamins En Folie",
         "url": "https://open.spotify.com/album/4kvAnqql69qfbr3YaTN6tJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 151533,
       "name": "O C B",
       "url": "https://open.spotify.com/track/1Bnn7jDTqWroFl2hcgntWS"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
+        "name": "Lave toi la bouche!",
+        "url": "https://open.spotify.com/album/5Nl6uturtkxYcbh36Adlnz"
+      },
+      "artists": [
+        {
+          "name": "Les Amis D'ta Femme",
+          "url": "https://open.spotify.com/artist/27zZxSk7AynBSC0XYiivLp"
+        }
+      ],
+      "duration_ms": 314666,
+      "name": "Cayenne",
+      "url": "https://open.spotify.com/track/5AqfidifdwIatLfJiIDHH0"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Hawa\u00ef",
-        "url": "https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn"
-      },
-      "artists": [
-        {
-          "name": "Java",
-          "url": "https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi"
-        }
-      ],
-      "duration_ms": 265986,
-      "name": "Sex accord\u00e9on et alcool",
-      "url": "https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ"
-    },
-    {
-      "added_at": "2023-10-06 17:05:31",
-      "album": {
         "name": "Tant pis",
         "url": "https://open.spotify.com/album/5W2UTG8meZ7cXm7hMCTM8q"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171573,
       "name": "Emily",
       "url": "https://open.spotify.com/track/74C1HMWK9xA575Xr60Mt1k"
+    },
+    {
+      "added_at": "2023-10-06 17:05:31",
+      "album": {
+        "name": "Hawa\u00ef",
+        "url": "https://open.spotify.com/album/3gA5SPdm6ImoZ1LvLwQLHn"
+      },
+      "artists": [
+        {
+          "name": "Java",
+          "url": "https://open.spotify.com/artist/2EaYvd5IQJYvfc7o44RKJi"
+        }
+      ],
+      "duration_ms": 265986,
+      "name": "Sex accord\u00e9on et alcool",
+      "url": "https://open.spotify.com/track/0Ad1QXmK8eWYh4917DMcCJ"
     },
     {
       "added_at": "2023-10-06 17:05:31",

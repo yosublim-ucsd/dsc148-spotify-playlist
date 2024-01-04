@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 
 > This is Rex Orange County\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,340 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,361 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 | 13 | [Always](https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:17 |
 | 14 | [A Song About Being Sad](https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 2:16 |
 | 15 | [KEEP IT UP](https://open.spotify.com/track/1dxqk42KIlMyrSawZ5YjBE) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:03 |
-| 16 | [Edition](https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4) | 1:55 |
+| 16 | [Foreword \(feat\. Rex Orange County\)](https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:14 |
 | 17 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 |
-| 18 | [Foreword \(feat\. Rex Orange County\)](https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:14 |
+| 18 | [Edition](https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4) | 1:55 |
 | 19 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1TDeDFUYHjZKLsO6bzoVg1) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:38 |
 | 20 | [Never Enough](https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT) | 4:58 |
 | 21 | [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nOT7i.md) - [plain]
 | 34 | [Paradise](https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 3:37 |
 | 35 | [Know Love](https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8) | 4:01 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA5NWE2NzBjZGQ1NGM4ODUzZTVlYjhiZWQwNjdhNDBmMQ==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA5M2IxM2YwNjdiYzJkNTVmOWIwZjYxMTNmN2VlZmJhNA==`

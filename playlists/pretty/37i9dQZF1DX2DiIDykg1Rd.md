@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 399 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 11 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 |
 | 12 | [NO BYSTANDERS](https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:38 |
 | 13 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
-| 14 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
-| 15 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
+| 14 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
+| 15 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
 | 16 | [Show Me](https://open.spotify.com/track/2uuJs2nltcYFh9pkKP7bW4) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:40 |
 | 17 | [Welcome To The Party](https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:34 |
 | 18 | [Apparently](https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 31 | [Ghetto Angels](https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Backend Child](https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr) | 3:55 |
 | 32 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 33 | [Canceled](https://open.spotify.com/track/3TOfcOKNuu6ZPZXJie5msH) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Canceled](https://open.spotify.com/album/4KaiF5ihKW95stXJ8XIR22) | 3:03 |
-| 34 | [Make It Out](https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 0:30 |
-| 35 | [Chinatown](https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:52 |
+| 34 | [Chinatown](https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:52 |
+| 35 | [Make It Out](https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 0:30 |
 | 36 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
 | 37 | [IN THE MOMENT feat\. Tyler, The Creator](https://open.spotify.com/track/1tXWUIFKPPHLAth1zCGfmj) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |
 | 38 | [Bacc Home](https://open.spotify.com/track/79zXkvfi2y5VsqJMcD3TAP) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape](https://open.spotify.com/album/75BeQjQ3BwrcWPwf6RCS7P) | 3:02 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 42 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
 | 43 | [VIOLET SKIES](https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:04 |
 
-Snapshot ID: `MCxmZWNlMDVmYmNiNTZjNGMxMGUyOTIxMmFlYThmNmJlMDE4MzZiZjMy`
+Snapshot ID: `MCw0ZmRhZWMyNDI2ZTM5NzhmZTIzYjk2YjYxNzNjNjhlZTk0OGY3MjRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,946 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,174 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 37 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 |
 | 38 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 39 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
-| 40 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
-| 41 | [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 |
+| 40 | [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 |
+| 41 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 | 42 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 |
 | 43 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Ode to Joy](https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry) | 3:33 |
 | 44 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 68 | [Spark](https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk) | 4:24 |
 | 69 | [Sink In](https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 3:20 |
 | 70 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
-| 71 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
+| 71 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
 | 72 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
-| 73 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 73 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
 | 74 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 |
 | 75 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 76 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 79 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
 | 80 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
 | 81 | [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 |
-| 82 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 |
-| 83 | [Chariot](https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:20 |
+| 82 | [Chariot](https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:20 |
+| 83 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 |
 | 84 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 85 | [Same Kind of People](https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Same Kind of People](https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz) | 4:02 |
 | 86 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 99 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
 | 100 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
 
-Snapshot ID: `MCxiZjg1MjJkM2MwMGVmODYyOWZiZWY5M2E4OWNlMzA1OGEyY2MzMWRj`
+Snapshot ID: `MCwwYjMxMGI3ODUzMGQ5OTAwM2E5MGMwZGY2YWE2MTBjOTMwZmE4OWRi`

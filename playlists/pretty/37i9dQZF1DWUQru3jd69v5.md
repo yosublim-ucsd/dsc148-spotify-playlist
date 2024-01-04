@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: emanuelino
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,692 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,691 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [1%](https://open.spotify.com/track/3AQQle6VHmqjcsbcJokOTZ) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [ANONIMA](https://open.spotify.com/artist/3a9lizIsuK4uutbI1fJT5m) | [LOGIN EP](https://open.spotify.com/album/6tzdCBUIxofEk9RvdUcAWv) | 2:06 |
 | 55 | [DAMN ¡!](https://open.spotify.com/track/5ef8Gx0sUwDv1FLBKy8xwZ) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [BLOOD MOON](https://open.spotify.com/album/6rqBpQ8HaT1z8RpdEa96KO) | 1:56 |
 
-Snapshot ID: `MCxlMzExMTdjMWJjYjJiMTBjNWQ0OTJhMWE2MjFlZGZhNTdhMTNkZDFm`
+Snapshot ID: `MCxhMjJjZTI3NWViNmNlM2Q1ZDQyNzMxZmNiYjNhNTgwNDRjMTE4MWMw`

@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-160 songs - 9 hr 42 min
+161 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-05-03 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-28 |  |
 | [Needy](https://open.spotify.com/track/6KkryukVg2oVEkT5Cbwsv7) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Needy](https://open.spotify.com/album/3ZnqyrGOiFRj9ruunWKn9i) | 3:36 | 2023-10-08 | 2023-12-07 |
+| [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 | 2024-01-03 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2023-03-24 | 2023-12-11 |
 | [No Other Heart](https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4) | 2:53 | 2023-03-24 | 2023-06-26 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-03-24 | 2023-10-09 |

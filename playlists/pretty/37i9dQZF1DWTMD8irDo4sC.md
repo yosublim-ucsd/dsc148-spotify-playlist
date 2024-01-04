@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,064 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,102 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 34 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 35 | [Betrouh](https://open.spotify.com/track/3sg5wboOGpcM4OdlRra6yf) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:29 |
 | 36 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
-| 37 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
-| 38 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
-| 39 | [Shahrazad](https://open.spotify.com/track/0HpTrjuy3daY46IpCRZPf0) | [Yazan Ibrahim](https://open.spotify.com/artist/2IUQX6kIJhBuJaL7UYkHkG), [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [Almond Blossom](https://open.spotify.com/album/5Mp4ZyBwspNMtls451hr9w) | 3:44 |
+| 37 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
+| 38 | [Shahrazad](https://open.spotify.com/track/0HpTrjuy3daY46IpCRZPf0) | [Yazan Ibrahim](https://open.spotify.com/artist/2IUQX6kIJhBuJaL7UYkHkG), [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [Almond Blossom](https://open.spotify.com/album/5Mp4ZyBwspNMtls451hr9w) | 3:44 |
+| 39 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
 | 40 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 |
 | 41 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 42 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
-| 43 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
-| 44 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
-| 45 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
-| 46 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
-| 47 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
+| 43 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
+| 44 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
+| 45 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
+| 46 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
+| 47 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
 | 48 | [Ella Enta \- Live Session](https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3) | 4:08 |
 | 49 | [Baby Baby \- Acoustic Version](https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby \(Acoustic Version\)](https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82) | 2:40 |
 | 50 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 | 70 | [Mishwar‫ ‬ \- Live](https://open.spotify.com/track/6S850blEnGG1CS6ehAi4Dk) | [Luna Abu Nassar](https://open.spotify.com/artist/3JuUykT51S5TP7BNngL5uz) | [A Night in the Forest \(Live\)](https://open.spotify.com/album/5AF1PIF5WibTqUzjnaZDaq) | 4:26 |
 
-Snapshot ID: `MCw1ZWM4Y2NjZWU2ZWVmMWFmZWVkNzE2OTNlMGIzYThhOGYwNzI1MWYz`
+Snapshot ID: `MCwxOTU4YzVmNjliODllMDU1MGM2MGY1YTQxMjQzNDc2MDdjZTU4N2Y0`

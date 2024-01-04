@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 129861,
+  "num_followers": 129894,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWEyNDc3NjgxY2FiODZlNjJkNGFkZDI2NzlkMjE5YTBhZTBlODM5",
+  "snapshot_id": "MCwzODBhZTkwZmFiODUwZGFhYzQyOGEyM2I5MDM1YzQ3YjlmYTUzYzM5",
   "tracks": [
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Divas del Mariachi",
-        "url": "https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Y Volvere",
-      "url": "https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 178782,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "Divas del Mariachi",
+        "url": "https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Y Volvere",
+      "url": "https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "La Caponera (M\u00fasica de la Serie Original \u201cEl Gallo de Oro\u201d)",
-        "url": "https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD"
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Berenice",
-          "url": "https://open.spotify.com/artist/0UvuOiWVA5hN7isFnkeuD4"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 169489,
-      "name": "Jardinera (Caponera) - Musica de la Serie Original \"El Gallo de Oro\" (Versi\u00f3n Dueto)",
-      "url": "https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D"
+      "duration_ms": 228000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+        "name": "La Caponera (M\u00fasica de la Serie Original \u201cEl Gallo de Oro\u201d)",
+        "url": "https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Berenice",
+          "url": "https://open.spotify.com/artist/0UvuOiWVA5hN7isFnkeuD4"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
+      "duration_ms": 169489,
+      "name": "Jardinera (Caponera) - Musica de la Serie Original \"El Gallo de Oro\" (Versi\u00f3n Dueto)",
+      "url": "https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D"
     },
     {
       "added_at": "2023-12-15 15:33:16",

@@ -1,12 +1,12 @@
 {
   "description": "Hoy es noche de...",
-  "num_followers": 37691,
+  "num_followers": 37734,
   "original_name": "Reggaeton Sexy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2QwMjM3NGRjNDY3NDllMWFmNmI0NTE2ZjVjNDE1NGI2NWNmYWI2",
+  "snapshot_id": "MCwxOWEzMjcxMTQ2NWNkMTI4YjFkMDY5Y2E4Zjg1ODE5YWI0ZjNmZjky",
   "tracks": [
     {
       "added_at": "2023-12-15 04:18:55",
@@ -371,18 +371,22 @@
     {
       "added_at": "2023-12-15 04:18:55",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
       "added_at": "2023-12-15 04:18:55",
@@ -407,22 +411,18 @@
     {
       "added_at": "2023-12-15 04:18:55",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 242573,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2023-12-15 04:18:55",
@@ -871,8 +871,8 @@
     {
       "added_at": "2023-12-15 04:18:55",
       "album": {
-        "name": "Ojos Azules",
-        "url": "https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0"
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
       "artists": [
         {
@@ -880,17 +880,17 @@
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 188571,
-      "name": "OJOS AZULES",
-      "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
       "added_at": "2023-12-15 04:18:55",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2023-12-15 04:18:55",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+        "name": "Ojos Azules",
+        "url": "https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0"
       },
       "artists": [
         {
@@ -1068,17 +1068,17 @@
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+      "duration_ms": 188571,
+      "name": "OJOS AZULES",
+      "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
     },
     {
       "added_at": "2023-12-15 04:18:55",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-12-15 04:18:55",
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
+    },
+    {
+      "added_at": "2023-12-15 04:18:55",
+      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 226725,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
-    },
-    {
-      "added_at": "2023-12-15 04:18:55",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2023-12-15 04:18:55",

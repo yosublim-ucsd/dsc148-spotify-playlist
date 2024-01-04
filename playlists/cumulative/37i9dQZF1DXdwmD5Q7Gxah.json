@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "featuring some of your favorites this year, plus some new gems. Cover: The Japanese House ",
+  "description": "every second counts, we don't wanna watch TV anymore. Cover: The Japanese House ",
   "name": "Lorem",
   "tracks": [
     {
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -5432,7 +5432,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -8814,6 +8814,24 @@
       "duration_ms": 211847,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/5QyNMyfhBMIStzL07zQ9Hj"
+    },
+    {
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
       "album": {
@@ -12900,7 +12918,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 162656,
       "name": "essential",
       "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
@@ -13750,6 +13768,24 @@
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "album": {
@@ -19044,7 +19080,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/7MX0wxRiKE9c7dmiLV3NrX"
@@ -24728,6 +24764,24 @@
     {
       "album": {
         "name": "True",
+        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260398,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5"
+    },
+    {
+      "album": {
+        "name": "True",
         "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
       },
       "artists": [
@@ -26540,10 +26594,28 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 172137,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
+      "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "album": {
@@ -28210,7 +28282,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-12",
+      "date_removed": null,
       "duration_ms": 163764,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
@@ -28250,6 +28322,24 @@
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/02BwlHD6hUNn3kzySLfqMq"
+    },
+    {
+      "album": {
+        "name": "Hold Space For Me",
+        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Ne Me Quitte Pas (Don't Leave Me)",
+      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
     },
     {
       "album": {
@@ -31434,6 +31524,24 @@
       "duration_ms": 207927,
       "name": "Photo ID (with Dominic Fike)",
       "url": "https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5"
+    },
+    {
+      "album": {
+        "name": "Shoelace & A Knot",
+        "url": "https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269999,
+      "name": "Pick At Your Face",
+      "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
     },
     {
       "album": {
@@ -38287,6 +38395,24 @@
     },
     {
       "album": {
+        "name": "This Way",
+        "url": "https://open.spotify.com/album/3ij42TJGaDLltR6VlCMUOa"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Standing Still",
+      "url": "https://open.spotify.com/track/6a0e5Fb8cwz8pklTJOFGju"
+    },
+    {
+      "album": {
         "name": "Star of the Show",
         "url": "https://open.spotify.com/album/1gyqe8tfMkeTDmtR8PTlHd"
       },
@@ -38620,7 +38746,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
@@ -38638,7 +38764,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 136115,
       "name": "Steep",
       "url": "https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa"
@@ -41742,7 +41868,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 139764,
       "name": "The Paradigm",
       "url": "https://open.spotify.com/track/2lqaVvI8tqZpVwC5Cuxsbn"
@@ -45079,6 +45205,24 @@
     },
     {
       "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -45180,7 +45324,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"

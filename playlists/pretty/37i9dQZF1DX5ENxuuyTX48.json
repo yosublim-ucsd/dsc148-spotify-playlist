@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Charlie Lim",
-  "num_followers": 18364,
+  "num_followers": 18378,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGM2MmVlMWJmNDRmN2FjMTgyN2ZmYjlhZWIzNTRhZjVlNzJiZTAz",
+  "snapshot_id": "MCxjZDBiYjA4M2U1YmMxMGJkZjA4ZDg1OGY1OTU5NjczZDNmZmRjZTNk",
   "tracks": [
     {
       "added_at": "2023-12-21 17:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
         "name": "Aku Memilihmu",
         "url": "https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 231700,
       "name": "Aku Memilihmu",
       "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
-        "name": "Cukup",
-        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
-      },
-      "artists": [
-        {
-          "name": "Ziva Magnolya",
-          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Cukup",
-      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
     },
     {
       "added_at": "2023-12-21 17:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
-        "name": "Malampagi",
-        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
-      },
-      "artists": [
-        {
-          "name": "Saixse",
-          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
-        }
-      ],
-      "duration_ms": 246225,
-      "name": "Malampagi",
-      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
         "name": "Berona",
         "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 193000,
       "name": "Luka",
       "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
+        "name": "Malampagi",
+        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
+      },
+      "artists": [
+        {
+          "name": "Saixse",
+          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
+        }
+      ],
+      "duration_ms": 246225,
+      "name": "Malampagi",
+      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
     },
     {
       "added_at": "2023-12-21 17:00:00",

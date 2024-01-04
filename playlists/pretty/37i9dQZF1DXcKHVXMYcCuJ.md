@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,759 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,770 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,17 +72,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 62 | [Neon Brother](https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:55 |
 | 63 | [Something Right](https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Stovall](https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp) | 3:21 |
 | 64 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 |
-| 65 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
-| 66 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
+| 65 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
+| 66 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
 | 67 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
-| 68 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 |
-| 69 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 |
+| 68 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 |
+| 69 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 |
 | 70 | [Killed By An Angel](https://open.spotify.com/track/5QxsyWK3UfLgEPTaAb5Xgq) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [The Rising Tide](https://open.spotify.com/album/6qF8IcGGO3Y4YuNx33DJA2) | 4:55 |
 | 71 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 |
-| 72 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 |
-| 73 | [Knights](https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Planet of Ice](https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV) | 3:39 |
-| 74 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
-| 75 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
+| 72 | [Knights](https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Planet of Ice](https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV) | 3:39 |
+| 73 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
+| 74 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
+| 75 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 |
 | 76 | [Body Language](https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Slow Heart](https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb) | 4:09 |
 | 77 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 |
 | 78 | [Thru The Eyes Of Ruby \- Remastered 2012](https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 7:38 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 82 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
 | 83 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
 | 84 | [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 |
-| 85 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
+| 85 | [The Stone](https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA) | [ASHES dIVIDE](https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy) | [Keep Telling Myself It's Alright](https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH) | 3:49 |
 | 86 | [Note To Self](https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 3:49 |
-| 87 | [The Stone](https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA) | [ASHES dIVIDE](https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy) | [Keep Telling Myself It's Alright](https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH) | 3:49 |
+| 87 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
 | 88 | [Closer](https://open.spotify.com/track/1wBy0okEa7TIBWizzo5acb) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Closer](https://open.spotify.com/album/6JE92lOONx7GauCCIsKX3s) | 4:01 |
 | 89 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 90 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 94 | [Not Up To You](https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around](https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx) | 4:35 |
 | 95 | [Damp](https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do) | [Daylight](https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv) | [The Difference In Good And Bad Dreams](https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt) | 2:42 |
 | 96 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 |
-| 97 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
-| 98 | [Innervisions](https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Innervisions](https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN) | 7:29 |
+| 97 | [Innervisions](https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Innervisions](https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN) | 7:29 |
+| 98 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
 | 99 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 |
 | 100 | [The Long Defeat](https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 4:11 |
 | 101 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
@@ -145,11 +145,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 135 | [The Hey Man!](https://open.spotify.com/track/568HEr3Q5meKXKHE5s38f4) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J) | 3:48 |
 | 136 | [Taking Back Control](https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Threes](https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP) | 3:41 |
 | 137 | [Questions and Answers](https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Vertigo of Bliss](https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW) | 4:02 |
-| 138 | [Same Ol' Road](https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A) | [Dredg](https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l) | [El Cielo](https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc) | 5:14 |
-| 139 | [Pushing the Senses](https://open.spotify.com/track/6Oe1au5eJ5bGTw74L7rRbm) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv) | 3:27 |
+| 138 | [Pushing the Senses](https://open.spotify.com/track/6Oe1au5eJ5bGTw74L7rRbm) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv) | 3:27 |
+| 139 | [Same Ol' Road](https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A) | [Dredg](https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l) | [El Cielo](https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc) | 5:14 |
 | 140 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
-| 141 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
-| 142 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
+| 141 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
+| 142 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
 | 143 | [Make Tonight](https://open.spotify.com/track/63iO8MvYbHlGJXi6bAtTcs) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J) | 3:44 |
 | 144 | [Perseverance](https://open.spotify.com/track/7HZRHiaVhqY6h2cGf13WIk) | [Terrorvision](https://open.spotify.com/artist/3jNwnthjUjHYvjyvRGfWuQ) | [Regular Urban Survivors](https://open.spotify.com/album/2doePSnN8F3dTh7CTsjGfR) | 3:11 |
 | 145 | [Cassiopeia \- Bonus Track](https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked \- Deluxe Version\)](https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm) | 4:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 149 | [Will You Smile Again For Me](https://open.spotify.com/track/5AM9nodUIrP4qKMtlGJFay) | [...And You Will Know Us by the Trail of Dead](https://open.spotify.com/artist/6wBUn8gMP85n8dPu6LoUcF) | [Worlds Apart](https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard) | 6:50 |
 | 150 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
 
-Snapshot ID: `MCxjNzc1M2Q1ZjMxN2YxZjZmYzRjNTA1ZDUwNGM0ZWE4ZjAxOGI3ZDhi`
+Snapshot ID: `MCxhZDkxYzA3ZGZmZTkyYjAwMzUwMmVjNWZkNDExN2ZiNWFiYmMzMjIw`

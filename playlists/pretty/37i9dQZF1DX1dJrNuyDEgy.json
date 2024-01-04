@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 217744,
+  "num_followers": 217757,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWE4ZDZiNmYyNzhjMmU2ZDc4NzBjMjRiZTgxZjliNTA4ZTlmYjY1",
+  "snapshot_id": "MCxkNmQ1MzA0NWVjMDZmNTA2MGViODI3YTA3ZDNlYmIwZTY4NTJkYzNh",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "La Coleccion Del Siglo - Federico Villa",
-        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 490762,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "La Coleccion Del Siglo - Federico Villa",
+        "url": "https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Jorge Negrete, Trio Calaveras y Silvestre Vargas",
-        "url": "https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
       "artists": [
         {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 145920,
-      "name": "Ay Jalisco No Te Rajes",
-      "url": "https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t"
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+        "name": "Jorge Negrete, Trio Calaveras y Silvestre Vargas",
+        "url": "https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+      "duration_ms": 145920,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 175438,
-      "name": "Torito Serrano",
-      "url": "https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C"
+      "duration_ms": 185652,
+      "name": "Mi Ciudad",
+      "url": "https://open.spotify.com/track/2YQrtNY04DOuzYWvcu39gq"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 185652,
-      "name": "Mi Ciudad",
-      "url": "https://open.spotify.com/track/2YQrtNY04DOuzYWvcu39gq"
+      "duration_ms": 175438,
+      "name": "Torito Serrano",
+      "url": "https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "El Tilingo Lingo",
-        "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jarocho Lindo Veracruz",
-          "url": "https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU"
-        }
-      ],
-      "duration_ms": 175972,
-      "name": "El Tilingo Lingo",
-      "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 271926,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/2r2tcGKIrwmwnAGI6ey1P4"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "El Tilingo Lingo",
+        "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jarocho Lindo Veracruz",
+          "url": "https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU"
+        }
+      ],
+      "duration_ms": 175972,
+      "name": "El Tilingo Lingo",
+      "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
     },
     {
       "added_at": "2022-11-19 17:26:23",

@@ -2,9 +2,9 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: Kim So Yeon\(김소연\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\), Shin Seong\(신성\), Enoch\(에녹\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-823 songs - 1 day 23 hr 2 min
+824 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Boom Clap Life](https://open.spotify.com/track/2UW8QogorAonSyv8p7nNFj) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART29](https://open.spotify.com/album/4BRLYsE9wN2cIg1lDwopbo) | 3:05 | 2022-04-07 | 2022-04-25 |
 | [Boy](https://open.spotify.com/track/1LvhDpL4GqK9sEU4zP9ZEd) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:28 | 2022-04-21 | 2022-06-29 |
 | [Boy next door](https://open.spotify.com/track/2OewAhsFNNu6Fskz2cezJm) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART7](https://open.spotify.com/album/7MQC5I1mXnuget0Se48yOQ) | 2:51 | 2022-04-22 | 2022-06-06 |
-| [Breakfast](https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Breakfast](https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H) | 4:09 | 2022-12-05 |  |
+| [Breakfast](https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Breakfast](https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H) | 4:09 | 2022-12-05 | 2024-01-04 |
 | [breaking news](https://open.spotify.com/track/7lAj3D3a2XtHRbUp5PGs29) | [ddochi\-ana](https://open.spotify.com/artist/4d03dht4N7o7WRIiaNQo9N) | [breaking news](https://open.spotify.com/album/1wej2j0hqqwXUAeQsQjJNS) | 3:08 | 2022-04-07 | 2022-07-29 |
 | [Bright moon of the 15th night](https://open.spotify.com/track/1au7myAPkIikkP2aOopuK1) | [Park Guyun](https://open.spotify.com/artist/7E1F9Pns5Wc6vM4KtmPW2b) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 2:23 | 2022-04-22 | 2022-07-28 |
 | [Broken clock](https://open.spotify.com/track/3pp8VOMFQHnPENvhde8MRa) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART13](https://open.spotify.com/album/0ELT34v0t3dM1JrCuwK3d2) | 3:02 | 2022-05-03 | 2022-07-29 |
@@ -317,6 +317,7 @@
 | [In 10 minutes](https://open.spotify.com/track/6rHlEx1UkR6h9X3ypnZ2ig) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART2](https://open.spotify.com/album/6ehOtKwnhQ1ZIsoDWJl5cJ) | 3:05 | 2022-04-07 | 2022-04-21 |
 | [In full bloom \(Prod\. Shin Ji Hoo\)](https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 | 2022-04-07 | 2022-09-20 |
 | [In Lover Arms](https://open.spotify.com/track/5FOEgHlotrnrRuTsRERe3N) | [하이량](https://open.spotify.com/artist/7Jal3agTZgU8c1nKEtNdZc) | [HI\-RYANG](https://open.spotify.com/album/27vjFQz43CXWW38kAALA4e) | 4:00 | 2023-01-29 | 2023-02-07 |
+| [IN MY LIFE](https://open.spotify.com/track/03Qy66RXuPUyWhaF0yD845) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS), [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU), [Enoch](https://open.spotify.com/artist/1KcnBJQnU9D8NHEMZaBkVh) | [IN MY LIFE](https://open.spotify.com/album/4t8N1eCyBGWmjt1jSuWIBU) | 3:53 | 2024-01-03 |  |
 | [In One Shot](https://open.spotify.com/track/568sDIegvB5ijODfDT1Dsn) | [Byeol Sarang](https://open.spotify.com/artist/3VrazTKgtuVIWAklWap0KT) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 2:51 | 2022-05-03 | 2022-07-21 |
 | [In the air](https://open.spotify.com/track/0ebqFPGQQpUFJJHBebqass) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART9](https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I) | 2:56 | 2022-04-21 | 2022-06-11 |
 | [In The Mood For Love](https://open.spotify.com/track/3bLwQdjPVHuzuIVUQ8unBL) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL) | [In The Mood For Love](https://open.spotify.com/album/4izC7n0xPVs7Jnd1TOTZS5) | 4:32 | 2022-04-07 | 2023-11-14 |

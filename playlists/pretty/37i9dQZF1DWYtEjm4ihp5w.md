@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Bo9al
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,522 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,639 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 3 | [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 |
 | 4 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
 | 5 | [Iori 6](https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 6](https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU) | 5:09 |
-| 6 | [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 |
-| 7 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 |
-| 8 | [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 |
+| 6 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 |
+| 7 | [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 |
+| 8 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 |
 | 9 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
-| 10 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
+| 10 | [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 |
 | 11 | [CHAINSOMNIA](https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [CHAINSOMNIA](https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9) | 2:48 |
 | 12 | [L7ARB \- Spotify Singles](https://open.spotify.com/track/5GNQQVf3hHLtSp4XP143Xa) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [L7ARB \(Spotify Singles\)](https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk) | 4:02 |
 | 13 | [TAY9 \- Spotify Singles](https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [AKOA](https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq) | [TAY9 \(Spotify Singles\)](https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322) | 3:49 |
-| 14 | [SOUVENIRS](https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SOUVENIRS](https://open.spotify.com/album/0OIv1dSO03mVAV7HasG78H) | 3:05 |
-| 15 | [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 |
+| 14 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
+| 15 | [SOUVENIRS](https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SOUVENIRS](https://open.spotify.com/album/0OIv1dSO03mVAV7HasG78H) | 3:05 |
 | 16 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 |
 | 17 | [TP](https://open.spotify.com/track/0TqIRFzVdgqZrAhQaeED8j) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:13 |
 | 18 | [Pharmacie 2](https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 2](https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 |
 | 50 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 
-Snapshot ID: `MCw5MDIyNTg3NTM3NDUyNzViNGUzNDBhY2IxMDY2MDIxMWFlNDQ3ZWJi`
+Snapshot ID: `MCxmYTA1MWJkMjFjZGVkZTFkOWNkYjA3ZjU1NTgwZTlmYzM1NTBiYTdk`

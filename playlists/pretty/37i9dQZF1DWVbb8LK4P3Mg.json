@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
-  "num_followers": 127001,
+  "num_followers": 126929,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWQzMDhlNTFjNzM3YzE3MDA4NmQxMDkyYjU3ZjY3MTExNzRhODAz",
+  "snapshot_id": "MCw4NmE5ZTkxMThhODgwOWUxNmI3NTI3ZDdjMzgzMmI1ZTQ5MzgzY2Q4",
   "tracks": [
     {
       "added_at": "2023-12-27 07:53:32",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "Dynamite (Holiday Remix)",
-        "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 213314,
-      "name": "Dynamite - Holiday Remix",
-      "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
+        "name": "Dynamite (Holiday Remix)",
+        "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 213314,
+      "name": "Dynamite - Holiday Remix",
+      "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "Butter (Holiday Remix)",
-        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 161894,
-      "name": "Butter (Holiday Remix)",
-      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -343,22 +327,6 @@
       "duration_ms": 236500,
       "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
-        "name": "Christmas EveL",
-        "url": "https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 235386,
-      "name": "Winter Falls",
-      "url": "https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -383,18 +351,18 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "THE BOYZ Special Single 'Christmassy!'",
-        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
+        "name": "Christmas EveL",
+        "url": "https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih"
       },
       "artists": [
         {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Christmassy!",
-      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
+      "duration_ms": 235386,
+      "name": "Winter Falls",
+      "url": "https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -411,6 +379,38 @@
       "duration_ms": 212836,
       "name": "Confession Song",
       "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
+        "name": "THE BOYZ Special Single 'Christmassy!'",
+        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Christmassy!",
+      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
+        "name": "Butter (Holiday Remix)",
+        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 161894,
+      "name": "Butter (Holiday Remix)",
+      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "Dear Santa - X-Mas Special",
-        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation-TTS",
-          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
-        }
-      ],
-      "duration_ms": 223916,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
         "name": "FIRST SNOW",
         "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195466,
       "name": "FIRST SNOW",
       "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
+        "name": "Dear Santa - X-Mas Special",
+        "url": "https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-TTS",
+          "url": "https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q"
+        }
+      ],
+      "duration_ms": 223916,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "Merry-Go-Round (Christmas Edition)",
-        "url": "https://open.spotify.com/album/18ZqTGZm6gid6WIsIhH4H7"
-      },
-      "artists": [
-        {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
-        }
-      ],
-      "duration_ms": 233025,
-      "name": "Merry-Go-Round (Christmas Edition)",
-      "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
+        "name": "Merry-Go-Round (Christmas Edition)",
+        "url": "https://open.spotify.com/album/18ZqTGZm6gid6WIsIhH4H7"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "duration_ms": 233025,
+      "name": "Merry-Go-Round (Christmas Edition)",
+      "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
         "name": "Lonely Christmas",
         "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 217866,
       "name": "Lonely Christmas",
       "url": "https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
-        "name": "Peppermint Tea",
-        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Sam Ock",
-          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Mr. Snowman",
-      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -759,6 +739,26 @@
       "duration_ms": 216601,
       "name": "Never Leave Me (Feat. pH-1)",
       "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Mr. Snowman",
+      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "One More Christmas",
-        "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
-      },
-      "artists": [
-        {
-          "name": "Jessica",
-          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "One More Christmas - English Version",
-      "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
         "name": "STARSHIP PLANET 2016",
         "url": "https://open.spotify.com/album/5MBIaQm8sMwMdZRw61fJJl"
       },
@@ -1407,22 +1391,18 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
-        "name": "First Snow",
-        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
+        "name": "One More Christmas",
+        "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
       },
       "artists": [
         {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+          "name": "Jessica",
+          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
         }
       ],
-      "duration_ms": 187653,
-      "name": "First Snow",
-      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
+      "duration_ms": 212893,
+      "name": "One More Christmas - English Version",
+      "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -1439,6 +1419,26 @@
       "duration_ms": 184772,
       "name": "Let Me Know - Bonus Track",
       "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
     },
     {
       "added_at": "2023-12-27 07:53:32",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-12-27 07:53:32",
       "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
+    },
+    {
+      "added_at": "2023-12-27 07:53:32",
+      "album": {
         "name": "Will You Be My Home",
         "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 237080,
       "name": "D-day",
       "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
-    },
-    {
-      "added_at": "2023-12-27 07:53:32",
-      "album": {
-        "name": "Together Forever!",
-        "url": "https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u"
-      },
-      "artists": [
-        {
-          "name": "Limit",
-          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
-        }
-      ],
-      "duration_ms": 260276,
-      "name": "Together Forever!",
-      "url": "https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau"
     },
     {
       "added_at": "2023-12-27 07:53:32",

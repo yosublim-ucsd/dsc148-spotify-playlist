@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Architects on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,184 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473,368 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 |
 | 75 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 |
 
-Snapshot ID: `MCw1MWEwOGY3YmE0ODU3Y2JhMWEzYmFmMDU5YWZiZWIzODE2MzE1ZGQ2`
+Snapshot ID: `MCxkNmFhYWY1ZTcxMmExOTY3MGVmNGJkNmZjZTI2YjYyNzkwZjhkN2Q0`

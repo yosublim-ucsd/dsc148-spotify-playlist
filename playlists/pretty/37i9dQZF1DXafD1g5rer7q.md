@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,797 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,942 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 50 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 |
 
-Snapshot ID: `MCxkMTZhYzgwYmU5NTlkZmI4MTc4MDVkM2NlYzMxMjlmNjY2OWQxMTBk`
+Snapshot ID: `MCwyNWFhNzI5NTU4YThlYmI3N2NlNzA1NmQ0ZjRiYzFlYmY3NTY5YWRj`

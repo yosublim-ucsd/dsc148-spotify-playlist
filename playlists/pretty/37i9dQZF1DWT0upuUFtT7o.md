@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The top tracks from Fresh Finds Indie in 2023\. Cover: Mali Velasquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,032 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,259 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 2 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 3 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 |
-| 4 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
+| 4 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 5 | [Art House](https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua) | 2:57 |
 | 6 | [Since September](https://open.spotify.com/track/5SjNIwfjW1Yw0dURGbnrRL) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [No Substance Mixtape](https://open.spotify.com/album/0kpW838mH6r1S09dKgNH72) | 3:02 |
 | 7 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 89 | [Sneaky Link](https://open.spotify.com/track/0PEYid7Dm4o9ZfAkuPIArI) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [Sneaky Link](https://open.spotify.com/album/1VkdTHNIYBnTCsPcdwr244) | 2:37 |
 | 90 | [This Is Gonna Hurt](https://open.spotify.com/track/46HVIOMbE5dabV45fjJewz) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Surrenderland](https://open.spotify.com/album/1RWzchBYUY3RLNsbDOvIy4) | 3:31 |
 
-Snapshot ID: `MCxhMjFhYzdmZTQ3MTQ2M2E4NjI1MGYwNTI5YTg5Zjg4OTg5ZmRhZjU1`
+Snapshot ID: `MCw2OGIzMzg0YjNmNWY5NDVhYjk2NzgyYTViMjgzMDhlYTYyNDU1YzY4`

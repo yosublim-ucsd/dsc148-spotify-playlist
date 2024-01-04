@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,394 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,470 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 70 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
 | 71 | [A Voz do Senhor](https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Em Tua Presença](https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi) | 4:04 |
 | 72 | [Crente Que Ora \- Ao Vivo](https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:40 |
-| 73 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
-| 74 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
+| 73 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
+| 74 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
 | 75 | [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 |
 | 76 | [Tudo Passa](https://open.spotify.com/track/4K1VIN5uX9IqfseTbGzsFJ) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Tudo Passa](https://open.spotify.com/album/72dx9PBvtQPfSH876B3Cpc) | 3:56 |
 | 77 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCw1OGI3MzI4NGViNDUxOTE5NDhlY2Y4Y2Y4ZjQ0YTViMDRkODg2ZmJm`
+Snapshot ID: `MCxhMDExYmI2MWJiMGY0MmY0OWVkNzAwMGI1MzQyZTA3ZWI3ZDA0MTcw`

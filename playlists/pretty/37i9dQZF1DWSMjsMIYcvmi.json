@@ -1,12 +1,12 @@
 {
   "description": "Press play, feel motivated and grind hard throughout your work day.",
-  "num_followers": 19534,
+  "num_followers": 19549,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQ2Zjk0NzE3Nzc2NmJkNzU0YjIyYmFlYzFmMWRmOWM2MDg4NzJi",
+  "snapshot_id": "MCw3MmU3ZmE5MjQ0MTRiODVmYjJlMjExYzc0ZjI1MWM1YWI0MGQxYmFj",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "IDK You Yet (Live on Piano)",
         "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
       },
@@ -783,38 +767,18 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 176960,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -835,6 +799,42 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
       "added_at": "2023-11-23 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like this Cover: Taylor Swift\n",
-  "num_followers": 1694885,
+  "num_followers": 1695436,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODhkNzcxMGNiOTVhNjUwYWY4YmMyY2QwMTFlYWM4ZmJiZjk5NmIz",
+  "snapshot_id": "MCxmMzAxZmI2MTEwYzUzYmNlYzI1MGU0OGQzM2E1YThhODQ3MjdlNmE5",
   "tracks": [
     {
       "added_at": "2023-11-29 13:00:00",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Don\u2019t Leave Me Behind",
@@ -39,6 +71,38 @@
       "duration_ms": 183252,
       "name": "Don\u2019t Leave Me Behind",
       "url": "https://open.spotify.com/track/4jyjUMIYaarfo4ap7WNFbF"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "girl in new york",
+        "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177140,
+      "name": "girl in new york",
+      "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -61,54 +125,6 @@
       "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "girl in new york",
-        "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177140,
-      "name": "girl in new york",
-      "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "i am not who i was",
-        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 145438,
-      "name": "i am not who i was",
-      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 201058,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
-    },
-    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
@@ -125,22 +141,6 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
       "added_at": "2023-12-29 05:00:00",
       "album": {
         "name": "Standing In The Fire",
@@ -155,6 +155,22 @@
       "duration_ms": 175397,
       "name": "Standing In The Fire",
       "url": "https://open.spotify.com/track/7jte5bI3L0waFT8lHure1b"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -209,6 +225,22 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "To Love Someone",
+        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "To Love Someone",
+      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Kid Krow",
@@ -225,20 +257,20 @@
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "To Love Someone",
-        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 196260,
-      "name": "To Love Someone",
-      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -323,22 +355,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Here Comes The Cowboy",
-        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 211140,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -401,20 +401,36 @@
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2023-11-21 05:11:37",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -433,20 +449,20 @@
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-11-21 05:11:37",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 279833,
-      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -551,6 +567,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "the grudge",
+      "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "the grudge",
-      "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -727,6 +743,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -743,22 +775,6 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -893,22 +909,6 @@
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
-      "added_at": "2023-12-08 05:48:42",
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 193159,
-      "name": "grave",
-      "url": "https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "folklore",
@@ -939,6 +939,22 @@
       "duration_ms": 163586,
       "name": "1 step forward, 3 steps back",
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "added_at": "2023-12-08 05:48:42",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 193159,
+      "name": "grave",
+      "url": "https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1009,22 +1025,6 @@
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Locksmith",
-        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "Locksmith",
-      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
-    },
-    {
       "added_at": "2023-10-27 22:10:21",
       "album": {
         "name": "something to remember",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Locksmith",
+        "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Locksmith",
+      "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
       "added_at": "2023-11-15 15:05:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "As the World Caves In",
-        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Cothran",
-          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
-        }
-      ],
-      "duration_ms": 161612,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 127293,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/3SQJJ5wTW8y40TE0abStR6"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "anatomy",
-        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
       },
       "artists": [
         {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         }
       ],
-      "duration_ms": 182073,
-      "name": "anatomy",
-      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1751,6 +1735,22 @@
       "duration_ms": 271466,
       "name": "ghostin",
       "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "anatomy",
+        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "anatomy",
+      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "we're all sad here",
-        "url": "https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
       },
       "artists": [
         {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 180000,
-      "name": "if depression gets the best of me",
-      "url": "https://open.spotify.com/track/2ha6TmK7Q3mejlvZNQuEBu"
+      "duration_ms": 174406,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
     }
   ],
   "unique_name": "sad hour",

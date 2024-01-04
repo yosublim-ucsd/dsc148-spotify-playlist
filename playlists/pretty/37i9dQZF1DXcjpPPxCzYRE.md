@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,540 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,614 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 35 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 36 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 |
 | 37 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
-| 38 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 |
+| 38 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
 | 39 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
-| 40 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
+| 40 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 |
 | 41 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 42 | [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 |
 | 43 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 |
 | 44 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
 | 45 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
-| 46 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
-| 47 | [Ink](https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:48 |
+| 46 | [Ink](https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 3:48 |
+| 47 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
 | 48 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 |
 | 49 | [La vie en rose \- Single Version](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 3:24 |
 | 50 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 57 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 |
 | 58 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 | 59 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 |
-| 60 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
-| 61 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
+| 60 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
+| 61 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
 | 62 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 | 63 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 64 | [Paper Aeroplane](https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 99 | [In Your Arms](https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Paper Doors](https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY) | 3:28 |
 | 100 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 |
 
-Snapshot ID: `MCxiM2YwMjU3MGY5MjQ1ZGNjYjA2NDU4Yzc3NWIxYTc2NzRjY2JkZjVl`
+Snapshot ID: `MCwxZTI0YTFlNmE5NjZlZTgxM2U0OTg0NGE4YjFlZDY1YjBlOGYxZDc2`

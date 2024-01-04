@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 147953,
+  "num_followers": 148028,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmRlNjNkMjI2ZWQyZDllNTlhOTQyZGQ4Y2ViNWEwZTExZGUzNmJl",
+  "snapshot_id": "MCw3ZGIyMGZlY2MxMjkwYTRjZGNkZmE5ODVmZDM4ZDExYjg4ODRlNTU5",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 290106,
-      "name": "Night Time Is the Right Time",
-      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 293400,
       "name": "Love Letter To The Blues - Bonus Track",
       "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Night Time Is the Right Time",
+      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Siftin' Thru Ashes",
-        "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
-      },
-      "artists": [
-        {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
-        }
-      ],
-      "duration_ms": 396320,
-      "name": "Lights Are On, But Nobody's Home",
-      "url": "https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 451560,
       "name": "Night Shift Blues",
       "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Siftin' Thru Ashes",
+        "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "duration_ms": 396320,
+      "name": "Lights Are On, But Nobody's Home",
+      "url": "https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 420181,
+      "name": "Weak Days",
+      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "The Blues Is Now",
         "url": "https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 229973,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 420181,
-      "name": "Weak Days",
-      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
     },
     {
       "added_at": "2023-10-05 08:53:30",

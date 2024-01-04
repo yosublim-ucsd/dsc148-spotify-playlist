@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Shay x Niska
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,778 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,885 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 |
 | 40 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 |
 
-Snapshot ID: `MCwxZjVkMWYxNmZhMDQxZDdjNjdlZWE2YTIyNGE3MDdhNDY5NmFiNDVi`
+Snapshot ID: `MCxjNjYyNGRlYTc1YWE4Njc1OTk0ZjhkNmU0ZTc0MzgzMDU4NTUyMGQx`

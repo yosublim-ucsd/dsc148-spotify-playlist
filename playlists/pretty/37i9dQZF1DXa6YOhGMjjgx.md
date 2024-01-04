@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,000 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,004 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 28 | [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 |
 | 29 | [Hooves](https://open.spotify.com/track/59gcuFEGvp32erxYFekyG4) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:43 |
 | 30 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 |
-| 31 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
-| 32 | [Joiner](https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:59 |
+| 31 | [Joiner](https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:59 |
+| 32 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 33 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
 | 34 | [Do It Faster](https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Do It Faster](https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs) | 1:47 |
 | 35 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 37 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 |
 | 38 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
 | 39 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
-| 40 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
-| 41 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
+| 40 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
+| 41 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 |
 | 42 | [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 |
 | 43 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 |
 | 44 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 65 | [Sweet & Sour America](https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Sweet & Sour America](https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm) | 3:12 |
 | 66 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 |
 | 67 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
-| 68 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
-| 69 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 |
-| 70 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
+| 68 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 |
+| 69 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
+| 70 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
 | 71 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:49 |
-| 72 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
-| 73 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
+| 72 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
+| 73 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
 | 74 | [SAY IT](https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [SAY IT](https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH) | 2:41 |
 | 75 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
 | 76 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 79 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 80 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
 | 81 | [If I Believed In Love](https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:25 |
-| 82 | [Pillar on the Bridge of You](https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4) | 3:17 |
+| 82 | [Teenage Lines](https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [Teenage Lines](https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv) | 3:44 |
 | 83 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 |
-| 84 | [Teenage Lines](https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [Teenage Lines](https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv) | 3:44 |
+| 84 | [Pillar on the Bridge of You](https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4) | 3:17 |
 | 85 | [How Far Can You Push A Man?](https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 |
 | 86 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
 | 87 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 89 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
 | 90 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 |
 | 91 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 |
-| 92 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
-| 93 | [Get Out Of My Life](https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Get Out Of My Life](https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o) | 3:07 |
-| 94 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
-| 95 | [Burning Down a Denny's](https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [In A Dream](https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT) | 2:58 |
+| 92 | [Get Out Of My Life](https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Get Out Of My Life](https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o) | 3:07 |
+| 93 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
+| 94 | [Burning Down a Denny's](https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [In A Dream](https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT) | 2:58 |
+| 95 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
 | 96 | [Where Do We Go From Here?](https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV) | 3:08 |
 | 97 | [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 |
 | 98 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
 | 99 | [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 |
 | 100 | [Save Me](https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now and Then](https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I) | 3:23 |
 
-Snapshot ID: `MCw2OGIzZGE4MGJhODE2NjEyOWViYTJmODJlNjUxMzljOGRhOWQ1MGZm`
+Snapshot ID: `MCxiODk5OTVkMjc2OTk4MzcxZTk5Zjc1NjYwZWM3NDMwYjE4Yzg4ZTg4`

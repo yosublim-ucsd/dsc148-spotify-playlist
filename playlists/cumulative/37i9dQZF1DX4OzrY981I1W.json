@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 167986,
       "name": "New Flesh",
       "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
@@ -4836,7 +4854,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
@@ -6500,7 +6518,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"

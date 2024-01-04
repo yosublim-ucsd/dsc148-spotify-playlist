@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 22387,
+  "num_followers": 22401,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTIxYzUzNDgxYjY3ZGNlZWRhOTNjMDEzOWIyMTQ3MWM2NzU5YTJm",
+  "snapshot_id": "MCw1NWVkZjM1NzE0YjZjZTRmYTM4YzZhOWEwM2UwMmFjOTIwNWZmZWEx",
   "tracks": [
     {
       "added_at": "2023-12-22 23:46:17",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "K'arallanta",
-        "url": "https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61"
+        "name": "Trinchera, Vol. 1",
+        "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
       },
       "artists": [
         {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
         }
       ],
-      "duration_ms": 294365,
-      "name": "Jujuy Mujer",
-      "url": "https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT"
+      "duration_ms": 198945,
+      "name": "Trinchera",
+      "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Trinchera, Vol. 1",
-        "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
+        "name": "K'arallanta",
+        "url": "https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61"
       },
       "artists": [
         {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
         }
       ],
-      "duration_ms": 198945,
-      "name": "Trinchera",
-      "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
+      "duration_ms": 294365,
+      "name": "Jujuy Mujer",
+      "url": "https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Herencia",
-        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
-      },
-      "artists": [
-        {
-          "name": "Yamila Cafrune",
-          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Cuando Llegue el Alba",
-      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Aut\u00f3ctona",
         "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 140600,
       "name": "D\u00edas para Celebrar",
       "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Herencia",
+        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
+      },
+      "artists": [
+        {
+          "name": "Yamila Cafrune",
+          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Cuando Llegue el Alba",
+      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
-        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -967,22 +951,18 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
+        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
+        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
       },
       "artists": [
         {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
+      "duration_ms": 196253,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -999,6 +979,26 @@
       "duration_ms": 153840,
       "name": "Mba e Pa Do\u00f1a Froilana",
       "url": "https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        }
+      ],
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Una canastita",
+        "url": "https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 136125,
+      "name": "Una canastita",
+      "url": "https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Una canastita",
-        "url": "https://open.spotify.com/album/4QigF4QvOuSDE3763lyLUB"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 136125,
-      "name": "Una canastita",
-      "url": "https://open.spotify.com/track/7axgUU3BUhRepMAILls8f6"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
+        "name": "Pasionarias",
+        "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
+      },
+      "artists": [
+        {
+          "name": "Silvia Iriondo",
+          "url": "https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7"
+        },
+        {
+          "name": "Carlos Aguirre & Quinteto de Guitarras",
+          "url": "https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5"
+        }
+      ],
+      "duration_ms": 235245,
+      "name": "La Jardinera",
+      "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
         "name": "La Noche Sin Ti",
         "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 260411,
       "name": "Flor Abierta",
       "url": "https://open.spotify.com/track/1SGjtb9kwVZQV8aH5rDzjt"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
-        "name": "Pasionarias",
-        "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
-      },
-      "artists": [
-        {
-          "name": "Silvia Iriondo",
-          "url": "https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7"
-        },
-        {
-          "name": "Carlos Aguirre & Quinteto de Guitarras",
-          "url": "https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5"
-        }
-      ],
-      "duration_ms": 235245,
-      "name": "La Jardinera",
-      "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
     },
     {
       "added_at": "2023-12-22 23:46:17",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-12-22 23:46:17",
       "album": {
-        "name": "Verdeado Dulzor",
-        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
-      },
-      "artists": [
-        {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        },
-        {
-          "name": "Matias Betti",
-          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
-        }
-      ],
-      "duration_ms": 151771,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
-    },
-    {
-      "added_at": "2023-12-22 23:46:17",
-      "album": {
         "name": "Como respirar",
         "url": "https://open.spotify.com/album/17R6jsK6zbmF8JVAPtJczY"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 175945,
       "name": "D\u00e9cimas",
       "url": "https://open.spotify.com/track/0AyDFVksN7gBHYiLk2FWwO"
+    },
+    {
+      "added_at": "2023-12-22 23:46:17",
+      "album": {
+        "name": "Verdeado Dulzor",
+        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+      },
+      "artists": [
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        },
+        {
+          "name": "Matias Betti",
+          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+        }
+      ],
+      "duration_ms": 151771,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
     },
     {
       "added_at": "2023-12-22 23:46:17",

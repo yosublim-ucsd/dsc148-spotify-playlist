@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,920 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,954 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 28 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 29 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 |
 | 30 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 31 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
+| 31 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
 | 32 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
-| 33 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
+| 33 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
 | 34 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 35 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
 | 36 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 59 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 60 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 61 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
-| 62 | [Comingback \- Single Version](https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:36 |
-| 63 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
+| 62 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
+| 63 | [Comingback \- Single Version](https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:36 |
 | 64 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 |
 | 65 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 66 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 68 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
 | 69 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
 | 70 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
-| 71 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
-| 72 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
+| 71 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
+| 72 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
 | 73 | [Never Coming Home](https://open.spotify.com/track/0N0WwX2M7mN4TiLXRyKkCR) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Never Coming Home](https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS) | 4:00 |
 | 74 | [Corduroy](https://open.spotify.com/track/0Od0Z3CyRiFK4OOEtyrw6H) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Mess](https://open.spotify.com/album/1RVYgPPuYGGdgV46Y98QiN) | 3:58 |
 | 75 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
-| 76 | [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 |
-| 77 | [Gotta Get through Til Monday](https://open.spotify.com/track/6sc5VQ55QPoECmYtcf5KMd) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/3gNq14kiiRXmLVGQeXRGYx) | 3:41 |
+| 76 | [Gotta Get through Til Monday](https://open.spotify.com/track/6sc5VQ55QPoECmYtcf5KMd) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/3gNq14kiiRXmLVGQeXRGYx) | 3:41 |
+| 77 | [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 |
 | 78 | [Spinning Heart](https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [WETLANDS](https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv) | 5:14 |
 | 79 | [Stacking Chairs](https://open.spotify.com/track/779oVM9a1jQAnKUMKQdVMd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We’re The Greatest](https://open.spotify.com/album/5dK1qxuVTRmckVMtThjoGu) | 3:08 |
 | 80 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
 
-Snapshot ID: `MCwwYWY2OTFjYTE3ODkxMGNjYzhiNGQ2MDgwMjUwYzQ1ZjkyY2UwNjAz`
+Snapshot ID: `MCw1MzA3NDJiNDIyMjRkZmZlNjFhZDk2YWY1MWQ3ZDZiZTkwMTEzYzJh`

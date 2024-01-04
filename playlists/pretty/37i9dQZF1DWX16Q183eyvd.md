@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,105 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,145 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 29 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
 | 30 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
 | 31 | [I'm Healthy](https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:33 |
-| 32 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 |
+| 32 | [Man Stop](https://open.spotify.com/track/7IZNULeligccS1z83Bzjt8) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL) | 1:59 |
 | 33 | [In My Feelings](https://open.spotify.com/track/5GJkaptoXzXzZ3NUw8MJy9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:03 |
-| 34 | [Man Stop](https://open.spotify.com/track/7IZNULeligccS1z83Bzjt8) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL) | 1:59 |
+| 34 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 |
 | 35 | [Walk Tall \(feat\. Paul Simon\)](https://open.spotify.com/track/2n5jNXpu7XrDpsNeU2BZk0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:16 |
 | 36 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
 | 37 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [TELL EM](https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o) | [GoKeeKeeGo](https://open.spotify.com/artist/7zsyllxtoU29NBJPu96jbz) | [TELL EM](https://open.spotify.com/album/0cuRGPN7DtPu6M1Y0vAOzX) | 2:54 |
 | 50 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 |
 
-Snapshot ID: `MCw3ZDdhNzE0ZjYwMDlmMzk4YzJkZWE3ZGVmMmQ4MjZjMTlkYjVhMzgz`
+Snapshot ID: `MCxjY2Y4OGVhMmI2MmZmZjc0MzkyODEyODYxNWY1NzhiZjNiYzk1OTZj`

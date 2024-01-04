@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Be My Best",
+        "url": "https://open.spotify.com/album/1M5lIx2zlIDbkRYtT2XUNB"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251675,
+      "name": "Be My Best",
+      "url": "https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE"
+    },
+    {
+      "album": {
         "name": "To See the Next Part of the Dream",
         "url": "https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ"
       },

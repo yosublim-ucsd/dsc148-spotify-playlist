@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: FZMZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,967 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,054 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 26 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 |
 | 27 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 |
 | 28 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 |
-| 29 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
+| 29 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
 | 30 | [GRAYSCALE DOMINATOR](https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL) | 3:31 |
 | 31 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |
 | 32 | [嘘](https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK) | 3:25 |
-| 33 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
+| 33 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
 | 34 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 |
 | 35 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
 | 36 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 42 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 43 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
 | 44 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
-| 45 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 |
-| 46 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
+| 45 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
+| 46 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 |
 | 47 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 |
 | 48 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 49 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 50 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 
-Snapshot ID: `MCxiYTE5NjI2ZDA2OWM2ZDZjYmI2MjdmMTE3NDA4YTJhMGFkYTIyOTE2`
+Snapshot ID: `MCw1OGQzYjI0OGIwODZmZGUxMTNiMDhiN2U1NTcwN2VjZjRhYjNjZTU1`

@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Oscar Maydon & Tyga",
-  "num_followers": 28105,
+  "num_followers": 28125,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmYyNjJjZThjZjI3MTk2YzNhYjQ0ODRjNjg5NjI5NmExMTRkMGNj",
+  "snapshot_id": "MCw1NDBhOTQwZjlmZjdlZjcyMjM0MDBjNTY2MWI1ODVjYmU3MGEzNzJl",
   "tracks": [
     {
       "added_at": "2023-12-22 19:39:55",
@@ -160,7 +160,7 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 182500,
+      "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-12-22 19:39:55",
       "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": "2023-12-22 19:39:55",
-      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "added_at": "2023-12-22 19:39:55",
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": "2023-12-22 19:39:55",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-12-22 19:39:55",
       "album": {
-        "name": "Donde Est\u00e1s",
-        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 249040,
-      "name": "Donde Est\u00e1s",
-      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+      "duration_ms": 227233,
+      "name": "Pa' Olvidarme De Ella",
+      "url": "https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S"
     },
     {
       "added_at": "2023-12-22 19:39:55",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-12-22 19:39:55",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "Donde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 227233,
-      "name": "Pa' Olvidarme De Ella",
-      "url": "https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S"
+      "duration_ms": 249040,
+      "name": "Donde Est\u00e1s",
+      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
     },
     {
       "added_at": "2023-12-22 19:39:55",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-12-22 19:39:55",
       "album": {
+        "name": "200 COPAS (Short Version)",
+        "url": "https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST"
+    },
+    {
+      "added_at": "2023-12-22 19:39:55",
+      "album": {
         "name": "Ojal\u00e1 Te Duela",
         "url": "https://open.spotify.com/album/0tqEuVWZDUV5BwgieE14JA"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 232099,
       "name": "Ojal\u00e1 Te Duela",
       "url": "https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH"
-    },
-    {
-      "added_at": "2023-12-22 19:39:55",
-      "album": {
-        "name": "200 COPAS (Short Version)",
-        "url": "https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST"
     },
     {
       "added_at": "2023-12-22 19:39:55",

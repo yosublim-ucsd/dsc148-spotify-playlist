@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,019 likes - 181 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,090 likes - 181 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Energy](https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:01 |
 | 2 | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/track/4XflKK88OP3lWpwrQxg3ll) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/album/2lRF5yXvrn9obPYMbsH2ho) | 3:04 |
 | 3 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 |
-| 4 | [Please Don't Go](https://open.spotify.com/track/1DTHu62VoMDeV76RI3kgeL) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Please Don't Go](https://open.spotify.com/album/4KLJv2TWvzze4r3hJR7wJA) | 4:36 |
+| 4 | [Please Don't Go](https://open.spotify.com/track/4Taq4pozw9Fxbx2IBkWbTO) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Please Don't Go](https://open.spotify.com/album/4EpMnwraCqH2F02MIYMEre) | 4:36 |
 | 5 | [Right Back In It \(Souldrip Mix\)](https://open.spotify.com/track/0qRpRqzRRe7J1rOFPbzR3Q) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Right Back In It \(Souldrip Mix\)](https://open.spotify.com/album/7wpzNt5KCsDyDrUAQdgKLT) | 3:08 |
 | 6 | [Blue Days](https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Blue Days](https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG) | 2:41 |
 | 7 | [Feel Your Love](https://open.spotify.com/track/4JUkJLpwMpqv6ZXdQf0O4H) | [The Code](https://open.spotify.com/artist/21eeOqX01yzH3M9nSyYJ1S) | [Feel Your Love](https://open.spotify.com/album/76JEnC2avKDF8JkdkRvjqu) | 5:58 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 180 | [Fake Love](https://open.spotify.com/track/5EqNG2VsfilMEadJzoh6Af) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Fake Love](https://open.spotify.com/album/5uXuP0rY36kFwr3Ea2mBXF) | 2:55 |
 | 181 | [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 |
 
-Snapshot ID: `MCw3NTAwYTY1OTA0ZmY4OGE3MTk3ZmY5NDE3NDFmNjk4YmU4ODhkMDNh`
+Snapshot ID: `MCw5YWY3MmZlNTYzY2QxZWI0OWY3ZjdiYzZiZDVhY2QyNGFiMmZlODZm`

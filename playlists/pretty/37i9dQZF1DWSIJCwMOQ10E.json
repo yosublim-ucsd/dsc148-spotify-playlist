@@ -1,12 +1,12 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Gusi",
-  "num_followers": 96681,
+  "num_followers": 96691,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njg5ODhlNDMwZTQzZGY2ZWY4NmMxNjljODU4N2I3YWRlODY4Zjhl",
+  "snapshot_id": "MCwyMWRiYzZkMjQyMzhjN2NhM2Q3NDZkNWE0OTkzY2M1N2JmZGQ1ZmI5",
   "tracks": [
     {
       "added_at": "2023-12-15 04:59:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-12-15 04:59:00",
       "album": {
-        "name": "Nace Del Alma",
-        "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
-      },
-      "artists": [
-        {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
-        },
-        {
-          "name": "Esmeralda",
-          "url": "https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu"
-        }
-      ],
-      "duration_ms": 284421,
-      "name": "Una Hoja en Blanco",
-      "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
-    },
-    {
-      "added_at": "2023-12-15 04:59:00",
-      "album": {
         "name": "Alguien Me Gusta",
         "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
+    },
+    {
+      "added_at": "2023-12-15 04:59:00",
+      "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Esmeralda",
+          "url": "https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu"
+        }
+      ],
+      "duration_ms": 284421,
+      "name": "Una Hoja en Blanco",
+      "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
     },
     {
       "added_at": "2023-12-15 04:59:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-15 04:59:00",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
-      },
-      "artists": [
-        {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones Para Amarte",
-      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
-    },
-    {
-      "added_at": "2023-12-15 04:59:00",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 222200,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
+    },
+    {
+      "added_at": "2023-12-15 04:59:00",
+      "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
+      },
+      "artists": [
+        {
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "10 Razones Para Amarte",
+      "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
       "added_at": "2023-12-15 04:59:00",

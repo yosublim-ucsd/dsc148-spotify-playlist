@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Jaido P
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,841 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,950 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 34 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/album/0luLBx14FYCia0BSO2y1Ws) | 2:10 |
 | 35 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 |
 | 36 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 |
-| 37 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
-| 38 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
+| 37 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 |
+| 38 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 |
 | 39 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
 | 40 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 |
 | 41 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 56 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 |
 | 57 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
 | 58 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 |
-| 59 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
-| 60 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 |
+| 59 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 |
+| 60 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
 
-Snapshot ID: `MCw5OWQxMTA2ODc5M2MyZDUyYTNkOGU3MTJlNjAyMWE5NGYwZGRhMDIw`
+Snapshot ID: `MCwyZmRiNTU4MGViNTBjYTQ4ODVjMzBlNGYyMDAwZjg1OWIyNTYwNmNi`

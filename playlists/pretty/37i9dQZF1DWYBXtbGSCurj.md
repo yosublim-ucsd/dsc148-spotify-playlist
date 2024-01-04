@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tasha & Tracie
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,673 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,695 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Pronto pra caça](https://open.spotify.com/track/5hFB1IGyQlCBQH8t9kHEVK) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [DJ BUNE](https://open.spotify.com/artist/0cFkPerD9Of1QRBSyOx6cR), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv) | [Pronto pra caça](https://open.spotify.com/album/5jYfud5ydK96HacGG2b0GA) | 3:27 |
 | 75 | [Space Ship](https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Space Ship](https://open.spotify.com/album/2Is8UedoqtNA8Z58bMZWTv) | 3:18 |
 
-Snapshot ID: `MCw5ZWFhYWJkZWEyNDgyNmViMzAzNjgzYWNlZjBhODExMzgxMzdjM2Nm`
+Snapshot ID: `MCwzYzY4NjA3NzFjNzFhN2QzNjRmODBjM2M5NTRiNzc0NWNlNDYwNGFh`

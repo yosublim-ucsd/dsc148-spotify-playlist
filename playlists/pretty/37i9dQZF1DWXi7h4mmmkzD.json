@@ -1,12 +1,12 @@
 {
   "description": "Nighttime is the right time for these party hits!",
-  "num_followers": 578938,
+  "num_followers": 578921,
   "original_name": "Country Nights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGQ1NmNhNzU4ZDdmMjM2ZWFlZWRlNThkN2JmMTAzOWU5OTliNmY1",
+  "snapshot_id": "MCw4MzEyYTc5MzVjYjdiZDY4MDFlMTQ3MjIzMGIwZTY1MmM0NTI0YzMy",
   "tracks": [
     {
       "added_at": "2023-05-23 12:53:22",
@@ -471,22 +471,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 180906,
-      "name": "1, 2 Many",
-      "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
+      "duration_ms": 229400,
+      "name": "Dirt Road Anthem",
+      "url": "https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -507,18 +503,22 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Dirt Road Anthem",
-      "url": "https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU"
+      "duration_ms": 180906,
+      "name": "1, 2 Many",
+      "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/6vzRJYzyR7G8jTIYrKFxLx"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "She's Country",
-      "url": "https://open.spotify.com/track/0okmLlOW6vKrilXDvtRMfg"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 186106,
       "name": "Cold As You",
       "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/6vzRJYzyR7G8jTIYrKFxLx"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "She's Country",
+      "url": "https://open.spotify.com/track/0okmLlOW6vKrilXDvtRMfg"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Life At Best",
-        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Crazy Girl",
-      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "Life At Best",
+        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Crazy Girl",
+      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
         "name": "Dylan Scott (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 197640,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2023-05-23 12:53:22",

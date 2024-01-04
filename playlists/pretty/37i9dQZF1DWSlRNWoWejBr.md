@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > fim d ano tdo dia é dia d fluxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,094 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,067 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 |
-| 2 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 |
+| 2 | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 |
 | 3 | [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:21 |
 | 4 | [Ela Não Presta](https://open.spotify.com/track/0GEagb54APuGgr0aKeJbAp) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:46 |
 | 5 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/4fDKzjRMXAwh3Mp1jsnMFi) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/7HRJRHjrB0kh9fEJq47zqe) | 1:50 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw1OWEzZmU5Njc1NzVjM2QxMTdkZGM2MGM0MGU5YjcyODQ0OWM2MDc0`
+Snapshot ID: `MCxjNDU0ZmFlZDEyNDAyOGY4NTFkOWM3MzIzNWMwZWVjMWZhNGQ3MDc1`

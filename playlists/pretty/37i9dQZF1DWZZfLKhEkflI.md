@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,063 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,102 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 49 | [Blues Up And Down](https://open.spotify.com/track/22IK0azgagib3S51e9AIOF) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 8:50 |
 | 50 | [Hush \- 2006 Digital Remaster](https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:21 |
 | 51 | [The Champ](https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [A New Sound \- A New Star, Vol\. 2](https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k) | 8:39 |
-| 52 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
-| 53 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 |
+| 52 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 |
+| 53 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
 | 54 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
 | 55 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
 | 56 | [East Of The Village \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 75 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 
-Snapshot ID: `MCwxMzRiZWRhMWJmN2QwMTQ5MmYzMTM2NTFhZWRhNmIyZTg5N2MyOTE3`
+Snapshot ID: `MCxlOGY2YWUwYjJjZGY3N2FkMmYxZjJiMWI3OTViMjRiYTFhNmRmMzQ1`

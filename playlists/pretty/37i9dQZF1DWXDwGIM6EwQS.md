@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 
 > pov: you're crying and dancing at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,343 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,356 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDwGIM6EwQS.md) - [plain]
 | 52 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 53 | [No Te Debí Besar](https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [No Te Debí Besar](https://open.spotify.com/album/1VIVJSQidZ6nddSJoEEYt7) | 3:02 |
 | 54 | [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 |
-| 55 | [traición](https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [traición](https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz) | 2:45 |
-| 56 | [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 |
+| 55 | [ATEO](https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 2:18 |
+| 56 | [traición](https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [traición](https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz) | 2:45 |
 | 57 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 |
 | 58 | [1000CANCIONES](https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [1000CANCIONES](https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl) | 4:06 |
 | 59 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
 | 60 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
 
-Snapshot ID: `MCxlZmViMTYxYzQ2YzM2OGM3ZjI4MWFjYjNiY2NmNmY4MDBjZmEyNjU0`
+Snapshot ID: `MCw4MWYyOTc5NTRiM2E1M2RjZmZiYmJhZjNhN2RkYTg5Y2YyYjRmNzlj`

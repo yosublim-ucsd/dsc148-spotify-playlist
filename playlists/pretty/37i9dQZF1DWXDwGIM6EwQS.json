@@ -1,12 +1,12 @@
 {
   "description": "pov: you're crying and dancing at the same time. ",
-  "num_followers": 238343,
+  "num_followers": 238356,
   "original_name": "llorando en el club \ud83e\udd72",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmViMTYxYzQ2YzM2OGM3ZjI4MWFjYjNiY2NmNmY4MDBjZmEyNjU0",
+  "snapshot_id": "MCw4MWYyOTc5NTRiM2E1M2RjZmZiYmJhZjNhN2RkYTg5Y2YyYjRmNzlj",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "traici\u00f3n",
-        "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "traici\u00f3n",
-      "url": "https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 138680,
       "name": "ATEO",
       "url": "https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "traici\u00f3n",
+        "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "traici\u00f3n",
+      "url": "https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz"
     },
     {
       "added_at": "2023-11-17 05:00:00",

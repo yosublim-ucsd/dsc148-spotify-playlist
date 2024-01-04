@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García, Gabriel Ssoe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,664 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,723 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 17 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
 | 18 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 |
 | 19 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
-| 20 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 20 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 21 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 |
 | 22 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 |
 | 23 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 |
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 77 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
 | 78 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
 | 79 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 |
-| 80 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 |
-| 81 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
+| 80 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
+| 81 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 |
 | 82 | [Buscándole A La Suerte](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Buscándole A La Suerte](https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au) | 2:18 |
 | 83 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 |
-| 84 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
-| 85 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 |
+| 84 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 |
+| 85 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
 | 86 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ) | 3:44 |
 | 87 | [Sanaré](https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Sanaré](https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri) | 2:21 |
 | 88 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
@@ -124,9 +124,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 114 | [Los Envidiosos](https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Los Envidiosos](https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL) | 3:01 |
 | 115 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
 | 116 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
-| 117 | [Arturo El Rey](https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Julian Mercado Desde la Hacienda Escondida Vol\. 2](https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx) | 2:57 |
-| 118 | [Aguanta Corazón](https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Fantasma Sin Limites](https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575) | 2:53 |
-| 119 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
+| 117 | [Aguanta Corazón](https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Fantasma Sin Limites](https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575) | 2:53 |
+| 118 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
+| 119 | [Arturo El Rey](https://open.spotify.com/track/3qEkjV56h6zI7aV0VEFSB0) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Julian Mercado Desde la Hacienda Escondida Vol\. 2](https://open.spotify.com/album/4a14DDe9xZNhfCsRE3XXPx) | 2:57 |
 | 120 | [Oye Bebe](https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [El Gilbert](https://open.spotify.com/artist/5k5o4kXREvEQ8pgzdBRxGA) | [Oye Bebe](https://open.spotify.com/album/7DiOqscYWd6f7glLym4uFQ) | 3:23 |
 | 121 | [Sobran Motivos](https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Sobran Motivos](https://open.spotify.com/album/1hMkbq5j73T1z3nfUz4stQ) | 3:55 |
 | 122 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Salí Perdiendo \- En Vivo](https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 4:01 |
 | 125 | [GPI](https://open.spotify.com/track/2kDAwCfoTqKQePz2ZZEGdm) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [GPI](https://open.spotify.com/album/0zpMM4CQ8CDMxga0oHXrus) | 2:43 |
 
-Snapshot ID: `MCxiNmVmZWQyNjU0NTAwYjIxYWRjNzBkOGU1ZTdkMjE1NmVlZDRmZGU0`
+Snapshot ID: `MCwzYzJkNjQzYzFmNWNhOWNjNGZkNjM3M2ZkOGEzZDQ3ZWIxOTNiYWIy`

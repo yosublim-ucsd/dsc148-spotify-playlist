@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375148,
+  "num_followers": 375159,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4",
+  "snapshot_id": "MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
-        "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
-      },
-      "artists": [
-        {
-          "name": "The Statler Brothers",
-          "url": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Flowers On the Wall",
-      "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
+        "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
+      },
+      "artists": [
+        {
+          "name": "The Statler Brothers",
+          "url": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Flowers On the Wall",
+      "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -531,6 +531,26 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
@@ -543,22 +563,6 @@
       "duration_ms": 102400,
       "name": "Dang Me",
       "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Lost Country Hits of the 60s",
         "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 172666,
       "name": "Devil Woman",
       "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "Prison",
+        "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 186800,
+      "name": "Branded Man - Remastered",
+      "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1067,34 +1067,38 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Prison",
-        "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 186800,
-      "name": "Branded Man - Remastered",
-      "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+        "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
+        "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
       "artists": [
         {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 197293,
-      "name": "Homecoming - Single Version",
-      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
+      "duration_ms": 166266,
+      "name": "Jackson (with June Carter Cash)",
+      "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
-        "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Jackson (with June Carter Cash)",
-      "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
+      "duration_ms": 197293,
+      "name": "Homecoming - Single Version",
+      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1460,6 +1460,22 @@
       "added_at": "2023-11-21 21:06:39",
       "album": {
         "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+      },
+      "artists": [
+        {
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Last Date - Instrumental",
+      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Super Hits",
         "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
       },
       "artists": [
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
       },
       "artists": [
         {
-          "name": "Floyd Cramer",
-          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
         }
       ],
-      "duration_ms": 146760,
-      "name": "Last Date - Instrumental",
-      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
+      "duration_ms": 139093,
+      "name": "Wings Of A Dove",
+      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
+        "name": "It Keeps Right On A-Hurtin'",
+        "url": "https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T"
       },
       "artists": [
         {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Wings Of A Dove",
-      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
+      "duration_ms": 173960,
+      "name": "Send Me The Pillow You Dream On",
+      "url": "https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "It Keeps Right On A-Hurtin'",
-        "url": "https://open.spotify.com/album/59Q8d7s1dohWqRUMFusy2T"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/3EeF3uTDVQLaEzoFLF3orm"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Saginaw, Michigan",
         "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
       },
@@ -1603,34 +1603,34 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
       },
       "artists": [
         {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
         }
       ],
-      "duration_ms": 152800,
-      "name": "Timber I'm Falling",
-      "url": "https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX"
+      "duration_ms": 129240,
+      "name": "A Six Pack To Go",
+      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
     },
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Cold Hard Facts of Life",
-        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 192946,
-      "name": "The Cold Hard Facts of Life",
-      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
     }
   ],
   "unique_name": "60s Country",

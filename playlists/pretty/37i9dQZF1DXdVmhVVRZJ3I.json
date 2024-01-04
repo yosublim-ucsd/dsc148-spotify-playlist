@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 282025,
+  "num_followers": 282081,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGFhNTA5ZGQwMTlmNTg2OGRjZWU4ZDc3MTQwYjE1N2MwNzA3ODY2",
+  "snapshot_id": "MCxjN2NhMGIzMThlYWIyYTdlZmQxZGZlMThlNGYxYjdkYzE2MDQyOTg5",
   "tracks": [
     {
       "added_at": "2023-12-15 20:41:19",
@@ -79,30 +79,6 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2023-12-15 20:41:19",
-      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -127,6 +103,30 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+    },
+    {
+      "added_at": "2023-12-15 20:41:19",
+      "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -499,26 +499,26 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Move Your Body (Ti\u00ebsto Edit)",
-        "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
+        "name": "Drinkee (Vintage Culture & John Summit Remix)",
+        "url": "https://open.spotify.com/album/2o70wuTVYR2Azaz6jFuaHf"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Move Your Body - Ti\u00ebsto Edit",
-      "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
+      "duration_ms": 205161,
+      "name": "Drinkee - Vintage Culture & John Summit Remix",
+      "url": "https://open.spotify.com/track/5XXdHWkkprtfG8DxBARihy"
     },
     {
       "added_at": "2023-12-15 20:41:19",
@@ -543,26 +543,26 @@
     {
       "added_at": "2023-12-15 20:41:19",
       "album": {
-        "name": "Drinkee (Vintage Culture & John Summit Remix)",
-        "url": "https://open.spotify.com/album/2o70wuTVYR2Azaz6jFuaHf"
+        "name": "Move Your Body (Ti\u00ebsto Edit)",
+        "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         },
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Drinkee - Vintage Culture & John Summit Remix",
-      "url": "https://open.spotify.com/track/5XXdHWkkprtfG8DxBARihy"
+      "duration_ms": 140160,
+      "name": "Move Your Body - Ti\u00ebsto Edit",
+      "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
     },
     {
       "added_at": "2023-12-15 20:41:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,518 likes - 126 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,549 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,6 +133,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 123 | [dancing in the dark](https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [a happy medium](https://open.spotify.com/album/7kibZ3ebsdQwbKNEJ0q3xP) | 3:09 |
 | 124 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 |
 | 125 | [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 |
-| 126 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 |
 
-Snapshot ID: `MCw0MzE1OTY3N2M2MzVlOGM4ZDUxMGExYzA0NTA4N2MxYzY5Y2Y3ZWRj`
+Snapshot ID: `MCwyYzVlNjBmNzc3ZTlhYjcxMDA4M2E2YzA4YzQ4OWIzMjU1N2QyYTYw`

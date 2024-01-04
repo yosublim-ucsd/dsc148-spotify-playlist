@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,720 likes - 39 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,726 likes - 39 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 5 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 |
 | 6 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
 | 7 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
-| 8 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
+| 8 | [The Ghost Of You and I](https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:55 |
 | 9 | [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 |
 | 10 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
-| 11 | [The Ghost Of You and I](https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:55 |
+| 11 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
 | 12 | [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 |
 | 13 | [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 |
 | 14 | [Sidewalks](https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:34 |
@@ -30,22 +30,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 20 | [Tell Me \(P.A.C.\)](https://open.spotify.com/track/51Ly9CdELGbiFnSTdED64H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:58 |
 | 21 | [Afterglow](https://open.spotify.com/track/3CiGKCuCs6VwrdrEnujIaU) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:53 |
 | 22 | [Dive Right In](https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:15 |
-| 23 | [I'm Alive](https://open.spotify.com/track/2QjfK1p1qzPCq0VRzx74hN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:15 |
-| 24 | [Goodnight, My Love](https://open.spotify.com/track/0KRm82wbZfjdbaCy0fF69H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:07 |
+| 23 | [Goodnight, My Love](https://open.spotify.com/track/0KRm82wbZfjdbaCy0fF69H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:07 |
+| 24 | [I'm Alive](https://open.spotify.com/track/2QjfK1p1qzPCq0VRzx74hN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:15 |
 | 25 | [Stereo](https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:29 |
 | 26 | [The Black Swan](https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:44 |
-| 27 | [Holding On To You](https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:43 |
-| 28 | [Can Anybody Hear Me](https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:28 |
+| 27 | [Can Anybody Hear Me](https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:28 |
+| 28 | [Holding On To You](https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:43 |
 | 29 | [Our Time Is Now](https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
 | 30 | [Terrified](https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 4:00 |
-| 31 | [The Dream Is Over](https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:52 |
-| 32 | [How Can We Go On](https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:25 |
+| 31 | [How Can We Go On](https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:25 |
+| 32 | [The Dream Is Over](https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:52 |
 | 33 | [Taste the Poison](https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:43 |
 | 34 | [Choose Your Fate](https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:33 |
-| 35 | [Ten Years Down](https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:53 |
-| 36 | [A Silent Murder](https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A Silent Murder](https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx) | 2:36 |
+| 35 | [A Silent Murder](https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A Silent Murder](https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx) | 2:36 |
+| 36 | [Ten Years Down](https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:53 |
 | 37 | [Sleep](https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:12 |
 | 38 | [Unheard Voice](https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Unheard Voice](https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP) | 3:11 |
 | 39 | [The Children Sing](https://open.spotify.com/track/1aYT1emiHxA0x0c1SPmY7H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:07 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA0NDYyMGZjZmJiMTc5MmE1NTc2ZWUwYjBmOGQwZDBhMg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA3MjE2MGQxNGZlOGJmMWQ0MTFhMGNmMTU1OWFlZGFlMw==`

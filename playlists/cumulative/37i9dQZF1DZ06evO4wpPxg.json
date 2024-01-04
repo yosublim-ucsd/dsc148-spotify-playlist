@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 216533,
       "name": "Bad Company Brought Me Here",
       "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 137626,
       "name": "Coco Blues",
       "url": "https://open.spotify.com/track/0lBwR0hV88ZIw4iCzagqJX"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 318320,
       "name": "Don't Let My Baby Catch You Here",
       "url": "https://open.spotify.com/track/0nJz7IghbHnmYxHeC9LKgu"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 170057,
       "name": "I Cannot Bear My Burden By Myself",
       "url": "https://open.spotify.com/track/1WUMo4QuMIglvm7k8nhVna"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 180666,
       "name": "I'm Glad I'm In That Number",
       "url": "https://open.spotify.com/track/4NP3osK3ATVaosyWXVZxvN"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 169691,
       "name": "I'm Throwin' Up My Hands",
       "url": "https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 286426,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 189906,
       "name": "Let Us Get Together Right Down Here",
       "url": "https://open.spotify.com/track/5cicntULcN9AtVoCu1fT4n"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 270933,
       "name": "Little Bitty Blues",
       "url": "https://open.spotify.com/track/3JYy9ZrrPgVtChNiciRa7t"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -2612,6 +2612,24 @@
       "duration_ms": 274800,
       "name": "Lovin' Spoonful",
       "url": "https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj"
+    },
+    {
+      "album": {
+        "name": "Live and Kickin'",
+        "url": "https://open.spotify.com/album/3AFJAp5xnLiMPBuncEdU79"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301066,
+      "name": "Make Believe Stunt - Live",
+      "url": "https://open.spotify.com/track/69Yvqq5ffEYjB1FMZnVAce"
     },
     {
       "album": {
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -4001,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Let Us Get Together",
+        "url": "https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98240,
+      "name": "Teaching The Audience The Next Song - Live in Seattle, WA",
+      "url": "https://open.spotify.com/track/75BCBXpg4Rfn3gNbl44oS1"
+    },
+    {
+      "album": {
         "name": "The Complete Early Recordings Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
       },
@@ -4318,7 +4354,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 264373,
       "name": "Time Is Drawing Near",
       "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"
@@ -4372,7 +4408,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -4426,7 +4462,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"

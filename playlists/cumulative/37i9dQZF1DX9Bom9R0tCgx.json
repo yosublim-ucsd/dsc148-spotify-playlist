@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
+    },
+    {
+      "album": {
         "name": "dropitlikeitshot!",
         "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
       },
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"

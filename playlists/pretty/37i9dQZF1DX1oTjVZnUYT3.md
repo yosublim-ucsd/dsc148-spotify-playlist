@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,492 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,553 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 20 | [La Belle De Jour](https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [2 Em 1](https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J) | 4:29 |
 | 21 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 22 | [Tiro Ao Álvaro](https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [The Essential](https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz) | 2:42 |
-| 23 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
+| 23 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
 | 24 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
 | 25 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
-| 26 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
+| 26 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 27 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 |
 | 28 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 | 29 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
@@ -49,21 +49,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 39 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
 | 40 | [Bola de Cristal](https://open.spotify.com/track/2CBCFIzmumJ8pHEv2bcQZt) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 4:12 |
 | 41 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |
-| 42 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
-| 43 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
-| 44 | [O Show Tem Que Continuar \- Ao Vivo](https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Ao Vivo No Parque Madureira \(Deluxe\)](https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O) | 3:36 |
-| 45 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
+| 42 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
+| 43 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
+| 44 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
+| 45 | [O Show Tem Que Continuar \- Ao Vivo](https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Ao Vivo No Parque Madureira \(Deluxe\)](https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O) | 3:36 |
 | 46 | [Jorge Maravilha](https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Umas E Outras](https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG) | 3:40 |
 | 47 | [Chega](https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Chega](https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m) | 3:05 |
 | 48 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
-| 49 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
-| 50 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
-| 51 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
-| 52 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 53 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
+| 49 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
+| 50 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
+| 51 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
+| 52 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
+| 53 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 54 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
 | 55 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 56 | [Velha Roupa Colorida](https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:14 |
 | 57 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
 
-Snapshot ID: `MCw1ZWUxNTYyYjc2ZTM2ODQyOWMwZTJmOTZkYjBjZmM3YmM3NTc3OGNh`
+Snapshot ID: `MCxkZTNmNWVjZjQzMjMwNDM3OWFjNTdkOTU3ZTkzYTJmMjFlOGEyYTIz`

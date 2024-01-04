@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: MIJOO (\ubbf8\uc8fc) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Billlie (\ube4c\ub9ac) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 169720,
       "name": "HBD To You (Midnight Version)",
       "url": "https://open.spotify.com/track/1B2CS1Ipm1XqGZE2y5tL93"
@@ -2745,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "\u2018the Billlie\u2019s odditorium\u2019 the second edition",
+        "url": "https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235236,
+      "name": "January 0th (a hope song)",
+      "url": "https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV"
+    },
+    {
+      "album": {
         "name": "Je T'aime",
         "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
       },
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 164053,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 184440,
       "name": "No Way (feat. I\u2019MIN)",
       "url": "https://open.spotify.com/track/1wZVmivEx6PL8u0l2Ucl3j"

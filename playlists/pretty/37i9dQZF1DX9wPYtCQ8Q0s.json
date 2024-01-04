@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 346768,
+  "num_followers": 346738,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjExODZkYjA1MTE2NmI5NjM5YTcwMjJjOTMwZTk5MzI0MjI0OWZj",
+  "snapshot_id": "MCxmODA1MTY3NTg4NmRmMjdhZmQzMWI3YzcxOWY2YWQ1Y2YwNGQ4NzEz",
   "tracks": [
     {
       "added_at": "2023-12-01 03:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-12-01 03:01:00",
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2023-12-01 03:01:00",
+      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2023-12-01 03:01:00",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2023-12-01 03:01:00",

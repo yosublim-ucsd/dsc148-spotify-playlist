@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 266213,
       "name": "AKM",
       "url": "https://open.spotify.com/track/3Yn1eOU2fLwJeuBmONmrk2"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 281000,
       "name": "Bengoro je sp\u00e1tky",
       "url": "https://open.spotify.com/track/1IeN7M0Y3Bqx8ghf2bch2d"
@@ -4236,7 +4236,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -5428,7 +5428,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -11072,7 +11072,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -14388,7 +14388,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
@@ -17004,6 +17004,28 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
       "album": {
@@ -21546,7 +21568,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 162461,
       "name": "Praha/V\u00edde\u0148",
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
@@ -23820,7 +23842,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -25988,7 +26010,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 152582,
       "name": "STFU (feat. Calin & SIMILIVINLIFE)",
       "url": "https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc"
@@ -32220,7 +32242,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 187186,
       "name": "\u0160ukar gili",
       "url": "https://open.spotify.com/track/2j6WTMYO3AoNpLYphCCFiQ"

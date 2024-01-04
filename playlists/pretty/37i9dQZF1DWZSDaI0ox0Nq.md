@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,316 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,327 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 8 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
 | 9 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
 | 10 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
-| 11 | [Juguete Rabioso](https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Tango Agazapado](https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD) | 3:44 |
-| 12 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
+| 11 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
+| 12 | [Juguete Rabioso](https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Tango Agazapado](https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD) | 3:44 |
 | 13 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 14 | [Arrabalera](https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Tita De Buenos Aires](https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP) | 2:16 |
 | 15 | [Sería Facil Decir](https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 2:34 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 38 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 | 39 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
 | 40 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
-| 41 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
-| 42 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
+| 41 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
+| 42 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 43 | [El Corazón al Sur](https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:03 |
 | 44 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 45 | [Trenzas](https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Brian Chambouleyron](https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ), [Esteban Morgado](https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl), [Damian Bolotin](https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp), [Walter Castro](https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG), [Mono Hurtado](https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL) | [Patio De Tango](https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS) | 4:30 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 52 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
 | 53 | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z) | [Ada Falcón](https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3) | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy) | 3:28 |
 | 54 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
-| 55 | [Balada para el](https://open.spotify.com/track/1h4TqxxnNm24UGJeDRZu0P) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 4:29 |
+| 55 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 
-Snapshot ID: `MCxiMDgzOWQ5N2FkZjdlMGFjNTUxYjU5MWQwNDEyMmQ3ZmIxODVjODFk`
+Snapshot ID: `MCwyNTg2NGE1ZDllM2Q1ODBlMDhjYjkzNmYwZWU0NGVmYmJkY2JkMjFm`

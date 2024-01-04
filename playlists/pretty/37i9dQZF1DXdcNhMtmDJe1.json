@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 83154,
+  "num_followers": 83160,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjA5ZDc5NjBiNDdlZjhmYmJiYzAzYjI4YzliY2RmNmQ1MjU2ZmI1",
+  "snapshot_id": "MCwxNmI5ZDRhOTFkNWVkMjg1NjVhODI4MWQ2MTYzMzBiYTc0ZWRiYzY1",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -763,30 +763,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 79226,
-      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
-      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 426866,
       "name": "Oh, Kay!: Overture",
       "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 79226,
+      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -947,34 +947,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Adagio",
-      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Take Two",
         "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
       },
@@ -1016,9 +988,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 826466,
-      "name": "Piano Concerto in F Major: I. Allegro",
-      "url": "https://open.spotify.com/track/4pi6ompYQXcmOVIfBgEakp"
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Adagio",
+      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1039,6 +1011,34 @@
       "duration_ms": 92533,
       "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
       "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 826466,
+      "name": "Piano Concerto in F Major: I. Allegro",
+      "url": "https://open.spotify.com/track/4pi6ompYQXcmOVIfBgEakp"
     },
     {
       "added_at": "2022-08-05 04:02:00",

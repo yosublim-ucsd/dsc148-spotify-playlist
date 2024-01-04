@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,295 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,289 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 47 | [Infinite](https://open.spotify.com/track/0oLICk7wA4GsaGEk1lprgD) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 2:43 |
 | 48 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
 | 49 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
-| 50 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 |
+| 50 | [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 |
 
-Snapshot ID: `MCxhYWIxNTUzMGI2NmQyZmQ1ZDllMzk1NzdhNThlMzFkZjViMzI4NjQx`
+Snapshot ID: `MCw3MzJiMjE3ODQ2YTJiMDE3OWNkZDc4ZDEwYWFiZWEzZjYyNjg5MTgx`

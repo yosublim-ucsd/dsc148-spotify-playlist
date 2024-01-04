@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,991 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,991 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 40 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
 | 41 | [Baba](https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:43 |
 | 42 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 |
-| 43 | [Ekolo D'Amour](https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 3:55 |
-| 44 | [Des humains \(feat\. Salif Keita\)](https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La gouache](https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0) | 4:02 |
-| 45 | [Masibambaneni](https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Bamako](https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw) | 5:06 |
-| 46 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 |
+| 43 | [Des humains \(feat\. Salif Keita\)](https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La gouache](https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0) | 4:02 |
+| 44 | [Ekolo D'Amour](https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 3:55 |
+| 45 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 |
+| 46 | [Masibambaneni](https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Bamako](https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw) | 5:06 |
 | 47 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 |
-| 48 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 |
-| 49 | [SobreHumano](https://open.spotify.com/track/1NvxtekkTSINREzraxen7q) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Vestido de Amor](https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ) | 3:40 |
-| 50 | [Papa](https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 6:59 |
+| 48 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
+| 49 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 |
+| 50 | [SobreHumano](https://open.spotify.com/track/1NvxtekkTSINREzraxen7q) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Vestido de Amor](https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ) | 3:40 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAwODY3M2IwMTBjODFiNmJkOWZkMDhkODM2NDExNzk2Mg==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAyYjRjZWY5ZDlhOGYzNzhjNTc3OGNmZTI4ZmNjYzE1ZQ==`

@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-133 songs - 9 hr 28 min
+136 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,8 @@
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2021-10-20 |  |
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-02-23 |  |
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-05 |  |
+| [Dois Palitos Fofinhos](https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Dois Palitos Fofinhos](https://open.spotify.com/album/20HJ1KS55VbcT6tomohpxq) | 2:47 | 2024-01-03 |  |
+| [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 4:04 | 2024-01-03 |  |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-10-20 |  |
 | [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 | 2023-12-05 |  |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F) | 5:01 | 2022-02-18 |  |
@@ -65,11 +67,11 @@
 | [Khobs](https://open.spotify.com/track/6xjIrx0kE96n5OQvj9oZmO) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 3:31 | 2021-10-20 |  |
 | [Kolyskova](https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 5:46 | 2021-10-20 |  |
 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 | 2023-11-23 |  |
-| [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 | 2023-02-10 |  |
+| [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 | 2023-02-10 | 2024-01-04 |
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 |  |
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 |  |
 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-05 | 2023-10-10 |
-| [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 |  |
+| [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 | 2024-01-04 |
 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 | 2022-02-15 | 2023-11-24 |
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2021-10-20 |  |
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2021-10-20 |  |
@@ -113,7 +115,7 @@
 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 | 2021-10-20 |  |
 | [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 | 2022-12-29 |  |
 | [Tazidert](https://open.spotify.com/track/2t67B5rLaQljQtXb7121Bp) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Sahel](https://open.spotify.com/album/2bu7BrEuunURavjRY9qkyR) | 4:56 | 2023-06-02 | 2023-11-24 |
-| [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2021-10-20 |  |
+| [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2021-10-20 | 2024-01-04 |
 | [Tears of the Ancestors](https://open.spotify.com/track/2EGO35LATKIcw2DXZDDn7f) | [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Good Evening Black Buddha](https://open.spotify.com/album/3rbpuBfLjoR2bdXMEt3s3W) | 4:12 | 2022-09-29 | 2023-08-31 |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-02-03 |  |
 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 | 2021-10-20 |  |
@@ -134,6 +136,7 @@
 | [Yak Sher](https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Kabul Fire Vol\. 2](https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1) | 3:25 | 2021-10-20 |  |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Tonkori In The Moonlight](https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx) | 5:10 | 2022-02-03 |  |
 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 | 2021-10-20 |  |
+| [Yoru Ni](https://open.spotify.com/track/0daxQGhaNTiE8HZn2aoIhH) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Shirushi](https://open.spotify.com/album/2SCgXvQQ6Kljbasf9NR7Vc) | 4:00 | 2024-01-03 |  |
 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 | 2021-10-20 |  |
 | [ZENIT](https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [KOLIR](https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle) | 4:32 | 2021-10-20 | 2023-09-26 |
 | [Zerzura Theme II](https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 4:23 | 2021-10-20 |  |

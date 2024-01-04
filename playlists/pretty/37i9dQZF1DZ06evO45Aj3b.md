@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,946 likes - 30 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,006 likes - 29 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 2 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
+| 2 | [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 |
 | 3 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 4 | [Superstar Sh\*t](https://open.spotify.com/track/20j7l6tFtc5lynXpbOQg1O) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:07 |
 | 5 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 |
@@ -34,9 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 24 | [Double Negative \(Skeleton Milkshake\)](https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:06 |
 | 25 | [Rollerblades](https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rollerblades](https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw) | 2:14 |
 | 26 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
-| 27 | [Dancing In The Courthouse](https://open.spotify.com/track/5fX8WljoAFrmFrFqahjz4Y) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:37 |
-| 28 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
-| 29 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 |
-| 30 | [Hey Blondie](https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:21 |
+| 27 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
+| 28 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 |
+| 29 | [Hey Blondie](https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:21 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA5MDJmNDhkZmQ1NTAyZjQ2ODBmNjI3MTIxNmU0MDA1NA==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDAwZjVmYjY4NTk4NjYxMmJlNWQ0ZTkxY2NkMTcyYWFjZQ==`

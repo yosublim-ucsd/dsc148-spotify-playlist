@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,242 likes - 99 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,237 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [23](https://open.spotify.com/track/28pZzysr6bKo42CS01n0uP) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [23](https://open.spotify.com/album/68JWlzkydRqJRvDL36p3BI) | 3:58 |
 | 99 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 
-Snapshot ID: `MCxmZmVmN2Q3Mjg0ZDNlMWZjYzlhNjVmZTJhNTM0N2U3OTk5OGFhOGIy`
+Snapshot ID: `MCxmZjY1ZWQ1MjRkZmY5YTkxYTU3N2E4ZDdiMTc4YTVlY2JhYjY4Mjlk`

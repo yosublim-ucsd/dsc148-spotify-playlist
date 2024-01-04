@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12016,
+  "num_followers": 12023,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUyZDJhYWU0ZjQ2YjY3MDM1M2ZjZjdmMTZmOTM3OTRhNjNhYmJm",
+  "snapshot_id": "MCwwNjZjMDk1YmFjODNhZGZiNTlkNzJmYTJhYmQwNDE2ZDhiN2RjZWJh",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 296186,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 242413,
       "name": "My Happy Ending",
       "url": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -711,18 +711,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 265826,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -743,34 +743,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Pieces of A Dream",
-        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Left Outside Alone",
-      "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
+      "duration_ms": 265826,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -787,6 +771,22 @@
       "duration_ms": 225866,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Pieces of A Dream",
+        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Left Outside Alone",
+      "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Sleeping With Ghosts",
-        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "This Picture",
-      "url": "https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Brother Bear",
         "url": "https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220293,
       "name": "On My Way - From \"Brother Bear\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7wjiMdiSgsL9Vkrwb10Num"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Sleeping With Ghosts",
+        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "This Picture",
+      "url": "https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei"
     },
     {
       "added_at": "2020-10-27 12:12:52",

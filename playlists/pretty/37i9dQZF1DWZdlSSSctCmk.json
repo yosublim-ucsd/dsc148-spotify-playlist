@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 115753,
+  "num_followers": 115790,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjc3OGEzNjM1OTM5YTNjZDA4YTkxZDk0NzMzNzU4NmE1MzYxNmRi",
+  "snapshot_id": "MCw3YTA2NGUzZTMxOTYzYTAyOGIwYzFiOWZkYWY5Y2IyM2Y3YmNkODI0",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pleasure Centre",
-        "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
       "artists": [
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Satchmode",
-          "url": "https://open.spotify.com/artist/7ki0NEYjetAx5KbjEzpVB2"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 317143,
-      "name": "Don't Want This to Be Over",
-      "url": "https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7"
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -779,22 +759,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Final Days (Bonobo Remix)",
-        "url": "https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB"
+        "name": "Pleasure Centre",
+        "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
         },
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Satchmode",
+          "url": "https://open.spotify.com/artist/7ki0NEYjetAx5KbjEzpVB2"
         }
       ],
-      "duration_ms": 340373,
-      "name": "Final Days - Bonobo Remix",
-      "url": "https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6"
+      "duration_ms": 317143,
+      "name": "Don't Want This to Be Over",
+      "url": "https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -815,18 +795,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "Final Days (Bonobo Remix)",
+        "url": "https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 258651,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
+      "duration_ms": 340373,
+      "name": "Final Days - Bonobo Remix",
+      "url": "https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -847,6 +831,22 @@
       "duration_ms": 167493,
       "name": "Pa L\u00e9",
       "url": "https://open.spotify.com/track/2nK0JwkBzP8wb6BTwsL6yv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "sketches",
+      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Indoor Fireworks (Re-Release)",
         "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "sketches",
-      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Just Landed",
-        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Tabarin",
-      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Just Landed",
+        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 330973,
+      "name": "Tabarin",
+      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "When We On",
-        "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 326809,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Spreading Rhythm",
         "url": "https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 241500,
       "name": "Echo Valley",
       "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "When We On",
+        "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 326809,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        },
+        {
+          "name": "JULES",
+          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
+        }
+      ],
+      "duration_ms": 214014,
+      "name": "Tiefer",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Into Daylight",
         "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        },
-        {
-          "name": "JULES",
-          "url": "https://open.spotify.com/artist/2UV5R1AFHqW9acWXaGba68"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Through Your Hands Love Can Shine (Turbotito Remix)",
         "url": "https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "The Works",
         "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
       },
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Give It To You",
-        "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
+        "name": "Simulcast",
+        "url": "https://open.spotify.com/album/09kooFexe8JArV583iIkaj"
       },
       "artists": [
         {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Paula",
-          "url": "https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 228159,
-      "name": "Give It To You - Ralf GUM Radio Edit",
-      "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
+      "duration_ms": 250383,
+      "name": "Outer Sunset",
+      "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
     }
   ],
   "unique_name": "Balearic Beats",

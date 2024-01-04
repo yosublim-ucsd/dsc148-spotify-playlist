@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,531 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,601 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 38 | [Speakeasy Swagger](https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8) | [John Rowcroft](https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF), [London Studio Big Band](https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z) | [Vintage Big Band](https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O) | 2:27 |
 | 39 | [A You’re Adorable](https://open.spotify.com/track/3LN8pyCUQji0qVzuczFal7) | [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [Jimmy Dorsey:The Complete Standard Transcriptions](https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0) | 2:29 |
 | 40 | [Work Song](https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Black, Brown and Beige](https://open.spotify.com/album/6dfaMuSYNofjA7mOBgS25u) | 8:05 |
-| 41 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
-| 42 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
+| 41 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
+| 42 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
 | 43 | [The Night Is Ours](https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf) | [Gregory Cotti](https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa), [Gabriel Saban](https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G) | [Rumble Jam \- Big Band and Jazz Themes](https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM) | 2:28 |
 | 44 | [Lullaby of the Leaves](https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu) | [The Kenny Clarke\-Francy Boland Big Band](https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO) | [More Smiles](https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg) | 4:14 |
 | 45 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 | 50 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 
-Snapshot ID: `MCw4MDkzYzMzZWIyMDA2YzY1YTM0ZDRiM2QwZDg3ZTVmYTdhZGRmODM2`
+Snapshot ID: `MCxkYzFjNmZhMzY2YTA2MGFkMWI0Mjg1YjI2ODliYjczOTY2ZDllNmNl`

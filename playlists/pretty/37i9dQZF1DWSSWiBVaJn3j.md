@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 
 > 60s rock to fuel your ride\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,747 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,909 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 37 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
 | 38 | [Back In The U.S.S.R\. \- Remastered 2009](https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:43 |
 | 39 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
-| 40 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
-| 41 | [Mony Mony](https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Mony Mony](https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt) | 2:54 |
+| 40 | [Mony Mony](https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Mony Mony](https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt) | 2:54 |
+| 41 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
 | 42 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 |
 | 43 | [I Can See For Miles \- Mono Version](https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 4:07 |
 | 44 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 49 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
 | 50 | [Evil Ways](https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT) | 3:57 |
 
-Snapshot ID: `MCw0YzM4ZGZjMjlhODI1MTY4MTZlY2YyNDIzYmFkYjJmZTY5YjhkNDdj`
+Snapshot ID: `MCxiMzU3NzFjZWQwMzBiYTQwMjRjNmRiMjdmYWQ4ZTc1YzVmMWM5NzU0`

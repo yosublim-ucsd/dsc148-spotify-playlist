@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 74733,
+  "num_followers": 74746,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODdlMDk0N2U3NWMzMTJlMmEyZDQxZDlhZTNmYWM1ZDY4MDQ3MDkz",
+  "snapshot_id": "MCxlNGViYzI4ZGQxZmVjMjA2NTBiYmYxNWU2MzliMjE5MzZhZWQ2OTYz",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1283,6 +1283,34 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: La forza del destino",
+        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Giorgio Zancanaro",
+          "url": "https://open.spotify.com/artist/39dLB5mWDbZhWPGeEOzDHX"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Verdi: La forza del destino, Act 3: \"Morir! Tremenda cosa!\" (Don Carlo di Vargas)",
+      "url": "https://open.spotify.com/track/0drQZ4GkWY45j0mUKpMOpm"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -1315,34 +1343,6 @@
       "duration_ms": 322000,
       "name": "4 Pezzi sacri: I. Ave Maria",
       "url": "https://open.spotify.com/track/1dctD6ZTdSnx2bWPYm3MgT"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: La forza del destino",
-        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Giorgio Zancanaro",
-          "url": "https://open.spotify.com/artist/39dLB5mWDbZhWPGeEOzDHX"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Verdi: La forza del destino, Act 3: \"Morir! Tremenda cosa!\" (Don Carlo di Vargas)",
-      "url": "https://open.spotify.com/track/0drQZ4GkWY45j0mUKpMOpm"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1475,34 +1475,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Falstaff",
-        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Falstaff, Act I: L'Onore! Ladri!",
-      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Otello",
         "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
       },
@@ -1543,6 +1515,34 @@
       "duration_ms": 284253,
       "name": "Otello, Act II: Act II: Dove guardi splendono\u2026 Non parlo ancor di prova (Chorus, Jago, Desdemona, Otello)",
       "url": "https://open.spotify.com/track/3cwktPZ9dPAU51iT20JvUe"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Falstaff",
+        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Falstaff, Act I: L'Onore! Ladri!",
+      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
     },
     {
       "added_at": "2022-06-27 14:42:44",

@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-129 songs - 6 hr 27 min
+130 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 | 2021-12-28 |  |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-10-30 | 2023-11-11 |
 | [Bankulize](https://open.spotify.com/track/1AjWF97CgrlnVDmhgkl5Kl) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bankulize](https://open.spotify.com/album/5t6hZkumZCUBccDrCXww8W) | 4:08 | 2022-01-01 | 2022-05-12 |
+| [BE MY LOVER](https://open.spotify.com/track/3pW9AlECzn3lmAEMAE9yce) | [Jizzle](https://open.spotify.com/artist/74fzLDLFt37GEvxhj6XDdu), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [BE MY LOVER](https://open.spotify.com/album/3flNe7ZbX3nSv67LtmicJe) | 2:45 | 2024-01-03 |  |
 | [Breakup Riddim](https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0) | [DJ Aroma](https://open.spotify.com/artist/6JAmITwWmfcxmfTMRw1Qtq), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Nhlanhla Nciza](https://open.spotify.com/artist/5RWkCVS7J5JkzumQrh7uBd) | [Breakup Riddim](https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf) | 3:24 | 2021-12-28 |  |
 | [By Force](https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 3:27 | 2023-05-27 | 2023-11-11 |
 | [Cake](https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:31 | 2021-12-31 | 2022-10-13 |
@@ -134,7 +135,7 @@
 | [We Dey](https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:39 | 2023-11-10 | 2023-12-14 |
 | [Wena](https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Wena](https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw) | 3:14 | 2023-04-29 | 2023-08-07 |
 | [Wena](https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 3:14 | 2023-08-06 |  |
-| [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-28 |  |
+| [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-28 | 2024-01-04 |
 | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/track/7xJLMJPvaHH4daMFmySAtd) | [Loick Essien](https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/album/19rxMCwjmwPQ4espwyH3Kr) | 3:20 | 2022-01-30 | 2023-03-28 |
 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 | 2022-10-12 | 2023-09-16 |
 

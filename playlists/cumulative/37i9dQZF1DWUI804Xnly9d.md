@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-232 songs - 13 hr 5 min
+233 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 | 2023-11-06 |
 | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saurabh Vaibhav](https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl) | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s) | 3:49 | 2023-08-04 | 2023-09-02 |
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2023-11-21 | 2023-12-17 |
-| [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 |  |
+| [Bechara Dil](https://open.spotify.com/track/35BePcnXPMZgIDsTY3UAvT) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/6ukDINQR94HElsfitxKPFN) | 2:41 | 2023-12-26 |  |
+| [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 | 2024-01-04 |
 | [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 | 2023-06-27 |  |
 | [Bikhra](https://open.spotify.com/track/6YnilfIRgLOzlOrqPEOEnb) | [Vaibhav Malhotra](https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j) | [Afsana](https://open.spotify.com/album/17yHafgTW0pQ2yGcanLduv) | 3:25 | 2023-05-17 | 2023-05-27 |
 | [Bitata Pal](https://open.spotify.com/track/5p2MaDktvl7GmLfAQqdP0B) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Bitata Pal](https://open.spotify.com/album/6CroN34V63lcQsAYjxUCl3) | 3:43 | 2023-11-24 |  |

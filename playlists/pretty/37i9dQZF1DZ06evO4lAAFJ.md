@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,181 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,272 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 24 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 25 | [DI MI NOMBRE \- Cap.8: Éxtasis](https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:42 |
 | 26 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 |
-| 27 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 |
+| 27 | [MOTOMAMI](https://open.spotify.com/track/6ygEPi8EtVkUO0Xarcgs63) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:01 |
 | 28 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
 | 29 | [BAGDAD \- Cap.7: Liturgia](https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:02 |
 | 30 | [PROMESA](https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:16 |
-| 31 | [MOTOMAMI](https://open.spotify.com/track/6ygEPi8EtVkUO0Xarcgs63) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:01 |
+| 31 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 |
 | 32 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
 | 33 | [A NINGÚN HOMBRE \- Cap.11: Poder](https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 1:34 |
 | 34 | [HIGHEST IN THE ROOM \(feat\. ROSALÍA & Lil Baby\) \- REMIX](https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 48 | [Catalina](https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 3:34 |
 | 49 | [AISLAMIENTO](https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:26 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA0MTA0ZGUzN2QwNjBmM2M4M2JlNDY5OTdiNzI0ZmYyYQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBkNjhjYWEyMTA0YTUyZGM2NGI0ZjA5OWIxZDdlNGM1Mg==`

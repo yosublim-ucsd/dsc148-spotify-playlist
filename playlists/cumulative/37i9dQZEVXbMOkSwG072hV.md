@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,955 songs - 4 day 5 hr 6 min
+1,956 songs - 4 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Como 2 E 2 \- Ao Vivo](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 | 2022-11-11 | 2022-11-18 |
 | [Como Eu Te Amo, Tricolor](https://open.spotify.com/track/5dwGzWy5SV4wZCRsycsQIS) | [Grupo Tricolor Paulista](https://open.spotify.com/artist/50DphAbAsISe4KFsVRSLTU) | [Canto da Torcida \- São Paulo](https://open.spotify.com/album/6cKfm6rDBEBcXSMkPLCqXV) | 2:08 | 2023-09-29 | 2023-10-02 |
 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2022-11-29 | 2022-12-15 |
-| [Condenado](https://open.spotify.com/track/3gOo8cslnlPn39TbaS4ht1) | [Unha Pintada](https://open.spotify.com/artist/0oSb8ZEnIS4bPrpDoMT4tx) | [Condenado](https://open.spotify.com/album/2HgzvnTucTC5cjrHfbksKZ) | 3:04 | 2024-01-01 |  |
+| [Condenado](https://open.spotify.com/track/3gOo8cslnlPn39TbaS4ht1) | [Unha Pintada](https://open.spotify.com/artist/0oSb8ZEnIS4bPrpDoMT4tx) | [Condenado](https://open.spotify.com/album/2HgzvnTucTC5cjrHfbksKZ) | 3:04 | 2024-01-01 | 2024-01-04 |
 | [Conexões de Máfia](https://open.spotify.com/track/1Zm4O5ZzMrOYiOohYX2tcj) | [Fero](https://open.spotify.com/artist/5T2pfFxY9Va3pKfRxs3weE), [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA) | [Conexões de Máfia](https://open.spotify.com/album/6e3XpW0ajuqXkeyFGpeJM5) | 3:20 | 2023-05-02 | 2023-05-05 |
 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 | 2023-05-24 | 2023-06-09 |
 | [Conga La Conga](https://open.spotify.com/track/6H3oPXa5AtznVvrc3i56Gj) | [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw), [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB) | [Conga La Conga](https://open.spotify.com/album/1RgwD3nM2CWteqTTmnNQWA) | 2:11 | 2023-09-26 | 2023-10-07 |
@@ -984,6 +984,7 @@
 | [Lágrimas Negras](https://open.spotify.com/track/78I8jaChZbPu72bIGGPMKk) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Cantar](https://open.spotify.com/album/4jY3KTb8z9OZiIM92pTuNe) | 3:35 | 2022-11-10 | 2022-11-19 |
 | [Lágrimas Vão e Vem \- Ao Vivo](https://open.spotify.com/track/2Maobf1hIX9kn8iIFu5b61) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Lágrimas Vão e Vem \(Ao Vivo\)](https://open.spotify.com/album/0Dtp8QD7bjyuv1FQseLwVE) | 3:16 | 2023-01-17 | 2023-01-21 |
 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 | 2022-05-17 | 2022-05-25 |
+| [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 | 2024-01-03 |  |
 | [MacPorra](https://open.spotify.com/track/74iXoDXokfHgUtZDKWKE7e) | [Kleberiano](https://open.spotify.com/artist/5FOT05KznGbFaXmtojkzCO) | [MacPorra](https://open.spotify.com/album/6kEC6VQIdwggVFxCmXt6SS) | 2:33 | 2022-12-13 | 2022-12-27 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-18 | 2022-11-26 |
 | [MADRUGADA MALDITA](https://open.spotify.com/track/1MMnxMeoOQLN8HcQMxv2AD) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:57 | 2023-08-08 | 2023-08-12 |

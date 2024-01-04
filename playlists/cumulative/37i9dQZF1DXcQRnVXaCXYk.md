@@ -4,7 +4,7 @@
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-97 songs - 5 hr 22 min
+98 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-21 | 2023-09-23 |
 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 | 2023-01-19 | 2023-08-18 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2023-01-19 |  |
-| [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 | 2023-01-19 |  |
+| [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 | 2023-01-19 | 2024-01-04 |
 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 | 2023-01-19 |  |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-05-10 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-01-19 | 2023-05-11 |
@@ -103,6 +103,7 @@
 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 | 2023-01-19 |  |
 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 | 2023-01-19 |  |
 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 | 2023-01-19 |  |
+| [When You Say You Love Me](https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [When You Say You Love Me](https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX) | 2:18 | 2023-12-28 |  |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2023-01-19 |  |
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2023-01-19 | 2023-05-11 |
 

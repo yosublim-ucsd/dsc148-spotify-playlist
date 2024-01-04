@@ -1,12 +1,12 @@
 {
   "description": "Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.",
-  "num_followers": 46578,
+  "num_followers": 46586,
   "original_name": "Love for Mother's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTY3YzdmNGQ4MzBhZGQzOGNiOTUwZDM5NjVjOGM3Y2NkNjQ1Nzkz",
+  "snapshot_id": "MCw1NDVlYmIzODcwMWUwMGZjMzQwZmZhZmZjMjEwODRhZWI0NDM4YjFl",
   "tracks": [
     {
       "added_at": "2023-05-14 21:00:45",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Fighting For Me",
-        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Fighting For Me",
-      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 298226,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "Fighting For Me",
+        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Fighting For Me",
+      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "Haven't Seen It Yet",
-        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun"
-    },
-    {
-      "added_at": "2023-05-14 21:00:45",
-      "album": {
         "name": "Venus (Acoustic)",
         "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-05-14 21:00:45",
       "album": {
-        "name": "A Mother Like You",
-        "url": "https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6"
+        "name": "Haven't Seen It Yet",
+        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 234813,
-      "name": "A Mother Like You",
-      "url": "https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av"
+      "duration_ms": 201146,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun"
     },
     {
       "added_at": "2023-05-14 21:00:45",
@@ -779,6 +763,22 @@
       "duration_ms": 340706,
       "name": "Whole Heart (Hold Me Now) - Acoustic",
       "url": "https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7"
+    },
+    {
+      "added_at": "2023-05-14 21:00:45",
+      "album": {
+        "name": "A Mother Like You",
+        "url": "https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "A Mother Like You",
+      "url": "https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av"
     },
     {
       "added_at": "2023-05-14 21:00:45",

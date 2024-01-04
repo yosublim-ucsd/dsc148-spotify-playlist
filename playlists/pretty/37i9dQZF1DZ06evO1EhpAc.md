@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 29 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
 | 30 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBhNmNlNjMzM2NiODU0ZDcyZDRkNGM0MmUxNjA2ZGRkZA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBiZmE3NzMwZDA1ODA5MDc4Mjg4YzI1MzNjMTY0NzE4Yw==`

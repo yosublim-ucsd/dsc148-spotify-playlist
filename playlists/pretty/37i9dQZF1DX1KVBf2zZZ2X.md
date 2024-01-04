@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,508 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,615 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 37 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 |
 | 38 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 |
 | 39 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 |
-| 40 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
-| 41 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 |
+| 40 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 |
+| 41 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 |
 | 42 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 |
 | 43 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 |
 | 44 | [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 68 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 |
 | 69 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 |
 | 70 | [In the forest](https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [In the forest](https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ) | 2:14 |
-| 71 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 |
-| 72 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
+| 71 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 |
+| 72 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 |
 | 73 | [April Showers](https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:48 |
 | 74 | [Noche De Otoño](https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noche De Otoño](https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO) | 3:25 |
 | 75 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 79 | [Aventura](https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Aventura](https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs) | 2:38 |
 | 80 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 |
 | 81 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 |
-| 82 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
-| 83 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 |
+| 82 | [Der Goldene Weg Birds](https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Der Goldene Weg Birds](https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ) | 3:02 |
+| 83 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 |
 | 84 | [...comes sunshine](https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [...comes sunshine](https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm) | 3:07 |
 | 85 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 |
 | 86 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 96 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 |
 | 97 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 |
 | 98 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 |
-| 99 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 |
-| 100 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 |
+| 99 | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 |
+| 100 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 |
 
-Snapshot ID: `MCwxOGFmNjhlN2UzZWU0Y2JiNWUwMTgyMGQ4Njc0YTBlMTNiMzM4MzRj`
+Snapshot ID: `MCwzYzhkM2NjNGExNDlmYWM0MDJiOWQ5ODM0NTdjMWZiMjQ4ZWViMTVm`

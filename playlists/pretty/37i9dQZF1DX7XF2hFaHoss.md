@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,685 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,680 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 43 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
 | 44 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 45 | [Turn Out the Lights](https://open.spotify.com/track/4lZ0S6jbJbeOmkfFXfDNxl) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 3:23 |
-| 46 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
-| 47 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
+| 46 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
+| 47 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
 | 48 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 49 | [Over Those Hills](https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [FLOWERS for VASES / descansos](https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129) | 3:11 |
 | 50 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
@@ -82,21 +82,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 72 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 |
 | 73 | [Extraordinary Life](https://open.spotify.com/track/5WynYq2cndxR6HFc7r3prE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 3:41 |
 | 74 | [Bud](https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:35 |
-| 75 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
-| 76 | [Crater Lake](https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 1:54 |
-| 77 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
+| 75 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
+| 76 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
+| 77 | [Crater Lake](https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 1:54 |
 | 78 | [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 |
 | 79 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
 | 80 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 81 | [Something to Say](https://open.spotify.com/track/47mOzOEYwFvW3JMMiKxCuX) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:38 |
 | 82 | [Left Off \- Acoustic](https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:20 |
 | 83 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
-| 84 | [Grown](https://open.spotify.com/track/76dZ7YgQgTvVHnUAxOs2wT) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/42CS9PFE6PmCjPVuyHA0wK) | 3:30 |
-| 85 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 |
+| 84 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 |
+| 85 | [Grown](https://open.spotify.com/track/76dZ7YgQgTvVHnUAxOs2wT) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/42CS9PFE6PmCjPVuyHA0wK) | 3:30 |
 | 86 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 87 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 | 88 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 89 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
 | 90 | [August \(feat\. Adam Melchor\)](https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [August \(feat\. Adam Melchor\)](https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn) | 3:41 |
 
-Snapshot ID: `MCw4Mzc5ZWM0Mjg2NTlhM2ExN2RmMzBkNzg3YjgzODFkYmZlN2EyOThj`
+Snapshot ID: `MCwwOTU4OTIzNmY2NDBmODlmY2VhMjg0ZjRhMDc0MDQ3YTI2N2EyY2Zh`

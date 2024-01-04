@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-351 songs - 23 hr 36 min
+352 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Feels Like We're Dying](https://open.spotify.com/track/0IvaKmBYBLVcdP0Ft8Dwik) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Far Away](https://open.spotify.com/album/00Yc9nnL6ODCkfqC7iV9lq) | 3:05 | 2023-01-17 |  |
 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2023-01-17 | 2023-11-12 |
 | [Felt](https://open.spotify.com/track/4ZYMSm3o3AO9U2fUPfrU6f) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Cloth](https://open.spotify.com/album/1wjACzJBtfygdPfQbTAwQi) | 3:58 | 2023-06-27 |  |
-| [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 | 2023-01-17 |  |
+| [Find Home](https://open.spotify.com/track/4banQY1CyLUSeq3xF6kiJd) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:13 | 2023-01-17 | 2024-01-04 |
 | [Fire in Cairo](https://open.spotify.com/track/71Znjl8mUrHfSg38OQU8bb) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [A Sentimental Education](https://open.spotify.com/album/4jviCKhoJB3Y2F3MA6vLoD) | 3:29 | 2023-01-17 |  |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2023-01-17 |  |
 | [Fisher Island Sound](https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 2:44 | 2023-01-17 |  |
@@ -127,6 +127,7 @@
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2023-01-17 |  |
 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 | 2023-01-17 |  |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 | 2023-12-17 |
+| [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2024-01-03 |  |
 | [Hard To Tell You](https://open.spotify.com/track/1QJQIDeX1bH0VxLGzUKTKK) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Radiate Like This](https://open.spotify.com/album/480jVncbNknTjPUAvxp8or) | 5:00 | 2023-01-17 |  |
 | [Headrush](https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:28 | 2023-01-17 |  |
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2023-01-17 |  |

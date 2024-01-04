@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,664 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,722 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,20 +62,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 52 | [Firefly](https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:48 |
 | 53 | [Dizzy On the Comedown](https://open.spotify.com/track/3vkj94FiLgUz3ysZcmIXPx) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 4:15 |
 | 54 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 |
-| 55 | [Too Late To Say Goodbye](https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 4:12 |
-| 56 | [Ship To Wreck](https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:54 |
+| 55 | [Ship To Wreck](https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:54 |
+| 56 | [Too Late To Say Goodbye](https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 4:12 |
 | 57 | [Lose It](https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:49 |
 | 58 | [Fool for Love](https://open.spotify.com/track/77x96TdWdkIia82QqU35SD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:34 |
 | 59 | [Flesh without Blood](https://open.spotify.com/track/62jc4VA6WPoANaL9Duu8db) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:24 |
-| 60 | [Cutting My Fingers Off](https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 3:15 |
-| 61 | [I'm Good](https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Kids In Love](https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s) | 2:46 |
-| 62 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
+| 60 | [I'm Good](https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Kids In Love](https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s) | 2:46 |
+| 61 | [Cutting My Fingers Off](https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 3:15 |
+| 62 | [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 |
 | 63 | [Dopamine](https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
 | 64 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
 | 65 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
 | 66 | [White Blood](https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 4:17 |
 | 67 | [Young](https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 5:24 |
-| 68 | [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 |
+| 68 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
 | 69 | [UGH!](https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:00 |
 | 70 | [Clearest Blue](https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM) | 3:53 |
 | 71 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 97 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
 | 98 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/1dr1B13MHzq77BC5d4zko9) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/4U0hmoTGpAKJEOIrAnQJws) | 4:40 |
 | 99 | [Sparks](https://open.spotify.com/track/5ORY1GDl3lpEDyU1CzSq26) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:21 |
-| 100 | [Something Soon](https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Style](https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT) | 4:20 |
+| 100 | [Undiscovered \- From The "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5jDnSQNIg4BjbzvaxEUxzo) | [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 2:53 |
 
-Snapshot ID: `MCxjNTAzMTk5NDNjYzM1NmZmNjY1NzRkNmQyOGJiMGEyNzY5MGEwNjYx`
+Snapshot ID: `MCw0MzJjYWU4YWE3NWNkMDUxYzI3M2IzNzEyMTk2ZTM5ODJhNzYxM2Mw`

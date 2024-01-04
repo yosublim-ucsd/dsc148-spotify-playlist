@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,139 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 4 | [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 |
 | 5 | [Navidad, Navidad](https://open.spotify.com/track/2sWzSeji9T7goNXHMJMywW) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Navidad, Navidad](https://open.spotify.com/album/5aUUivtYfER9Cqpb1FT7es) | 2:28 |
 | 6 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 |
-| 7 | [El Burrito de Belen](https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [El Burrito de Belén](https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72) | 3:14 |
-| 8 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 7 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 8 | [El Burrito de Belen](https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [El Burrito de Belén](https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72) | 3:14 |
 | 9 | [Feliz Navidad](https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx) | 3:02 |
 | 10 | [JOJOJO](https://open.spotify.com/track/1tQ8yvYIwc8tWqDxesGn0O) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [JOJOJO](https://open.spotify.com/album/3w8FEcSsFiXCO08UOY2Ji5) | 2:25 |
 | 11 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 66 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
 | 67 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
 | 68 | [Tristes Navidades](https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc) | 3:59 |
-| 69 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 |
-| 70 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
-| 71 | [El Niño Del Tambor](https://open.spotify.com/track/5jGT4Ex7tp33av5SZVzf1Q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad con Ángela Aguilar](https://open.spotify.com/album/08gmZBkIqe0wxtGzoDrDla) | 3:16 |
+| 69 | [El Niño Del Tambor](https://open.spotify.com/track/5jGT4Ex7tp33av5SZVzf1Q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad con Ángela Aguilar](https://open.spotify.com/album/08gmZBkIqe0wxtGzoDrDla) | 3:16 |
+| 70 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 |
+| 71 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 | 72 | [En Esta Navidad](https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:01 |
 | 73 | [El Año Viejo](https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:18 |
 | 74 | [Santa Quiero](https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705) | 3:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
 | 80 | [Navidad, Navidad](https://open.spotify.com/track/3Pe6VYWJNGGsyRCNqoTjCb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [Conjunto Arroyero](https://open.spotify.com/artist/3t57wx00MMpK19IW7R3TUU), [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Navidad, Navidad](https://open.spotify.com/album/6tx4tFu6cQDIk5pZVwLLxI) | 2:13 |
 
-Snapshot ID: `MCw5MDA0YTMzYmY2YzVmNDBiMTlhOTRiZWUyZTc1ZjA1YjM3ZjVhMjA0`
+Snapshot ID: `MCxlOTQzNTEyNDNjN2U0NWJiMGM4ZTNiMjhhYTU1NDUwNGE0OGE5ZjUz`

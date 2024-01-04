@@ -4,7 +4,7 @@
 
 > dk rap der holder det 100 / Omar / Baloosh 🚨
 
-95 songs - 4 hr 3 min
+96 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Safebox \(feat\. Branco\)](https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Safebox \(feat\. Branco\)](https://open.spotify.com/album/4KJnXnjIVL5d07Nd6AuQnI) | 2:05 | 2023-11-10 |  |
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 |  |
 | [Sig Du Vil](https://open.spotify.com/track/2P7mah38G2Lf8DvSw51Bhe) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Sig Du Vil](https://open.spotify.com/album/6Nyi6KAIjoSeZFSOxiWjdM) | 2:08 | 2023-11-10 |  |
-| [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 |  |
+| [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
+| [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2023-12-21 |  |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 | 2023-11-18 |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 | 2023-12-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 163868,
+  "num_followers": 163892,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTA0OWNlYThlZmMxNTA5MjdjYzg2NmQ5ZDBkMjFjNTIzNjcyM2Y0",
+  "snapshot_id": "MCxmNWU5YzNhOTZhZWI2MjllMzlhNjQxMjM1NjA3OThkNmRiZDVhZTIz",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 190773,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Sings Hank Williams",
         "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Flying Platters Around The World",
         "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 168293,
       "name": "Twilight Time - Single Version",
       "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Cadence Years, Vol. 1",
         "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 141560,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/2yTzXsYOrevaVIzQQgB3YL"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Great Pretender",
-      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Born Too Late",
         "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 139013,
       "name": "Born Too Late",
       "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "The Great Pretender",
+      "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 138080,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Walkin' My Baby Back Home",
-      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "What Do You Want to Make Those Eyes At Me For?",
         "url": "https://open.spotify.com/album/3JEmxhsvpLlmfHQnrQmyqy"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 124200,
       "name": "What Do You Want to Make Those Eyes at Me for",
       "url": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
     },
     {
       "added_at": "2023-10-17 16:18:55",

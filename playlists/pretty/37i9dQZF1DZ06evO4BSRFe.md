@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,532 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,552 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 37 | [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 |
 | 38 | [Si la miro mañana](https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 3:05 |
 | 39 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
-| 40 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
-| 41 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
+| 40 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
+| 41 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
 | 42 | [Mi guitarra y yo](https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las Estrellas de la Musica Mexicana \(USA\)](https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY) | 3:36 |
 | 43 | [Ingratos ojos míos](https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:03 |
 | 44 | [La roncona](https://open.spotify.com/track/64aEZUhFBDpj8olgmbyyum) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:07 |
-| 45 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
+| 45 | [La noche que Chicago murió](https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:11 |
 | 46 | [Historia Sin Fin](https://open.spotify.com/track/7fzMcKm2TJccXwJMuQU74p) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia Sin Fin](https://open.spotify.com/album/6HIGZ5DJ715QdzrQurNnPo) | 3:16 |
 | 47 | [No compro amores](https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Rancheras de oro](https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD) | 2:21 |
 | 48 | [Traficantes Michoacanos](https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Batalla De Bandas Banda El Recodo Vs\. Banda Machos](https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6) | 3:09 |
-| 49 | [La noche que Chicago murió](https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:11 |
+| 49 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
 | 50 | [Un Indio Quiere Llorar](https://open.spotify.com/track/3v1h62mV72dBV16Jb5pcrc) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc), [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Un Indio Quiere Llorar](https://open.spotify.com/album/19MliibgMaxQ07cPAUhkin) | 3:14 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBlZDIxOTY3MjY3NTJlNTUyMDZhOTE5MzVlOWExNjdkYw==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDAyMWQwMmFiZmE4MjYxYzIzYmU0M2QzZGFlYjdiYjJhOQ==`

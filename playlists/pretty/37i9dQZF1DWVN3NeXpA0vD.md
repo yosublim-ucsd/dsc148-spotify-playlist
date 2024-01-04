@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,292 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,289 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 65 | [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg) | 2:57 |
 | 66 | [Lonely \(with Jonas Brothers\)](https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:19 |
 | 67 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 |
-| 68 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
+| 68 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
 | 69 | [Forever Yours \- Avicii Tribute](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Avicii Tribute\)](https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y) | 3:13 |
-| 70 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
-| 71 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 |
+| 70 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 |
+| 71 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
 | 72 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
 | 73 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 |
 | 74 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 95 | [Wherever You Are](https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:05 |
 | 96 | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:49 |
 | 97 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
-| 98 | [Hello Hello Hello](https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 2:52 |
-| 99 | [Boyfriend](https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 |
+| 98 | [Boyfriend](https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 |
+| 99 | [Hello Hello Hello](https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 2:52 |
 | 100 | [Take It Easy](https://open.spotify.com/track/7DH3o4acluc4mUUsAoLeBN) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Horizons](https://open.spotify.com/album/6GHb9FYG7HnVet0rQs0Dq9) | 3:32 |
 
-Snapshot ID: `MCwzMzQ2YzEzMGZmZmU0MmRhN2Q0ZjllNjBlNWFhOWNkNGQwOTQ1N2U1`
+Snapshot ID: `MCw3YmE2ODkwY2RmZjNmYWU4YWFkZjk4OGViM2IyNDM2MTY4YjI1MTky`

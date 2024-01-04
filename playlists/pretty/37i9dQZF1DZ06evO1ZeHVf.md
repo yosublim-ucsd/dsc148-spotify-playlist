@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,542 likes - 49 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,576 likes - 49 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 12 | [Holy Spirit, Come Fill This Place](https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 5:35 |
 | 13 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 |
 | 14 | [A Heart Like Yours](https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 3:39 |
-| 15 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 |
-| 16 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 |
+| 15 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 |
+| 16 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 |
 | 17 | [Holy Forever](https://open.spotify.com/track/45UENol7XHzhtasaMlCXVf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4) | 9:43 |
 | 18 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 |
 | 19 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 37 | [Alone In The Presence](https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:06 |
 | 38 | [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 |
 | 39 | [Through It All \- Live](https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 4:03 |
-| 40 | [Pray](https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [For Always: The Best Of CeCe Winans](https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv) | 3:31 |
-| 41 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
+| 40 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
+| 41 | [Pray](https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [For Always: The Best Of CeCe Winans](https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv) | 3:31 |
 | 42 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 |
 | 43 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
 | 44 | [You Are Loved](https://open.spotify.com/track/5QnvVn3CFujK70HOLYFiju) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 6:03 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 48 | [His Strength Is Perfect](https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 4:38 |
 | 49 | [Bridge Over Troubled Water \(with CeCe Winans\) \- Live VH1 Honors \- June 22, 1995](https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [I Go To The Rock: The Gospel Music Of Whitney Houston](https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn) | 5:34 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBmM2EzYjg4NjE1MmNkMjBmMDM3ZTFiOWQ3NWJkYzY1MA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA5YTY0ZmI5NTM2N2M3NzYwMDhmNTNiOTU2ZjAzZWRjYw==`

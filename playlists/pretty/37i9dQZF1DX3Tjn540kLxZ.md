@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > songs that feel like new and old friends, all stitched together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,836 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,825 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,26 +87,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 77 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
 | 78 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 79 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
-| 80 | [Flowers](https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:34 |
-| 81 | [Glass House](https://open.spotify.com/track/1U2hgbpQ92mK7gCWL0lcWY) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/6g2sW1bofbs4DEoW25rAB9) | 2:51 |
+| 80 | [Glass House](https://open.spotify.com/track/1U2hgbpQ92mK7gCWL0lcWY) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/6g2sW1bofbs4DEoW25rAB9) | 2:51 |
+| 81 | [Flowers](https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:34 |
 | 82 | [Lovin’ Me \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3JdwGk8j7lHN5qdzJZklam) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:45 |
 | 83 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 |
 | 84 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
 | 85 | [Channel Orange In Your Living Room](https://open.spotify.com/track/27AJf1VXuh3h6QsqQBOLxf) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Channel Orange In Your Living Room](https://open.spotify.com/album/66JX3vC2VqYoDKXGMuokvd) | 2:38 |
 | 86 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 |
-| 87 | [Isombard](https://open.spotify.com/track/3aP1BuaScFyqfqST2KB3VN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:43 |
-| 88 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
-| 89 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
-| 90 | [Masterpiece \- 2023 Remaster](https://open.spotify.com/track/03fbvOUMV0CP6BYuqw06Za) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 3:50 |
+| 87 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
+| 88 | [Isombard](https://open.spotify.com/track/3aP1BuaScFyqfqST2KB3VN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:43 |
+| 89 | [Masterpiece \- 2023 Remaster](https://open.spotify.com/track/03fbvOUMV0CP6BYuqw06Za) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 3:50 |
+| 90 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
 | 91 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 |
 | 92 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 |
 | 93 | [April](https://open.spotify.com/track/7l94AyvXRwnQgKccUU3PRN) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 3:18 |
-| 94 | [Buttons](https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq) | 3:04 |
-| 95 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 94 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 95 | [Buttons](https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq) | 3:04 |
 | 96 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
 | 97 | [Colours](https://open.spotify.com/track/7yKTW0Fh9arBDdUbY9xiKi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Smith Rock](https://open.spotify.com/album/1iFNpfYW6jqir0jXis4vbp) | 3:02 |
 | 98 | [Nothing Works](https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR) | 4:12 |
 | 99 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:41 |
 | 100 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
 
-Snapshot ID: `MCxhOGUzOTAzZTRjMTJlZjc3NDJkNmUwMWMwNjdjNjc5NTA5NDY2ODE0`
+Snapshot ID: `MCxhYjk1MmUxODVlMjk5OTBiOGRjYmQwODk3NTE4NTI1NDQ5ZmVkZDg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,441 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,452 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
 | 50 | [Ricardo Ruben](https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [Cataratas Musicales](https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq) | 3:23 |
 
-Snapshot ID: `MCxkN2EzYjZmYzhlMTU4MjA1YjM4Yzc1YTgxZDNhODBkZTVjNjRjODMw`
+Snapshot ID: `MCwzOTk3NzM2YjgxZjE2MjkzZTQ0YTBlZTQyM2Q3MWI0NzEzNGE2MDU4`

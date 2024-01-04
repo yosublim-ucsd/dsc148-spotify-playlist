@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Kelsea Ballerini
+> Pop country hits of today and tomorrow\. Cover: Ashley Cooke
 
 265 songs - 13 hr 52 min
 
@@ -96,7 +96,7 @@
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2022-01-14 | 2023-03-04 |
 | [Hits me \- pop mix](https://open.spotify.com/track/2uc18fI3NnV2NNNU9pO9Dy) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Hits me \(pop mix\)](https://open.spotify.com/album/3neeCMnAIXpvxEWcWNEEOQ) | 3:29 | 2021-12-17 | 2022-01-08 |
 | [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-13 | 2023-04-05 |
-| [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 | 2021-12-17 |  |
+| [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 | 2021-12-17 | 2024-01-04 |
 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2023-08-11 |  |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 | 2023-02-25 |
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-22 |  |
@@ -196,7 +196,7 @@
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-17 |  |
 | [shot in the dark](https://open.spotify.com/track/19KRL4zJknP2EVh4mijlJy) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Sampler](https://open.spotify.com/album/2HubZtBcz9xEfWWaLRqHXi) | 2:53 | 2023-06-30 | 2023-07-23 |
 | [shot in the dark](https://open.spotify.com/track/2tN8xQmQWDongN4JeVTYTt) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 2:53 | 2023-07-21 | 2023-07-28 |
-| [shot in the dark](https://open.spotify.com/track/3UfPXWIrPs9rZkRAwxRtmN) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:53 | 2023-07-21 | 2023-08-02 |
+| [shot in the dark](https://open.spotify.com/track/3UfPXWIrPs9rZkRAwxRtmN) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:53 | 2023-07-21 |  |
 | [Should Have Known Better](https://open.spotify.com/track/4lAQRXLmEv38xGzUJYoIJq) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 2:27 | 2021-12-17 | 2022-07-29 |
 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 | 2021-12-17 |  |
 | [So Far So Good](https://open.spotify.com/track/3cIiJErQHF9NUcp6DwEOGB) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [So Far So Good](https://open.spotify.com/album/5wx6ZdqqOrQSUUIh6tYRTh) | 2:41 | 2021-12-17 | 2022-01-15 |

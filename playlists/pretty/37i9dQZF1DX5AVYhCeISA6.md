@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran ✨ Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,896 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,959 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 46 | [Ansiedad](https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:46 |
 | 47 | [Ni Una Más](https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Ni Una Más](https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU) | 3:28 |
 | 48 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
-| 49 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 |
-| 50 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
+| 49 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
+| 50 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 |
 
-Snapshot ID: `MCw5NWMxOGM2NmRjMDYxZmM4YWM4NzliM2I5NjJlZWQzZGEwY2JmMzg3`
+Snapshot ID: `MCw0MzM3NTBhZTRjMjgzM2I3ZGE5YjVmMDgwNjljOTNhMzgzOGU4Yzk2`

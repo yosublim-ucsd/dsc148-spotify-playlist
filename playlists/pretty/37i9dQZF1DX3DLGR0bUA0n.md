@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,342 likes - 125 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,393 likes - 125 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 34 | [El Campesino Y El Sol](https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [El Campesino y el Sol](https://open.spotify.com/album/1zz9palZav43PsEJGeIijB) | 3:54 |
 | 35 | [Puño de Tierra](https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 2:35 |
 | 36 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
-| 37 | [El Huizache](https://open.spotify.com/track/3jFYqAMAzNXU0Cn6PsgQyZ) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Reyes Empresarios](https://open.spotify.com/album/70PQojBxoISRq1gOohSgRl) | 4:20 |
-| 38 | [Con Cartitas y Palabras](https://open.spotify.com/track/3NMa0TPVcWwHlYgTryHXpV) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Extendiendo Territorio](https://open.spotify.com/album/1iIFWzYl7LPIK0wzQm3Q2s) | 3:11 |
+| 37 | [Con Cartitas y Palabras](https://open.spotify.com/track/3NMa0TPVcWwHlYgTryHXpV) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Extendiendo Territorio](https://open.spotify.com/album/1iIFWzYl7LPIK0wzQm3Q2s) | 3:11 |
+| 38 | [El Huizache](https://open.spotify.com/track/3jFYqAMAzNXU0Cn6PsgQyZ) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Reyes Empresarios](https://open.spotify.com/album/70PQojBxoISRq1gOohSgRl) | 4:20 |
 | 39 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
 | 40 | [Ojos Negros Nunca Engañan](https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Enganan](https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ) | 3:12 |
 | 41 | [Todo Por Servir Se Acaba](https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:01 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 52 | [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 |
 | 53 | [Soy Cukin](https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Soy Cukin](https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT) | 3:45 |
 | 54 | [Aunque Estés Lejos De Mí](https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 3:50 |
-| 55 | [El Rey Pobre](https://open.spotify.com/track/50KxcUvmxXi1EEqfhKsaIB) | [Kabildo](https://open.spotify.com/artist/4dx2YHnSoHoemXAISt66Se) | [De California Te Escribio](https://open.spotify.com/album/0J3Gjl9pwXAImjDGaB78PN) | 3:32 |
+| 55 | [En Cámara Lenta](https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g) | [La Dinastia De Tuzantla, Mich.](https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ) | [La Reyna de Tierra Caliente](https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi) | 2:45 |
 | 56 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 |
 | 57 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
-| 58 | [En Cámara Lenta](https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g) | [La Dinastia De Tuzantla, Mich.](https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ) | [La Reyna de Tierra Caliente](https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi) | 2:45 |
+| 58 | [El Rey Pobre](https://open.spotify.com/track/50KxcUvmxXi1EEqfhKsaIB) | [Kabildo](https://open.spotify.com/artist/4dx2YHnSoHoemXAISt66Se) | [De California Te Escribio](https://open.spotify.com/album/0J3Gjl9pwXAImjDGaB78PN) | 3:32 |
 | 59 | [Las Joyas De Mi Vida](https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Exitos de La Nobleza de Aguililla](https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h) | 4:07 |
 | 60 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
 | 61 | [10 Km a Pie](https://open.spotify.com/track/24hljzYwVOWnYOxC98mPhW) | [Sagitario Musical](https://open.spotify.com/artist/2xKp5BJZnK4EsPX7nzaR4L) | [20 Éxitos de Ley](https://open.spotify.com/album/2fMXiDA8MFbC2Fi5klzmy1) | 2:38 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 121 | [De Mil Amores](https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [De Mil Amores](https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r) | 2:28 |
 | 122 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 |
 | 123 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |
-| 124 | [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 |
-| 125 | [El Pisto es Primero](https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9) | [Corazón Gitano](https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp) | [El Pisto es Primero](https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT) | 2:44 |
+| 124 | [El Pisto es Primero](https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9) | [Corazón Gitano](https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp) | [El Pisto es Primero](https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT) | 2:44 |
+| 125 | [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 |
 
-Snapshot ID: `MCwzNGVhODRjYTg0MDk5MWE5YzhhNDBlNDFmMjcxYjQ4NzkzMGUwOWZl`
+Snapshot ID: `MCw2ODBlNTFjMTY5ZWY2MzNlZjRjN2E5NjJjNDYyYWQ1ZThhMDdjNDA3`

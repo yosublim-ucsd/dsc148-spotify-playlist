@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Serrat.",
-  "num_followers": 320256,
+  "num_followers": 320309,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MThmMTViZTFhZmRiYmQ0OTVjYmZkYzMyZTJmMmQ0OTQ0YWU1MjVk",
+  "snapshot_id": "MCxkMjgxOGZiZWM0ZjE0NzlmN2U4ZTBiYmI4ZTc1NDk0NjNkMzBlNmJl",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Desde Que No Nos Vemos",
-        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
-      },
-      "artists": [
-        {
-          "name": "Enrique Urquijo y Los problemas",
-          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Desde Que No Nos Vemos",
+        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
+      },
+      "artists": [
+        {
+          "name": "Enrique Urquijo y Los problemas",
+          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
+        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Soy un Coraz\u00f3n Tendido al Sol",
+      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 209471,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
-        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Soy un Coraz\u00f3n Tendido al Sol",
-      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1611,42 +1611,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Maldita Vocaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        },
-        {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
-        }
-      ],
-      "duration_ms": 285341,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Qui\u00e9reme Bien (feat. Leiva)",
         "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
       },
@@ -1667,18 +1631,38 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+        }
+      ],
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     }
   ],
   "unique_name": "Cantautores",

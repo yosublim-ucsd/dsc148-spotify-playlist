@@ -8294,7 +8294,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 481000,
       "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
@@ -19406,7 +19406,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 97326,
       "name": "Max Win",
       "url": "https://open.spotify.com/track/1m5Hh6j7SCZF0G9ZvokJVQ"
@@ -22537,6 +22537,32 @@
     },
     {
       "album": {
+        "name": "No Me Dejo Ver",
+        "url": "https://open.spotify.com/album/3R1XVNNPHGeNE3GtXmPmL6"
+      },
+      "artists": [
+        {
+          "name": "Joztin Bwoy",
+          "url": "https://open.spotify.com/artist/58nTWYnEP5PGrHio1feAPm"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Choliare",
+          "url": "https://open.spotify.com/artist/47qEXOIyxCL3yGsRaiiHiZ"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277168,
+      "name": "No Me Dejo Ver",
+      "url": "https://open.spotify.com/track/2kil8Dh3EKxmNYOd5dJhey"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -22548,7 +22574,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
@@ -27108,7 +27134,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
@@ -29244,7 +29270,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 193021,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH"
@@ -34219,7 +34245,7 @@
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182500,
+      "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },

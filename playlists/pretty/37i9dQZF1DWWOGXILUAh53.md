@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: YUQI, ALAN WALKER & JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,622 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,698 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 |
 | 50 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
 
-Snapshot ID: `MCwxYjM4YzRkMjliYjgzMDg2YWY3ZTM4NTE5YWZkODE3OGMyY2E1Y2M2`
+Snapshot ID: `MCxhODZhN2U3MzhkODAwM2YyMDI3YWJmNmI3ZjBkOTk4Mjg2ZjE1ZDk3`

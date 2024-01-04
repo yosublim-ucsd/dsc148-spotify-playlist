@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Our editors' picks of the top 100 Fresh Finds Dance tracks from around the world this year\. Cover: 1tbsp
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,580 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,705 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [The Past](https://open.spotify.com/track/7AGXIuZJXalJM2Vhg0mSc4) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [The Past](https://open.spotify.com/album/5ULhA5adWqnz7gaw3Zp0dx) | 5:36 |
 | 100 | [Whine Up](https://open.spotify.com/track/1rG8opGDxjubWjluR7glgJ) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI) | [Whine Up](https://open.spotify.com/album/566bFHgvZBabTrbbInJcSl) | 2:56 |
 
-Snapshot ID: `MCxkMjRjODUzN2IyZTc2ZDc3MjYyNmIxYWU0NTA0NmE0NjY0ZjdmYzdl`
+Snapshot ID: `MCxjNjA0ZTQ0OTgzZmFlOTM0MjMyZGEzZmE1NTQyM2M0M2Q4MzQ3MTNk`

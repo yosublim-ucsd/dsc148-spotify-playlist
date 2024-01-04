@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS \(Thailand\), GANGGA \(Indonesia\)
 
-1,123 songs - 2 day 19 hr 41 min
+1,124 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,6 +814,7 @@
 | [sour patch](https://open.spotify.com/track/2wE6tegCkdlnJZtFbDScsA) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [sour patch](https://open.spotify.com/album/7AxUn89z5i2BiiBbjKMtjh) | 2:39 | 2022-04-07 | 2022-06-17 |
 | [South East](https://open.spotify.com/track/2CiWIw60PWOYliSOk2iZKk) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:36 | 2023-07-20 | 2023-08-11 |
 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 | 2023-05-25 | 2023-10-11 |
+| [Space Orphans](https://open.spotify.com/track/0aCZDVvoYRJURBk4lzdA1b) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/2AsKnr2Popc5l1Sbj1rext) | 4:35 | 2023-12-28 |  |
 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-05-25 | 2023-06-02 |
 | [Spell](https://open.spotify.com/track/4VWYQQyJs09I6A4FdjoOun) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Same As You](https://open.spotify.com/album/0c8ihXb0VoNdEPIpwVG2CL) | 3:18 | 2023-05-11 | 2023-06-09 |
 | [Spin](https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Spin](https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX) | 4:05 | 2022-04-28 | 2022-05-13 |
@@ -917,7 +918,7 @@
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-27 | 2023-10-15 |
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 |  |
+| [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-01-04 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me With This \(Mama\)](https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Trust Me With This \(Mama\)](https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO) | 3:44 | 2022-03-24 | 2022-04-22 |
 | [Try](https://open.spotify.com/track/01nkbGifRqRnRN7p8I8w4u) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T) | [Try](https://open.spotify.com/album/6kc1YOjfDWiF3o6N5qUyvB) | 3:47 | 2023-12-21 |  |

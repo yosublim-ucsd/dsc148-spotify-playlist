@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,899 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,968 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,18 +59,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 49 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 |
 | 50 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 |
 | 51 | [MajiでKoiする5秒前](https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [GOD SAVE THE わーるど](https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3) | 4:50 |
-| 52 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
-| 53 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
+| 52 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 |
+| 53 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
 | 54 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
 | 55 | [Rain](https://open.spotify.com/track/5LXh3ZNhWUwfX30YZc6VO4) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 5:21 |
-| 56 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 |
-| 57 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 |
+| 56 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 |
+| 57 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 |
 | 58 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
 | 59 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 |
 | 60 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 |
-| 61 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
-| 62 | [Every](https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 1:41 |
-| 63 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
+| 61 | [Every](https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 1:41 |
+| 62 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
+| 63 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
 | 64 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
 | 65 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 66 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 68 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 69 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
 | 70 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
-| 71 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
-| 72 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
+| 71 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
+| 72 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
 | 73 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
 | 74 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 75 | [Tomorrow](https://open.spotify.com/track/5iKomi6VipIbpiwOZtoBsh) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:36 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 80 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
 | 81 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
 | 82 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
-| 83 | [Seethe](https://open.spotify.com/track/32yj2Gs4yjjo0OxkI5DPbP) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Seethe](https://open.spotify.com/album/2AKeLPwWrKEOf2PXZDoeqJ) | 2:06 |
+| 83 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
 | 84 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 85 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
-| 86 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 |
+| 86 | [Seethe](https://open.spotify.com/track/32yj2Gs4yjjo0OxkI5DPbP) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Seethe](https://open.spotify.com/album/2AKeLPwWrKEOf2PXZDoeqJ) | 2:06 |
 | 87 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |
 | 88 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 89 | [Believer](https://open.spotify.com/track/0p5AeHVOl8nmEdyCbYkkH5) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2rd6vOxRnBTXJP1qizJs7C) | 2:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 97 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
 | 98 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 |
 | 99 | [I Won't Turn Off My Radio](https://open.spotify.com/track/0SyfvSgnnOh4i3CsRWEPe1) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Sentimental Trash](https://open.spotify.com/album/3pOthAOTliJLDooq7EQ1pT) | 3:33 |
-| 100 | [あきらめのすべて](https://open.spotify.com/track/04Lcx7dahEb5a1xuxrDzqK) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [再定義 E.P](https://open.spotify.com/album/1h5iqlwdPOkj1pMyhvGpVe) | 0:48 |
+| 100 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 |
 
-Snapshot ID: `MCw0NTk3NTFjZjg2ZTY0OWRhM2MwNzFhNzYzMTBlZTA2ZDA3MjMzZmZk`
+Snapshot ID: `MCwyYmNlYzAyODU1YmI1NmIxYzE5NWUxZGU0MjViMmViM2E4MzM4ZjRm`

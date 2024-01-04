@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 123027,
+  "num_followers": 123080,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTg4ZDkxZjVhYzgxYWJiYTQyODY2Nzk4NmE3ZGIyMzFkZTk5ZjI1",
+  "snapshot_id": "MCwyYjA0YjRlMTI2OGQwZmQwYmI4ZmNmNmVkMGY3YTM1MDM0NTBiZjAy",
   "tracks": [
     {
       "added_at": "2023-12-26 03:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Servi\u00e7o",
         "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 179622,
       "name": "C\u00e9u da Boca",
       "url": "https://open.spotify.com/track/5RYsihoTr47Rd9uXYrVZpC"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
       "artists": [
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     }
   ],
   "unique_name": "Cozinhando em Casa",

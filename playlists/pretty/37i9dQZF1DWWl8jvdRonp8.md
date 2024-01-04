@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,994 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,110 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 47 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 |
 | 48 | [Sin Él](https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:34 |
 | 49 | [Y Yo Sin Ti](https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Y Yo Sin Ti](https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl) | 3:18 |
-| 50 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 |
-| 51 | [Hasta Cuando](https://open.spotify.com/track/1wc5way7a45biOnobQUHJm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:19 |
+| 50 | [Hasta Cuando](https://open.spotify.com/track/1wc5way7a45biOnobQUHJm) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:19 |
+| 51 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 |
 | 52 | [Extrañándote](https://open.spotify.com/track/3HuC2KGfuam6XubxLwFYk9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:11 |
 | 53 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 54 | [Como Tu Mujer \- Pop](https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:20 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 73 | [Cómo Me Duele Irte Perdiendo](https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 3:49 |
 | 74 | [Y Ahora Te Vas](https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:18 |
 | 75 | [Si No Te Hubieras Ido](https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:59 |
-| 76 | [Para Que No Te Vayas](https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:16 |
+| 76 | [Mira Nomas](https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:16 |
 | 77 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
-| 78 | [Encadenada a Mi](https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 3:50 |
-| 79 | [Más Que Tu Amigo](https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:30 |
+| 78 | [Más Que Tu Amigo](https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:30 |
+| 79 | [Encadenada a Mi](https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Pa' La Pista y Pa'l Pisto, Vol\. 2](https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI) | 3:50 |
 | 80 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
 | 81 | [Extrañándote](https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO) | [Alison Solís](https://open.spotify.com/artist/5LspS8XQ6f8xUaNNOqvpls), [Marla Solís](https://open.spotify.com/artist/4WGhCycVJ6vlJtwiMwQ0UM) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:54 |
-| 82 | [Mira Nomas](https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:16 |
+| 82 | [Para Que No Te Vayas](https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:16 |
 | 83 | [Y Ahora Te Vas](https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:35 |
 | 84 | [Mi Rechazo](https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:34 |
 | 85 | [Tu Cárcel](https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:44 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 113 | [Chiquilla Bonita](https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [A Traves De Tus Ojos](https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ) | 4:46 |
 | 114 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
 | 115 | [Recuerdos, Tristeza Y Soledad](https://open.spotify.com/track/5WcIcxtF79cCtpRRHzCutr) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/68VGIlnvGzHFpV7PmMg0q5) | 4:25 |
-| 116 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
-| 117 | [Cuando Te Acuerdes De Mi](https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:40 |
+| 116 | [Cuando Te Acuerdes De Mi](https://open.spotify.com/track/461E9GGt5TzUIrOGKAOSzy) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:40 |
+| 117 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
 | 118 | [Y Ahora Te Vas](https://open.spotify.com/track/5e62PInKsU8hyMTMwvSA1l) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 3:55 |
 | 119 | [Presiento Que Voy A Llorar](https://open.spotify.com/track/0gYnWBpArbOOokGLDDhzyG) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Los Bukis](https://open.spotify.com/album/0laqwYnxxk6KMzOND9b4ks) | 3:26 |
 | 120 | [Una Mujer Como Tú](https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 3:30 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 |
 | 125 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [35 Aniversario](https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB) | 3:51 |
 
-Snapshot ID: `MCwzYWQyNWNjYmZkODI5ZjU2NDlmNjcxNzgyYzMxNzA5M2UzOTI4MzZi`
+Snapshot ID: `MCw3OGE4YWE2OWM4ZDg5ODFkOTY3NWQ3YzExZDU5ZTk1OGE2YjRhM2Vh`

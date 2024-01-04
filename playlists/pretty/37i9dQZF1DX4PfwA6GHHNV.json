@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 14588,
+  "num_followers": 14603,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWQzZjI0YzgxNDA3N2Q0NTIzZWI2MTBlMzgxYWU1NzBiOTNmMDI2",
+  "snapshot_id": "MCxhZmIwMTg4NGY3MTMzYTk5NjA1NzkwOGZiOTMyMzdmYmQzMWY0YThm",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Xona",
-        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Xona",
-      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "VxRxS",
         "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 90618,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Xona",
+        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 205431,
+      "name": "Xona",
+      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Morena Surreal",
+        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
+      },
+      "artists": [
+        {
+          "name": "Enry Sanches",
+          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
+        }
+      ],
+      "duration_ms": 214676,
+      "name": "Morena Surreal",
+      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Morena Surreal",
-        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
-      },
-      "artists": [
-        {
-          "name": "Enry Sanches",
-          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
-        }
-      ],
-      "duration_ms": 214676,
-      "name": "Morena Surreal",
-      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "TRI \u00c2NGULOS",
         "url": "https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z"
       },
@@ -615,26 +615,6 @@
       "duration_ms": 119874,
       "name": "PEGADA DE CRIA",
       "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -667,6 +647,26 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Que Cal\u00f4",
         "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Patipapa",
-        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Patipapa",
-      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
     },
     {
       "added_at": "2023-12-29 03:00:00",

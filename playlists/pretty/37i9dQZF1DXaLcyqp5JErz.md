@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,493 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,704 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 30 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
 | 31 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
 | 32 | [Adorador por Excelência](https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW) | 5:33 |
-| 33 | [sublime \- Ao Vivo](https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:27 |
-| 34 | [Mais Alto \- Acústico](https://open.spotify.com/track/6qQBEy6IctIb8cm3Q4SG9E) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 4:33 |
+| 33 | [Mais Alto \- Acústico](https://open.spotify.com/track/6qQBEy6IctIb8cm3Q4SG9E) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 4:33 |
+| 34 | [sublime \- Ao Vivo](https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:27 |
 | 35 | [Te Agradeço \- Ao Vivo](https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 5:04 |
 | 36 | [Restitui \- Ao Vivo](https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0) | 7:28 |
 | 37 | [Primeiro Amor](https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 3:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCw2OTUyMjU0NmJkZmNiZDQ3YjA0MjE5ZTY4YjNiNzJkNjA1YTJkY2Jh`
+Snapshot ID: `MCxjMjYyYTc5YzQzNzNjZDdmNzcyYjkyMzI0YjFmNjZhNzAxMWFiYWZi`

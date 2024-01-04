@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-420 songs - 1 day 1 hr 13 min
+421 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
-| [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 |  |
+| [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 | 2023-09-08 | 2023-09-16 |
 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 | 2022-09-09 |
 | [Be Your Luve](https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO) | [BUILD](https://open.spotify.com/artist/2Jp5KBkpzm1dRFal9Nlmvm) | [Be Your Luve](https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL) | 3:24 | 2023-09-08 | 2023-09-14 |
@@ -377,6 +377,7 @@
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2022-09-23 |  |
 | [แกน่ารักมาตลอด \- All Kill](https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [แกน่ารักมาตลอด \(All Kill\)](https://open.spotify.com/album/6j1Vn1TozowU0s8AswD8dp) | 3:06 | 2022-07-07 | 2022-07-29 |
 | [แกล้งลืม \(Boyfriend\)](https://open.spotify.com/track/1fd0ICmxYdKSlfk9bXmJpx) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [แกล้งลืม \(Boyfriend\)](https://open.spotify.com/album/0aVxWnktRdNsyQiqir7Gxx) | 3:26 | 2023-02-16 | 2023-04-01 |
+| [แค่คืบ \(เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม\)](https://open.spotify.com/track/0m0yjlnu8IeuDddotXQyRQ) | [Satang Kittiphop](https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv) | [แค่คืบ \- Single](https://open.spotify.com/album/2nuWP2sSzKDOa2g1DH5WkZ) | 3:22 | 2024-01-03 |  |
 | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/track/5kO0p4CfIxfU8369CArfe7) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [แค่จำว่าเธอสุขใจ \(Once\)](https://open.spotify.com/album/0znjg1ojYEygDWnrvRpK5I) | 4:00 | 2022-10-21 | 2022-11-04 |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-05-26 | 2022-06-10 |
 | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/track/6g7cdlMt3AUV99D6CgYcV7) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เธอ \(Why Don't You Stay\) \[From KinnPorsche The Series\]](https://open.spotify.com/album/5wdzllrz2FuH9VaJElcT4g) | 3:48 | 2022-06-02 | 2022-06-24 |

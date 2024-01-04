@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 97618,
+  "num_followers": 97715,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmUzMDgwNzg2MjBjNmE1ODMxNmM3MmFkMmRlMDg0ODZlZTVhYWYx",
+  "snapshot_id": "MCwxZGM2N2ZkYmFiMDkwMjRjOGE0MTI4MmZhZDNhN2IyM2U0ZGM3YWUx",
   "tracks": [
     {
       "added_at": "2023-12-20 10:57:06",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "As Times Goes By",
-      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
-    },
-    {
-      "added_at": "2023-12-20 10:57:06",
-      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 403360,
       "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
+    },
+    {
+      "added_at": "2023-12-20 10:57:06",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "As Times Goes By",
+      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
         }
       ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
-    },
-    {
-      "added_at": "2023-12-20 10:57:06",
-      "album": {
         "name": "Wailing With Lou",
         "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 380240,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
+    },
+    {
+      "added_at": "2023-12-20 10:57:06",
+      "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2023-12-20 10:57:06",
-      "album": {
         "name": "Harmonica Jazz",
         "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 191621,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH"
+    },
+    {
+      "added_at": "2023-12-20 10:57:06",
+      "album": {
+        "name": "Piano In The Background (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2023-12-20 10:57:06",
-      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 300077,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
+    },
+    {
+      "added_at": "2023-12-20 10:57:06",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "Work From Home with Count Basie",
-        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 163599,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
-    },
-    {
-      "added_at": "2023-12-20 10:57:06",
-      "album": {
         "name": "Hollywood Stampede",
         "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 170333,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
+    },
+    {
+      "added_at": "2023-12-20 10:57:06",
+      "album": {
+        "name": "Work From Home with Count Basie",
+        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163599,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
       "artists": [
         {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 369760,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
+      "duration_ms": 339160,
+      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
         }
       ],
-      "duration_ms": 339160,
-      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
+      "duration_ms": 369760,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
     },
     {
       "added_at": "2023-12-20 10:57:06",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-12-20 10:57:06",
       "album": {
-        "name": "Take Five: Jazz Classics",
-        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson Trio",
-          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
-    },
-    {
-      "added_at": "2023-12-20 10:57:06",
-      "album": {
         "name": "Tetragon",
         "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 299666,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/6q3AKOoPKFFblRDD7nfz6b"
+    },
+    {
+      "added_at": "2023-12-20 10:57:06",
+      "album": {
+        "name": "Take Five: Jazz Classics",
+        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson Trio",
+          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
     },
     {
       "added_at": "2023-12-20 10:57:06",

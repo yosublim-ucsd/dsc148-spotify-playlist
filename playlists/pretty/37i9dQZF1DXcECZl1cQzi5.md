@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 
 > Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,333 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,459 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 61 | [Lumen At The Beach](https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Lumen At The Beach](https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL) | 3:01 |
 | 62 | [Atomos Atmos](https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX) | [Claudette Bernard](https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9) | [Atomos Atmos](https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc) | 3:44 |
 | 63 | [Ocean Mindfulness](https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Ocean Mindfulness](https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh) | 3:27 |
-| 64 | [Soft Sea Waves](https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Soft Sea Waves](https://open.spotify.com/album/3vMqqCHWcoOS3qysd89GiH) | 2:54 |
-| 65 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 |
-| 66 | [Soothing Beach](https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz) | [Eshe Fajah](https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz) | [Soothing Beach](https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII) | 2:22 |
-| 67 | [Rolling Seas](https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Rolling Seas](https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0) | 3:09 |
-| 68 | [Breezing](https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Breezing](https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4) | 2:43 |
+| 64 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 |
+| 65 | [Soft Sea Waves](https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Soft Sea Waves](https://open.spotify.com/album/3vMqqCHWcoOS3qysd89GiH) | 2:54 |
+| 66 | [Breezing](https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Breezing](https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4) | 2:43 |
+| 67 | [Soothing Beach](https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz) | [Eshe Fajah](https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz) | [Soothing Beach](https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII) | 2:22 |
+| 68 | [Rolling Seas](https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Rolling Seas](https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0) | 3:09 |
 | 69 | [Warm Sandy Beaches](https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Warm Sandy Beaches](https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU) | 3:02 |
 | 70 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 |
 | 71 | [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 |
 | 72 | [Oasis of Calm](https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:07 |
-| 73 | [528 Hz Ocean Rest](https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [528 Hz Ocean Rest](https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A) | 2:30 |
-| 74 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 |
+| 73 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 |
+| 74 | [528 Hz Ocean Rest](https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [528 Hz Ocean Rest](https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A) | 2:30 |
 | 75 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 |
 | 76 | [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 |
 | 77 | [Singing Mermaids](https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Singing Mermaids](https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 79 | [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 |
 | 80 | [Slowing down with the Waves](https://open.spotify.com/track/1hO3Xxm95UQffwh50jQ5Yg) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Slowing down with the Waves](https://open.spotify.com/album/7CDYHzDA8UwQbmqXiXZKwO) | 2:47 |
 
-Snapshot ID: `MCwxYzkyMjhmMTQ3M2ZmNDAzYzliMDEyNzFiM2Q1YzEwNTMzYTI2MTY1`
+Snapshot ID: `MCw1Zjk0MjIwNzkxZTBhY2RjMTZjZTg1MzBjZWMxYThmNjViOTZkYTUy`

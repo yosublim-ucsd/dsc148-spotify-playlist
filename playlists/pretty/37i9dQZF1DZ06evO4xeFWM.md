@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,239 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,270 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Hangin'](https://open.spotify.com/track/3s7q7sn5DaRtAuOo2ft9BD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days \(This Got Out Of Hand Edition\)](https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d) | 3:29 |
 | 51 | [Revolution](https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Revolution](https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx) | 3:03 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBmZjYzOWU0MjRkMGE2ZmE0MDMwOWMyNmQ5MjllYzAzNg==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA0YWMzMzRiMWIxMWIwNmU4Yjc5ZGUzNTBlODgyMjNlMg==`

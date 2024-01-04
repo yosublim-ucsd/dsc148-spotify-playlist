@@ -4,7 +4,7 @@
 
 > olha o pastEEEEEEEEEEEEEEeeeEEeeeEEEEEEEL  / Foto: Marina Sena, Japãozin
 
-203 songs - 9 hr 35 min
+204 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 | 2023-05-15 | 2023-09-19 |
 | [Cria do Rio](https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Cria do Rio](https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ) | 1:46 | 2023-09-15 | 2023-10-28 |
 | [Dano Sarrada \- Remix](https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d) | [Dano Sarrada \(Remix\)](https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k) | 2:46 | 2023-12-22 |  |
-| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 | 2023-12-27 |  |
+| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 | 2023-12-27 | 2024-01-04 |
+| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 | 2023-12-27 |  |
 | [Daqui pra Sempre](https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/3dxJyVfI7myBAZjiekJCto) | 3:22 | 2023-11-10 |  |
 | [De Copão Na Mão](https://open.spotify.com/track/5F5Ux2oVCpHM5r7amvYVwr) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Eu Amo Rio, Eu Amo SP](https://open.spotify.com/album/1U65D3yQdRV8lEqqVeZQkZ) | 2:25 | 2023-10-06 | 2023-12-23 |
 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 | 2023-05-15 | 2023-09-26 |

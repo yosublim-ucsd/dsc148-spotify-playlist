@@ -1,12 +1,12 @@
 {
   "description": "Up for a nostalgic running session?",
-  "num_followers": 658831,
+  "num_followers": 659428,
   "original_name": "Retro Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmM2ZDI0NmIwYWY5ZjVhMTY0MjJkZmVmZjlkMjVhZTk5ODEwNTlk",
+  "snapshot_id": "MCw4ZDc4NjU0MTA4MjZhMGQ0NzJhZTgyNGZjMjZhM2MyYTI3ZTc3NTBh",
   "tracks": [
     {
       "added_at": "2023-01-03 14:52:35",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-01-03 14:52:35",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2023-01-03 14:52:35",
+      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
         "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 169266,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0EvykocuR3aWthETr0OfFr"
-    },
-    {
-      "added_at": "2023-01-03 14:52:35",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-01-03 14:52:35",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-01-03 14:52:35",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
       "added_at": "2023-02-10 12:49:56",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-01-03 14:52:35",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
     },
     {
       "added_at": "2023-01-03 14:52:35",

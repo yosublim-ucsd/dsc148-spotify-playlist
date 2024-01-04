@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,707 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,786 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 67 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 |
 | 68 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
 | 69 | [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 |
-| 70 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 |
-| 71 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 |
+| 70 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 |
+| 71 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 |
 | 72 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 |
 | 73 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
-| 74 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 |
-| 75 | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj) | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t) | 3:16 |
+| 74 | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj) | [Blue Monday \(feat\. JD Davis\)](https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t) | 3:16 |
+| 75 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 |
 
-Snapshot ID: `MCw2NGI1OTNmMDQzNWQ1MGJkMjdlNzIyZDI0ODdkNjBhOTk1MDIzMGMy`
+Snapshot ID: `MCw5NWQ1N2ViZGQ5ZDQ5ZDk1MTdhNGQ1Nzc2YTliNGY0NzNiZWEyYzZm`

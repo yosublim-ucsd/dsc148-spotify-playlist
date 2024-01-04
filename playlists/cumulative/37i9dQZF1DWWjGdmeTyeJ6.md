@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
-5,423 songs - 12 day 7 hr 22 min
+5,424 songs - 12 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3039,7 +3039,8 @@
 | [Mediocre](https://open.spotify.com/track/4FqrVT7E0I5yVDP7f8zNyQ) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc) | [Mediocre](https://open.spotify.com/album/5sHMaLb3FRo6UOS3yboDo8) | 4:38 | 2023-09-13 | 2023-09-28 |
 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 | 2023-04-26 | 2023-05-04 |
 | [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2023-02-15 | 2023-02-23 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-29 |  |
 | [Meetcute](https://open.spotify.com/track/5jOAu1XahLlUflW88NzQiS) | [Anja Kotar](https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT) | [Meetcute](https://open.spotify.com/album/3nzs1CK0Mnd7tTsah5plUK) | 2:47 | 2023-02-22 | 2023-03-02 |
 | [Megachurch](https://open.spotify.com/track/5tXkuObswa1uxjKoQaZhHf) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Megachurch](https://open.spotify.com/album/1LnMJUIle8lLZiHHBZpy8U) | 4:12 | 2022-06-15 | 2022-06-30 |
 | [Mejor Odiarnos](https://open.spotify.com/track/2B6Omk6vjD27Ip1sfpNFLt) | [Daniel Mejia](https://open.spotify.com/artist/47h3s5hCP06yHYpmtegIt4) | [Mejor Odiarnos](https://open.spotify.com/album/2MLS0uq4I82WpwMn7Nxpfe) | 3:16 | 2023-05-03 | 2023-05-11 |

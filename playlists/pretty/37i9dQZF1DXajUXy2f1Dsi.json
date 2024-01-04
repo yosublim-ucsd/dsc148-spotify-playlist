@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
-  "num_followers": 28092,
+  "num_followers": 28098,
   "original_name": "Top Latin Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTk2ZjNlMGMxNTc4MTg1M2QzOTA3NjIzYTQ1OTAyMjEyYTcxODE3",
+  "snapshot_id": "MCwyMzA5YWJhOWZiMjc5ZjE2ZjI4MjZhYzdkZTYyNzBiZDExOTQzZTlj",
   "tracks": [
     {
       "added_at": "2023-02-24 01:01:17",
@@ -143,6 +143,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Ginastera: Complete Piano and Organ Music",
+        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Fernando Viani",
+          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
+      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Ramirez: Missa Criolla; Navidad Nuestra; Navidad en Verano",
         "url": "https://open.spotify.com/album/5WRU8YI00n28ZMvNAwZ2cB"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 231426,
       "name": "Misa Criolla: 1. Kyrie",
       "url": "https://open.spotify.com/track/3e9BareWvE1p6YiFqlFEx7"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Ginastera: Complete Piano and Organ Music",
-        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Ginastera",
-          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
-        },
-        {
-          "name": "Fernando Viani",
-          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
-      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -287,54 +287,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Ramirez: Missa Criolla; Navidad Nuestra; Navidad en Verano",
-        "url": "https://open.spotify.com/album/5WRU8YI00n28ZMvNAwZ2cB"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Jos\u00e9 Carreras",
-          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
-        },
-        {
-          "name": "Arsenio Zambrano",
-          "url": "https://open.spotify.com/artist/5eLTuA84xZSX9HE7vsHyRl"
-        },
-        {
-          "name": "Domingo Cura",
-          "url": "https://open.spotify.com/artist/0PyBsZlcv8KxT5BsBFnmwG"
-        },
-        {
-          "name": "Jorge Padin",
-          "url": "https://open.spotify.com/artist/41qMRUWcVRpCTn3QPT1xk2"
-        },
-        {
-          "name": "Coral Salv\u00e9 de Laredo",
-          "url": "https://open.spotify.com/artist/3WVfLZkLr3o43nZ8GCgPTJ"
-        },
-        {
-          "name": "Sociedad Coral de Bilbao",
-          "url": "https://open.spotify.com/artist/1bGOmRwCCaWFNuWAmikCKd"
-        },
-        {
-          "name": "Jos\u00e9 Luis Ocejo",
-          "url": "https://open.spotify.com/artist/7BLX0PIcSZ7kL4KAVtDdXT"
-        },
-        {
-          "name": "Grupo Huancara",
-          "url": "https://open.spotify.com/artist/3ZAUCBR6oHii8CNJmO9bcb"
-        }
-      ],
-      "duration_ms": 422000,
-      "name": "Misa Criolla: 2. Gloria (carnavalito-yarav\u00ed)",
-      "url": "https://open.spotify.com/track/2aujqyb72uBZJZ4SOkz92q"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Villa-Lobos: Bachianas Brasileiras (Complete)",
         "url": "https://open.spotify.com/album/4VlrcNoa6YF2mwEyDlpj2G"
       },
@@ -403,6 +355,54 @@
       "duration_ms": 77680,
       "name": "Valsa-Choro no.11",
       "url": "https://open.spotify.com/track/1kqgmb772bPDWmdEAXl64M"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Ramirez: Missa Criolla; Navidad Nuestra; Navidad en Verano",
+        "url": "https://open.spotify.com/album/5WRU8YI00n28ZMvNAwZ2cB"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Jos\u00e9 Carreras",
+          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Arsenio Zambrano",
+          "url": "https://open.spotify.com/artist/5eLTuA84xZSX9HE7vsHyRl"
+        },
+        {
+          "name": "Domingo Cura",
+          "url": "https://open.spotify.com/artist/0PyBsZlcv8KxT5BsBFnmwG"
+        },
+        {
+          "name": "Jorge Padin",
+          "url": "https://open.spotify.com/artist/41qMRUWcVRpCTn3QPT1xk2"
+        },
+        {
+          "name": "Coral Salv\u00e9 de Laredo",
+          "url": "https://open.spotify.com/artist/3WVfLZkLr3o43nZ8GCgPTJ"
+        },
+        {
+          "name": "Sociedad Coral de Bilbao",
+          "url": "https://open.spotify.com/artist/1bGOmRwCCaWFNuWAmikCKd"
+        },
+        {
+          "name": "Jos\u00e9 Luis Ocejo",
+          "url": "https://open.spotify.com/artist/7BLX0PIcSZ7kL4KAVtDdXT"
+        },
+        {
+          "name": "Grupo Huancara",
+          "url": "https://open.spotify.com/artist/3ZAUCBR6oHii8CNJmO9bcb"
+        }
+      ],
+      "duration_ms": 422000,
+      "name": "Misa Criolla: 2. Gloria (carnavalito-yarav\u00ed)",
+      "url": "https://open.spotify.com/track/2aujqyb72uBZJZ4SOkz92q"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -583,6 +583,30 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
+        "url": "https://open.spotify.com/album/1sIKjNKPo058xiSZGm5wlm"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "4 Dance Episodes from Rodeo: III. Saturday Night Waltz",
+      "url": "https://open.spotify.com/track/1RpiptI36V8HwVv4GZQfg9"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Guitar Duet Recital: Rost, Monika / Rost, Jurgen \u2013 Sor, F. / Granados, E. / Albeniz, I. / Moreno Torroba, F. / Tarrega, F. / Ruiz-Pipo, A.",
         "url": "https://open.spotify.com/album/08iBzJ4mxXvxOIKSzabMMi"
       },
@@ -599,26 +623,6 @@
       "duration_ms": 105106,
       "name": "Chansons et danses: Danse",
       "url": "https://open.spotify.com/track/1JrN1mcbV2dbBj9VQ8hMvq"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Brasileira: Piano Music by Brazilian Women",
-        "url": "https://open.spotify.com/album/3TIRZQoyWBzft19az195vq"
-      },
-      "artists": [
-        {
-          "name": "Chiquinha Gonzaga",
-          "url": "https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX"
-        },
-        {
-          "name": "Luciana Soares",
-          "url": "https://open.spotify.com/artist/3AropKCRrGYNAarxwUMQNv"
-        }
-      ],
-      "duration_ms": 132586,
-      "name": "Corta-Jaca",
-      "url": "https://open.spotify.com/track/4FWgDfDjjPKVU0dt30svfP"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -647,26 +651,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
-        "url": "https://open.spotify.com/album/1sIKjNKPo058xiSZGm5wlm"
+        "name": "Brasileira: Piano Music by Brazilian Women",
+        "url": "https://open.spotify.com/album/3TIRZQoyWBzft19az195vq"
       },
       "artists": [
         {
-          "name": "Aaron Copland",
-          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+          "name": "Chiquinha Gonzaga",
+          "url": "https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX"
         },
         {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+          "name": "Luciana Soares",
+          "url": "https://open.spotify.com/artist/3AropKCRrGYNAarxwUMQNv"
         }
       ],
-      "duration_ms": 249173,
-      "name": "4 Dance Episodes from Rodeo: III. Saturday Night Waltz",
-      "url": "https://open.spotify.com/track/1RpiptI36V8HwVv4GZQfg9"
+      "duration_ms": 132586,
+      "name": "Corta-Jaca",
+      "url": "https://open.spotify.com/track/4FWgDfDjjPKVU0dt30svfP"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Brasileiro - Villa-Lobos & Friends",
+        "url": "https://open.spotify.com/album/6OBd8Ti5rGLBEQVH2ccC2J"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Saudades das Selvas Brasilieras No. 2",
+      "url": "https://open.spotify.com/track/7tAC8WznLhmXmnOm5V0aPu"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Rodrigo: Concierto de Aranjuez; Concierto madrigal / Bacarisse: Concertino",
         "url": "https://open.spotify.com/album/4Ka8LZvZp9NU8huj8lgiUL"
       },
@@ -831,42 +851,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Brasileiro - Villa-Lobos & Friends",
-        "url": "https://open.spotify.com/album/6OBd8Ti5rGLBEQVH2ccC2J"
-      },
-      "artists": [
-        {
-          "name": "Heitor Villa-Lobos",
-          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Saudades das Selvas Brasilieras No. 2",
-      "url": "https://open.spotify.com/track/7tAC8WznLhmXmnOm5V0aPu"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "The Vast Ocean of Tango",
-        "url": "https://open.spotify.com/album/4duy4YMP7CHvE8kQk8oZXi"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "La Yumba",
-      "url": "https://open.spotify.com/track/0tGPciWRMCp1o5P2YlSU79"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
         "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 186066,
       "name": "Chapultepec",
       "url": "https://open.spotify.com/track/5akvXn1opgfn3sepBUFEyd"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "The Vast Ocean of Tango",
+        "url": "https://open.spotify.com/album/4duy4YMP7CHvE8kQk8oZXi"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "La Yumba",
+      "url": "https://open.spotify.com/track/0tGPciWRMCp1o5P2YlSU79"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Latin American Dances",
+        "url": "https://open.spotify.com/album/1cTAXmwe0MfOmsYsdJUJpz"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Levy",
+          "url": "https://open.spotify.com/artist/2qbKQYIWzYVmqcjlN9G48i"
+        },
+        {
+          "name": "Clelia Iruzun",
+          "url": "https://open.spotify.com/artist/2DI5xad8sDfLriaSRzIDEA"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tango brasileiro",
+      "url": "https://open.spotify.com/track/0e27y9al4cWpqVTRG0HFEa"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Falla: Nights in the Garden of Spain; Solo Piano Works",
         "url": "https://open.spotify.com/album/3r85Aw3DIDErCQEiYHk0lu"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 316480,
       "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
       "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Latin American Dances",
-        "url": "https://open.spotify.com/album/1cTAXmwe0MfOmsYsdJUJpz"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Levy",
-          "url": "https://open.spotify.com/artist/2qbKQYIWzYVmqcjlN9G48i"
-        },
-        {
-          "name": "Clelia Iruzun",
-          "url": "https://open.spotify.com/artist/2DI5xad8sDfLriaSRzIDEA"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Tango brasileiro",
-      "url": "https://open.spotify.com/track/0e27y9al4cWpqVTRG0HFEa"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Oswald: Piano Music",
+        "url": "https://open.spotify.com/album/5HEkdzfab3nOlV8WLHzNrk"
+      },
+      "artists": [
+        {
+          "name": "Henrique Oswald",
+          "url": "https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW"
+        },
+        {
+          "name": "Braz Velloso",
+          "url": "https://open.spotify.com/artist/1d71ZzlZwdrQ0iqegUYbfS"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Il neige",
+      "url": "https://open.spotify.com/track/7bLZo27yK3Z0ezI472Phe5"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Victoria: Et Jesum, Motets for Solo Voice",
         "url": "https://open.spotify.com/album/2bPLEqiBA0reFRC2kyBrBQ"
       },
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Oswald: Piano Music",
-        "url": "https://open.spotify.com/album/5HEkdzfab3nOlV8WLHzNrk"
-      },
-      "artists": [
-        {
-          "name": "Henrique Oswald",
-          "url": "https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW"
-        },
-        {
-          "name": "Braz Velloso",
-          "url": "https://open.spotify.com/artist/1d71ZzlZwdrQ0iqegUYbfS"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Il neige",
-      "url": "https://open.spotify.com/track/7bLZo27yK3Z0ezI472Phe5"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Orbon, J.: 3 Versiones Sinfonicas / Villa-Lobos, H.: Bachianas Brasileiras No. 2 / Estevez, A.: Mediodia En El Llano",
         "url": "https://open.spotify.com/album/0dgUU1N5iMoG0LFs25KUXC"
       },
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Encores",
-        "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Pablo Casals",
-          "url": "https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ"
-        },
-        {
-          "name": "Prades Festival Orchestra",
-          "url": "https://open.spotify.com/artist/2DEZSSHiw1lhTPkOc5Vdsh"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "El Cant Dels Ocells",
-      "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Tango - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0LfJYcl5NRSS6GPMiFzW9D"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 161333,
       "name": "Quejas de Bandone\u00f3n",
       "url": "https://open.spotify.com/track/4hgOKDVrxTVlewDLkH992p"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Encores",
+        "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Pablo Casals",
+          "url": "https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ"
+        },
+        {
+          "name": "Prades Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2DEZSSHiw1lhTPkOc5Vdsh"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "El Cant Dels Ocells",
+      "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Los Ministriles in the New World",
-        "url": "https://open.spotify.com/album/52hj8ELn2NHFWOAltXcvVc"
-      },
-      "artists": [
-        {
-          "name": "Francisco L\u00f3pez Capillas",
-          "url": "https://open.spotify.com/artist/0ToZl1R79RXftPg4ksBqUX"
-        },
-        {
-          "name": "Piffaro",
-          "url": "https://open.spotify.com/artist/1sPzg2H8uUdHl8mSGXMhHF"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Ego enim a 6",
-      "url": "https://open.spotify.com/track/24QHwHPMjY4J1EzV6lrUBd"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Obrigado Brazil (Remastered)",
         "url": "https://open.spotify.com/album/1jRhf7CNFyquOJtJYiUSEy"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 204560,
       "name": "Estancia / Danzas del Ballet: IV. Danza final (Malambo) - Live",
       "url": "https://open.spotify.com/track/3miLxRVR1pUWByasPGjDLd"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Los Ministriles in the New World",
+        "url": "https://open.spotify.com/album/52hj8ELn2NHFWOAltXcvVc"
+      },
+      "artists": [
+        {
+          "name": "Francisco L\u00f3pez Capillas",
+          "url": "https://open.spotify.com/artist/0ToZl1R79RXftPg4ksBqUX"
+        },
+        {
+          "name": "Piffaro",
+          "url": "https://open.spotify.com/artist/1sPzg2H8uUdHl8mSGXMhHF"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Ego enim a 6",
+      "url": "https://open.spotify.com/track/24QHwHPMjY4J1EzV6lrUBd"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Maso, Jordi: Catalan Piano Album (The)",
-        "url": "https://open.spotify.com/album/3sTSGgRT976RB9BkEBog3U"
-      },
-      "artists": [
-        {
-          "name": "Roberto Gerhard",
-          "url": "https://open.spotify.com/artist/7oVsVBfYp7gdC2sHy7Lmux"
-        },
-        {
-          "name": "Jordi Mas\u00f3",
-          "url": "https://open.spotify.com/artist/3AGPFUzKdyY4KxzgZqWGPt"
-        }
-      ],
-      "duration_ms": 79306,
-      "name": "2 Apunts (2 Sketches): No. 1. \u2014",
-      "url": "https://open.spotify.com/track/6N5cDX2vHhilXPu43lj5C8"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "The Three Tenors - In Concert - Rome 1990",
         "url": "https://open.spotify.com/album/2w6fQGB2X4Pt4iSyZSmrPd"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 163826,
       "name": "Soroz\u00e1bal: _ - Soroz\u00e1bal: No puede ser [La Taberna del Puerto] - Live",
       "url": "https://open.spotify.com/track/2OO8l4Ypiq0O9bgWw7XcjB"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Maso, Jordi: Catalan Piano Album (The)",
+        "url": "https://open.spotify.com/album/3sTSGgRT976RB9BkEBog3U"
+      },
+      "artists": [
+        {
+          "name": "Roberto Gerhard",
+          "url": "https://open.spotify.com/artist/7oVsVBfYp7gdC2sHy7Lmux"
+        },
+        {
+          "name": "Jordi Mas\u00f3",
+          "url": "https://open.spotify.com/artist/3AGPFUzKdyY4KxzgZqWGPt"
+        }
+      ],
+      "duration_ms": 79306,
+      "name": "2 Apunts (2 Sketches): No. 1. \u2014",
+      "url": "https://open.spotify.com/track/6N5cDX2vHhilXPu43lj5C8"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1691,6 +1691,30 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Tempo do Brasil",
+        "url": "https://open.spotify.com/album/5IUMB530XZphKzaeAaxJY3"
+      },
+      "artists": [
+        {
+          "name": "Sergio Assad",
+          "url": "https://open.spotify.com/artist/4swcKk3MACehmkZYDvPr5z"
+        },
+        {
+          "name": "Marc Regnier",
+          "url": "https://open.spotify.com/artist/6Mhzt8Vf0WmimfSrZpqQZo"
+        },
+        {
+          "name": "Marco Sartor",
+          "url": "https://open.spotify.com/artist/6A3FEDzYb2rJIX8LTTQ1vB"
+        }
+      ],
+      "duration_ms": 129853,
+      "name": "Recife dos Corais",
+      "url": "https://open.spotify.com/track/2B7jBDBXH6mmjokE5gAXy3"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/64dgHfj409YVDSgWENjSwp"
       },
@@ -1719,26 +1743,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Tempo do Brasil",
-        "url": "https://open.spotify.com/album/5IUMB530XZphKzaeAaxJY3"
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
       },
       "artists": [
         {
-          "name": "Sergio Assad",
-          "url": "https://open.spotify.com/artist/4swcKk3MACehmkZYDvPr5z"
+          "name": "Aldemaro Romero",
+          "url": "https://open.spotify.com/artist/4FGcIXWQF5RBWugYuxcpxQ"
         },
         {
-          "name": "Marc Regnier",
-          "url": "https://open.spotify.com/artist/6Mhzt8Vf0WmimfSrZpqQZo"
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
         },
         {
-          "name": "Marco Sartor",
-          "url": "https://open.spotify.com/artist/6A3FEDzYb2rJIX8LTTQ1vB"
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 129853,
-      "name": "Recife dos Corais",
-      "url": "https://open.spotify.com/track/2B7jBDBXH6mmjokE5gAXy3"
+      "duration_ms": 421693,
+      "name": "Suite para cuerdas - (Version for Orchestra): Fuga con Pajarillo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/47nFLP9Vs9MjrwLj6GOCX5"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1763,26 +1787,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
+        "name": "Caramelos Latinos",
+        "url": "https://open.spotify.com/album/7tk2T9GKnOr8W13A6Rsph7"
       },
       "artists": [
         {
-          "name": "Aldemaro Romero",
-          "url": "https://open.spotify.com/artist/4FGcIXWQF5RBWugYuxcpxQ"
+          "name": "Camargo Guarnieri",
+          "url": "https://open.spotify.com/artist/0tYgOV6W1HbAeiSQJdiPO4"
         },
         {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
         },
         {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+          "name": "Maximiano Valdes",
+          "url": "https://open.spotify.com/artist/5wb064Qxd9rVhirUTLXex7"
         }
       ],
-      "duration_ms": 421693,
-      "name": "Suite para cuerdas - (Version for Orchestra): Fuga con Pajarillo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
-      "url": "https://open.spotify.com/track/47nFLP9Vs9MjrwLj6GOCX5"
+      "duration_ms": 138493,
+      "name": "Dansa brasileira",
+      "url": "https://open.spotify.com/track/6BSefJ7BVtgKwxtSE5rXHy"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1867,30 +1891,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Caramelos Latinos",
-        "url": "https://open.spotify.com/album/7tk2T9GKnOr8W13A6Rsph7"
-      },
-      "artists": [
-        {
-          "name": "Camargo Guarnieri",
-          "url": "https://open.spotify.com/artist/0tYgOV6W1HbAeiSQJdiPO4"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Maximiano Valdes",
-          "url": "https://open.spotify.com/artist/5wb064Qxd9rVhirUTLXex7"
-        }
-      ],
-      "duration_ms": 138493,
-      "name": "Dansa brasileira",
-      "url": "https://open.spotify.com/track/6BSefJ7BVtgKwxtSE5rXHy"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Missa Mexicana",
         "url": "https://open.spotify.com/album/2zfgohmz9SjQkUP2aUtKL7"
       },
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Danza de las Brujas",
+        "url": "https://open.spotify.com/album/5LzrkcrlHj8cvG7Fpz8oFL"
+      },
+      "artists": [
+        {
+          "name": "Javier \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/1DLIrRgnvbKexkkyvQR3uw"
+        },
+        {
+          "name": "Camerata Romeu",
+          "url": "https://open.spotify.com/artist/5SzafeY2gIgkZEvq3MOUhb"
+        }
+      ],
+      "duration_ms": 377443,
+      "name": "Metro Chabacano",
+      "url": "https://open.spotify.com/track/3ueWArpEPFXPQDx5r9fjmH"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Spanish Landscapes",
         "url": "https://open.spotify.com/album/7GMGQCXnbSn30irLqgB9xE"
       },
@@ -2027,26 +2047,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Danza de las Brujas",
-        "url": "https://open.spotify.com/album/5LzrkcrlHj8cvG7Fpz8oFL"
-      },
-      "artists": [
-        {
-          "name": "Javier \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/1DLIrRgnvbKexkkyvQR3uw"
-        },
-        {
-          "name": "Camerata Romeu",
-          "url": "https://open.spotify.com/artist/5SzafeY2gIgkZEvq3MOUhb"
-        }
-      ],
-      "duration_ms": 377443,
-      "name": "Metro Chabacano",
-      "url": "https://open.spotify.com/track/3ueWArpEPFXPQDx5r9fjmH"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/0w8e2FaY1mBNrzOmssN9ku"
       },
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Piazzolla, A.: Suite Punta Del Este / Bragato, J.: Graciela Y Buenos Aires / Arizaga, R.: Passacaglia",
+        "url": "https://open.spotify.com/album/2SYFKY89B2ORnmQXK6VuUf"
+      },
+      "artists": [
+        {
+          "name": "Camerata Bariloche",
+          "url": "https://open.spotify.com/artist/3vWOBUq3oL2UyI0FlKYDic"
+        }
+      ],
+      "duration_ms": 491360,
+      "name": "Graciela y Buenos Aires",
+      "url": "https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Latin American Fiesta",
         "url": "https://open.spotify.com/album/0C8zVp6MGfNddW2N3gYbp8"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 226800,
       "name": "Reisado do Pastoreio: III. Batuque",
       "url": "https://open.spotify.com/track/5Xkgtthlbwb9lVbo282i1f"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Piazzolla, A.: Suite Punta Del Este / Bragato, J.: Graciela Y Buenos Aires / Arizaga, R.: Passacaglia",
-        "url": "https://open.spotify.com/album/2SYFKY89B2ORnmQXK6VuUf"
-      },
-      "artists": [
-        {
-          "name": "Camerata Bariloche",
-          "url": "https://open.spotify.com/artist/3vWOBUq3oL2UyI0FlKYDic"
-        }
-      ],
-      "duration_ms": 491360,
-      "name": "Graciela y Buenos Aires",
-      "url": "https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -2311,22 +2311,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Guitar Recital: Jason Vieaux",
-        "url": "https://open.spotify.com/album/4WwQItjmCffbIOUqns8bks"
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Orb\u00f3n",
-          "url": "https://open.spotify.com/artist/0Ry6CUEMeK7lj5Lg7BR7fi"
+          "name": "Radam\u00e9s Gnattali",
+          "url": "https://open.spotify.com/artist/10KxhFfJjMOgwomXBlcO8R"
         },
         {
-          "name": "Jason Vieaux",
-          "url": "https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO"
+          "name": "Manuel Barrueco",
+          "url": "https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE"
         }
       ],
-      "duration_ms": 182426,
-      "name": "Prelude y danza: Preludio",
-      "url": "https://open.spotify.com/track/2OvSYg8amvrwYVNteLWpej"
+      "duration_ms": 257360,
+      "name": "Dansa Brasileira",
+      "url": "https://open.spotify.com/track/3pj1pV5KMoEtv7X3iWalFh"
     }
   ],
   "unique_name": "Top Latin Classical",

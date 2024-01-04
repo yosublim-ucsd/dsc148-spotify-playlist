@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,112 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,154 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 104 | [Gimme Tha Power \- En Vivo Desde Rusia/2010](https://open.spotify.com/track/0Hj07dMek52Z90S7H9MnfE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Desde Rusia Con Amor](https://open.spotify.com/album/7nMFp8S29V0rzGGpR65BmA) | 4:20 |
 | 105 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 |
 | 106 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
-| 107 | [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/3ovWYDbzfrEL0rVy2kW0IC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 4:52 |
+| 107 | [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/2doP03mm7jr6TQ1m2pkbbk) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 4:52 |
 | 108 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 109 | [Soñé](https://open.spotify.com/track/4oMaBqivBDg7ID3EHtydeX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:17 |
 | 110 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 118 | [Florecita Rockera \(feat\. Goyo & Catalina García Barahona\)](https://open.spotify.com/track/0cewuMPpGs38dYsv18LFRW) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC), [Catalina García Barahona](https://open.spotify.com/artist/01CeOOSN2oyRaRXj1a3SJi) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 6:40 |
 | 119 | [Perro Negro \- En Vivo](https://open.spotify.com/track/3avqqo8GtaFUHOv613wLeo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/5FpyQF5KLYwi1cq34Sbk0W) | 3:53 |
 
-Snapshot ID: `MCwzNDQ1OWEyYTA3YjU3MzU2MTViNmVmZGZlMDFkZTUxMjRlMWMwMzFi`
+Snapshot ID: `MCw3YWJjYWI1NDQ5NTI5MzMzYzY1ZmU2MzFkNGM2ODkzNjhlYzQzNDMy`

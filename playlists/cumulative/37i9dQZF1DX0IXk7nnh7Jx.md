@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-478 songs - 1 day 4 hr 25 min
+479 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Lead Me \(Among the Ruins\)](https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Lead Me \(Among the Ruins\)](https://open.spotify.com/album/2H80kM6umUt3ZMVuuqqleo) | 5:11 | 2020-12-18 | 2022-07-26 |
 | [Legendary](https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Legendary](https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8) | 2:09 | 2023-08-04 |  |
 | [Let A Little Light In](https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Let A Little Light In](https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL) | 4:18 | 2023-04-07 | 2023-08-05 |
+| [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 | 2023-12-15 |  |
 | [LIFT MY HANDS](https://open.spotify.com/track/1ywzTEhz2wgVfaUvzPiXOQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LIFT MY HANDS](https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh) | 3:39 | 2023-03-10 | 2023-08-05 |
 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 | 2020-12-18 | 2023-02-19 |
 | [LIGHTER FLUID](https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LIGHTER FLUID](https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ) | 2:13 | 2023-04-21 |  |
@@ -249,7 +250,7 @@
 | [Love Like That](https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Love Like That](https://open.spotify.com/album/1ewhccVD32md195nWwLG3u) | 2:46 | 2023-08-04 |  |
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-02-19 | 2023-08-05 |
 | [LOVE U NEED U](https://open.spotify.com/track/6g8U4ywxdelovp2hgXyNnC) | [Hannah Honey](https://open.spotify.com/artist/6PmqT452dv2vqodLFSAfoK) | [LOVE U NEED U](https://open.spotify.com/album/4jYCX55QvuCKFnV6ekYIGM) | 2:51 | 2023-02-24 | 2023-11-04 |
-| [Love with a Crown](https://open.spotify.com/track/15bKbuJJpONaikCvZPIsGz) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Love With A Crown](https://open.spotify.com/album/6pXR9aK9gsmGCJ0bGe6GIE) | 3:15 | 2023-11-03 |  |
+| [Love with a Crown](https://open.spotify.com/track/15bKbuJJpONaikCvZPIsGz) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Love With A Crown](https://open.spotify.com/album/6pXR9aK9gsmGCJ0bGe6GIE) | 3:15 | 2023-11-03 | 2024-01-04 |
 | [Love Won't Let Me Go \- Acoustic Version](https://open.spotify.com/track/22uzZQy0RrTC2n7gSKmDRI) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Love Won't Let Me Go \(Acoustic Version\)](https://open.spotify.com/album/2bPEY2qGKlKdQyY8iKLTp6) | 3:22 | 2023-08-04 |  |
 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 | 2020-12-18 | 2023-02-19 |
 | [Loyal](https://open.spotify.com/track/5O6tu6yZQ60YdNggb5zh3j) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Loyal](https://open.spotify.com/album/00tW2c9qs1LwGuGkBKj8f4) | 2:45 | 2023-02-19 | 2023-08-05 |

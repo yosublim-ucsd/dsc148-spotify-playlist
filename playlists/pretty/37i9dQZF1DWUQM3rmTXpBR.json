@@ -1,12 +1,12 @@
 {
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
-  "num_followers": 68124,
+  "num_followers": 68158,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGExMjlkYzEyYjQ0ZGE0YzgwN2EwMWU1MDU1YzQxYWI1ZGZjNWE5",
+  "snapshot_id": "MCw0NWY2ODJjYTM5NDc0N2MzMTI5NDlhMjRlMWRiZDQwYjE1YWExYzZl",
   "tracks": [
     {
       "added_at": "2023-12-28 08:39:26",
@@ -431,18 +431,22 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Autostrad 2011",
-        "url": "https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd"
+        "name": "Wein Rayheen",
+        "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
       },
       "artists": [
         {
-          "name": "Autostrad",
-          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
         }
       ],
-      "duration_ms": 512966,
-      "name": "Rahat Ya Khal",
-      "url": "https://open.spotify.com/track/2KZ9jZ5L1sqIgD9mNUvuNf"
+      "duration_ms": 185164,
+      "name": "Wein Rayheen",
+      "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -463,22 +467,18 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Wein Rayheen",
-        "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
+        "name": "Autostrad 2011",
+        "url": "https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd"
       },
       "artists": [
         {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+          "name": "Autostrad",
+          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
         }
       ],
-      "duration_ms": 185164,
-      "name": "Wein Rayheen",
-      "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
+      "duration_ms": 512966,
+      "name": "Rahat Ya Khal",
+      "url": "https://open.spotify.com/track/2KZ9jZ5L1sqIgD9mNUvuNf"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
-        "url": "https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
-      "url": "https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "\u062a\u062c\u0631\u0628\u0629 \u0631\u0642\u0645 \u0661 \\ \u0662",
         "url": "https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 224624,
       "name": "Ya Weel Weely",
       "url": "https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "\u0644\u0627 \u062a\u0632\u0639\u0644 \u0645\u0646\u064a",
+      "url": "https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Ghouyoum",
-        "url": "https://open.spotify.com/album/4IswYbu0UyUIPl4eBgDQnq"
+        "name": "Nas Min Khashab",
+        "url": "https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw"
       },
       "artists": [
         {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
         }
       ],
-      "duration_ms": 172861,
-      "name": "Ghouyoum",
-      "url": "https://open.spotify.com/track/4jRENpUjx6AVcs4qwDPmn5"
+      "duration_ms": 281444,
+      "name": "Madinet El Malahi",
+      "url": "https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Nas Min Khashab",
-        "url": "https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw"
+        "name": "Ghouyoum",
+        "url": "https://open.spotify.com/album/4IswYbu0UyUIPl4eBgDQnq"
       },
       "artists": [
         {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         }
       ],
-      "duration_ms": 281444,
-      "name": "Madinet El Malahi",
-      "url": "https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo"
+      "duration_ms": 172861,
+      "name": "Ghouyoum",
+      "url": "https://open.spotify.com/track/4jRENpUjx6AVcs4qwDPmn5"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "INSAK",
-        "url": "https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto"
-      },
-      "artists": [
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        }
-      ],
-      "duration_ms": 218522,
-      "name": "INSAK",
-      "url": "https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "\u0634\u0648\u0627\u0631\u0639 \u0627\u0644\u0645\u062f\u064a\u0646\u0629",
         "url": "https://open.spotify.com/album/4VVSPbZfF5HIoVNMM13hTi"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 325617,
       "name": "\u0634\u0648\u0627\u0631\u0639 \u0627\u0644\u0645\u062f\u064a\u0646\u0629",
       "url": "https://open.spotify.com/track/2xUiAIX9Ugbtgf0bvbaAqh"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "INSAK",
+        "url": "https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 218522,
+      "name": "INSAK",
+      "url": "https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp"
-      },
-      "artists": [
-        {
-          "name": "Almena",
-          "url": "https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37"
-        }
-      ],
-      "duration_ms": 258120,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 363000,
       "name": "Layla",
       "url": "https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp"
+      },
+      "artists": [
+        {
+          "name": "Almena",
+          "url": "https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD"
     },
     {
       "added_at": "2023-12-28 08:39:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-28 08:39:26",
       "album": {
-        "name": "Telfizion",
-        "url": "https://open.spotify.com/album/4QOn9Te6pWD6uR8nnk5QqM"
-      },
-      "artists": [
-        {
-          "name": "Yazan Rousan",
-          "url": "https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Telfizion",
-      "url": "https://open.spotify.com/track/0zcCxBYW0kAkaxI6nvyvMR"
-    },
-    {
-      "added_at": "2023-12-28 08:39:26",
-      "album": {
         "name": "Rien (Walo)",
         "url": "https://open.spotify.com/album/4Sm2NpOuvRhSzSrwO4U3sz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 187354,
       "name": "Rien - Walo",
       "url": "https://open.spotify.com/track/1VzK9N1vmvEStE4nfOGrWs"
+    },
+    {
+      "added_at": "2023-12-28 08:39:26",
+      "album": {
+        "name": "Telfizion",
+        "url": "https://open.spotify.com/album/4QOn9Te6pWD6uR8nnk5QqM"
+      },
+      "artists": [
+        {
+          "name": "Yazan Rousan",
+          "url": "https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Telfizion",
+      "url": "https://open.spotify.com/track/0zcCxBYW0kAkaxI6nvyvMR"
     },
     {
       "added_at": "2023-12-28 08:39:26",

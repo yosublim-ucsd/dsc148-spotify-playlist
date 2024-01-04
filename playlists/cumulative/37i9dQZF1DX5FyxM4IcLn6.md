@@ -4,7 +4,7 @@
 
 > The official playlist for the 64th GRAMMY Awards.
 
-617 songs - 1 day 18 hr 27 min
+618 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,8 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-11-10 |  |
 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 | 2022-03-29 | 2022-11-24 |
 | [Moe Honk \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/6RtvWBr7lrmdjy2RqOfY6z) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [RoundAgain \(feat\. Brad Mehldau, Christian McBride, Brian Blade\)](https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm) | 7:11 | 2021-03-10 | 2022-03-30 |
-| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-11-10 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 | 2023-11-10 |  |
+| [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-11-10 | 2024-01-04 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2022-03-29 | 2022-11-24 |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2021-03-10 | 2022-03-30 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-03-10 | 2022-03-30 |

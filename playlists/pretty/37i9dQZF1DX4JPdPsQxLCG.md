@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,323 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,335 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 23 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 24 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
 | 25 | [We're Here For A Good Time \(Not A Long Time\)](https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Knock 'Em Dead Kid](https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ) | 3:34 |
-| 26 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
+| 26 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 |
 | 27 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
-| 28 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 |
+| 28 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 29 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 30 | [R.E.D.](https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [We Are the Halluci Nation](https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4) | 3:29 |
 | 31 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 | 75 | [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 |
 
-Snapshot ID: `MCw2YmI2OGFjNjI4ZmZiY2Y2N2M2YzlkM2RjYjJhNTM0NjM3NDgxY2Zh`
+Snapshot ID: `MCw5ZjBjMzliNTIzNGFmMTczNTEwOGJjYzIxMjhiMzhmNGMzNzdjZWVj`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 154234,
+  "num_followers": 154262,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQ4MTMzN2NiZDM2MGNkNDk4ZDg0ZDI3NWJkMjQyNjBiMDI3OGIz",
+  "snapshot_id": "MCxjZDIxZjU2NzliYzYzYWEzMTM3MjdmMWQ4ODI2OGRmMDk3ZWRiMTVk",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 114800,
-      "name": "El Rock De La C\u00e1rcel",
-      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
         "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 159686,
       "name": "La Hiedra Venenosa",
       "url": "https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 114800,
+      "name": "El Rock De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -195,18 +195,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
-        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
         }
       ],
-      "duration_ms": 175995,
-      "name": "Despeinada",
-      "url": "https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh"
+      "duration_ms": 146796,
+      "name": "Melod\u00eda de Amor",
+      "url": "https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -225,6 +229,22 @@
       "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
     },
     {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
+        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 175995,
+      "name": "Despeinada",
+      "url": "https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh"
+    },
+    {
       "added_at": "2022-05-04 17:04:54",
       "album": {
         "name": "Hermanos Carrion 50 A\u00f1os, Vol. 1",
@@ -239,26 +259,6 @@
       "duration_ms": 162847,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Historia Musical de Mis Exitos",
-        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 146796,
-      "name": "Melod\u00eda de Amor",
-      "url": "https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -311,18 +311,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "El Juego De Sim\u00f3n",
+        "url": "https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr"
       },
       "artists": [
         {
-          "name": "Los Sleepers",
-          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
         }
       ],
-      "duration_ms": 140026,
-      "name": "Al Ritmo De La Lluvia",
-      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+      "duration_ms": 108483,
+      "name": "El Juego De Sim\u00f3n",
+      "url": "https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -343,18 +343,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "El Juego De Sim\u00f3n",
-        "url": "https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr"
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
       "artists": [
         {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+          "name": "Los Sleepers",
+          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
         }
       ],
-      "duration_ms": 108483,
-      "name": "El Juego De Sim\u00f3n",
-      "url": "https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0"
+      "duration_ms": 140026,
+      "name": "Al Ritmo De La Lluvia",
+      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Los Originales",
-        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
-      },
-      "artists": [
-        {
-          "name": "Los Digers",
-          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
-        }
-      ],
-      "duration_ms": 165154,
-      "name": "Si me quieres",
-      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "El Tigre",
         "url": "https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 98615,
       "name": "Oh! No",
       "url": "https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
+      },
+      "artists": [
+        {
+          "name": "Los Digers",
+          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
+        }
+      ],
+      "duration_ms": 165154,
+      "name": "Si me quieres",
+      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
     },
     {
       "added_at": "2020-03-18 04:18:26",

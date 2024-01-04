@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 341525,
+  "num_followers": 341551,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE1NTMyYTI5YWNjMWRmNjA4MTY5NDFjNTQ5YThmODk1NzcxZTg5",
+  "snapshot_id": "MCxkZDAyMmVkODVkN2U3OWU2NGExZThjNDk1ZDU3ZDI5M2E0OTE2YzFk",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT"
+    },
+    {
+      "added_at": "2022-07-07 04:00:00",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
+      "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
       },
       "artists": [
         {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP"
-      },
-      "artists": [
-        {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 242859,
       "name": "Begin (feat. Wales)",
       "url": "https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
     },
     {
       "added_at": "2021-03-15 19:25:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,537 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 62 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 |
 | 63 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
 | 64 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
-| 65 | [Popo](https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 2:50 |
-| 66 | [SNAPCHAT](https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [SNAPCHAT](https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd) | 3:05 |
+| 65 | [SNAPCHAT](https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [SNAPCHAT](https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd) | 3:05 |
+| 66 | [Popo](https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 2:50 |
 | 67 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 |
 | 68 | [Whine](https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [BIG TIME \(Deluxe\)](https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd) | 2:32 |
 | 69 | [Peace Of Mind](https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Peace Of Mind](https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 |
 | 80 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 |
 
-Snapshot ID: `MCwyNDEwNTE3ZWFkNmFmMzNiMmRiNTZmNTEzYWZmMWExNWQ1OTQ4ZDdm`
+Snapshot ID: `MCw4Nzc3MjAxMDk4OTAwMDkzZDBlNzAwNGE0NmVmZWQzZWIxMzJjYzYy`

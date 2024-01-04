@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Airbag
 
-234 songs - 14 hr 39 min
+235 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-06-24 | 2023-09-27 |
 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 | 2022-07-08 | 2023-12-09 |
 | [La Libertad](https://open.spotify.com/track/1Qd1kCBn0GPFl7y3fZZ8uG) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Huracán, Vol\. 9](https://open.spotify.com/album/0qLHnQBkMI3lhYELDxZeDb) | 3:16 | 2022-07-01 |  |
-| [La Marcha Que Les Debía](https://open.spotify.com/track/31agtWMCKheGN5fi5B7Zaz) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [La Marcha Que Les Debía](https://open.spotify.com/album/5DXFoAlWhyjNrSSLTOFECY) | 4:17 | 2023-09-22 |  |
+| [La Marcha Que Les Debía](https://open.spotify.com/track/31agtWMCKheGN5fi5B7Zaz) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [La Marcha Que Les Debía](https://open.spotify.com/album/5DXFoAlWhyjNrSSLTOFECY) | 4:17 | 2023-09-22 | 2024-01-04 |
+| [La Marcha Que Les Debía](https://open.spotify.com/track/3OaoAm1Jm6NZjXHvvzfkfr) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [La Marcha Que Les Debía](https://open.spotify.com/album/3qca8V9nGSJOV2jjPN67Ir) | 4:17 | 2023-12-15 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/01Nl8C2RuzukJWbOfYxsU6) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [Filosopunk](https://open.spotify.com/album/0RXMKMiInn9AezTxtb9I5U) | 5:41 | 2022-07-15 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/0mdnJMB8I5rioFrxazCgJj) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [La Noche Sin Tí](https://open.spotify.com/album/02A4nDVsZBgNFVnt65Xgay) | 5:46 | 2022-06-24 | 2022-07-29 |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-09-09 | 2023-05-16 |

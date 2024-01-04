@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "El Bambino",
+        "url": "https://open.spotify.com/album/7GU8JPZrEB65wftrnNEJvX"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "El Bambino",
+      "url": "https://open.spotify.com/track/2SxPkJSpGqdcl1KzBENz8K"
+    },
+    {
+      "album": {
         "name": "Grandes \u00c9xitos (En Vivo)",
         "url": "https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 214693,
       "name": "Enfermo de Amor",
       "url": "https://open.spotify.com/track/4V7PEffhhn8bUwS8HUkPdQ"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 231533,
       "name": "Le Doblamos La Edad",
       "url": "https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 197825,
       "name": "Matame a Besos",
       "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"

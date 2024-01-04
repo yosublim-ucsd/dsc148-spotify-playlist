@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-62 songs - 4 hr 3 min
+63 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 |  |
 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 | 2023-10-18 |  |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2023-12-08 |  |
-| [Moving Closer](https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Moving Closer](https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T) | 2:53 | 2023-12-08 |  |
+| [Moving Closer](https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Moving Closer](https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T) | 2:53 | 2023-12-08 | 2024-01-04 |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2023-10-18 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-10-18 |  |
 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2023-10-18 |  |
+| [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-12-08 |  |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-10-18 | 2023-12-02 |
 | [Pagod](https://open.spotify.com/track/6HAJc8mpLVLiY4M9hRm1g9) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Pagod](https://open.spotify.com/album/1YUwrb26GfU9wBvoPA3rVT) | 4:12 | 2023-10-25 | 2023-11-11 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2023-10-18 |  |

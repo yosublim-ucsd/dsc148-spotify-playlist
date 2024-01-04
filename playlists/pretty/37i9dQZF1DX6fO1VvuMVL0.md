@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,353 likes - 75 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,413 likes - 75 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 10 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
 | 11 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 |
 | 12 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:46 |
-| 13 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 |
-| 14 | [Come Rain Or Come Shine \(Take 5\)](https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 3:24 |
+| 13 | [Come Rain Or Come Shine \(Take 5\)](https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 3:24 |
+| 14 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 |
 | 15 | [Too Close For Comfort](https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:52 |
 | 16 | [When Your Lover Has Gone \- Instrumental](https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [2 Trumpets](https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN) | 5:10 |
 | 17 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 55 | [Afternoon in Paris](https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 9:58 |
 | 56 | [Easy Living](https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 7:02 |
 | 57 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 |
-| 58 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
-| 59 | [Just A\-Sittin' And A\-Rockin' \- Live At The Village Vanguard, New York / 1959](https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1) | [Kenny Burrell Trio](https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU) | [A Night At The Vanguard](https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra) | 4:20 |
+| 58 | [Just A\-Sittin' And A\-Rockin' \- Live At The Village Vanguard, New York / 1959](https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1) | [Kenny Burrell Trio](https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU) | [A Night At The Vanguard](https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra) | 4:20 |
+| 59 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
 | 60 | [Too Marvelous For Words](https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Quartets \(Remastered\)](https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg) | 2:53 |
 | 61 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 |
 | 62 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 74 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 | 75 | [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 |
 
-Snapshot ID: `MCw3ZTAxMGE5NzVjMWE4ZmY2ODYxNzAzMGQ2Zjc2OTE5ZDU3NzU2NjI1`
+Snapshot ID: `MCwyZmUyYTJlYzUwZGRjODc2NmQyYjY0YTBjYzc3OTA5YzVjYWZmMWU4`

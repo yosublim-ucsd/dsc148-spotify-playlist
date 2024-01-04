@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Jordan Ward
 
-379 songs - 19 hr 55 min
+380 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Many Times](https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Many Times](https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q) | 2:06 | 2022-02-18 | 2023-03-07 |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-01 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2022-02-18 | 2023-06-08 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-09 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-09 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-17 |  |
 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-02-01 | 2023-08-22 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-17 | 2022-10-04 |
 | [Midnight Legend](https://open.spotify.com/track/7wnRHeYAAd0KqkFe3ZQHcI) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Midnight Legend](https://open.spotify.com/album/2MJDkHvOuzpQg1q3AMeYC6) | 3:24 | 2022-10-03 | 2023-02-11 |

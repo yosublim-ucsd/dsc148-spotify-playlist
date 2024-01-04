@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Dot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,934 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,959 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 45 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 |
 | 46 | [Sober Song](https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:09 |
 | 47 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
-| 48 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
-| 49 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
+| 48 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
+| 49 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
 | 50 | [Stay with Me](https://open.spotify.com/track/1DK3RXk38erunCpFE68PQp) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:28 |
 | 51 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
 | 52 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 62 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 |
 | 63 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
 | 64 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
-| 65 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
-| 66 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
+| 65 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
+| 66 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
 | 67 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 | 68 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
 | 69 | [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 |
 | 70 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
-| 71 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
-| 72 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 |
-| 73 | [Constellation](https://open.spotify.com/track/1oryjvmYyzYBvxPNX4z5mj) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 3:15 |
-| 74 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
-| 75 | [So Good](https://open.spotify.com/track/76m6sl66prgKWBHlLcWioe) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/58x2uGJPK8o3yumSC8C2TR) | 2:59 |
+| 71 | [So Good](https://open.spotify.com/track/76m6sl66prgKWBHlLcWioe) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/58x2uGJPK8o3yumSC8C2TR) | 2:59 |
+| 72 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
+| 73 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
+| 74 | [Constellation](https://open.spotify.com/track/1oryjvmYyzYBvxPNX4z5mj) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 3:15 |
+| 75 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 |
 
-Snapshot ID: `MCxkNTFiYjhjNTRkM2NmOTE3NzBkY2U5MmVjMGE5ZmU3YTlmYTRiMjgy`
+Snapshot ID: `MCxmM2I1MGU4NGE5ZGQ0N2ZiNDYzMzVlNDI5MzY0OTdiZDhhNmZiYjU0`

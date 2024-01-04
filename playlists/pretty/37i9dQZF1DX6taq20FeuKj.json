@@ -1,12 +1,12 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2103493,
+  "num_followers": 2103690,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2RlMGE5YTkxNDM4MzQ1MTQ1YjQ2YWExOGZhNzY0ODg5ZDJmZDBm",
+  "snapshot_id": "MCxkN2Y2MmQ0MDNlNDNiZDU5ZjQzNzE4ZDhhYzViMzBmMjBlYzFhMTcx",
   "tracks": [
     {
       "added_at": "2022-11-02 01:50:57",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 153800,
       "name": "Shoota (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Top Shotta",
+        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 148759,
+      "name": "Camelot",
+      "url": "https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Top Shotta",
-        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 148759,
-      "name": "Camelot",
-      "url": "https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "My Moment",
+        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Detroit 2",
         "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "My Moment",
-        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
     },
     {
       "added_at": "2022-10-28 04:00:00",

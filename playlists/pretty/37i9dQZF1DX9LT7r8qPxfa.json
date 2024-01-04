@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 262529,
+  "num_followers": 262545,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTc0NWNmNTE0YjY1NGZmZjU4ODkxNzA1ZGQ1MTZjZjVhYzliZTBh",
+  "snapshot_id": "MCwyNjcyZTE0Y2I3NzliMWNkZDQ2MGY3YzJkODQ0Y2ZhNWVlMWMzZDg2",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "68",
-        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 208955,
-      "name": "68 - Live",
-      "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "68",
+        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "68 - Live",
+      "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
-      },
-      "artists": [
-        {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
+      },
+      "artists": [
+        {
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Bullseye",
         "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Love More",
-        "url": "https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 272067,
-      "name": "Love More",
-      "url": "https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Love More",
+        "url": "https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 272067,
+      "name": "Love More",
+      "url": "https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Party Dress",
+        "url": "https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 194942,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Party Dress",
-        "url": "https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 194942,
-      "name": "Party Dress",
-      "url": "https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 284951,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Friends With Feelings",
-        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
       },
       "artists": [
         {
-          "name": "Alice Skye",
-          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
         }
       ],
-      "duration_ms": 255426,
-      "name": "Friends with Feelings",
-      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
+      "duration_ms": 239917,
+      "name": "Pressing Down",
+      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
+        "name": "Friends With Feelings",
+        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
       },
       "artists": [
         {
-          "name": "Sister Ray",
-          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+          "name": "Alice Skye",
+          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
         }
       ],
-      "duration_ms": 239917,
-      "name": "Pressing Down",
-      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
+      "duration_ms": 255426,
+      "name": "Friends with Feelings",
+      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "L. A. Flame",
+        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Ash",
+          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 237015,
       "name": "Cold Caller",
       "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "L. A. Flame",
-        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
-      },
-      "artists": [
-        {
-          "name": "Anna Ash",
-          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "I Don't Want To Let You Down b/w All Over Again",
-        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "I Don't Want to Let You Down",
-      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Unmoved (A Black Woman Truth)",
-        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+        "name": "I Don't Want To Let You Down b/w All Over Again",
+        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
       },
       "artists": [
         {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 256451,
-      "name": "Unmoved (A Black Woman Truth)",
-      "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
+      "duration_ms": 242893,
+      "name": "I Don't Want to Let You Down",
+      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1679,6 +1663,22 @@
       "duration_ms": 211522,
       "name": "hurt",
       "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Unmoved (A Black Woman Truth)",
+        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 256451,
+      "name": "Unmoved (A Black Woman Truth)",
+      "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
     }
   ],
   "unique_name": "noir",

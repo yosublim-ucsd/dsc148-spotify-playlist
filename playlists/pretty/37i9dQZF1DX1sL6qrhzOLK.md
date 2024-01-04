@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 36 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056 likes - 36 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 16 | [Curated by GRIMENTO](https://open.spotify.com/track/62FpF7qxquBG7TeWRlNKsQ) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:24 |
 | 17 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 | 18 | [Curated by LEENALCHI](https://open.spotify.com/track/3neXVezrF2dZRX7rPcRvMT) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:22 |
-| 19 | [A Fish Map](https://open.spotify.com/track/6dKE0UMUT9qRYjbQZLTdAh) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/6MYao96QUzW6tn5JvN5EZi) | 3:08 |
+| 19 | [A Fish Map](https://open.spotify.com/track/5yMr8TkBo7mMFAtbB1LPTz) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/5UqbnRVtyrrGrBeKP0KeYW) | 3:08 |
 | 20 | [Curated by LEE Ilwoo\(Gwang Gwang, Goeng Goeng\)](https://open.spotify.com/track/2M0a5P89ATi18LBbCZedmU) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:36 |
 | 21 | [Lichen With Piano](https://open.spotify.com/track/0IQ0ugQ4qAO9aA33CBXwxu) | [Ametsub](https://open.spotify.com/artist/1lqeOtFoEHyRGR9QoRJpEz) | [The Nothings of The North](https://open.spotify.com/album/3Idut3J1biBvpPCoT6eSVj) | 5:41 |
 | 22 | [Curated by SUNG Si Young\(Gwang Gwang, Goeng Goeng\)](https://open.spotify.com/track/3eVSm8aCQczmwPcWK9dtmZ) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:21 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 35 | [The Strong Heavy Vehicles \- Korean Version](https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo's Sing Along Show 1 \(Korean Version\)](https://open.spotify.com/album/6HX2fE9yheC34o4JpYmn1B) | 2:30 |
 | 36 | [Tannhäuser: Overture](https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Wagner: Orchestral Favourites](https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu) | 14:13 |
 
-Snapshot ID: `MCwzNGJhZjA1NzJkZjk1NDgzZjgyN2VmNzJkYmUyNzZmNTM2Y2U3YWQz`
+Snapshot ID: `MCw5OTc2M2U2ZjFmNzVlNjZmMDA4ZWRkMTRkMTU4NDljMGZhYmUwMDE2`

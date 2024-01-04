@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 45160,
+  "num_followers": 45197,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjc5OTIzZGJiMjVkY2NmMzM2OWQxNzdjNWZjNDkyZDVmMTBhYzNi",
+  "snapshot_id": "MCwzN2YyOGI5ZDE5OTIwYTA1MzIzZmU2OGEwNmI1OGU5OTBlYjk0NTJh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 141560,
       "name": "Spann's Stomp",
       "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "See You Later, Alligator",
-        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
-      },
-      "artists": [
-        {
-          "name": "Bobby Charles",
-          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Later Alligator (See You Later, Alligator)",
-      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 178000,
       "name": "Honky Tonk Train Blues",
       "url": "https://open.spotify.com/track/7oTDuYHa8B8M6MpfR68oGy"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "See You Later, Alligator",
+        "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
+      },
+      "artists": [
+        {
+          "name": "Bobby Charles",
+          "url": "https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Later Alligator (See You Later, Alligator)",
+      "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Cincinnati Stomp",
         "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie",
-        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
-      },
-      "artists": [
-        {
-          "name": "Henning Pertiet",
-          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Get in the Groove, Boys!",
-      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "The Boogie Woogie Trio vol. 1",
         "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 125320,
       "name": "Boogie Woogie Prayer",
       "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
+      },
+      "artists": [
+        {
+          "name": "Henning Pertiet",
+          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Get in the Groove, Boys!",
+      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
     },
     {
       "added_at": "2023-09-15 11:42:58",

@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 77891,
+  "num_followers": 77949,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjE4YjA3MmM3OTRkMGU2NDJhYmQ5OWVlM2U2ZmVkNmQ3YTE0NWJj",
+  "snapshot_id": "MCw4YTI5NDllMGM4Mjc0ODA4MjY3NDgzNjZmY2M0NDAyMzY4NThkMjcx",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
+      "added_at": "2024-01-03 18:09:26",
+      "album": {
+        "name": "Tiempo A Solas",
+        "url": "https://open.spotify.com/album/1d2AqvV4Bto7fOod4WO9on"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Tiempo A Solas",
+      "url": "https://open.spotify.com/track/74qlz4UL5sWIKiwkvioSX4"
+    },
+    {
       "added_at": "2023-02-24 17:37:22",
       "album": {
         "name": "Hasta el Fin Del Mundo",
@@ -393,26 +409,6 @@
       "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
     },
     {
-      "added_at": "2023-11-23 03:45:22",
-      "album": {
-        "name": "Seres",
-        "url": "https://open.spotify.com/album/0mYmo5sNyWmmXpM44OY2u3"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Karo",
-          "url": "https://open.spotify.com/artist/7sGq5HEpX2hhJHrSI3SiC4"
-        },
-        {
-          "name": "Caro Valenzuela",
-          "url": "https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Seres",
-      "url": "https://open.spotify.com/track/40jx3wSujFEMxSZTZZ1QY3"
-    },
-    {
       "added_at": "2023-02-24 17:37:22",
       "album": {
         "name": "M\u00e1s",
@@ -447,22 +443,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
       },
@@ -475,6 +455,22 @@
       "duration_ms": 162186,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1119,22 +1115,18 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
       },
       "artists": [
         {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "RIVA",
-          "url": "https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 191924,
-      "name": "Batismo",
-      "url": "https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC"
+      "duration_ms": 221826,
+      "name": "No Choice",
+      "url": "https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1155,18 +1147,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "RIVA",
+          "url": "https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS"
         }
       ],
-      "duration_ms": 221826,
-      "name": "No Choice",
-      "url": "https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu"
+      "duration_ms": 191924,
+      "name": "Batismo",
+      "url": "https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1251,6 +1247,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "The Kick Inside (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Wuthering Heights - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
       },
@@ -1283,22 +1295,6 @@
       "duration_ms": 284120,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/3PzmaAZJgzM9HgbsFHv33w"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "The Kick Inside (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 268933,
-      "name": "Wuthering Heights - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
     },
     {
       "added_at": "2023-02-24 17:37:22",

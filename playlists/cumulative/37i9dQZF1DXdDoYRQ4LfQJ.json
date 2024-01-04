@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225416,
+      "name": "ALFOMBRA ROJA",
+      "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
+    },
+    {
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -406,6 +424,28 @@
       "duration_ms": 203861,
       "name": "Anillos",
       "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137207,
+      "name": "Arre Pues",
+      "url": "https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT"
     },
     {
       "album": {
@@ -3772,7 +3812,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
@@ -3907,6 +3947,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150045,
+      "name": "Las Dos R",
+      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
+    },
+    {
+      "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
@@ -3922,7 +3984,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 155550,
       "name": "Las Morras",
       "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
@@ -4374,7 +4436,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 174863,
       "name": "Me Met\u00ed En El Ruedo",
       "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
@@ -4548,7 +4610,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 134624,
       "name": "Modo Maldito",
       "url": "https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8"
@@ -4920,6 +4982,28 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "album": {

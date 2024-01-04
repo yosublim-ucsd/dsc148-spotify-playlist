@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Ay Jalisco no te rajes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,560 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 49 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 |
 | 50 | [La culebra](https://open.spotify.com/track/5BCmbfRZDgGO4Li8Y1xBtl) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 3:08 |
 
-Snapshot ID: `MCwzZDUwM2NjMjgxZTk1YWFiNDc1ZjgxMmRlNDdiYzVkZmM1OWZkYTgx`
+Snapshot ID: `MCw4OTRhNjgzMDg1Mzg5NDc5ZTk0MjMyMDQzNGQ2ODA4ZWE1ZTljZTJh`

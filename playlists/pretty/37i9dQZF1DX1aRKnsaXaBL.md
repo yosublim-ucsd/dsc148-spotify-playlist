@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,704 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,734 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 12 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
 | 13 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
 | 14 | [Control](https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Why You?](https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg) | 5:04 |
-| 15 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
-| 16 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
+| 15 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
+| 16 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 17 | [Apasionado](https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 4:05 |
 | 18 | [Últimas Palabras](https://open.spotify.com/track/7GVXXI9F3Wv3oNZIyTHf7v) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/66vAJcsK1TsM8ZYFodxN2C) | 3:32 |
 | 19 | [Sin Vos No Puedo](https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 2:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 45 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
 | 46 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
 | 47 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
-| 48 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
-| 49 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
+| 48 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
+| 49 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 | 50 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 
-Snapshot ID: `MCwxNzczNWY5NjBhM2U4YTNiNGZkZGE2ZTQ3OTlhYjk4NDliNDdlM2Zl`
+Snapshot ID: `MCxmYWIzOTRmMTZjNDEyZjVhODJjM2U1NDlkNDhmMTc0MWEwNmNhZjZh`

@@ -1,12 +1,12 @@
 {
   "description": "Tight Roll your jeans, break out the CK1, and set the mood...",
-  "num_followers": 3524840,
+  "num_followers": 3525365,
   "original_name": "90s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODRkODRkYTVmYzIzYWRjYzM3NTU0OWZlYmFjNGU4ZDRiNGI4OTY2",
+  "snapshot_id": "MCxkYWUzZTRhNjU2MWM5OTgzYjk2Y2IyMWE5NjE2ZTBkMGRmMjVhMTQ3",
   "tracks": [
     {
       "added_at": "2023-04-08 16:46:40",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4"
-    },
-    {
-      "added_at": "2023-04-08 16:46:40",
-      "album": {
         "name": "Tamia",
         "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 261866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
+    },
+    {
+      "added_at": "2023-04-08 16:46:40",
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4"
     },
     {
       "added_at": "2023-04-08 16:46:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 266973,
-      "name": "How Do I Live",
-      "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
-    },
-    {
-      "added_at": "2023-04-08 16:46:40",
-      "album": {
         "name": "Time, Love & Tenderness",
         "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 231066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
+    },
+    {
+      "added_at": "2023-04-08 16:46:40",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 266973,
+      "name": "How Do I Live",
+      "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
     },
     {
       "added_at": "2023-04-08 16:46:40",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-04-08 16:46:40",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
-    },
-    {
-      "added_at": "2023-04-08 16:46:40",
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+    },
+    {
+      "added_at": "2023-04-08 16:46:40",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
     },
     {
       "added_at": "2023-04-08 16:46:40",

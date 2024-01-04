@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,343 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,351 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 52 | [Amuleto](https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:45 |
 | 53 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
 | 54 | [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 |
-| 55 | [Querer Querer](https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Querer Querer](https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh) | 3:27 |
-| 56 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
+| 55 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
+| 56 | [Querer Querer](https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Querer Querer](https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh) | 3:27 |
 | 57 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
 | 58 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
 | 59 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 76 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 77 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
 | 78 | [Que Sí Que No](https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg) | [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Sí Que No](https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF) | 2:43 |
-| 79 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
-| 80 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
+| 79 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
+| 80 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 81 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 | 82 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 | 83 | [Charreando En La Disco](https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [Charreando En La Disco](https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S) | 2:53 |
 | 84 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
-| 85 | [Fashion Victims](https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:20 |
-| 86 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
+| 85 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 |
+| 86 | [Fashion Victims](https://open.spotify.com/track/3pdonyyWeL5F7sWNVo519h) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:20 |
 | 87 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
 | 88 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 89 | [kiss my friends](https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kiss my friends](https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [Mujer Contra Mujer](https://open.spotify.com/track/2AFriDnr8KrU9d39Hd9UHV) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Mujer Contra Mujer](https://open.spotify.com/album/4mvqSipxmat1wzNTJzSEZy) | 3:26 |
 | 100 | [Pollo Frito](https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM) | [Diamante Merybrown](https://open.spotify.com/artist/4LRatXcWgcxuM1fLsn0eF9), [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [Pollo Frito](https://open.spotify.com/album/4wBHZdKOUiy9QBck34QdL2) | 2:45 |
 
-Snapshot ID: `MCwzN2MwNWJlYTJiMTZjYmIwOWJjZjY3MDRlYzA5OTU4Y2IzMzkzYzA1`
+Snapshot ID: `MCw2MmE0ZGQwMTUwYTI4MmRkMTViOTE2ZDg5NmJmZmY1OTJkZTczN2Zm`

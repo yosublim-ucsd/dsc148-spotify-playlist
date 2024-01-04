@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,590 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,596 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 52 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
 | 53 | [午前4時のDusty Love](https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u) | [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [午前4時のDusty Love](https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd) | 4:34 |
 | 54 | [Fly away!](https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:29 |
-| 55 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
-| 56 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
+| 55 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
+| 56 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
 | 57 | [三日月のヴェール](https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs) | [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c) | [三日月のヴェール](https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc) | 5:20 |
 | 58 | [Love two you](https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw) | [Love two you](https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd) | 4:45 |
 | 59 | [RESTART POiNTER](https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:22 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 61 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 |
 | 62 | [Utopia](https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:18 |
 | 63 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
-| 64 | [Survivor](https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 3:37 |
-| 65 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
+| 64 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
+| 65 | [Survivor](https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 3:37 |
 | 66 | [TOMORROW EViDENCE](https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:26 |
 | 67 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 68 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 |
 | 69 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
 | 70 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 |
 
-Snapshot ID: `MCw1OTI4ZmYyMjcwMjc5MDZjZjgwNWU5MDI3ZTgzZTI2ODU0M2UwOTE3`
+Snapshot ID: `MCxhOWExMWMyZDc5M2U0NzhlNDZmY2JkZGVlMjE2NjU1Nzg0ODg2MGM3`

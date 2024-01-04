@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0B1hXnSYwL9.md) - [plain]
 
 > Canciones para sacarle brillo a la pista de baile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,434 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,446 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0B1hXnSYwL9.md) - [plain]
 | 36 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
 | 37 | [Burbujas de Amor](https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:10 |
 | 38 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
-| 39 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
-| 40 | [Te Encontre](https://open.spotify.com/track/2kP6fOqdSQ5CYqVH5z5844) | [El Vega](https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565) | [Versatilidad & Vivencias \(Deluxe Edition\)](https://open.spotify.com/album/0cYaWyKgFJQRM8LV6RdNeB) | 3:29 |
+| 39 | [Te Encontre](https://open.spotify.com/track/2kP6fOqdSQ5CYqVH5z5844) | [El Vega](https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565) | [Versatilidad & Vivencias \(Deluxe Edition\)](https://open.spotify.com/album/0cYaWyKgFJQRM8LV6RdNeB) | 3:29 |
+| 40 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 |
 | 41 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 42 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 43 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 44 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 45 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 |
-| 46 | [La Dueña del Swing](https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Dueños del Swing](https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw) | 4:20 |
-| 47 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
+| 46 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
+| 47 | [La Dueña del Swing](https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Dueños del Swing](https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw) | 4:20 |
 | 48 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 49 | [No Me Llames Mas](https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [No Me Llames Mas](https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd) | 4:27 |
 | 50 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0B1hXnSYwL9.md) - [plain]
 | 99 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 |
 | 100 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
 
-Snapshot ID: `MCwzMzQ1M2ZkM2UwZDgwOTg4YTZhMWU5NjVhYjQ1YTlkNWNlMWNhNDY0`
+Snapshot ID: `MCw5Nzc1MTg3NzYzNjUyMDNkYjRlZThkZmZjNGY4OWNhODk1YTZiM2Ex`

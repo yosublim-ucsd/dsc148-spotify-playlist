@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,669 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,542 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 36 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
 | 37 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 |
 | 38 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 |
-| 39 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:02 |
+| 39 | [UNA BALA](https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 3:03 |
 | 40 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 41 | [DISTRACCIONES](https://open.spotify.com/track/2VfwnBJHhG8Ue4KRL8BjH0) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [DISTRACCIONES](https://open.spotify.com/album/6cJdhE7WbMik7x96Us1lMt) | 3:32 |
 | 42 | [Tu Belleza](https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tu Belleza](https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Copa Tras Copas](https://open.spotify.com/track/1gLNj6ANVeSYSvBGLODeQ5) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ), [ERRE](https://open.spotify.com/artist/3qAdZSijJdaym3wQfMCktd), [Brian Mendoza](https://open.spotify.com/artist/1PkMdAG1vujZStQVTjF3I9) | [Copa Tras Copas](https://open.spotify.com/album/6U1aNoigyf6SvWEC82PpKG) | 2:47 |
 | 50 | [Tú Goza](https://open.spotify.com/track/2CQk0GyIQzfcvdrthOKmu0) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [RefleXión](https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS) | 3:42 |
 
-Snapshot ID: `MCwwM2Y1NzEwOTJhMzBhNGFjNzE5MTllZDVkZDUxMjk0OTcxYTNkMmJk`
+Snapshot ID: `MCw3ZDQ5NTBkN2ZhOWViNDU3MjlkNDk3MTk2YTYzNTUwM2RlNzA2Y2Jj`

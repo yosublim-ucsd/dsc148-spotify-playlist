@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-257 songs - 20 hr 10 min
+258 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Jardins Aquatics](https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a) | 5:58 | 2022-06-14 | 2023-06-09 |
 | [Jardins Aquatics](https://open.spotify.com/track/17LitdKbTWpI71DOqMgogL) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/637jDsZ6Qt8RDvCtZOezAM) | 5:58 | 2022-05-06 | 2022-07-29 |
 | [JESUS IN BERLIN](https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX) | [nullzwei](https://open.spotify.com/artist/3PkWoIJrG7k4yJuGytxTds), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot), [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [JESUS IN BERLIN](https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl) | 2:32 | 2023-02-10 |  |
-| [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 | 2022-06-14 |  |
+| [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 | 2022-06-14 | 2024-01-04 |
 | [Just Us](https://open.spotify.com/track/4k7XbUsvGNWkveNCFjVjbo) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/1ArxpvU1qzHK4WPeFuP7AS) | 6:45 | 2022-05-06 | 2022-07-29 |
 | [La Rua Madureira](https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:41 | 2022-05-06 |  |
 | [Larme à gauche](https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 2:56 | 2022-05-06 |  |
@@ -258,6 +258,7 @@
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-05-06 |  |
 | [Woodpecker](https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM) | [Woodpecker](https://open.spotify.com/album/0JygTmxFm484atUuryZF2F) | 3:26 | 2022-05-06 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-05-06 |  |
+| [XTASIS CARNAL](https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i) | [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI), [Cardopusher](https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr) | [XTASIS CARNAL](https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID) | 3:51 | 2024-01-03 |  |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2023-09-07 | 2023-10-02 |
 | [Young Lies](https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Young Lies](https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z) | 3:50 | 2022-05-06 |  |
 | [YSL](https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY) | [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [HYPNOTIZE EP](https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud) | 2:42 | 2022-05-06 | 2022-07-29 |

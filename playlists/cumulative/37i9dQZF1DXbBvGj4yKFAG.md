@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-206 songs - 11 hr 3 min
+207 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-02-09 |  |
 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 | 2023-05-17 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 |  |
+| [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 | 2024-01-03 |  |
 | [i miss your warm hands](https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [Not How it's Supposed to be](https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q) | 2:11 | 2024-01-02 |  |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 |  |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 | 2023-07-15 |

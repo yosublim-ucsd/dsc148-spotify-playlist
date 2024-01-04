@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-1,895 songs - 4 day 4 hr 54 min
+1,896 songs - 4 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1272,7 +1272,8 @@
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 | 2022-10-22 |
 | [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 | 2023-09-22 | 2023-10-28 |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 | 2022-06-18 |
-| [Please Don't Go](https://open.spotify.com/track/1DTHu62VoMDeV76RI3kgeL) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Please Don't Go](https://open.spotify.com/album/4KLJv2TWvzze4r3hJR7wJA) | 4:36 | 2023-12-22 |  |
+| [Please Don't Go](https://open.spotify.com/track/1DTHu62VoMDeV76RI3kgeL) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Please Don't Go](https://open.spotify.com/album/4KLJv2TWvzze4r3hJR7wJA) | 4:36 | 2023-12-22 | 2024-01-04 |
+| [Please Don't Go](https://open.spotify.com/track/4Taq4pozw9Fxbx2IBkWbTO) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Please Don't Go](https://open.spotify.com/album/4EpMnwraCqH2F02MIYMEre) | 4:36 | 2023-12-22 |  |
 | [Please Don't Walk Away](https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Don't Walk Away](https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy) | 3:36 | 2021-12-17 | 2022-01-29 |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-09-23 | 2022-11-05 |
 | [Plus Minus \(with Erick the Architect\)](https://open.spotify.com/track/29sSLYkzMUXyQ4n8oiSiyO) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Plus Minus \(with Erick the Architect\)](https://open.spotify.com/album/1haZzAWvsHon4W3Usy8zoc) | 3:22 | 2022-03-18 | 2022-04-16 |

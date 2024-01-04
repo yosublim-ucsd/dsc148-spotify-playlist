@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,027 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,123 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 2 | [Faded](https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:32 |
 | 3 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 4 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/5hT3U17QZiP74YN9xF32JG) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:31 |
-| 5 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
+| 5 | [Alone, Pt\. II](https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:59 |
 | 6 | [Alone](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 2:40 |
-| 7 | [Alone, Pt\. II](https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:59 |
+| 7 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
 | 8 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
 | 9 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 10 | [Lily](https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 |
 | 50 | [World We Used To Know](https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:41 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA0MzM3NjJjOGNlNzI3MmZmZmIwN2EyYjYwNDUxNjAzZg==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBlN2E1ODM5ZDdmMWRjZmEzY2YxZmVmZmJiMjFhMzU3Nw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,674 likes - 48 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,732 likes - 48 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 4 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 5 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
 | 6 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
-| 7 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
-| 8 | [Historia entre tus dedos](https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Historia entre tus dedos](https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS) | 5:07 |
+| 7 | [Historia entre tus dedos](https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Historia entre tus dedos](https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS) | 5:07 |
+| 8 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
 | 9 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 10 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
 | 11 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 28 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 29 | [Dale Lo Que Lleva \(with Maykel Fonts\)](https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Maykel Fonts](https://open.spotify.com/artist/25XlE014uP57NwPYobN64T) | [Latino 56 \- Salsa Bachata Merengue Reggaeton \(Latin Hits\)](https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl) | 5:02 |
 | 30 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:42 |
-| 31 | [Un Mal Sueño](https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe) | [Tirso Duarte](https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu) | [Timba Cubana](https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9) | 5:25 |
+| 31 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 32 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
-| 33 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
+| 33 | [Un Mal Sueño](https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe) | [Tirso Duarte](https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu) | [Timba Cubana](https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9) | 5:25 |
 | 34 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
 | 35 | [Bailando \- Official Salsa Version](https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Latino 59 presenta: Bailando \(Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness\)](https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S) | 4:33 |
 | 36 | [No Me Quiero Enamorar](https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [EN LETRAS DE OTROS](https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil) | 3:53 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
 | 48 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 
-Snapshot ID: `MCxmY2IyNzQxZDI0OWI2MTU1OGNlYzhjYmMwZGQ5OWQwOWZlZTE2ODhi`
+Snapshot ID: `MCw5YzA5ZThiODY0NjA0NzlmYmUwOGZmMGQ5MmU0MTJjNjk0YTMzZjdk`

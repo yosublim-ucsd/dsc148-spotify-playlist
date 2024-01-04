@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 127933,
+  "num_followers": 128000,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQ4MjA2OTlmMTZhZjk3NTE5ZDA2ZGU3ZTExZWU4YTY3ZTcyMjU3",
+  "snapshot_id": "MCw1ZmRhZDc2MmZiMDVmYzZhY2M2NjUwMzNhNTQ1Yjk1YjJiN2ExYTVm",
   "tracks": [
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "duration_ms": 119053,
+      "name": "7 Meiota - Ao Vivo",
+      "url": "https://open.spotify.com/track/32whZrE200YsYOquZAcM1P"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
         "name": "A Cunhada",
         "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 167937,
       "name": "A Cunhada",
       "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 119053,
-      "name": "7 Meiota - Ao Vivo",
-      "url": "https://open.spotify.com/track/32whZrE200YsYOquZAcM1P"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "Proibid\u00e3o 2020",
-        "url": "https://open.spotify.com/album/2j9HJHxLbsf998M4SUO2eS"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "BlakkClout",
-          "url": "https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq"
-        }
-      ],
-      "duration_ms": 124182,
-      "name": "Proibid\u00e3o 2020",
-      "url": "https://open.spotify.com/track/2ZtiM7j3k5jrCXNtiwUSi4"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
         "name": "Apoteose",
         "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 176888,
       "name": "Probleminha",
       "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
+        "name": "Proibid\u00e3o 2020",
+        "url": "https://open.spotify.com/album/2j9HJHxLbsf998M4SUO2eS"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BlakkClout",
+          "url": "https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq"
+        }
+      ],
+      "duration_ms": 124182,
+      "name": "Proibid\u00e3o 2020",
+      "url": "https://open.spotify.com/track/2ZtiM7j3k5jrCXNtiwUSi4"
     },
     {
       "added_at": "2023-12-29 03:01:00",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2023-12-29 03:01:00",
       "album": {
-        "name": "Tipo uma Glock",
-        "url": "https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "Tipo uma Glock",
-      "url": "https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu"
-    },
-    {
-      "added_at": "2023-12-29 03:01:00",
-      "album": {
         "name": "Drink Azul",
         "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 165600,
       "name": "Drink Azul",
       "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
+    },
+    {
+      "added_at": "2023-12-29 03:01:00",
+      "album": {
+        "name": "Tipo uma Glock",
+        "url": "https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "Tipo uma Glock",
+      "url": "https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu"
     },
     {
       "added_at": "2023-12-29 03:01:00",

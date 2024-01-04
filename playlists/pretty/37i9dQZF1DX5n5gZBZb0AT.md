@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,009 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,042 likes - 40 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 26 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
 | 27 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 28 | [Mexican Phonk Eki](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Mexican Phonk Eki](https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k) | 1:38 |
-| 29 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
-| 30 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
-| 31 | [Orquestra Maldita](https://open.spotify.com/track/7hcagAQDiI0TgUOv337NIr) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6) | 1:59 |
-| 32 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
+| 29 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
+| 30 | [Orquestra Maldita](https://open.spotify.com/track/7hcagAQDiI0TgUOv337NIr) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6) | 1:59 |
+| 31 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
+| 32 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
 | 33 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 34 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
 | 35 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [KAMI](https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu) | [DR MØB](https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe) | [KAMI](https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6) | 1:27 |
 | 40 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
 
-Snapshot ID: `MCxmMDdkMmE2ZGFhNGE1N2QxOTM3YzYzMTJlM2MzMTdmZTliYzExMjU0`
+Snapshot ID: `MCxlZDZiOTMxYTc1Y2Y0YWJjODczMjllM2QxNDNmMzBjMTkxNjEzOTk3`

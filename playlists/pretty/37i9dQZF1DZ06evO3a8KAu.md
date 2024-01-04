@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,629 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,633 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 28 | [Mi Mejor Plan Eres Tu](https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:56 |
 | 29 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
 | 30 | [A Qué Le Tiras](https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 2:44 |
-| 31 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
+| 31 | [Te Robaré Una Noche](https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:58 |
 | 32 | [Nunca Sin Ti](https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 2:33 |
-| 33 | [Te Robaré Una Noche](https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:58 |
-| 34 | [Las Enseñanzas](https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Brincale al Toro](https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy) | 2:58 |
+| 33 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
+| 34 | [Dile Luna](https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Dile Luna](https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M) | 3:11 |
 | 35 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 |
-| 36 | [Dile Luna](https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Dile Luna](https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M) | 3:11 |
+| 36 | [Las Enseñanzas](https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Brincale al Toro](https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy) | 2:58 |
 | 37 | [Déjame Decirle](https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:13 |
 | 38 | [No Pude Salvarnos](https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [No Pude Salvarnos](https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW) | 3:28 |
 | 39 | [La Vida Del Dorian](https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [La Vida Del Dorian](https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf) | 3:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 |
 | 51 | [Si Me Hubieras Olvidado](https://open.spotify.com/track/04TpibFGlH7XGN13e9vO5B) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:32 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDBhYTlkZGM0YmI5Mjk1YWY3YjIzOTU2NGRhYTMyNDUyOA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA4ODA5ZmZjNzIzY2U0NGUyM2MxOWQ5NDBhYmY1OGQ4MQ==`

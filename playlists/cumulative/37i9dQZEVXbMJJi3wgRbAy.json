@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 138461,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/60oAWR6EEBUftlu4UmCR5V"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 252347,
       "name": "ATORRANTE - con Los Palmeras",
       "url": "https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl"
@@ -3864,7 +3864,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -5170,7 +5170,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 132294,
       "name": "Fruto",
       "url": "https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45"
@@ -6220,7 +6220,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -6782,7 +6782,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 129229,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
@@ -6804,6 +6804,28 @@
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
       "album": {
@@ -7460,7 +7482,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
@@ -8066,7 +8088,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 179405,
       "name": "Mentirosa Remix",
       "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
@@ -12022,7 +12044,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"

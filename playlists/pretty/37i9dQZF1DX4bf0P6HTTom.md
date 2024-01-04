@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,501 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,524 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 30 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 5:04 |
 | 31 | [Ooh Las Vegas \(feat\. Emmylou Harris\) \- 2007 Remaster](https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:32 |
 | 32 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
-| 33 | [One Hundred Years from Now](https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:40 |
-| 34 | [Morning Sky](https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Souvenirs](https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq) | 2:49 |
+| 33 | [Morning Sky](https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Souvenirs](https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq) | 2:49 |
+| 34 | [One Hundred Years from Now](https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:40 |
 | 35 | [Silver Threads And Golden Needles](https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Hand Sown...Home Grown](https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W) | 2:21 |
 | 36 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
 | 37 | [Feelin' Single \- Seein' Double \- 2003 Remaster](https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Elite Hotel \(Expanded & Remastered\)](https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h) | 2:26 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 41 | [Cosmic Cowboy](https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Django Walker](https://open.spotify.com/artist/3gA6trQf3KmA74GZw9WTsI), [Gary P\. Nunn](https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL), [Bob Livingston](https://open.spotify.com/artist/1n8LsK850ruMqeFvVpcDW9) | [Austinology \- Alleys of Austin](https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1) | 4:16 |
 | 42 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
 | 43 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
-| 44 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
+| 44 | [Train Leaves Here This Mornin](https://open.spotify.com/track/3MwzIAtG0izIWUdjVUQnrJ) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [The Fantastic Expedition Of Dillard & Clark \(Expanded Edition\)](https://open.spotify.com/album/28QaQDECuseWDTmKWGltxF) | 3:48 |
 | 45 | [White Line Fever](https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:16 |
-| 46 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
-| 47 | [Train Leaves Here This Mornin](https://open.spotify.com/track/3MwzIAtG0izIWUdjVUQnrJ) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [The Fantastic Expedition Of Dillard & Clark \(Expanded Edition\)](https://open.spotify.com/album/28QaQDECuseWDTmKWGltxF) | 3:48 |
+| 46 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
+| 47 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
 | 48 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 49 | [Miller's Cave](https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9) | 2:48 |
 | 50 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
 
-Snapshot ID: `MCw0ZGUwMGExZGM0NzVjZjI3MDlhMTUzZWU1NmY1ZTEyZWI1YzhjNjIy`
+Snapshot ID: `MCw4ZGRlMzQwOThjNWI4OGEzYTdjNTg1NTMyMWZiYzgwMjg1MmNiMmU3`

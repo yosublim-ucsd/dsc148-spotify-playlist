@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,277 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,298 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 37 | [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 |
 | 38 | [MÁSCARA \- AO VIVO](https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:38 |
 | 39 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
-| 40 | [Exagerado](https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerados](https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF) | 2:43 |
-| 41 | [o maior otário da cidade](https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [o maior otário da cidade](https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj) | 2:48 |
+| 40 | [o maior otário da cidade](https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [o maior otário da cidade](https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj) | 2:48 |
+| 41 | [Exagerado](https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerados](https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF) | 2:43 |
 | 42 | [Fiz 18](https://open.spotify.com/track/5n1AS1Oea32B0HyXrEGArz) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Fiz 18](https://open.spotify.com/album/3B803upCKgO5My70u4J7sK) | 3:14 |
 | 43 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 |
 | 44 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 72 | [VOU ALI DORMIR](https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o) | [EMO NAS BAHAMAS](https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7) | 2:28 |
 | 73 | [Coocoocrazy](https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Papel de Carta \(Deluxe\)](https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1) | 2:06 |
 | 74 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
-| 75 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
-| 76 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
+| 75 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
+| 76 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
 | 77 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
 | 78 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 |
 | 79 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 85 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 
-Snapshot ID: `MCxkY2JlNTBjNWQ4YTk4NWQwN2M1NmMyZmU1ZDZlM2ViZmM3M2U2Njk5`
+Snapshot ID: `MCw5M2Q4MGEyYzJjMTRiNzRmOWIwOGJiY2E5MzZlYTFjNzk1ZTYxODcw`

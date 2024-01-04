@@ -5303,6 +5303,28 @@
     },
     {
       "album": {
+        "name": "\u0110\u1eb8P",
+        "url": "https://open.spotify.com/album/0Y4fLNVEo2CKhaHEb0CjJ3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+        },
+        {
+          "name": "Onionn.",
+          "url": "https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183236,
+      "name": "Em Xinh",
+      "url": "https://open.spotify.com/track/6IHLOkgZftkcqS3fM0jMCT"
+    },
+    {
+      "album": {
         "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
         "url": "https://open.spotify.com/album/5HvdagjBVavfnbMK4s1729"
       },
@@ -9400,7 +9422,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 142588,
       "name": "L\u1ed1i Ch\u01a1i (Interlude)",
       "url": "https://open.spotify.com/track/7FX4Ae2nf5U6Y42AEMR9lc"
@@ -11104,7 +11126,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 170898,
       "name": "NOLOVENOLIFE",
       "url": "https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU"
@@ -15344,7 +15366,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 178000,
       "name": "Th\u00edch Qu\u00e1 R\u00f9i N\u00e0",
       "url": "https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75"
@@ -17882,7 +17904,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 200000,
       "name": "\u0110i V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
@@ -18072,7 +18094,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 240000,
       "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
       "url": "https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC"

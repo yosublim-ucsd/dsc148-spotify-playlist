@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 296746,
+  "num_followers": 296921,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmNkNzhkYWI5MzczNGY2NjUwZTMzNjQ1ZmViZjE4NzQxZWM2M2Qy",
+  "snapshot_id": "MCxjOGEzMThiMWM1YzBiZTliZDQzYWI4OTVlMDg5ZWZkYTI5MWZmMDli",
   "tracks": [
     {
       "added_at": "2024-01-02 11:47:27",
@@ -355,18 +355,22 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
       "artists": [
         {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Amelie Martinez",
+          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
         }
       ],
-      "duration_ms": 186017,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
+      "duration_ms": 200950,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -391,22 +395,18 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
       },
       "artists": [
         {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
-        },
-        {
-          "name": "Amelie Martinez",
-          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
         }
       ],
-      "duration_ms": 200950,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -735,22 +735,18 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Journey (Mahmut Orhan Remix)",
-        "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
       },
       "artists": [
         {
-          "name": "Mark Eliyahu",
-          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
         }
       ],
-      "duration_ms": 262647,
-      "name": "Journey - Mahmut Orhan Remix",
-      "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -771,18 +767,22 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
+        "name": "Journey (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
       "artists": [
         {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+          "name": "Mark Eliyahu",
+          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
+      "duration_ms": 262647,
+      "name": "Journey - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Prophecies of the Ancient Future",
-        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
-      },
-      "artists": [
-        {
-          "name": "Lemurian",
-          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
-        },
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        }
-      ],
-      "duration_ms": 320045,
-      "name": "Sensiz",
-      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Prophecies of the Ancient Future",
+        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+      },
+      "artists": [
+        {
+          "name": "Lemurian",
+          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
+        },
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 320045,
+      "name": "Sensiz",
+      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Moulat Lkhala",
+        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Moulat Lkhala",
+      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Sireli",
         "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 323720,
       "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
       "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "Moulat Lkhala",
-        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Moulat Lkhala",
-      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
-      },
-      "artists": [
-        {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Love of You (The Violin Song)",
         "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
       },
@@ -1551,6 +1531,26 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1567,6 +1567,26 @@
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "CEWRESAMIN",
+        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Cewresamin",
+      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1595,26 +1615,6 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
     },
     {
       "added_at": "2024-01-02 11:47:27",

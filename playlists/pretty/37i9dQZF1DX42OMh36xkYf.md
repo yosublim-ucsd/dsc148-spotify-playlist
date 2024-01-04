@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Adrian Bello en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,684 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,689 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 24 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
 | 25 | [Barlovento](https://open.spotify.com/track/18lElsu2Ou1mQp9lmnkcJU) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Guajirando](https://open.spotify.com/album/18wajZarjucF8FNEExQdGY) | 5:41 |
 | 26 | [CELESTE // YA LO SABES](https://open.spotify.com/track/7IcqhaE51MV1ZKW4v9ug16) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [CELESTE // YA LO SABES](https://open.spotify.com/album/4jqrjhuUOCGpgL2pBWghoE) | 3:00 |
-| 27 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
+| 27 | [MOJABI GHOST](https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:52 |
 | 28 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
 | 29 | [Paradisco](https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Paradisco](https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h) | 3:53 |
 | 30 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 |
 | 31 | [El Amor Se Fue de Repente](https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [El Amor Se Fue de Repente](https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL) | 3:46 |
 | 32 | [Para Ti](https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Para Ti](https://open.spotify.com/album/0F4Ex5ET5dBsPX2tAiYRvP) | 3:37 |
 | 33 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
-| 34 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 |
+| 34 | [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 |
 | 35 | [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 |
 | 36 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
 | 37 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 |
 | 50 | [Red Hot Chile Papers](https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca) | 4:46 |
 
-Snapshot ID: `MCwxOGE5ODBhODBlM2MxZTcyMmVmODAxYzgwMWYzMmNlNjUyMTZhM2Mz`
+Snapshot ID: `MCwzMzcwNTM5ODA0OTZiNTk5YTNhNmNmNTg1MTM5NjBiMDUzM2UzNmFl`

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152510,
+  "num_followers": 152531,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjlmYmYzZjRkNWZhNTVmODEwMjlhMzM0OTg4ZmNkMDU5ZGEyYzFk",
+  "snapshot_id": "MCw4N2E0N2ZmMjc5NWRlMDljNjg3NTcxMjZlZmI1MzM5OTI5NWI2MmM4",
   "tracks": [
     {
       "added_at": "2023-12-11 12:12:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-11 12:12:48",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Warwick Avenue",
-      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
-    },
-    {
-      "added_at": "2023-12-11 12:12:48",
-      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/0sndNDx9a9z77Jx8MsULfw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211600,
       "name": "Slow Fade",
       "url": "https://open.spotify.com/track/3wnUCt4sWnK0C0XGQGHKo7"
+    },
+    {
+      "added_at": "2023-12-11 12:12:48",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "Warwick Avenue",
+      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
     },
     {
       "added_at": "2023-12-11 12:12:48",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-11 12:12:48",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2023-12-11 12:12:48",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2023-12-11 12:12:48",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
     },
     {
       "added_at": "2023-12-11 12:12:48",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-11 12:12:48",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
-    },
-    {
-      "added_at": "2023-12-11 12:12:48",
-      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 153105,
       "name": "Somebody Loved",
       "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
+    },
+    {
+      "added_at": "2023-12-11 12:12:48",
+      "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2023-12-11 12:12:48",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-12-11 12:12:48",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
-    },
-    {
-      "added_at": "2023-12-11 12:12:48",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-12-11 12:12:48",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
     },
     {
       "added_at": "2023-12-11 12:12:48",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-12-11 12:12:48",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 211514,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
-    },
-    {
-      "added_at": "2023-12-11 12:12:48",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 233640,
       "name": "Wildfire - Alternate Version",
       "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
+    },
+    {
+      "added_at": "2023-12-11 12:12:48",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 211514,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx"
     }
   ],
   "unique_name": "Ren hygge",

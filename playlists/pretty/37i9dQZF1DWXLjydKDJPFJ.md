@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 
 > Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,617 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,868 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 8 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 9 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
 | 10 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 |
-| 11 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
-| 12 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 |
+| 11 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 |
+| 12 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
 | 13 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 14 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
 | 15 | [La Vampiresa](https://open.spotify.com/track/06uyFPb72xxh5takZ206Of) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [La Vampiresa](https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T) | 5:14 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 83 | [900 Cigarros](https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [900 Cigarros](https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS) | 2:03 |
 | 84 | [Necesito Decirte](https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Las Número 1...](https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl) | 3:45 |
 | 85 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
-| 86 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
-| 87 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
+| 86 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
+| 87 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
 | 88 | [Te Felicito](https://open.spotify.com/track/5S5iGgjym5A1JUDAv50wYg) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Unas Mías y Otras Prestadas, Vol\. 2](https://open.spotify.com/album/6sF3LfhZPhZWAbdzsJ6hHz) | 3:44 |
 | 89 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 |
 | 90 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 149 | [Por Supuesto Que Te Amo](https://open.spotify.com/track/7aYaXVzs1ef2zHTcN4XhgX) | [Ramon Ayala Jr.](https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI) | [El Príncipe](https://open.spotify.com/album/1A1g5ACRZH06FIIEkziRUd) | 2:32 |
 | 150 | [Me Llega Me Llega](https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:33 |
 
-Snapshot ID: `MCxiMzRjZjlhNWM4NDE4ODdmOTBmMTA0YzMzOGFiMzgxYmIyZjA5YTA4`
+Snapshot ID: `MCw1YzE3NjFiN2E4NTIyNmUyMmQ3ODEwOGFmMzQ4N2RhYjBhNThiZmMx`

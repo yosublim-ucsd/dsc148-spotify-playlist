@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,757 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,824 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 17 | [Dependente](https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Dependente](https://open.spotify.com/album/0YrY5IiNF8hXfIUXTNmdzs) | 3:14 |
 | 18 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 |
 | 19 | [O Barco](https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW) | [Junior e Mateus](https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I) | [No Barco](https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB) | 3:33 |
-| 20 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 |
-| 21 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
+| 20 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
+| 21 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 |
 | 22 | [Joelho no Chão e Boca no Pó \- Ao Vivo](https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX) | [Ednan Rufino](https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a) | [Joelho no Chão e Boca no Pó \(Ao Vivo\)](https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7) | 6:11 |
 | 23 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |
 | 24 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 36 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
 | 37 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
 | 38 | [Quem Procura Acha](https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn) | [Joy Camargo](https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK) | [Quem Procura Acha](https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn) | 3:02 |
-| 39 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
+| 39 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 |
 | 40 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
 | 41 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
-| 42 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 |
+| 42 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
 | 43 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 |
 | 44 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 |
 | 45 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 60 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
 
-Snapshot ID: `MCw0NzM1NTM5YWZiYTJjOTE4MDM3YzJhMTEwN2VlNjU5OGVkYWY2OWVi`
+Snapshot ID: `MCw3ODNjNzgwYmQ3OTExNDM4NDRjZDBlYmM1YmIxMTQyMzY0MDAzY2Zl`

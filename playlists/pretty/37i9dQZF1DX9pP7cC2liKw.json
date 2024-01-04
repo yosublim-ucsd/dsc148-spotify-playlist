@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 228172,
+  "num_followers": 228318,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjRlYmFiNDgxYjg0YzQ4OTcwMmU1MjRkZjJiYTY3ZmVjMTJlYThk",
+  "snapshot_id": "MCxlZTQzZTY0ODZhNGQ4MzQxZWU1NTZiYWFiZTI0NWZkODdmYzJiYzFm",
   "tracks": [
     {
       "added_at": "2022-08-03 03:35:17",
@@ -999,18 +999,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
       },
       "artists": [
         {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
     },
     {
       "added_at": "2022-11-17 23:06:29",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "A Guide to the Birdsong of South America",
+        "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 228019,
+      "name": "Capuchino Pecho Blanco",
+      "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "A Guide to the Birdsong of South America",
-        "url": "https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3"
-      },
-      "artists": [
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 228019,
-      "name": "Capuchino Pecho Blanco",
-      "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
     },
     {
       "added_at": "2022-06-15 04:26:09",

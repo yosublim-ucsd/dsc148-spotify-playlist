@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192782,
+  "num_followers": 192792,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTYxN2ZmMmI1OTcyMDRiYjg4N2M1NjhhNjg3MDM2MmE0ZWQ1MTYw",
+  "snapshot_id": "MCw1NDI1ZDY5M2YyODZkZWM0MjI5ZTU5YWJkM2I5ZDM1YzlhM2JiMDA3",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "A Million to One",
+        "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "One Life to Live",
+      "url": "https://open.spotify.com/track/4uW41encpb6TYP6329O6FY"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Million to One",
-        "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "One Life to Live",
-      "url": "https://open.spotify.com/track/4uW41encpb6TYP6329O6FY"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Modern Soul Classics",
         "url": "https://open.spotify.com/album/2vudmNthkNWP8DVR3LqeQe"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 202066,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/4bBR6VDctTQkZay4j7hRTx"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Try It (You'll Like It) / Master Plan Intro",
+        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
+      },
+      "artists": [
+        {
+          "name": "Master Plan Inc",
+          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
+        }
+      ],
+      "duration_ms": 143612,
+      "name": "Try It (You'll Like It)",
+      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -759,22 +775,6 @@
       "duration_ms": 149866,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/61xfrjhEtN0jfYtcmzPY2F"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Try It (You'll Like It) / Master Plan Intro",
-        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
-      },
-      "artists": [
-        {
-          "name": "Master Plan Inc",
-          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
-        }
-      ],
-      "duration_ms": 143612,
-      "name": "Try It (You'll Like It)",
-      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Masters of Soul: George Kerr - Singles & Rarities, Vol. 2",
-        "url": "https://open.spotify.com/album/0VpyygiRwwIUPGczcqWiL2"
-      },
-      "artists": [
-        {
-          "name": "Debbie Taylor",
-          "url": "https://open.spotify.com/artist/3AOPsb5oGscweRef0jCI1p"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Let's Prove Them Wrong",
-      "url": "https://open.spotify.com/track/759eeIMuZ5KxHCOnZdFieK"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
         "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 167560,
       "name": "A Love Reputation",
       "url": "https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Masters of Soul: George Kerr - Singles & Rarities, Vol. 2",
+        "url": "https://open.spotify.com/album/0VpyygiRwwIUPGczcqWiL2"
+      },
+      "artists": [
+        {
+          "name": "Debbie Taylor",
+          "url": "https://open.spotify.com/artist/3AOPsb5oGscweRef0jCI1p"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Let's Prove Them Wrong",
+      "url": "https://open.spotify.com/track/759eeIMuZ5KxHCOnZdFieK"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
-        "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
-      },
-      "artists": [
-        {
-          "name": "Jimmy \"Bo\" Horne",
-          "url": "https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K"
-        }
-      ],
-      "duration_ms": 191203,
-      "name": "I Can't Speak",
-      "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 3: 1963",
         "url": "https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 143733,
       "name": "Goodbye Cruel Love",
       "url": "https://open.spotify.com/track/0ogS3CBf15IZsjc1yFd8iS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
+        "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
+      },
+      "artists": [
+        {
+          "name": "Jimmy \"Bo\" Horne",
+          "url": "https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K"
+        }
+      ],
+      "duration_ms": 191203,
+      "name": "I Can't Speak",
+      "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Dave Hamilton's Detroit Dancers",
-        "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
-      },
-      "artists": [
-        {
-          "name": "The Mark-Keys",
-          "url": "https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "Heavenly Thing",
-      "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Shirelles (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 187173,
       "name": "Brother Brother",
       "url": "https://open.spotify.com/track/7erspizhVghwfGjmUOJ9LD"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Dave Hamilton's Detroit Dancers",
+        "url": "https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW"
+      },
+      "artists": [
+        {
+          "name": "The Mark-Keys",
+          "url": "https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "Heavenly Thing",
+      "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "My Music",
-        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
-      },
-      "artists": [
-        {
-          "name": "Bunny Sigler",
-          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "My Music",
-      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
         "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 171240,
       "name": "But I'm Afraid - Single Version",
       "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "My Music",
+        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
+      },
+      "artists": [
+        {
+          "name": "Bunny Sigler",
+          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "My Music",
+      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Northern Soul - The Soundtrack to Your Life",
-        "url": "https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP"
-      },
-      "artists": [
-        {
-          "name": "Fuller Brothers",
-          "url": "https://open.spotify.com/artist/33l1j7RAHw6aW8WipBBsYx"
-        }
-      ],
-      "duration_ms": 152302,
-      "name": "Time's a Wasting",
-      "url": "https://open.spotify.com/track/6kOCUC0SQTcpwQPV9fWOcU"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased 1962: Girls",
         "url": "https://open.spotify.com/album/2zad0ktqIMsJLY2OhyzXhR"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 172400,
       "name": "Sticking With You (Nobody But You)",
       "url": "https://open.spotify.com/track/5eQtVjSUx1vNIEXraWFZhX"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Northern Soul - The Soundtrack to Your Life",
+        "url": "https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP"
+      },
+      "artists": [
+        {
+          "name": "Fuller Brothers",
+          "url": "https://open.spotify.com/artist/33l1j7RAHw6aW8WipBBsYx"
+        }
+      ],
+      "duration_ms": 152302,
+      "name": "Time's a Wasting",
+      "url": "https://open.spotify.com/track/6kOCUC0SQTcpwQPV9fWOcU"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
-        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gorman",
-          "url": "https://open.spotify.com/artist/7LxrgCPgLkN8IBNGOixaho"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "The Day Will Come - Single Version",
-      "url": "https://open.spotify.com/track/4dCwiFb6VNb3jhQpbI35lq"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Movin' On - The Early Years (Remastered)",
         "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 270706,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
+        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gorman",
+          "url": "https://open.spotify.com/artist/7LxrgCPgLkN8IBNGOixaho"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "The Day Will Come - Single Version",
+      "url": "https://open.spotify.com/track/4dCwiFb6VNb3jhQpbI35lq"
     },
     {
       "added_at": "2022-05-11 12:29:38",

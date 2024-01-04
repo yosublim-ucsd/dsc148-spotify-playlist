@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292207,
+  "num_followers": 292195,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDVmN2VmYTgyOTRlNWExYjkwYzU4NTc4OWFmZjUyNTBkYTg5NTY5",
+  "snapshot_id": "MCwwYzJlZDQ1MjY1MDRiM2NlOTllNDg3NDkxNWYwNDE5OWJlYjE3MmUy",
   "tracks": [
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
+        "name": "n\u00e3o te amo mais",
+        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
+      },
+      "artists": [
+        {
+          "name": "Isa Guerra",
+          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 133921,
+      "name": "n\u00e3o te amo mais",
+      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
-        "name": "n\u00e3o te amo mais",
-        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
-      },
-      "artists": [
-        {
-          "name": "Isa Guerra",
-          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 133921,
-      "name": "n\u00e3o te amo mais",
-      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2023-12-15 11:18:05",

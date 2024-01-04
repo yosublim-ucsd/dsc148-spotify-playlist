@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,107 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,126 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 40 | [Hindi Tayo Pwede](https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Kidnap for Romance \(Original Movie Soundtrack\)](https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ) | 5:03 |
 | 41 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
 | 42 | [Binalewala \- Original Version](https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6) | [Michael Dutchi Libranda](https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8) | [Binalewala](https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX) | 4:28 |
-| 43 | [Here I Am Again](https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 |
+| 43 | [Maula](https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4) | 3:58 |
 | 44 | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [My Only One \(No Hay Nadie Más\)](https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe) | 3:18 |
-| 45 | [Maula](https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4) | 3:58 |
+| 45 | [Here I Am Again](https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 |
 | 46 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 |
 | 47 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 48 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 121 | [Oyasumi Kamisama](https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Yumemiru Kodomo](https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt) | 3:43 |
 | 122 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
 | 123 | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 |
-| 124 | [Daydream](https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [Daydream](https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5) | 3:45 |
-| 125 | [Madhaniyan \(Live\)](https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan \(Live\)](https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1) | 4:21 |
+| 124 | [Madhaniyan \(Live\)](https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan \(Live\)](https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1) | 4:21 |
+| 125 | [Daydream](https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [Daydream](https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5) | 3:45 |
 | 126 | [Don't forget me \(Prod\. ROCOBERRY\)](https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Don't forget me \(Prod\. ROCOBERRY\)](https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg) | 3:13 |
 | 127 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
 | 128 | [Trapped](https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [DOCUMENTARY](https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt) | 4:09 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 144 | [The Everyday Bit](https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Burnout](https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ) | 3:07 |
 | 145 | [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 |
 | 146 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
-| 147 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
-| 148 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
+| 147 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
+| 148 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
 | 149 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 150 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 
-Snapshot ID: `MCw4Y2JiZDBlYzQ2ZGI2NDE1ZTRmMDExMzQ0YzRlYTQyMzFmOGZmNGE5`
+Snapshot ID: `MCxiZmViZjdjNWU1NGE0MmNmMDI5MDJiOWRmZWI4OTdkNjY1ODQ4YmM1`

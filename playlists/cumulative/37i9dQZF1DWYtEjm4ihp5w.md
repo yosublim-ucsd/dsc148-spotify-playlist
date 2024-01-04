@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Bo9al
 
-193 songs - 10 hr 15 min
+194 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-11-14 | 2023-04-09 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2022-11-14 | 2022-12-13 |
 | [Chno Raytra](https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Caprice](https://open.spotify.com/artist/2lNwwXvAzZbmhmXReW27Sr) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 4:03 | 2023-07-27 | 2023-10-01 |
-| [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-28 |  |
+| [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-28 | 2024-01-04 |
 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 |  |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-14 | 2022-11-26 |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 |  |
@@ -60,6 +60,7 @@
 | [Flouka](https://open.spotify.com/track/6er3lHDqA1L9IXtf8Nej9g) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Flouka](https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA) | 3:28 | 2022-11-14 | 2022-12-25 |
 | [Fly Emirates](https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Fly Emirates](https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM) | 3:08 | 2023-06-13 | 2023-07-12 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-14 | 2023-07-21 |
+| [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-01-03 |  |
 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 | 2023-08-30 |  |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 | 2023-12-16 |
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |

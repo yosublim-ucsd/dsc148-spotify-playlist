@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > Soul for the blues\. Cover: Otis Redding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,442 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,613 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 39 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
 | 40 | [Wish You Were Here](https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Faithful Man](https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk) | 4:12 |
 
-Snapshot ID: `MCwzMmZmNmNhNzkyZDNjOWM5NjNmNGVjY2MwZjRmYWQ3OGZjZTM1N2E5`
+Snapshot ID: `MCw0NzRkODUyOTljZmY2NjFjNWY2MzRmMGJjZjQ5YjhiY2ExNGU1MDRl`

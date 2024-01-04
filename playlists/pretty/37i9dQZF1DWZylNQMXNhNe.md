@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Lia Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,129 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,149 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 29 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 |
 | 30 | [só sei me apaixonar](https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [só sei me apaixonar](https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7) | 2:27 |
 | 31 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
-| 32 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 |
+| 32 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
 | 33 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
-| 34 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
+| 34 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 |
 | 35 | [TAQUEI](https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P) | [TAQUEI](https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv) | 2:00 |
 | 36 | [O Tempo Não Pára](https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [O Tempo Não Pára](https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR) | 2:54 |
 | 37 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MCw4MjUwMmViNTUwZjNhY2QzYzc2YmI0OTg3ZTY0OWJhZDkyYWZjOTg1`
+Snapshot ID: `MCw0M2ZlOWVjOWIwMzc4YzE5MmIyMTNkYWZjZGRlNjllZjFlMWU2OWIx`

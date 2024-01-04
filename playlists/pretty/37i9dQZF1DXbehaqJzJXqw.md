@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,007 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,302 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 41 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
 | 42 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
 | 43 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
-| 44 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
-| 45 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
+| 44 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
+| 45 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
 | 46 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
 | 47 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
 | 48 | [Baudelaire](https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:26 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 54 | [Que rest\-t\-il de nos amours?](https://open.spotify.com/track/6QZ2OZGes6LAku3d5rIAeX) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 2:57 |
 | 55 | [Aimé](https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ) | [Loane](https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19) | [Jamais Seule](https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY) | 3:07 |
 | 56 | [La Mer](https://open.spotify.com/track/7GuH04Wu7lD2LOUOOMyO7W) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [French Classics](https://open.spotify.com/album/6MX0ecULYGJ20DgKvpLiyp) | 3:10 |
-| 57 | [Je voudrais me divertir](https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso) | [Nicola Són](https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Nord Destin](https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ) | 4:07 |
-| 58 | [Le Mal de Vivre](https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 6:14 |
+| 57 | [Le Mal de Vivre](https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 6:14 |
+| 58 | [Je voudrais me divertir](https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso) | [Nicola Són](https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Nord Destin](https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ) | 4:07 |
 | 59 | [L'onde amère](https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Nolita](https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys) | 2:59 |
 | 60 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 |
 | 61 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Léo Marjane](https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 65 | [La Grippe](https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM) | [Jacques Higelin](https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Chante Vian et Higelin](https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy) | 2:21 |
 | 66 | [La javanaise](https://open.spotify.com/track/4RiomsjTG30IR5V72paigO) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [La javanaise](https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO) | 2:01 |
 | 67 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
-| 68 | [Mes pas dans la neige \- Spanish Song Bird](https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 4:17 |
-| 69 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
+| 68 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
+| 69 | [Mes pas dans la neige \- Spanish Song Bird](https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 4:17 |
 | 70 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
-| 71 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
-| 72 | [Samois A Moi](https://open.spotify.com/track/7dKkv6VSzDoak10meLR3Ia) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 3:32 |
+| 71 | [Samois A Moi](https://open.spotify.com/track/7dKkv6VSzDoak10meLR3Ia) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 3:32 |
+| 72 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
 | 73 | [Chanson triste](https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 3:33 |
 | 74 | [Nuages \- Studio recording](https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM) | [Raquel Bitton](https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X) | [Paris Blues](https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY) | 3:42 |
 | 75 | [Mon Amie La Rose](https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [Mon Amie La Rose](https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf) | 2:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [Quand j'serai K.O](https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Souchon dans l'air \(Vol\. 1\)](https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR) | 3:34 |
 | 80 | [Tu t'laisses aller](https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Les deux guitares](https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC) | 3:41 |
 
-Snapshot ID: `MCxjYzY5NGE3YTY5OGE0YWE2ZGI1MzZmNDgxZmNmNjI5YTRmZTIxZjBk`
+Snapshot ID: `MCwwNTljNDMwNjFlZWY4OTI4YjIyZjYwNDI5ZTk5Yzc0MWIzMjRiMjFh`

@@ -1,12 +1,12 @@
 {
   "description": "Canciones inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 140942,
+  "num_followers": 140985,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWJkMzhkNDczZWJjODBkZGFmMzAyZDYyMGI2MDY3Y2E3NTRkZDhi",
+  "snapshot_id": "MCw4Y2E2OTRhNDAxNWMyZjY1ZGZlMzljYjJhODQ0MWUzY2VmNDYxZTZi",
   "tracks": [
     {
       "added_at": "2023-09-01 15:27:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 289866,
       "name": "Tan enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "Diego En Los 70",
         "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 242253,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "La Calle De Las Sirenas",
-        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 233733,
       "name": "A un minuto de ti",
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "La Calle De Las Sirenas",
+        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "La Calle De Las Sirenas",
+      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
     },
     {
       "added_at": "2023-09-01 15:27:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-01 15:27:11",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
-    },
-    {
-      "added_at": "2023-09-01 15:27:11",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 264173,
       "name": "Vuela, Vuela (Voyage, Voyage)",
       "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
+    },
+    {
+      "added_at": "2023-09-01 15:27:11",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
     },
     {
       "added_at": "2023-09-01 15:27:11",

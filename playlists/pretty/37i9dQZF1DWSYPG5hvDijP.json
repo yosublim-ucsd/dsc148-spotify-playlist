@@ -1,12 +1,12 @@
 {
   "description": "New Hip Hop from India.",
-  "num_followers": 74564,
+  "num_followers": 74653,
   "original_name": "Taaza hai bro!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTNkYWU5N2Y2NGVlZWY5YzliOTQwMjlhMzk5NTAzYjg0NDg1ZjRi",
+  "snapshot_id": "MCw2MGU5MTkzOTI3NmE1MWM5MTExMjU4ZGRiMWY3MmE2N2ZiZWE5MzQx",
   "tracks": [
     {
       "added_at": "2024-01-02 10:10:03",
@@ -175,7 +175,7 @@
     {
       "added_at": "2024-01-02 10:10:03",
       "album": {
-        "name": "Moon (Tunnel Vision)",
+        "name": "Moon",
         "url": "https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8"
       },
       "artists": [
@@ -193,7 +193,7 @@
         }
       ],
       "duration_ms": 186750,
-      "name": "Moon - Tunnel Vision",
+      "name": "Moon",
       "url": "https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C"
     },
     {
@@ -771,7 +771,7 @@
     {
       "added_at": "2024-01-02 10:10:03",
       "album": {
-        "name": "No ID (Tunnel Vision)",
+        "name": "No ID",
         "url": "https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ"
       },
       "artists": [
@@ -785,7 +785,7 @@
         }
       ],
       "duration_ms": 159600,
-      "name": "No ID - Tunnel Vision",
+      "name": "No ID",
       "url": "https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O"
     },
     {

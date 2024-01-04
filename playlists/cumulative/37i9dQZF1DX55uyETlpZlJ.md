@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-229 songs - 12 hr 31 min
+230 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Kanchana](https://open.spotify.com/track/5k3rN09gDr1nr22wBR42zm) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [shi om](https://open.spotify.com/artist/1E6vRpChFEVeD8sl19ZEkX) | [Kanchana](https://open.spotify.com/album/6BUwtDXUkPp7yP3uplAvU7) | 4:20 | 2022-12-15 | 2023-08-17 |
 | [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 | 2023-06-19 | 2023-07-05 |
 | [Kanmaniye](https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ), [Chaithra Ganiga](https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK) | [Kanmaniye](https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL) | 4:29 | 2023-08-05 |  |
+| [Kanna Muche Kaade Goode](https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh) | [SIDWIN](https://open.spotify.com/artist/6rWRYMJoiSYkmRHxg9YWin) | [Kanna Muche Kaade Goode](https://open.spotify.com/album/3TF3D2bEEkwEl1Z5KQNUm6) | 3:22 | 2024-01-03 |  |
 | [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 | 2023-10-26 |  |
 | [Kannalle](https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [Kannalle](https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV) | 1:11 | 2023-09-04 |  |
 | [Karedaaga Ninna](https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G) | 2:09 | 2023-12-11 |  |

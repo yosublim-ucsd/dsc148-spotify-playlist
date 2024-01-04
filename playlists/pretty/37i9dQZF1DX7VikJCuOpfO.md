@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alicia Villareal
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,923 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,935 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 60 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 61 | [Ciega Por El](https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ciega Por El](https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5) | 3:28 |
 | 62 | [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 |
-| 63 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
-| 64 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:59 |
+| 63 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:59 |
+| 64 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 65 | [Se Disfrazó](https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:26 |
 | 66 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 | 67 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
 | 100 | [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 |
 
-Snapshot ID: `MCw0ZjhkMzc1NmIxMDM1ZDE2ZmUzNTEyZDYxOGJhOWVmY2E0ZTAyOGY3`
+Snapshot ID: `MCxhZjE2MDRmMjYxMzcyMzRjOThiMTQzMmRkN2M2ZDI5ZDMwYTQ0ZDM3`

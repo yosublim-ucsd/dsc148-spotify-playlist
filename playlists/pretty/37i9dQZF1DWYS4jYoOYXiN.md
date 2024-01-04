@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,916 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,937 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 46 | [We Got Latin Soul](https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:02 |
 | 47 | [Dry Cocoanuts](https://open.spotify.com/track/2aPhirjN6mWZlI2QPdfcLS) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Mambo & Cha Cha Cha](https://open.spotify.com/album/2zeMCbliNWzlwz2CxgBjhl) | 2:32 |
 | 48 | [Para Ti Mi Boogaloo](https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [¡La Excitante Celia Cruz!](https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw) | 2:32 |
-| 49 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
-| 50 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
+| 49 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
+| 50 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
 
-Snapshot ID: `MCxjYWU4NGJmNmY3ZThiMmQ3NWI0ZGFjZmU0NzI0NWE2MjIzMDk2YzA3`
+Snapshot ID: `MCxjNTFiYzkzN2JmMGI3ZTlkN2NiOTE1MGMyMGU0ODEwNWYwNDhjNTc1`

@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-132 songs - 8 hr 49 min
+133 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 | 2023-03-30 |  |
 | [Demolición](https://open.spotify.com/track/3dTcwy3L3fOP0vm4Lz0zdD) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:57 | 2023-03-30 |  |
 | [Desconfío \- En Vivo](https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Se Vuelve Cada Día Mas Loca por Amor al Blues \(En Vivo\)](https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp) | 6:20 | 2023-03-30 |  |
-| [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/3ovWYDbzfrEL0rVy2kW0IC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 4:52 | 2023-03-30 |  |
+| [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/2doP03mm7jr6TQ1m2pkbbk) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 4:52 | 2023-03-30 |  |
+| [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/3ovWYDbzfrEL0rVy2kW0IC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 4:52 | 2023-03-30 | 2024-01-04 |
 | [Déjate Caer](https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:22 | 2023-03-30 |  |
 | [Día Extraño](https://open.spotify.com/track/09JI62BSHJdqgd88LwZN2S) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 5:02 | 2023-03-30 |  |
 | [Eiti\-Leda \(Remasterizado 2021\)](https://open.spotify.com/track/6kbpMfsWlfpB2zFTDUH92f) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 6:58 | 2023-03-30 |  |

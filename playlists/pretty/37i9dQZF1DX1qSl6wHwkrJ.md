@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,187 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,172 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 40 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 41 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
 | 42 | [Lonesome Christmas](https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 3:51 |
-| 43 | [Christmas 9\-1\-1](https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe) | [Sonny Rhodes](https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl) | [Stony Plain's Christmas Blues](https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs) | 6:07 |
-| 44 | [It's Christmas Time Again \(Spend, Spend, Spend\)](https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:13 |
+| 43 | [It's Christmas Time Again \(Spend, Spend, Spend\)](https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:13 |
+| 44 | [Christmas 9\-1\-1](https://open.spotify.com/track/3PVDw7nzzFpIghctXFKQCe) | [Sonny Rhodes](https://open.spotify.com/artist/6IzJ8vvCUABlUbz3JN3hnl) | [Stony Plain's Christmas Blues](https://open.spotify.com/album/1E4Wzf4JcS2Rp0VUi94MFs) | 6:07 |
 | 45 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
 | 46 | [Really Been Good This Year](https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:28 |
 | 47 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 60 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 |
 | 61 | [Far Away Christmas Blues](https://open.spotify.com/track/01GFlck1TZRWWaZ87kwtUH) | [ジョニー・オーティス](https://open.spotify.com/artist/54WGSF3PnOne3EVNVsPmlW), [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 3:21 |
 | 62 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
-| 63 | [Christmas Time Blues](https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 3:03 |
-| 64 | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ) | 3:27 |
+| 63 | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ) | 3:27 |
+| 64 | [Christmas Time Blues](https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 3:03 |
 | 65 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 66 | [Santa Claus Is Messin' with the Kid](https://open.spotify.com/track/0Hv0pBujoGJhB5Je2OQmNc) | [Bryan Lee](https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc) | [Justin Time for Christmas, Vol\. 2](https://open.spotify.com/album/17h3Zz16UByy7MlecKQlbc) | 3:43 |
 | 67 | [Bring That Cadillac Back \(feat\. Harry Crafton & Doc Bagby Orchestra\)](https://open.spotify.com/track/6UxSLMwVMOqEE3FXLag4hY) | [J.B\. Summers](https://open.spotify.com/artist/2nGQfekbre9YBdObD2PvGX), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Harry Crafton](https://open.spotify.com/artist/7Lw6PSg8B1UZATxcdjGFnf), [Doc Bagby Orchestra](https://open.spotify.com/artist/3RTvKGP29vt5X2rgLhP2tx) | [J\. B\. Summers and The Blues Shouters](https://open.spotify.com/album/7IfhBVKvJCcVYGeBEISaKY) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 | 80 | [Christmas Morning Blues](https://open.spotify.com/track/7iRsHtzLvEtBlfYLN5BCL1) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/5MlssT9XEHTMve8ztzOAyF) | 3:25 |
 
-Snapshot ID: `MCwzMzJjNmIwMDVlNDI5MjYxNmI3ZGEzZGVmMTk1MDNiNzc1ODIyNDRh`
+Snapshot ID: `MCxjNDU5ZGVlYTY3ODYxODRhNDhjN2NkMDFmZjdjZjNiOTFiZDQyMDQ1`

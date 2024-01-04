@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-227 songs - 15 hr 10 min
+228 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-18 | 2022-11-04 |
 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 |  |
 | [Blue Pale Darling](https://open.spotify.com/track/1bLdmy4TCk58RVJFTE6t59) | [Autumn Fruit](https://open.spotify.com/artist/6TvLaOyXRJy71sVpEdppX7) | [Blue Pale Darling](https://open.spotify.com/album/2eKlf2blGRGDcHhYTzeV9j) | 3:37 | 2021-09-24 | 2023-01-07 |
-| [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 | 2023-03-31 |  |
+| [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 | 2023-03-31 | 2024-01-04 |
 | [Cabalga la bestia](https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed) | [CRUHDA](https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe) | [Lux Ahena](https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq) | 5:34 | 2022-09-27 |  |
 | [Carme](https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 5:14 | 2023-04-15 |  |
 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 | 2023-11-15 |  |
@@ -67,6 +67,7 @@
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-21 |  |
 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 | 2023-03-03 | 2023-04-01 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-23 |  |
+| [EVER](https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [QUANTA 1:11](https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr) | 6:36 | 2024-01-03 |  |
 | [Exit to Enter](https://open.spotify.com/track/1XOHLjNzLVbQUgNBk23hRp) | [The Lazy Jesus](https://open.spotify.com/artist/5lZF9dixBp7VJ1EHUBod9h) | [Original Fighter](https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo) | 2:58 | 2020-10-20 | 2024-01-02 |
 | [Fear is your Only God](https://open.spotify.com/track/0uHZlstP3u3R2lA3WBjXqr) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/33yHeuUDSnnCpuc7Af2eR1) | 4:26 | 2021-06-23 | 2022-07-29 |
 | [Fear is your Only God](https://open.spotify.com/track/5E4PTNUV7RPpIZCEOM1lD2) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/3sNxVmpdyxEuvoPkLdtKNR) | 4:26 | 2021-06-23 | 2023-03-29 |

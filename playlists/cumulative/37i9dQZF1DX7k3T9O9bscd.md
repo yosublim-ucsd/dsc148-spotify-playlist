@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-296 songs - 23 hr 54 min
+297 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 | 2021-11-12 | 2023-07-19 |
 | [Posthumous Forgiveness](https://open.spotify.com/track/3rQ0ZaLrkLv8HhAAKSbAC0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Posthumous Forgiveness](https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG) | 6:06 | 2021-11-12 | 2022-07-27 |
 | [premonition / ‚óØ / it shines through](https://open.spotify.com/track/1oQrm94AgXdhDE0wusgKrc) | [HOLY](https://open.spotify.com/artist/6TNGPJ14slujZq0YSywpsQ) | [premonition](https://open.spotify.com/album/22ccKxifv1lmzw5C9pdznt) | 6:37 | 2021-11-12 | 2022-07-29 |
+| [Pressure](https://open.spotify.com/track/5TnFIK9vAlwghuzl3A3rKo) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Pressure](https://open.spotify.com/album/0ZaexXPVwgJtoglTfM8BmJ) | 3:07 | 2024-01-03 |  |
 | [Put Your Thing On Me](https://open.spotify.com/track/55uKi2bQPxwGgFkxOiMicQ) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny](https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0) | 4:36 | 2021-11-12 | 2023-01-16 |
 | [Put Your Thing On Me](https://open.spotify.com/track/4VFMCnFF9Hc5Ki6mO9km5J) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny \(Digitally Remastered\)](https://open.spotify.com/album/5qGe0KjGNFeVqGBHRwZwfT) | 4:36 | 2021-11-12 | 2022-07-28 |
 | [På knivan](https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j) | [Sammal](https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk) | [På knivan](https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5) | 3:29 | 2022-09-03 | 2022-12-06 |
@@ -217,7 +218,7 @@
 | [Remember Me](https://open.spotify.com/track/3g7VAnSddlg5ovDDvrZlyR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:21 | 2021-11-12 | 2022-07-29 |
 | [Renacer](https://open.spotify.com/track/5Szry6sR2vYm1fHh4X8T62) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Renacer](https://open.spotify.com/album/3Lj47MHjUR21dtEfXxUXh3) | 4:38 | 2022-04-01 | 2022-06-08 |
 | [Resources](https://open.spotify.com/track/0RvEPyn3Io0jd7R8yY6vfb) | [Tella Viv](https://open.spotify.com/artist/64yuyvF3YigEw1MyXdDo6w) | [Resources](https://open.spotify.com/album/4Hc4rVVTHW6weIuPpTI6O5) | 4:10 | 2021-11-12 | 2022-07-20 |
-| [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 | 2022-07-06 |  |
+| [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 | 2022-07-06 | 2024-01-04 |
 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 | 2021-11-12 |  |
 | [Roky Said](https://open.spotify.com/track/1n3cDnsKveliNsejFGLTs9) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/0taZSlsinNfnw9FpNMZBS0) | 3:16 | 2021-11-12 | 2022-07-28 |
 | [Roky Said](https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla) | 3:16 | 2021-11-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,644 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,639 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 26 | [アイロニ](https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q) | [アイロニ](https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1) | 4:10 |
 | 27 | [アイディー](https://open.spotify.com/track/4ugz2sWaFEpueOjHAMR0jR) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [僕は雨に濡れた](https://open.spotify.com/album/7i1aLkKF1UPJBCG85DpKqH) | 2:30 |
 | 28 | [クロマト](https://open.spotify.com/track/6rPxxeboH9iQhWbPhPzU2Y) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [クロマト](https://open.spotify.com/album/4wjOGKZ8GHFcxWAAHeY7MS) | 2:16 |
-| 29 | [遊獣浮男ボーイ](https://open.spotify.com/track/5bEmHI3c3O2wMbBe0xWloU) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:46 |
-| 30 | [ねぇよな](https://open.spotify.com/track/12C4oYIdJTXb8EXapCVoqu) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [ねぇよな](https://open.spotify.com/album/2VAHzJjvtuPrVEUoiQ79no) | 2:15 |
+| 29 | [ねぇよな](https://open.spotify.com/track/12C4oYIdJTXb8EXapCVoqu) | [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [ねぇよな](https://open.spotify.com/album/2VAHzJjvtuPrVEUoiQ79no) | 2:15 |
+| 30 | [遊獣浮男ボーイ](https://open.spotify.com/track/5bEmHI3c3O2wMbBe0xWloU) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:46 |
 | 31 | [脳内ピエロ](https://open.spotify.com/track/3xaMOAP9yNTgEz6IUifi8R) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6), [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:28 |
 | 32 | [キングオブ受動態](https://open.spotify.com/track/3ThiOXOlD0jvLM9a412MjW) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6) | [すとろべりーらぶっ！](https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms) | 3:26 |
 | 33 | [忍恋](https://open.spotify.com/track/6QD1bJUKQyQe2vTgrQt21M) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv), [ジェル](https://open.spotify.com/artist/678d2MFMPOS91dWApOi2G6) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:14 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 60 | [じゃむじゃむシグナル](https://open.spotify.com/track/2VG5lGbvYXqAHbK9PWydM9) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:35 |
 | 61 | [辛いや嫌](https://open.spotify.com/track/0Yce7K4Gd8F1Ir2DqJVfkU) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:22 |
 | 62 | [希望のチューしよっ](https://open.spotify.com/track/13itvOxVMK2kmSTc3RQKu0) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:49 |
-| 63 | [転生したら王子様だった件！](https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:53 |
-| 64 | [溶解ウォッチ](https://open.spotify.com/track/1Ar4PDbZHNT2LckPNLgpGo) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:05 |
-| 65 | [secret base \~君がくれたもの\~](https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt) | 5:04 |
-| 66 | [すとろべりーごーらんどっ](https://open.spotify.com/track/67a9ZAckiUjPxDxuiM3OHn) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:25 |
+| 63 | [溶解ウォッチ](https://open.spotify.com/track/1Ar4PDbZHNT2LckPNLgpGo) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:05 |
+| 64 | [転生したら王子様だった件！](https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:53 |
+| 65 | [すとろべりーごーらんどっ](https://open.spotify.com/track/67a9ZAckiUjPxDxuiM3OHn) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:25 |
+| 66 | [secret base \~君がくれたもの\~](https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt) | 5:04 |
 | 67 | [苺色夏花火](https://open.spotify.com/track/2GI5FvnyRNTjqUE1y1YrRA) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [苺色夏花火](https://open.spotify.com/album/4wZ7hVTUwdUtVaIYI9gIW3) | 3:48 |
 | 68 | [気分上々↑↑](https://open.spotify.com/track/1Ymiw5yfFzwSkbrAN3iAKm) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [気分上々↑↑](https://open.spotify.com/album/3AQbaaW4tZGqnX5tIgwd0n) | 3:47 |
 | 69 | [Ready Go!!](https://open.spotify.com/track/6tegIQ47QKtO7ihE5ypMyN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 4:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 74 | [ないしょのプレゼントフォーユー！](https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:26 |
 | 75 | [ヨアケイロ](https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:14 |
 
-Snapshot ID: `MCwzMTQyYmM0YmUxYTQ3MDI0Y2YxNmQzMzEyMzFkMjVjN2M0ZmQ1M2Jm`
+Snapshot ID: `MCwxMTQzZmJkZjY4MGYyNzc0YmI5YjQ3OTJiMTNhZDFkMzI0Y2VhYjdm`

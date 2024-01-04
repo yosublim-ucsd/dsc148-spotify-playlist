@@ -1,29 +1,13 @@
 {
   "description": "Morning's silent dew, ambient whispers unfold,\nzen echoes on play.",
-  "num_followers": 19265,
+  "num_followers": 19262,
   "original_name": "dew",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzNhMTc2NmQ0YjI2ZTA5MGQ4YzBiZjIzOGI2MDJhYjdmYjhhMDQ3",
+  "snapshot_id": "MCxlNTdkMzIxNTBjZmQxNzVhZWM4OGMzOTEzODM4NTdiOGVhMGM1ZWQ2",
   "tracks": [
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
-    },
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 91706,
       "name": "Olson",
       "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2023-12-12 19:35:26",
@@ -143,18 +143,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
     },
     {
       "added_at": "2023-12-12 19:35:26",
@@ -189,20 +189,20 @@
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
+      "added_at": "2024-01-03 18:53:20",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+        "name": "Killswitch Lullaby",
+        "url": "https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
         }
       ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+      "duration_ms": 147096,
+      "name": "Killswitch Lullaby",
+      "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -235,6 +251,22 @@
       "duration_ms": 314240,
       "name": "GREEN",
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -255,38 +287,6 @@
       "duration_ms": 426533,
       "name": "First Light - Remastered 2004",
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "#17",
-      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 278693,
       "name": "Tobiume",
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 131346,
-      "name": "Petiatil Cx Htdui",
-      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Coconut Mango",
         "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 325489,
       "name": "Coconut Mango",
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -685,38 +685,6 @@
       "url": "https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
-      },
-      "artists": [
-        {
-          "name": "Gaussian Curve",
-          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
-        }
-      ],
-      "duration_ms": 448352,
-      "name": "Impossible Island",
-      "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Wintergreen",
-        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 224145,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
-    },
-    {
       "added_at": "2022-01-07 02:01:58",
       "album": {
         "name": "Two",
@@ -735,6 +703,38 @@
       "duration_ms": 163733,
       "name": "Natural Bridges",
       "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Wintergreen",
+        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 224145,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
+      },
+      "artists": [
+        {
+          "name": "Gaussian Curve",
+          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+        }
+      ],
+      "duration_ms": 448352,
+      "name": "Impossible Island",
+      "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
     },
     {
       "added_at": "2021-09-10 04:35:25",

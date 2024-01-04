@@ -1,12 +1,12 @@
 {
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
-  "num_followers": 91291,
+  "num_followers": 91320,
   "original_name": "Breakup Szn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTM2OTFiZTdkZTljMDUwNWY2NmM0NzE1MDJlNTZiYmE5NGM4MjNk",
+  "snapshot_id": "MCw3YTJhMjI1ODU0YTI2OGM3ZGIxMDZiMTEwMTlkYjBiNjQ3N2M3YTNm",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 284386,
       "name": "I Don't Fuck With You",
       "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Singular Act I",
         "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 179226,
       "name": "Sue Me",
       "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
       },
@@ -1243,6 +1227,26 @@
       "duration_ms": 266306,
       "name": "Bust Your Windows",
       "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
+        "url": "https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 168030,
+      "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
+      "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
     }
   ],
   "unique_name": "Breakup Szn",

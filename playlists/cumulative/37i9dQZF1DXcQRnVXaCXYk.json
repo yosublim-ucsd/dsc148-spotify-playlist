@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 177701,
       "name": "Rest of My Life",
       "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
@@ -1800,6 +1800,24 @@
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "album": {
+        "name": "When You Say You Love Me",
+        "url": "https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX"
+      },
+      "artists": [
+        {
+          "name": "More Ease",
+          "url": "https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "When You Say You Love Me",
+      "url": "https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing atmosphere of Jazz piano sounds.",
-  "num_followers": 581780,
+  "num_followers": 581802,
   "original_name": "The Piano Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU2MjhiMjY1YmY3OGQ3MDMzNzFkNGMwN2ExNzI2ODY2Y2NiNzcx",
+  "snapshot_id": "MCwyNjhhMDY4NThhYzBmNTcwNGE5YzY2YmZiNTA4ZjExYjdhMjI2MDlh",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "All I See In You",
-        "url": "https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM"
-      },
-      "artists": [
-        {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
-        }
-      ],
-      "duration_ms": 235050,
-      "name": "All I See In You",
-      "url": "https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "The First Step",
         "url": "https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 182606,
       "name": "The First Step",
       "url": "https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "All I See In You",
+        "url": "https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "duration_ms": 235050,
+      "name": "All I See In You",
+      "url": "https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Graceful Rhapsody",
-        "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
-      },
-      "artists": [
-        {
-          "name": "Velvet Groove",
-          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
-        }
-      ],
-      "duration_ms": 162708,
-      "name": "Graceful Rhapsody",
-      "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Lost in the Highlands",
         "url": "https://open.spotify.com/album/3pYq97dv4T7e9Gtgp6keBF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 195860,
       "name": "Buachaille Etive Mor",
       "url": "https://open.spotify.com/track/3xp6Mjv32lpul7WO4ZE94n"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Graceful Rhapsody",
+        "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "duration_ms": 162708,
+      "name": "Graceful Rhapsody",
+      "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Young At Heart",
-        "url": "https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B"
-      },
-      "artists": [
-        {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
-        }
-      ],
-      "duration_ms": 279557,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Mystic Moonlight Groove",
         "url": "https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Young At Heart",
+        "url": "https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "duration_ms": 279557,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Hope Street",
         "url": "https://open.spotify.com/album/5mcyj4rb0b0v54jUK9EOcR"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 148438,
       "name": "Hope Street",
       "url": "https://open.spotify.com/track/5HGFH6PbfBWcetcRgUHHKK"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "duration_ms": 213837,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -231,22 +247,6 @@
       "duration_ms": 291319,
       "name": "Beautiful Sunrise",
       "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49"
-      },
-      "artists": [
-        {
-          "name": "Emily Green Trio",
-          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
-        }
-      ],
-      "duration_ms": 213837,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Home town",
-        "url": "https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "Home town",
-      "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Was It Me?",
         "url": "https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Home town",
+        "url": "https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "Home town",
+      "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Nocturnal Whispers",
         "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 267688,
       "name": "Nocturnal Whispers",
       "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Chasing Rainbows",
+        "url": "https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Chasing Rainbows",
-        "url": "https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO"
-      },
-      "artists": [
-        {
-          "name": "Emily Green Trio",
-          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Missed The Last Dance With You",
         "url": "https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3"
       },
@@ -407,134 +407,6 @@
       "duration_ms": 304554,
       "name": "Missed The Last Dance With You",
       "url": "https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "A Long Day",
-        "url": "https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs"
-      },
-      "artists": [
-        {
-          "name": "Karl-Erik Trio",
-          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
-        }
-      ],
-      "duration_ms": 168077,
-      "name": "A Long Day",
-      "url": "https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "The yellow note",
-        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
-      },
-      "artists": [
-        {
-          "name": "Hollbeck",
-          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
-        }
-      ],
-      "duration_ms": 229756,
-      "name": "The yellow note",
-      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Clowns And Crowns",
-        "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
-      },
-      "artists": [
-        {
-          "name": "Mike Coen",
-          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
-        }
-      ],
-      "duration_ms": 241516,
-      "name": "Clowns And Crowns",
-      "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Forever Promises",
-        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "Forever Promises",
-      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Speak Low",
-        "url": "https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp"
-      },
-      "artists": [
-        {
-          "name": "Madeleine West",
-          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
-        }
-      ],
-      "duration_ms": 164726,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "I'll Remember April",
-        "url": "https://open.spotify.com/album/69LhLZfkMImf8AL2mLhwps"
-      },
-      "artists": [
-        {
-          "name": "Jean Fines",
-          "url": "https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2cZnKG4dSaeFUjzseX2FcJ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "i've got a crush on you",
-        "url": "https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4"
-      },
-      "artists": [
-        {
-          "name": "Hunter Paige",
-          "url": "https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ"
-        }
-      ],
-      "duration_ms": 216759,
-      "name": "i've got a crush on you",
-      "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Fools Rush In",
-        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
-      },
-      "artists": [
-        {
-          "name": "The Southern Belle",
-          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
-        }
-      ],
-      "duration_ms": 273123,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -571,18 +443,146 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The Law of Attraction",
-        "url": "https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL"
+        "name": "A Long Day",
+        "url": "https://open.spotify.com/album/1NNC5s9uAgPIHxwi7VlvBs"
       },
       "artists": [
         {
-          "name": "Southside Trio",
-          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
         }
       ],
-      "duration_ms": 151776,
-      "name": "The Law of Attraction",
-      "url": "https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz"
+      "duration_ms": 168077,
+      "name": "A Long Day",
+      "url": "https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "The yellow note",
+        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "duration_ms": 229756,
+      "name": "The yellow note",
+      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Speak Low",
+        "url": "https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp"
+      },
+      "artists": [
+        {
+          "name": "Madeleine West",
+          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
+        }
+      ],
+      "duration_ms": 164726,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Forever Promises",
+        "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "Forever Promises",
+      "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "I'll Remember April",
+        "url": "https://open.spotify.com/album/69LhLZfkMImf8AL2mLhwps"
+      },
+      "artists": [
+        {
+          "name": "Jean Fines",
+          "url": "https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2cZnKG4dSaeFUjzseX2FcJ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Clowns And Crowns",
+        "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "duration_ms": 241516,
+      "name": "Clowns And Crowns",
+      "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "i've got a crush on you",
+        "url": "https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4"
+      },
+      "artists": [
+        {
+          "name": "Hunter Paige",
+          "url": "https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ"
+        }
+      ],
+      "duration_ms": 216759,
+      "name": "i've got a crush on you",
+      "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 230050,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Fools Rush In",
+        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "duration_ms": 273123,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -599,6 +599,22 @@
       "duration_ms": 160111,
       "name": "Something about him",
       "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "The Law of Attraction",
+        "url": "https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "The Law of Attraction",
+      "url": "https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -647,22 +663,6 @@
       "duration_ms": 206511,
       "name": "Beloved Moment",
       "url": "https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 230050,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Out of Wilma",
-        "url": "https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y"
-      },
-      "artists": [
-        {
-          "name": "Annie Berenson",
-          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
-        }
-      ],
-      "duration_ms": 169612,
-      "name": "Out of Wilma",
-      "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Moved by Performance",
         "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 158698,
       "name": "Moved by Performance",
       "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Out of Wilma",
+        "url": "https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "duration_ms": 169612,
+      "name": "Out of Wilma",
+      "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Story of My Dream",
-        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
-      },
-      "artists": [
-        {
-          "name": "Almost Here",
-          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
-        }
-      ],
-      "duration_ms": 177431,
-      "name": "Story of My Dream",
-      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "My Ship",
         "url": "https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 156000,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Story of My Dream",
+        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
+      },
+      "artists": [
+        {
+          "name": "Almost Here",
+          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
+        }
+      ],
+      "duration_ms": 177431,
+      "name": "Story of My Dream",
+      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "In the Mood for Romance",
+        "url": "https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR"
+      },
+      "artists": [
+        {
+          "name": "Sidney Hatfield Trio",
+          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "In the Mood for Romance",
+      "url": "https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Things To Look Forward To",
         "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 321855,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Hometown Again",
-        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 275959,
-      "name": "Hometown Again",
-      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -919,6 +919,22 @@
       "duration_ms": 133419,
       "name": "The next day",
       "url": "https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Hometown Again",
+        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "duration_ms": 275959,
+      "name": "Hometown Again",
+      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4"
-      },
-      "artists": [
-        {
-          "name": "Wildflower Trio",
-          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "In My Own Small World",
         "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1hvk3jX5E5WHgGzY3DYGw4"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd"
-      },
-      "artists": [
-        {
-          "name": "Will Rivers Trio",
-          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Just For Tonight",
         "url": "https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH"
       },
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd"
+      },
+      "artists": [
+        {
+          "name": "Will Rivers Trio",
+          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Sally Waits",
         "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 158645,
       "name": "Forget About It, Al",
       "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "In the Mood for Romance",
-        "url": "https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR"
-      },
-      "artists": [
-        {
-          "name": "Sidney Hatfield Trio",
-          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "In the Mood for Romance",
-      "url": "https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Maze of Tranquility",
-        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 262707,
-      "name": "Maze of Tranquility",
-      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "My Shining Hour",
         "url": "https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 143500,
       "name": "My Shining Hour",
       "url": "https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Maze of Tranquility",
+        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 262707,
+      "name": "Maze of Tranquility",
+      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Forever and ever",
-        "url": "https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Forever and ever",
-      "url": "https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Wrap Your Troubles In Dreams",
         "url": "https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 198701,
       "name": "Winchester In Apple Blossom Time",
       "url": "https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Forever and ever",
+        "url": "https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Forever and ever",
+      "url": "https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Did you dream too",
-        "url": "https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg"
-      },
-      "artists": [
-        {
-          "name": "Noel Hayes",
-          "url": "https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S"
-        }
-      ],
-      "duration_ms": 220009,
-      "name": "Did you dream too",
-      "url": "https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Crooked Politicians",
         "url": "https://open.spotify.com/album/4aqNCgPghtRszsF147PlAN"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 177772,
       "name": "Crooked Politicians",
       "url": "https://open.spotify.com/track/3AxgIQQy36G89sU41UaIwb"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Did you dream too",
+        "url": "https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg"
+      },
+      "artists": [
+        {
+          "name": "Noel Hayes",
+          "url": "https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S"
+        }
+      ],
+      "duration_ms": 220009,
+      "name": "Did you dream too",
+      "url": "https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The Meadows",
-        "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 195587,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "It's You Or No One",
         "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 214798,
       "name": "It's You Or No One",
       "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "The Meadows",
+        "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "duration_ms": 195587,
+      "name": "The Meadows",
+      "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "You Don't Know What Love Is",
-        "url": "https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt"
-      },
-      "artists": [
-        {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
-        }
-      ],
-      "duration_ms": 150122,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 214236,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "You Don't Know What Love Is",
+        "url": "https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 150122,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1623,22 +1623,6 @@
       "duration_ms": 162000,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "A Lucky Break",
-        "url": "https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d"
-      },
-      "artists": [
-        {
-          "name": "Tore Lundblad",
-          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
-        }
-      ],
-      "duration_ms": 189204,
-      "name": "A Lucky Break",
-      "url": "https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "A Lucky Break",
+        "url": "https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d"
+      },
+      "artists": [
+        {
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
+        }
+      ],
+      "duration_ms": 189204,
+      "name": "A Lucky Break",
+      "url": "https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Midnight Serenade",
         "url": "https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx"
-      },
-      "artists": [
-        {
-          "name": "The North Sea Trio",
-          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
-        }
-      ],
-      "duration_ms": 273178,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "I Cover the Waterfront",
         "url": "https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 148303,
       "name": "I Cover the Waterfront",
       "url": "https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx"
+      },
+      "artists": [
+        {
+          "name": "The North Sea Trio",
+          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
+        }
+      ],
+      "duration_ms": 273178,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Sooner or Later",
-        "url": "https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs"
-      },
-      "artists": [
-        {
-          "name": "Douglas Ruby Trio",
-          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Sooner or Later",
-      "url": "https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "The Fool That Fell For You",
         "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Obliqua",
-        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
+        "name": "Sooner or Later",
+        "url": "https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs"
       },
       "artists": [
         {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
         }
       ],
-      "duration_ms": 186664,
-      "name": "Caerulea",
-      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
+      "duration_ms": 205578,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1883,18 +1867,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The Very Thought Of You",
-        "url": "https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp"
+        "name": "Obliqua",
+        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
       },
       "artists": [
         {
-          "name": "Rudy Winston",
-          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
         }
       ],
-      "duration_ms": 244579,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS"
+      "duration_ms": 186664,
+      "name": "Caerulea",
+      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Come on... Lucky!",
+        "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 164859,
+      "name": "Come on... Lucky!",
+      "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Come on... Lucky!",
-        "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
+        "name": "The Very Thought Of You",
+        "url": "https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp"
       },
       "artists": [
         {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
         }
       ],
-      "duration_ms": 164859,
-      "name": "Come on... Lucky!",
-      "url": "https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn"
+      "duration_ms": 244579,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Behind The Counter",
-        "url": "https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6"
-      },
-      "artists": [
-        {
-          "name": "Astoria Three",
-          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
-        }
-      ],
-      "duration_ms": 202855,
-      "name": "Behind The Counter",
-      "url": "https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Clear Out",
         "url": "https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
+        "name": "Behind The Counter",
+        "url": "https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6"
       },
       "artists": [
         {
-          "name": "Leeluck & Co",
-          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+          "name": "Astoria Three",
+          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
         }
       ],
-      "duration_ms": 211053,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
+      "duration_ms": 202855,
+      "name": "Behind The Counter",
+      "url": "https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 301500,
       "name": "Clear as Autumn Nights",
       "url": "https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Almond Joy",
-        "url": "https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 183391,
-      "name": "New Hampshire",
-      "url": "https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Clear Sight",
         "url": "https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S"
       },
@@ -2135,6 +2119,38 @@
       "duration_ms": 242210,
       "name": "Newspapers Heads",
       "url": "https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Almond Joy",
+        "url": "https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 183391,
+      "name": "New Hampshire",
+      "url": "https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "You were saying...",
+        "url": "https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "duration_ms": 248547,
+      "name": "You were saying...",
+      "url": "https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2183,22 +2199,6 @@
       "duration_ms": 211000,
       "name": "Out of place",
       "url": "https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "You were saying...",
-        "url": "https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT"
-      },
-      "artists": [
-        {
-          "name": "Marc Henley Trio",
-          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
-        }
-      ],
-      "duration_ms": 248547,
-      "name": "You were saying...",
-      "url": "https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "A Sunday Kind Of Love",
-        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
+        "name": "Guess the difference?",
+        "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
       },
       "artists": [
         {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
         }
       ],
-      "duration_ms": 174867,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+      "duration_ms": 199923,
+      "name": "Guess the difference?",
+      "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2491,18 +2491,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Guess the difference?",
-        "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
+        "name": "A Sunday Kind Of Love",
+        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
       },
       "artists": [
         {
-          "name": "Lia Riggs Trio",
-          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
         }
       ],
-      "duration_ms": 199923,
-      "name": "Guess the difference?",
-      "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
+      "duration_ms": 174867,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "I\u2019m Sentimental, After All",
+        "url": "https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB"
+      },
+      "artists": [
+        {
+          "name": "The Headliner Trio",
+          "url": "https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "I\u2019m Sentimental, After All",
+      "url": "https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2523,18 +2539,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "I\u2019m Sentimental, After All",
-        "url": "https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB"
+        "name": "The End is the Beginning",
+        "url": "https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m"
       },
       "artists": [
         {
-          "name": "The Headliner Trio",
-          "url": "https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7"
+          "name": "Three Four Trio",
+          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
         }
       ],
-      "duration_ms": 148538,
-      "name": "I\u2019m Sentimental, After All",
-      "url": "https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B"
+      "duration_ms": 194245,
+      "name": "You're Good to Me",
+      "url": "https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2603,22 +2619,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The End is the Beginning",
-        "url": "https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m"
-      },
-      "artists": [
-        {
-          "name": "Three Four Trio",
-          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
-        }
-      ],
-      "duration_ms": 194245,
-      "name": "You're Good to Me",
-      "url": "https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Love In Your Arms",
         "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Akaishi",
-        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
-      },
-      "artists": [
-        {
-          "name": "Moonside Trio",
-          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Akaishi",
-      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Nine Days Before",
         "url": "https://open.spotify.com/album/18DjBqUbuPhualp3VFsiS9"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 167591,
       "name": "Nine Days Before",
       "url": "https://open.spotify.com/track/4yld9ovOfGTAi4HXKlU0nS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Akaishi",
+        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
+      },
+      "artists": [
+        {
+          "name": "Moonside Trio",
+          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Akaishi",
+      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2875,18 +2875,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Take me to Liverpool",
-        "url": "https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe"
+        "name": "Just Ourselves",
+        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
       },
       "artists": [
         {
-          "name": "Charles Daisey & Friends",
-          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+          "name": "Pearl Street Trio",
+          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
         }
       ],
-      "duration_ms": 204751,
-      "name": "Take me to Liverpool",
-      "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
+      "duration_ms": 228738,
+      "name": "Just Ourselves",
+      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2923,18 +2923,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Just Ourselves",
-        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
+        "name": "I Guess I'll Have To Change My Plans",
+        "url": "https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx"
       },
       "artists": [
         {
-          "name": "Pearl Street Trio",
-          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
+          "name": "Corin Stannard Trio",
+          "url": "https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun"
         }
       ],
-      "duration_ms": 228738,
-      "name": "Just Ourselves",
-      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
+      "duration_ms": 231379,
+      "name": "I Guess I'll Have To Change My Plans",
+      "url": "https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Take me to Liverpool",
+        "url": "https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "duration_ms": 204751,
+      "name": "Take me to Liverpool",
+      "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2955,22 +2971,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "I Guess I'll Have To Change My Plans",
-        "url": "https://open.spotify.com/album/7iJ7DbrzgjSKQF0aBwDoNx"
-      },
-      "artists": [
-        {
-          "name": "Corin Stannard Trio",
-          "url": "https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun"
-        }
-      ],
-      "duration_ms": 231379,
-      "name": "I Guess I'll Have To Change My Plans",
-      "url": "https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Blue Quarter",
         "url": "https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX"
       },
@@ -2983,22 +2983,6 @@
       "duration_ms": 223654,
       "name": "Blue Quarter",
       "url": "https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/2BMJLFX0u1cvluUuTGq8Zy"
-      },
-      "artists": [
-        {
-          "name": "Irvin Smith Group",
-          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/1Qiyu2GJvxBWkFF9z0Rhx5"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3019,18 +3003,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Nancy (WIth The Laughing Face)",
-        "url": "https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/2BMJLFX0u1cvluUuTGq8Zy"
       },
       "artists": [
         {
-          "name": "Cecil Andrews",
-          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Nancy (WIth The Laughing Face)",
-      "url": "https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT"
+      "duration_ms": 157419,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/1Qiyu2GJvxBWkFF9z0Rhx5"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3051,22 +3035,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Mischievous Expression",
-        "url": "https://open.spotify.com/album/1jqzJHy6UTYTfgN1W3UojN"
-      },
-      "artists": [
-        {
-          "name": "The Lyon Hearts",
-          "url": "https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "Mischievous Expression",
-      "url": "https://open.spotify.com/track/3f6aNNiWuWx7whrKLxoLeB"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz"
       },
@@ -3083,18 +3051,34 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Catcher",
-        "url": "https://open.spotify.com/album/2kUpjLxnQsEQ2wvzCw4Nsg"
+        "name": "Mischievous Expression",
+        "url": "https://open.spotify.com/album/1jqzJHy6UTYTfgN1W3UojN"
       },
       "artists": [
         {
-          "name": "Hara Noda",
-          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+          "name": "The Lyon Hearts",
+          "url": "https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd"
         }
       ],
-      "duration_ms": 190971,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/3ZAS8KpfVyIbd5QU53gypW"
+      "duration_ms": 189905,
+      "name": "Mischievous Expression",
+      "url": "https://open.spotify.com/track/3f6aNNiWuWx7whrKLxoLeB"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Nancy (WIth The Laughing Face)",
+        "url": "https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Nancy (WIth The Laughing Face)",
+      "url": "https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3163,34 +3147,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "My lids closed down",
-        "url": "https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll"
+        "name": "Catcher",
+        "url": "https://open.spotify.com/album/2kUpjLxnQsEQ2wvzCw4Nsg"
       },
       "artists": [
         {
-          "name": "Charlie Regan Three",
-          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
         }
       ],
-      "duration_ms": 231689,
-      "name": "My lids closed down",
-      "url": "https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Autumn Serenade",
-        "url": "https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l"
-      },
-      "artists": [
-        {
-          "name": "Tim Franks Trio",
-          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
-        }
-      ],
-      "duration_ms": 236326,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5"
+      "duration_ms": 190971,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/3ZAS8KpfVyIbd5QU53gypW"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3211,6 +3179,38 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Autumn Serenade",
+        "url": "https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "duration_ms": 236326,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "My lids closed down",
+        "url": "https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll"
+      },
+      "artists": [
+        {
+          "name": "Charlie Regan Three",
+          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
+        }
+      ],
+      "duration_ms": 231689,
+      "name": "My lids closed down",
+      "url": "https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "I'm Glad There's You",
         "url": "https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc"
       },
@@ -3223,38 +3223,6 @@
       "duration_ms": 241424,
       "name": "I'm Glad There's You",
       "url": "https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Dream you're chasing",
-        "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
-      },
-      "artists": [
-        {
-          "name": "Pimm's Trio",
-          "url": "https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF"
-        }
-      ],
-      "duration_ms": 150903,
-      "name": "Dream you're chasing",
-      "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Hills Are Green",
-        "url": "https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B"
-      },
-      "artists": [
-        {
-          "name": "Norris Walker Trio",
-          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "Hills Are Green",
-      "url": "https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3275,6 +3243,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Dream you're chasing",
+        "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
+      },
+      "artists": [
+        {
+          "name": "Pimm's Trio",
+          "url": "https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF"
+        }
+      ],
+      "duration_ms": 150903,
+      "name": "Dream you're chasing",
+      "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 185346,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Hills Are Green",
+        "url": "https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "Hills Are Green",
+      "url": "https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3347,22 +3347,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "It Never Entered My Mind",
-        "url": "https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d"
-      },
-      "artists": [
-        {
-          "name": "Jonas Olofsson",
-          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
-        }
-      ],
-      "duration_ms": 251893,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Midday Walk",
         "url": "https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp"
       },
@@ -3379,18 +3363,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Up In Town",
-        "url": "https://open.spotify.com/album/5NOAzrUZ0U9HyZdZPEHxOH"
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d"
       },
       "artists": [
         {
-          "name": "Ben Lively",
-          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+          "name": "Jonas Olofsson",
+          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
         }
       ],
-      "duration_ms": 257915,
-      "name": "Up In Town",
-      "url": "https://open.spotify.com/track/1Kvxzf1WFEdBkLuvGVwpjM"
+      "duration_ms": 251893,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3427,6 +3411,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Up In Town",
+        "url": "https://open.spotify.com/album/5NOAzrUZ0U9HyZdZPEHxOH"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "duration_ms": 257915,
+      "name": "Up In Town",
+      "url": "https://open.spotify.com/track/1Kvxzf1WFEdBkLuvGVwpjM"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Need to walk away",
         "url": "https://open.spotify.com/album/2t1a03eUM5YwLjc0m09yTD"
       },
@@ -3439,22 +3439,6 @@
       "duration_ms": 204377,
       "name": "Need to walk away",
       "url": "https://open.spotify.com/track/1i0cUjwJ9D9Cw236RLs2dB"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "The View of Aurora",
-        "url": "https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T"
-      },
-      "artists": [
-        {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
-        }
-      ],
-      "duration_ms": 168938,
-      "name": "The View of Aurora",
-      "url": "https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3487,6 +3471,22 @@
       "duration_ms": 282640,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "The View of Aurora",
+        "url": "https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "duration_ms": 168938,
+      "name": "The View of Aurora",
+      "url": "https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3539,22 +3539,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Everytime We Say Goodbye",
-        "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 280734,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "A Simple Book",
         "url": "https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt"
       },
@@ -3587,38 +3571,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Bewitched, Bothered and Bewildered",
-        "url": "https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP"
-      },
-      "artists": [
-        {
-          "name": "Jeannie Purdue",
-          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
-        }
-      ],
-      "duration_ms": 184085,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Don't wither away",
-        "url": "https://open.spotify.com/album/2GMFWl1Evs8CGy9uJ9anFM"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 204523,
-      "name": "Don't wither away",
-      "url": "https://open.spotify.com/track/5ERDTS0ztor25ieBpJi0qx"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Of Laughter and Warmth",
         "url": "https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc"
       },
@@ -3631,6 +3583,38 @@
       "duration_ms": 158855,
       "name": "Sun Souls",
       "url": "https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Everytime We Say Goodbye",
+        "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "duration_ms": 280734,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Bewitched, Bothered and Bewildered",
+        "url": "https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Purdue",
+          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
+        }
+      ],
+      "duration_ms": 184085,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3667,18 +3651,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "New York City Dreamin'",
-        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+        "name": "Don't wither away",
+        "url": "https://open.spotify.com/album/2GMFWl1Evs8CGy9uJ9anFM"
       },
       "artists": [
         {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
         }
       ],
-      "duration_ms": 253337,
-      "name": "Falling For Love",
-      "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
+      "duration_ms": 204523,
+      "name": "Don't wither away",
+      "url": "https://open.spotify.com/track/5ERDTS0ztor25ieBpJi0qx"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3695,6 +3679,22 @@
       "duration_ms": 242500,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "New York City Dreamin'",
+        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 253337,
+      "name": "Falling For Love",
+      "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3747,22 +3747,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Margaret Dances",
-        "url": "https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau"
-      },
-      "artists": [
-        {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
-        }
-      ],
-      "duration_ms": 210843,
-      "name": "Margaret Dances",
-      "url": "https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Spring Will Be a Little Late This Year",
         "url": "https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil"
       },
@@ -3775,22 +3759,6 @@
       "duration_ms": 187634,
       "name": "Spring Will Be a Little Late This Year",
       "url": "https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ"
-      },
-      "artists": [
-        {
-          "name": "William Adams",
-          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3811,18 +3779,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Love by the Shore",
-        "url": "https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0"
+        "name": "Margaret Dances",
+        "url": "https://open.spotify.com/album/7beQd9cOaKBuE8N4lVRhau"
       },
       "artists": [
         {
-          "name": "Aurelius Markus Trio",
-          "url": "https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf"
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
         }
       ],
-      "duration_ms": 293837,
-      "name": "Love by the Shore",
-      "url": "https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4"
+      "duration_ms": 210843,
+      "name": "Margaret Dances",
+      "url": "https://open.spotify.com/track/7KwrcuwPG14xG8XZafQa4I"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3839,6 +3807,38 @@
       "duration_ms": 217502,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/2l0iO5UB8vLpgjjih8sUYD"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Love by the Shore",
+        "url": "https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0"
+      },
+      "artists": [
+        {
+          "name": "Aurelius Markus Trio",
+          "url": "https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf"
+        }
+      ],
+      "duration_ms": 293837,
+      "name": "Love by the Shore",
+      "url": "https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ"
+      },
+      "artists": [
+        {
+          "name": "William Adams",
+          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3875,8 +3875,8 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Heartstring",
-        "url": "https://open.spotify.com/album/7vEcdZNrkIzxS9uGpBQfLM"
+        "name": "Milano",
+        "url": "https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm"
       },
       "artists": [
         {
@@ -3884,9 +3884,9 @@
           "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
         }
       ],
-      "duration_ms": 168007,
-      "name": "Heartstring",
-      "url": "https://open.spotify.com/track/4S6nFmL0sTrPWqbMet7Q3e"
+      "duration_ms": 238292,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3907,22 +3907,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE"
-      },
-      "artists": [
-        {
-          "name": "Kristian Hart Trio",
-          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
-        }
-      ],
-      "duration_ms": 176150,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Moonlight Hour",
         "url": "https://open.spotify.com/album/6dEcOLbZYo356tByGTH8Ff"
       },
@@ -3935,22 +3919,6 @@
       "duration_ms": 248281,
       "name": "Going Our Separate Ways",
       "url": "https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Same As Ever",
-        "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
-      },
-      "artists": [
-        {
-          "name": "The Collective",
-          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
-        }
-      ],
-      "duration_ms": 283891,
-      "name": "Quiet Now",
-      "url": "https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -3971,6 +3939,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Same As Ever",
+        "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
+      },
+      "artists": [
+        {
+          "name": "The Collective",
+          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
+        }
+      ],
+      "duration_ms": 283891,
+      "name": "Quiet Now",
+      "url": "https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Sunset over Paris",
         "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
       },
@@ -3983,22 +3967,6 @@
       "duration_ms": 243174,
       "name": "Sunset over Paris",
       "url": "https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Milano",
-        "url": "https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma Trio",
-          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
-        }
-      ],
-      "duration_ms": 238292,
-      "name": "Milano",
-      "url": "https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4019,6 +3987,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Heartstring",
+        "url": "https://open.spotify.com/album/7vEcdZNrkIzxS9uGpBQfLM"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "duration_ms": 168007,
+      "name": "Heartstring",
+      "url": "https://open.spotify.com/track/4S6nFmL0sTrPWqbMet7Q3e"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z"
       },
@@ -4031,6 +4015,22 @@
       "duration_ms": 317681,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/2pY74KxhJHuvFtI3QXlrtE"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "duration_ms": 176150,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/52wEWSEvL2a08E7wRXSrbY"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4051,18 +4051,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Coffee Break",
-        "url": "https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX"
+        "name": "When All Was Said and Done",
+        "url": "https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi"
       },
       "artists": [
         {
-          "name": "Vince Glen",
-          "url": "https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic"
+          "name": "Sally's Trio",
+          "url": "https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Coffee Break",
-      "url": "https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC"
+      "duration_ms": 275718,
+      "name": "When All Was Said and Done",
+      "url": "https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4083,18 +4083,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "When All Was Said and Done",
-        "url": "https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi"
+        "name": "Coffee Break",
+        "url": "https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX"
       },
       "artists": [
         {
-          "name": "Sally's Trio",
-          "url": "https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma"
+          "name": "Vince Glen",
+          "url": "https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic"
         }
       ],
-      "duration_ms": 275718,
-      "name": "When All Was Said and Done",
-      "url": "https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU"
+      "duration_ms": 304813,
+      "name": "Coffee Break",
+      "url": "https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4131,34 +4131,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Make bad worse",
-        "url": "https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq"
+        "name": "The End Of A Love Affair",
+        "url": "https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI"
       },
       "artists": [
         {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+          "name": "Cedar Wright",
+          "url": "https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj"
         }
       ],
-      "duration_ms": 160292,
-      "name": "Make bad worse",
-      "url": "https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn"
-      },
-      "artists": [
-        {
-          "name": "Tiril Brandt",
-          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
-        }
-      ],
-      "duration_ms": 217313,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl"
+      "duration_ms": 338132,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4179,34 +4163,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The End Of A Love Affair",
-        "url": "https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI"
+        "name": "A Poetic City",
+        "url": "https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj"
       },
       "artists": [
         {
-          "name": "Cedar Wright",
-          "url": "https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj"
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
         }
       ],
-      "duration_ms": 338132,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "East of the Sun (and West of the Moon)",
-        "url": "https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w"
-      },
-      "artists": [
-        {
-          "name": "Al Fowler Trio",
-          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "East of the Sun (and West of the Moon)",
-      "url": "https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK"
+      "duration_ms": 204144,
+      "name": "A Poetic City",
+      "url": "https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4227,34 +4195,50 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "A Poetic City",
-        "url": "https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj"
+        "name": "Make bad worse",
+        "url": "https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq"
       },
       "artists": [
         {
-          "name": "Kristian Hart Trio",
-          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
         }
       ],
-      "duration_ms": 204144,
-      "name": "A Poetic City",
-      "url": "https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR"
+      "duration_ms": 160292,
+      "name": "Make bad worse",
+      "url": "https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu"
     },
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Nuages \u200b\u200bCreux",
-        "url": "https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C"
+        "name": "East of the Sun (and West of the Moon)",
+        "url": "https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w"
       },
       "artists": [
         {
-          "name": "Lydia Baskow Trio",
-          "url": "https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8"
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Nuages \u200b\u200bCreux",
-      "url": "https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR"
+      "duration_ms": 206505,
+      "name": "East of the Sun (and West of the Moon)",
+      "url": "https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "duration_ms": 217313,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4271,6 +4255,22 @@
       "duration_ms": 291840,
       "name": "Change of Heart",
       "url": "https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Nuages \u200b\u200bCreux",
+        "url": "https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C"
+      },
+      "artists": [
+        {
+          "name": "Lydia Baskow Trio",
+          "url": "https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Nuages \u200b\u200bCreux",
+      "url": "https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4339,6 +4339,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "A Smile on Your Face",
+        "url": "https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lemon Jazz",
+          "url": "https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON"
+        }
+      ],
+      "duration_ms": 285936,
+      "name": "A Smile on Your Face",
+      "url": "https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "All Things Are",
         "url": "https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ"
       },
@@ -4363,22 +4379,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "A Smile on Your Face",
-        "url": "https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc"
-      },
-      "artists": [
-        {
-          "name": "Sophie Lemon Jazz",
-          "url": "https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON"
-        }
-      ],
-      "duration_ms": 285936,
-      "name": "A Smile on Your Face",
-      "url": "https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Taste my freedom",
         "url": "https://open.spotify.com/album/0P4LvuMbkyqic5DC3yRwPR"
       },
@@ -4391,22 +4391,6 @@
       "duration_ms": 178995,
       "name": "Taste my freedom",
       "url": "https://open.spotify.com/track/00Dd4UYauU9QlHxsXhZMxq"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Turn Out the Stars",
-        "url": "https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ"
-      },
-      "artists": [
-        {
-          "name": "Tyrone Coates & Friends",
-          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
-        }
-      ],
-      "duration_ms": 203671,
-      "name": "Turn Out the Stars",
-      "url": "https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4427,18 +4411,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "And All Is Well Now",
-        "url": "https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM"
+        "name": "Turn Out the Stars",
+        "url": "https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ"
       },
       "artists": [
         {
-          "name": "Gillian Spencer Trio",
-          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+          "name": "Tyrone Coates & Friends",
+          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
         }
       ],
-      "duration_ms": 189832,
-      "name": "And All Is Well Now",
-      "url": "https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7"
+      "duration_ms": 203671,
+      "name": "Turn Out the Stars",
+      "url": "https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4455,6 +4439,22 @@
       "duration_ms": 244817,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/0nKuLOun4rfWPa1dF0eRAD"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "And All Is Well Now",
+        "url": "https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "duration_ms": 189832,
+      "name": "And All Is Well Now",
+      "url": "https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4507,22 +4507,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Largo",
-        "url": "https://open.spotify.com/album/3X8HJ1U5is918lfD248uwD"
-      },
-      "artists": [
-        {
-          "name": "Karl-Erik Trio",
-          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Largo",
-      "url": "https://open.spotify.com/track/33TmnZLYZnX5zdY29lUkvi"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "On 14th Street",
         "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
       },
@@ -4535,6 +4519,22 @@
       "duration_ms": 201386,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Largo",
+        "url": "https://open.spotify.com/album/3X8HJ1U5is918lfD248uwD"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Largo",
+      "url": "https://open.spotify.com/track/33TmnZLYZnX5zdY29lUkvi"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4635,22 +4635,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Ties That Bind",
-        "url": "https://open.spotify.com/album/1nyuVWCKXNudkNKqrfxmr6"
-      },
-      "artists": [
-        {
-          "name": "The Lyon Hearts",
-          "url": "https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Ties That Bind",
-      "url": "https://open.spotify.com/track/2dLHrsnEqj2ffZRNxNKp0x"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Tea For Two EP",
         "url": "https://open.spotify.com/album/7n96Uwf6DeQkSaG1J4NtzD"
       },
@@ -4663,6 +4647,22 @@
       "duration_ms": 195312,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/1AlVEuRHDTK0ozcFrgF6mf"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Ties That Bind",
+        "url": "https://open.spotify.com/album/1nyuVWCKXNudkNKqrfxmr6"
+      },
+      "artists": [
+        {
+          "name": "The Lyon Hearts",
+          "url": "https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Ties That Bind",
+      "url": "https://open.spotify.com/track/2dLHrsnEqj2ffZRNxNKp0x"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4699,22 +4699,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/2FfccIOiTzTUmYE751pwJw"
-      },
-      "artists": [
-        {
-          "name": "Brooks Jazz Band",
-          "url": "https://open.spotify.com/artist/6Kc4Zf0t3jYBys33kkknR3"
-        }
-      ],
-      "duration_ms": 288162,
-      "name": "It's Magic",
-      "url": "https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Lost In Your Eyes",
         "url": "https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh"
       },
@@ -4731,18 +4715,18 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Being In Love",
-        "url": "https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX"
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/2FfccIOiTzTUmYE751pwJw"
       },
       "artists": [
         {
-          "name": "Saginaw Society",
-          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+          "name": "Brooks Jazz Band",
+          "url": "https://open.spotify.com/artist/6Kc4Zf0t3jYBys33kkknR3"
         }
       ],
-      "duration_ms": 293500,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0"
+      "duration_ms": 288162,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4759,6 +4743,22 @@
       "duration_ms": 191180,
       "name": "Vineyard",
       "url": "https://open.spotify.com/track/51vkNmbOPJkfP6nHu8wsGv"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Being In Love",
+        "url": "https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "duration_ms": 293500,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -4795,22 +4795,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "The Turning Point",
-        "url": "https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP"
-      },
-      "artists": [
-        {
-          "name": "Old Town Trio",
-          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
-        }
-      ],
-      "duration_ms": 264426,
-      "name": "The Turning Point",
-      "url": "https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/5rOOiUweJ8OZ7eDqlRHURS"
       },
@@ -4823,6 +4807,22 @@
       "duration_ms": 274402,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "The Turning Point",
+        "url": "https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "duration_ms": 264426,
+      "name": "The Turning Point",
+      "url": "https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy"
     }
   ],
   "unique_name": "The Piano Bar",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,631 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,672 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 72 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 |
 | 73 | [Champion](https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Champion](https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX) | 4:39 |
 | 74 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 |
-| 75 | [Famous \- Single Version](https://open.spotify.com/track/3Mfg7kJLvEPBMnIwSly02u) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:23 |
-| 76 | [Bambina](https://open.spotify.com/track/3Cnp5gloHCyXZsMimaHKTt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride \(Deluxe\)](https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk) | 1:42 |
+| 75 | [Bambina](https://open.spotify.com/track/3Cnp5gloHCyXZsMimaHKTt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride \(Deluxe\)](https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk) | 1:42 |
+| 76 | [Famous \- Single Version](https://open.spotify.com/track/3Mfg7kJLvEPBMnIwSly02u) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:23 |
 | 77 | [Swim Back](https://open.spotify.com/track/0SB7Ew45h690xWhmWvWixm) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:34 |
 | 78 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
 | 79 | [As You Move Through The World](https://open.spotify.com/track/1UoNPvDGbt1kWbT0TNdNvP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [As You Move Through The World](https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej) | 7:35 |
 | 80 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 |
 
-Snapshot ID: `MCwxMGE3OTNlNjBmMWFkMjllZTdjYTYwYjZmNjg2Mjk5MWZkMWQzZDA5`
+Snapshot ID: `MCxkMTdjODFlMWY3OTUzZDA4NDhmODM3YjkxYzM4N2IwMWU5MDhiN2I3`

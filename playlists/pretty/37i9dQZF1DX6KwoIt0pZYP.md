@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,063 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,233 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 16 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 17 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 |
 | 18 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
-| 19 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 |
-| 20 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 19 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 20 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 |
 | 21 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 22 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 |
 | 23 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 45 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 |
 | 46 | [Happy w u](https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Happy w u](https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb) | 4:40 |
 | 47 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 |
-| 48 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
-| 49 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
+| 48 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
+| 49 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
 | 50 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
 | 51 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
 | 52 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 67 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
 | 68 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
 | 69 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
-| 70 | [Turn Back Time](https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Turn Back Time](https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI) | 3:40 |
+| 70 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
 | 71 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 |
-| 72 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
+| 72 | [Turn Back Time](https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Turn Back Time](https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI) | 3:40 |
 | 73 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
 | 74 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 |
 | 75 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 79 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
 | 80 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
 | 81 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
-| 82 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 |
-| 83 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
+| 82 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
+| 83 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 |
 | 84 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
 | 85 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 |
 | 86 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 |
 | 100 | [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 |
 
-Snapshot ID: `MCw1Y2ExY2E0ZDg3ZGRkMjRkMmYzNGFhN2VlMTEwNTM3OTUxMWI2NDMx`
+Snapshot ID: `MCw2MjFlODdmNzc1ODM4OGE3NzEzNzFhM2E2NjAwMmMzOTE2YTI0ZDk5`

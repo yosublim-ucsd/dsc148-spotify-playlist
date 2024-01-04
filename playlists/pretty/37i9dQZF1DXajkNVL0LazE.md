@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,371 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,442 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 37 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 |
 | 38 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
 | 39 | [Elephant Gun](https://open.spotify.com/track/5loVmc3MmtYGsTw12eDgcU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 5:45 |
-| 40 | [I'd Rather Dance With You](https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:29 |
-| 41 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
+| 40 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
+| 41 | [I'd Rather Dance With You](https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:29 |
 | 42 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 43 | [Murder in the City](https://open.spotify.com/track/3h5AZDf5z7D18plaLtHTfi) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Second Gleam](https://open.spotify.com/album/4qnTzXaGBJnb11UMPAILO0) | 3:12 |
 | 44 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 69 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
 | 70 | [Santa Maria De Feira](https://open.spotify.com/track/6Yf2HCrWLUo8sgm7KuQagg) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Cripple Crow](https://open.spotify.com/album/67YNh7PePfDUgjgZOcBvu5) | 4:35 |
 | 71 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 |
-| 72 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
-| 73 | [Sheets](https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Caught In The Trees](https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO) | 4:16 |
+| 72 | [Sheets](https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Caught In The Trees](https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO) | 4:16 |
+| 73 | [The Lonesome Border, Pt\. 1](https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc) | [Dear Nora](https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5) | [Mountain Rock](https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy) | 1:31 |
 | 74 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 |
 | 75 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
 | 76 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [Handshake Drugs](https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 6:03 |
 | 100 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
 
-Snapshot ID: `MCw4YTNjNzJiNzkyODFmNGY1NmZjMzFjYzNiYjZjMzVkMDVlZDMyZWRj`
+Snapshot ID: `MCwzNjI5MTFkMDhkYWU0MDQ0YjY0MjkxNzRmZWRkYmI5OWQyZmExN2Ni`

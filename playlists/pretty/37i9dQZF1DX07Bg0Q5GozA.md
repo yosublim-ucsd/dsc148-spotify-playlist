@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: David Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,156 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,130 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [BORDERLINE](https://open.spotify.com/track/4ghwnq3kfUM5r8PKrSZscF) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [BORDERLINE](https://open.spotify.com/album/4BmrsCGYrgr60Hwrj3JsqF) | 5:46 |
 | 75 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 |
 
-Snapshot ID: `MCwwNzUzZWEyNzY0YmYzMjI4YjhkMjk5NWU3NzU2MGNiMGIxNDNmNTdh`
+Snapshot ID: `MCw5MDI2YmE5MjViODkyZDYxYWFmYWIxYzc4YWRmNTUzNTViMjdhMzY1`

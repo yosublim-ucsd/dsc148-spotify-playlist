@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 ### [Burrh Rap](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga
+> Fresh Punjabi Rap\. Cover:  Sikander Kahlon
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,752 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,771 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 |
-| 2 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 |
-| 3 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 |
-| 4 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 |
-| 5 | [Damh](https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 2:45 |
-| 6 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 |
+| 1 | [2024 FLOW](https://open.spotify.com/track/3LXSXyvucHKJehG54nq0hx) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2024 FLOW](https://open.spotify.com/album/0iLCdv2DbH7yCWDCpd9YHZ) | 5:32 |
+| 2 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 |
+| 3 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 |
+| 4 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 |
+| 5 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 |
+| 6 | [Damh](https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 2:45 |
 | 7 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 |
 | 8 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 |
 | 9 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 49 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 |
 | 50 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 |
 
-Snapshot ID: `MCxiZTM3NTU0ZDVjODU0Y2U4MTUwNDFiYTE4NzM4OTQ4M2MyODY1ZDIy`
+Snapshot ID: `MCwwYjAwNTIxMDhkM2NhZTU1MWU1OWE0MDhjMWZmODVlNzhkNjY4MWZj`

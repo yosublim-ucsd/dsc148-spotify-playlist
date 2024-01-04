@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w"> Phyno </a> and <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse\-kNLysa6h1Q"> Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,591 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,707 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Suffer II](https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Suffer II](https://open.spotify.com/album/0cb6nLa4YuOkG1dlG95zC8) | 4:59 |
 | 70 | [Air Force](https://open.spotify.com/track/7AWMmFr7v8bxr7A3YsHlLj) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Air Force](https://open.spotify.com/album/29RYoApzNyBXq1CvWtHR4c) | 2:36 |
 
-Snapshot ID: `MCwwMDEwMjAzOTc2OGM4YmNmNzlhMGI1ZDAxZjRiYTgyOTQ5NDU1ZjZi`
+Snapshot ID: `MCxiNmVmODE1ZWNkNWIzZDNmZTdmOWY1NTVmY2JjNmRlZjI4YzMzNTBk`

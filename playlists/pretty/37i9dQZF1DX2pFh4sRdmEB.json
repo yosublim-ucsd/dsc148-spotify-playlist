@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 520646,
+  "num_followers": 520715,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzAxMDczNjdhYzk3NTRhZjllYjEzNGJmZWUwZWMwZjVhODExNTk5",
+  "snapshot_id": "MCw0ZDZmMzYwNjBlYWNhNDkxMmNiYTAwOGQwMmUzZmQ1YWY0NjkyYTEx",
   "tracks": [
     {
       "added_at": "2023-11-24 07:51:25",
@@ -83,22 +83,22 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+      "duration_ms": 231246,
+      "name": "LAGUNAS",
+      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -119,22 +119,22 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 231246,
-      "name": "LAGUNAS",
-      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+      "duration_ms": 224920,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 190553,
       "name": "Di Que Si",
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
         "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 203200,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
         "name": "En Vivo Desde El Nokia",
         "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 187834,
       "name": "El Papel Cambio (Bonus Track)",
       "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
         "name": "El Mundo a Tus Pies",
         "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 176226,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1763,42 +1779,6 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -1819,18 +1799,22 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Eres Mi Crush",
-        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Eres Mi Crush",
-      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1859,18 +1843,34 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+        "name": "Eres Mi Crush",
+        "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
+      "duration_ms": 161194,
+      "name": "Eres Mi Crush",
+      "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
         {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 188778,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Un Cumbi\u00f3n Dolido",
-        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 235434,
-      "name": "Un Cumbi\u00f3n Dolido",
-      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
         "name": "Cabrones y Vagos",
         "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 136615,
       "name": "Cabr\u00f3n y Vago",
       "url": "https://open.spotify.com/track/0AJOO4nzdWyiQUn0t27Pr7"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
+        "name": "Un Cumbi\u00f3n Dolido",
+        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 235434,
+      "name": "Un Cumbi\u00f3n Dolido",
+      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
-    },
-    {
-      "added_at": "2023-11-24 07:51:25",
-      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
       },
@@ -2467,18 +2451,18 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 140493,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -2503,6 +2487,22 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "added_at": "2023-11-24 07:51:25",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2023-11-24 07:51:25",
@@ -2631,18 +2631,18 @@
     {
       "added_at": "2023-11-24 07:51:25",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
     }
   ],
   "unique_name": "La Troca",

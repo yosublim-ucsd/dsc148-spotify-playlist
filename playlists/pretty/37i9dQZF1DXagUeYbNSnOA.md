@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds Latin tracks this year\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,193 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,257 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 74 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
 | 75 | [Verano Rosé](https://open.spotify.com/track/1TBV0PsJHHORzbn0AluTKj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Verano Rosé](https://open.spotify.com/album/07Ase5Emf9f6k8VfpRSSHZ) | 2:45 |
 
-Snapshot ID: `MCw3NzRjYjkxYzdmZGRiY2RlYTc1NjhmYzY2MTkwNDY2OWE5NTc3NThj`
+Snapshot ID: `MCxkNmVmMzQ3ZGZkODg0YjAyODVmYjAxMTBiMWY3YzcwYzBkMWRjYjRl`

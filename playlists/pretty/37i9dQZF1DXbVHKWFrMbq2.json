@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 14767,
+  "num_followers": 14785,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2YwODJhODY3NTkxNGJjYTU0ODg3MmIwZjc4ZWZkYzBmOWViN2Rk",
+  "snapshot_id": "MCxjM2E0ZWM2NDIzNzRhMGE5MWMxMmJiYjgwOTQ4NTBmOWZhZjM5Zjc3",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:51",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "ACOUSTIC SESSION",
-        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Guerrero.mp3",
-        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 238665,
-      "name": "Guerrero.mp3",
-      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 231586,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 211327,
-      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 211327,
+      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
     },
     {
       "added_at": "2023-12-22 23:50:51",

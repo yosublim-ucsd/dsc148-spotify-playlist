@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Arlo Parks en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,723 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,724 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 16 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 17 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 18 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
-| 19 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
-| 20 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 |
+| 19 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 |
+| 20 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
 | 21 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
-| 22 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 |
+| 22 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
 | 23 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 24 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
 | 25 | [Your Blood](https://open.spotify.com/track/4QJKtN5EXFtxbqnHuibwEL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Your Blood](https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC) | 4:08 |
 | 26 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
 | 27 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
-| 28 | [Deck The Halls](https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/6roKUT3Py5CqOa47NH5nOH) | 2:04 |
-| 29 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
+| 28 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
+| 29 | [Deck The Halls](https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/6roKUT3Py5CqOa47NH5nOH) | 2:04 |
 | 30 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 31 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 32 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 49 | [The Fight](https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Fight](https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd) | 4:27 |
 | 50 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
 
-Snapshot ID: `MCwxZWFjZmRjOWE5MjZlMzdmNTE1YTk4MzM2YTBjNzViZjEyMjk1OTNk`
+Snapshot ID: `MCw3MjM5NjBlYzczNDMxZTY5ZDM2NDdmYmQxOGYzNjk1MWMwNzhlMmRi`

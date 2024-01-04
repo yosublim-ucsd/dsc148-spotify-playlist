@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,873 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,894 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 35 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 |
 | 36 | [Johnny johnny johnny](https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:05 |
 | 37 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
-| 38 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
-| 39 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
+| 38 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
+| 39 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 | 40 | [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 |
 | 41 | [Marigold](https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Hearth Room](https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO) | 3:22 |
 | 42 | [I Want To Be Your Only Pet](https://open.spotify.com/track/0bRtjZg3D4IrSJPLj3Jyhu) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:34 |
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 67 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 |
 | 68 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
 | 69 | [Big Bewts](https://open.spotify.com/track/6Awe5dR7eYAfHVkycO6m5X) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Big Bewts & Vertigo](https://open.spotify.com/album/5knT1V0p5JcIvqnRC363uv) | 3:08 |
-| 70 | [Soft Spot](https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 4:22 |
-| 71 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 |
+| 70 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 |
+| 71 | [Soft Spot](https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/5YxR0EDEfl0o1gyhCrvY3R) | 4:22 |
 | 72 | [Care \(feat\. Bakar\)](https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 2:32 |
 | 73 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |
 | 74 | [DX](https://open.spotify.com/track/1iO9BS2GiqrVjSeYcNTzs2) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [&ONE](https://open.spotify.com/album/4AtoqPGFghALemE4MBeCxP) | 1:58 |
-| 75 | [Dying](https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:39 |
-| 76 | [Freakin](https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Antennae](https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA) | 3:10 |
+| 75 | [Freakin](https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Antennae](https://open.spotify.com/album/5wpk8gismVSMMqfpoPwtLA) | 3:10 |
+| 76 | [Dying](https://open.spotify.com/track/60kl9blMLz8yl3akeh6sXe) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 3:39 |
 | 77 | [Outta My Mind](https://open.spotify.com/track/7aT1OARtCIRZnPLVxmUghR) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:45 |
 | 78 | [The Jungle](https://open.spotify.com/track/5BGmmTZL2bsRi5qFP0OWX0) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:03 |
 | 79 | [WHY WAIT? \(feat\. Cisco Swank\)](https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [WHY WAIT? \(feat\. Cisco Swank\)](https://open.spotify.com/album/47oNZkfCMDynKbVxfUtfz5) | 2:44 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 91 | [Going Crazy](https://open.spotify.com/track/79j5lxEjuh5ixfJU2Lt2SS) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Going Crazy](https://open.spotify.com/album/6DCVlCkgPkgPkhY9ZJfaY0) | 3:11 |
 | 92 | [Weird & Bizarre](https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Weird & Bizarre](https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j) | 3:15 |
 | 93 | [BLUE NOISE](https://open.spotify.com/track/6zr5AoFLscKXYSmnj6qXbT) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [BLUE NOISE](https://open.spotify.com/album/7tHs7min5lfXzztIzqNIQQ) | 3:25 |
-| 94 | [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 |
-| 95 | [Out There](https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Soft Landing](https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem) | 4:22 |
-| 96 | [Budapest](https://open.spotify.com/track/1y7H87T1kXMWSIAmmzhe4i) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Front Porch](https://open.spotify.com/album/693SYKBg0WBDyhaSDyeTZB) | 2:39 |
-| 97 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
-| 98 | [GLUE](https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [GLUE](https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF) | 3:23 |
+| 94 | [GLUE](https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [GLUE](https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF) | 3:23 |
+| 95 | [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 |
+| 96 | [Out There](https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Soft Landing](https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem) | 4:22 |
+| 97 | [Budapest](https://open.spotify.com/track/1y7H87T1kXMWSIAmmzhe4i) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Front Porch](https://open.spotify.com/album/693SYKBg0WBDyhaSDyeTZB) | 2:39 |
+| 98 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
 | 99 | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/2v5zmdCfuhl8kHe55yrtSC) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [POSTTEENANGST](https://open.spotify.com/album/10wsx8kwi44Ch78umaSChC) | 2:48 |
 | 100 | [Sweet Tooth](https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s) | 3:35 |
 
-Snapshot ID: `MCwzYTBhMDYzOWUzNjdhMjhkY2JiYjc1MWI1NTY2Y2YwYWJmMjhjZGIw`
+Snapshot ID: `MCxjNzgyY2IzYTQzNGVmNTk4ZDI0YTRkMDVlMzVkYjM2M2U0YjljYjBh`

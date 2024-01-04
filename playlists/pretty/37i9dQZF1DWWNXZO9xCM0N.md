@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,118 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,180 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [La juma de ayer](https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 7:49 |
 | 50 | [Guaguancó Del Adios](https://open.spotify.com/track/0KPajt76dlg67yRg1RlDvC) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [El Progreso](https://open.spotify.com/album/1aWWLbbcL2NK8V3sqWtAZn) | 6:07 |
 
-Snapshot ID: `MCxiMTc1NDI1ZTdiMmY0ZTEyZTJiMzU2ZDhjYzlhYjg5MjE2MTE5NTE3`
+Snapshot ID: `MCw5OTM2ZDc3NTYxZTA2NjhjMWRmYmRiMDc2ODUyMzU2OTcxNzQ1MzYy`

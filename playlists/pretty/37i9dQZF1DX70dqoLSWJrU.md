@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,411 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,474 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 31 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 32 | [I'll Never Smile Again](https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [In The Land Of Hi\-Fi](https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x) | 2:33 |
 | 33 | [You Don't Know What Love Is \- Remastered 2004](https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 4:50 |
-| 34 | [I Miss You So](https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Lonely And Blue](https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS) | 3:22 |
-| 35 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
+| 34 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
+| 35 | [I Miss You So](https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Lonely And Blue](https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS) | 3:22 |
 | 36 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 |
 | 37 | [The Thrill Is Gone](https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [The Thrill Is Gone](https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy) | 4:50 |
 | 38 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 47 | [Maybe You'll Be There](https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 3:39 |
 | 48 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
 | 49 | [You've Changed](https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:44 |
-| 50 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 |
-| 51 | [I Can't Get Started \- Remastered](https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:15 |
+| 50 | [I Can't Get Started \- Remastered](https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:15 |
+| 51 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 |
 | 52 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 |
 | 53 | [Where Are You? \- 1999 Remastered](https://open.spotify.com/track/1wVLaNc1qRgI56HWauLFee) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:30 |
 | 54 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 61 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
 | 62 | [I Think Of You \- Remastered](https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:04 |
 | 63 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 |
-| 64 | [After You've Gone](https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [At The End Of The Day](https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs) | 4:22 |
-| 65 | [In A Sentimental Mood](https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:57 |
+| 64 | [In A Sentimental Mood](https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:57 |
+| 65 | [After You've Gone](https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [At The End Of The Day](https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs) | 4:22 |
 | 66 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
 | 67 | [Beware My Heart](https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 5:08 |
 | 68 | [Born To Be Blue](https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl) | [Beverly Kenney](https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT) | [Born To Be Blue](https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv) | 3:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 89 | [Somebody Else Is Taking My Place](https://open.spotify.com/track/1pOs0EmRYSB2qHkq3RqQ3F) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Complete Recordings 1941\-1947](https://open.spotify.com/album/0x5yF2BAmms8KLA3YubZDP) | 3:08 |
 | 90 | [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 |
 
-Snapshot ID: `MCxkOGZiODAwZDQ2NDNlYjc5ZjlmMzI5OWU5ZTgzZTZjYTUzNjg0MjQz`
+Snapshot ID: `MCwxNmNmMmNhODU0ZmQ4MzRiYTM4MmI1ZGI0MTcwOTdjMzU0YmI4MmFh`

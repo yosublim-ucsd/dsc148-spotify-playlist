@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,803 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,821 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 29 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 30 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
 | 31 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
-| 32 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
+| 32 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
 | 33 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
-| 34 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 |
+| 34 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
 | 35 | [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 |
 | 36 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 |
 | 37 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 | 50 | [Come Back Home](https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Roos Jonker](https://open.spotify.com/artist/7zKcaqZKaQv5O6oZYBoFBf) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 5:03 |
 
-Snapshot ID: `MCw3YzA4YWVjN2Q0ZDYzNzc4Yzk5NDhjMzU5NDY3MjcwMGNmZDcyODdi`
+Snapshot ID: `MCwzOGY1NjQ2YjljZjIxMjc0NzkxZmVkNjQyZmM3MTQ3YTExMjdiNWQx`

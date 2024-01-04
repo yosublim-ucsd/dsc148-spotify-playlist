@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-639 songs - 1 day 22 hr 0 min
+640 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Better Days \(Kumba\)](https://open.spotify.com/track/2HPB1X4LrvvHxoNgMQGB8S) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO), [Gilbert K](https://open.spotify.com/artist/4806BUBQra8PgZMWXpYDO9), [Waina](https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i) | [Better Days](https://open.spotify.com/album/0Nxl08hPtWD64wmJ4QDtKz) | 6:33 | 2022-08-13 | 2022-09-04 |
 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 | 2022-03-16 | 2022-05-29 |
 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 | 2023-10-14 |
-| [Black Times \- Radio Edit](https://open.spotify.com/track/2mbWm1eg1c1h2RuXm2kme9) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Black Times](https://open.spotify.com/album/3drgm5Lvz5tS3d0paKXY8w) | 4:55 | 2023-08-31 |  |
+| [Black Times \- Radio Edit](https://open.spotify.com/track/2mbWm1eg1c1h2RuXm2kme9) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Black Times](https://open.spotify.com/album/3drgm5Lvz5tS3d0paKXY8w) | 4:55 | 2023-08-31 | 2024-01-04 |
 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 | 2021-10-06 | 2022-04-14 |
 | [Blowing Up Gates](https://open.spotify.com/track/4u9xudffDc3RObR7Bnkusl) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Blowing Up Gates](https://open.spotify.com/album/4KexPUHmQNbhRY8c0873PS) | 4:22 | 2023-03-31 | 2023-05-13 |
 | [Boogie](https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS II](https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw) | 5:48 | 2023-08-31 |  |
@@ -229,6 +229,7 @@
 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 | 2022-04-17 |  |
 | [Gobi](https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 5:57 | 2021-10-06 |  |
 | [Gobi](https://open.spotify.com/track/5wxnKA9URyQmtdlnEIHj5z) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/6FN8NNSvWUnFhJISSfJZta) | 5:57 | 2021-10-06 | 2022-07-07 |
+| [Gotoku Lemon](https://open.spotify.com/track/77b6MAvDeH0NILyuFgcQw7) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 3:48 | 2024-01-03 |  |
 | [Gravity](https://open.spotify.com/track/10sPG1ooEf3tBsFeDAmv7K) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Roy Ayers JID002](https://open.spotify.com/album/7e1tZm29M23DLNgPtzFUvr) | 3:26 | 2021-10-06 | 2022-07-29 |
 | [Gringofire In Ethiopia](https://open.spotify.com/track/14pNRBawPwR34gawYSX5tb) | [Eugene Toale](https://open.spotify.com/artist/7GKSBdcXE1BHkRYoTjrIdH) | [Gringofire In Ethiopia](https://open.spotify.com/album/1AQ3PIkaxvB94OX2cUHqHl) | 4:46 | 2021-10-06 | 2022-04-15 |
 | [Gueta](https://open.spotify.com/track/5pvFJSec5bmKEpd2Tqs9nn) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [Gueta \(feat\. Nitai Hershkovits, Nomok, Amir Bresler & Sefi Zisling\)](https://open.spotify.com/album/2USulCoijgTECfEEoWJ2NO) | 4:25 | 2021-10-06 | 2022-04-20 |

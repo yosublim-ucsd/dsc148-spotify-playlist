@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de \u00e9xitos para ponerle ritmo a las tareas del hogar.",
-  "num_followers": 333504,
+  "num_followers": 333625,
   "original_name": "\u00a1A limpiar con Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGViYTUxYmU4MjQ4MmE2MmRjNzZmM2UyZDViOTEwZTFiMjg4ZmY0",
+  "snapshot_id": "MCxlMTUxYWQ3YmJhM2E0Nzg2YWNiMjRiYjhiMTYzMTBlY2JkN2I2M2U0",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 237386,
       "name": "Mi primer millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "Humanos a Marte",
-      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 289866,
       "name": "Tan enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 225986,
+      "name": "Humanos a Marte",
+      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 227233,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Santo Pecado",
         "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 247613,
       "name": "Minutos",
       "url": "https://open.spotify.com/track/0HIoLXQTYfRvsDGifz8cWY"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     }
   ],
   "unique_name": "\u00a1A limpiar con Pop!",

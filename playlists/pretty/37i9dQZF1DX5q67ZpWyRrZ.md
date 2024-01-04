@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,976 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,830 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 11 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 | 12 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 13 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
-| 14 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 14 | [Jhaag](https://open.spotify.com/track/7zwqxNGf7cJLPXgOkEkHHA) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Jhaag](https://open.spotify.com/album/7jmDLNVORMzMHfyF0we05g) | 2:29 |
 | 15 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
-| 16 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
-| 17 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 |
-| 18 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
-| 19 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 |
+| 16 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 17 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
+| 18 | [Junoon](https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs) | 3:11 |
+| 19 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
 | 20 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
 | 21 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 22 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 | 75 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 |
 
-Snapshot ID: `MCwzNmM3YmIzOTdjNDhhMmNjZmYxNGE4ZGMwOGNkYzU1YTMwYTk3MGNk`
+Snapshot ID: `MCw0MjgxNGNmYTRjOTBkNWZlMmEwZDg1YjUyNmM4ZjY0OWNiYzQzYWY3`

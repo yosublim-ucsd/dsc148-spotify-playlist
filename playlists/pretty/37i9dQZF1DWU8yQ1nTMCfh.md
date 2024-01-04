@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Walls & Bruses
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,643 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,665 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 17 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
 | 18 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
 | 19 | [La Última Canción](https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Última Canción](https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy) | 2:37 |
-| 20 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
+| 20 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 |
 | 21 | [La Petite Mort](https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Petite Mort](https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd) | 4:51 |
-| 22 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 |
-| 23 | [Cama Vacía](https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Cama Vacía](https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW) | 3:59 |
+| 22 | [Cama Vacía](https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Cama Vacía](https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW) | 3:59 |
+| 23 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
 | 24 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
 | 25 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 26 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 67 | [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 2:59 |
 | 68 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 69 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 |
-| 70 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
-| 71 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 70 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 71 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 72 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 73 | [FLASHBACKS](https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [FLASHBACKS](https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p) | 2:53 |
 | 74 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 |
 | 75 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 |
 
-Snapshot ID: `MCw4YWZjNGJiMGU3MzMxNDA4MjY4MTkxMGVmZTU4YTJiNDJjN2EyZDEz`
+Snapshot ID: `MCxiZTI5MzEyNDU5YjEzMGEwYzg5YmJlODIxOTI0YWEzN2JhNWQ2MTFk`

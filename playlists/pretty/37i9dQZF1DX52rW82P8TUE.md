@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,268 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,290 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 4 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
 | 5 | [Coral dos Bichos](https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 6](https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F) | 3:51 |
 | 6 | [Eu Canto pra Jesus](https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ) | 3:01 |
-| 7 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
-| 8 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
+| 7 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
+| 8 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
 | 9 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
 | 10 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
 | 11 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 | 50 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
 
-Snapshot ID: `MCwyNTlkN2U5MmM5NDQ4NzIxMDE5MTUyNDBhMDZlYTY3ZDBhNmVjNWIy`
+Snapshot ID: `MCwxMmE5ODk0MDNkNzNiOWRlZWExMTAwMTM4ODliZTk4MmEwMjU4OGZl`

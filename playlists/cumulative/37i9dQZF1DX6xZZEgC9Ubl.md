@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-903 songs - 1 day 16 hr 57 min
+905 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,8 @@
 | [MEAN GIRLS](https://open.spotify.com/track/5KLo5emoCJT8Xk8MeOrSm5) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MEAN GIRLS](https://open.spotify.com/album/7BNrJv8BcbLsUlvKXrTBvl) | 2:10 | 2021-07-31 | 2022-07-26 |
 | [Meant To Be](https://open.spotify.com/track/6mtgVR9MNoWwjCxlKSruw7) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Meant To Be](https://open.spotify.com/album/63lAGUA7Muw8sviOb03TVI) | 3:06 | 2020-12-13\* | 2021-02-27 |
 | [medicine](https://open.spotify.com/track/38cHoGUA4FvEXiGRwZ32nM) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [medicine](https://open.spotify.com/album/0fXWPB2QCWc7uf7uG9lAOM) | 2:02 | 2021-09-17 | 2022-04-21 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-11 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-10-11 |  |
 | [MELODY](https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/3010O0T0Imh2k7wSbVqgZo) | 2:54 | 2023-09-01 | 2023-09-13 |
 | [MELODY](https://open.spotify.com/track/1NfjUyoSiqliAy40rR9CVv) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/0rbnod5eDoqsgg8rBWUD1i) | 2:54 | 2023-09-01 |  |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-06-19 |  |
@@ -883,8 +884,9 @@
 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 | 2021-03-26 | 2021-04-30 |
 | [wondering how](https://open.spotify.com/track/5vraAGKBOoxAX44ftREyar) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [wondering how](https://open.spotify.com/album/2LtlOTWQmX9YYCVJ1VeNx9) | 3:24 | 2021-11-19 | 2021-12-21 |
 | [WORLD](https://open.spotify.com/track/6M3ptLy6a66pKAsqrsRIac) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [WORLD](https://open.spotify.com/album/0a1p0zXfILuWg3sNZ7FnSW) | 3:20 | 2020-12-18 | 2021-01-05 |
+| [World's a Fuck](https://open.spotify.com/track/204e7FPwiedVDmjKIgnnkP) | [Sematarik](https://open.spotify.com/artist/31o8VFTitHtHTqY7a64iSG) | [Laughing Through the Pain](https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f) | 2:58 | 2023-10-11 |  |
 | [Worlds a Fuck](https://open.spotify.com/track/1bie3CEnQNnp0Qa5pph1py) | [stack$](https://open.spotify.com/artist/3LbI3jgW1i4L37xd9Sm0rJ) | [Worlds a Fuck](https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm) | 3:00 | 2023-10-11 | 2023-11-12 |
-| [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 | 2023-10-11 |  |
+| [Worlds a Fuck](https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK) | [Emperor Road](https://open.spotify.com/album/6Gu2V3lKh7njXbN5JvYJJI) | 3:00 | 2023-10-11 | 2024-01-04 |
 | [Worlds A Fuck](https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5) | [stack$](https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK), [dyingoutlay](https://open.spotify.com/artist/6vFGEdlUL64DHxlLPbhCAa) | [Emperor Road](https://open.spotify.com/album/4bg5HL2itZt0U9wb2oXPj5) | 3:00 | 2023-10-11 | 2023-11-05 |
 | [Worlds a Fuck](https://open.spotify.com/track/1103A9Sw6iNIP0lEmJTPaf) | [VampLeaks](https://open.spotify.com/artist/5AmviRRg2anzRgjnztq4sX) | [Worlds a Fuck](https://open.spotify.com/album/3X8e4A4EVZj9yQmomczHT0) | 2:58 | 2023-10-11 | 2023-11-11 |
 | [Would Look Perfect](https://open.spotify.com/track/2L2mNkEWo818IE4fKbnP0O) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Letter's You Never Received](https://open.spotify.com/album/6Kw08aAjdRBrDbDXYiZk4P) | 2:29 | 2021-02-23 | 2021-03-14 |

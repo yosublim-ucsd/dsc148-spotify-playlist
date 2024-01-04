@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,861 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,885 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 38 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 |
 | 39 | [More](https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:27 |
 | 40 | [Justin Bieber \(feat\. Jay Park\)](https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EMO \#1](https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu) | 3:37 |
-| 41 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 |
-| 42 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
+| 41 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
+| 42 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 |
 | 43 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 44 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
 | 45 | [kiss my lips](https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [kiss my lips](https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3) | 3:15 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 52 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
 | 53 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
 | 54 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
-| 55 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
-| 56 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
+| 55 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
+| 56 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
 | 57 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
 | 58 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 59 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 60 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
 
-Snapshot ID: `MCw5OGZlOTRiYzZjN2VhMGZkNWY0ZjRjMzE2MWQ5MzI4MWEzMGU5NGFm`
+Snapshot ID: `MCw2MzJjNzgzNThiODZkYTNmZGZjMmNkZjhlY2I2NWJlM2M2ODQzMGE0`

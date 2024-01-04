@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: SUPER BEAVER
 
-1,134 songs - 2 day 23 hr 12 min
+1,135 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Brand New Day](https://open.spotify.com/track/6tdE7Z3wCnX4goZU4veUDI) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Brand New Day](https://open.spotify.com/album/5B0JQ9N6hSi8jKa8izbV18) | 3:14 | 2023-08-08 | 2023-09-13 |
 | [Break Together](https://open.spotify.com/track/1tOZqH9t898tBOOyDG695t) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Break Together](https://open.spotify.com/album/6cdmaCwRThLtqquRCLfESu) | 3:49 | 2023-06-22 | 2023-08-23 |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 |  |
+| [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 | 2024-01-02 |  |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 | 2023-06-28 |
 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 | 2023-04-07 |
 | [c r a z y](https://open.spotify.com/track/35lQAoWxWXQCLRZiC2Bpi7) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [c r a z y](https://open.spotify.com/album/559cpQp7ZCDP8RdiKEuyXR) | 3:13 | 2023-09-05 | 2023-10-06 |
@@ -1111,7 +1112,7 @@
 | [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 | 2023-09-27 |
 | [遠い街](https://open.spotify.com/track/1D2Bn2AInJvhZnkdZhPBW6) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [DISTANCES](https://open.spotify.com/album/6oqE4ErJa0PD0I1xajeA8e) | 3:56 | 2023-11-14 | 2023-12-20 |
 | [遠雷](https://open.spotify.com/track/4pBwrxwaEjKytWr1Pg7SXw) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sea Gazer](https://open.spotify.com/album/6sJzI6i9ldc3LWcDbzRlrA) | 5:18 | 2023-02-28 | 2023-04-04 |
-| [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 | 2024-01-02 |  |
+| [部長ぷっちょどう？](https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ぼちぼちベテラン](https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm) | 3:27 | 2024-01-02 | 2024-01-04 |
 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 | 2023-04-04 | 2023-05-17 |
 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 | 2023-09-05 | 2023-10-18 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 | 2023-10-13 |

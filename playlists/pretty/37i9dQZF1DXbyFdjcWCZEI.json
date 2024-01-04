@@ -1,12 +1,12 @@
 {
   "description": "Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.",
-  "num_followers": 18571,
+  "num_followers": 18620,
   "original_name": "Caminata playera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzkzYjUzZDUwNjM3YzI3MjJkY2M2Mjg3NDYzZjRlNWE1MGNiZTU3",
+  "snapshot_id": "MCw1NzhiYTU1YzQxYTA0NzkyOTE5ZjdiOWZkNjg0YzQ1YzkwZDA5Yzc1",
   "tracks": [
     {
       "added_at": "2023-12-23 00:04:49",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 162606,
+      "name": "Parapente",
+      "url": "https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
         "name": "yen3",
         "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 196044,
       "name": "Nunca Quise",
       "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 162606,
-      "name": "Parapente",
-      "url": "https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Trampas",
+      "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "added_at": "2023-12-23 00:04:49",
+      "album": {
         "name": "Nuevo mundo (feat. Juancho Marqu\u00e9s)",
         "url": "https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-12-23 00:04:49",
       "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+        "name": "Se Me Hizo Tarde",
+        "url": "https://open.spotify.com/album/3zQBsHol1E2ylYxgKjOrpP"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Trampas",
-      "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+      "duration_ms": 237636,
+      "name": "Se Me Hizo Tarde",
+      "url": "https://open.spotify.com/track/5iwoOs33FoFXzHdC862Vdn"
     },
     {
       "added_at": "2023-12-23 00:04:49",
@@ -823,22 +839,6 @@
       "duration_ms": 219480,
       "name": "Disimulao",
       "url": "https://open.spotify.com/track/7sqEqSeZRKrQzdkukwxFEo"
-    },
-    {
-      "added_at": "2023-12-23 00:04:49",
-      "album": {
-        "name": "Se Me Hizo Tarde",
-        "url": "https://open.spotify.com/album/3zQBsHol1E2ylYxgKjOrpP"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 237636,
-      "name": "Se Me Hizo Tarde",
-      "url": "https://open.spotify.com/track/5iwoOs33FoFXzHdC862Vdn"
     },
     {
       "added_at": "2023-12-23 00:04:49",

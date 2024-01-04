@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 256638,
+  "num_followers": 256724,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjY0NjlkY2RlNjIxNjU1YzJkYTZhMWEwZjZmY2Y2ODMxODYxZGRk",
+  "snapshot_id": "MCw3ZTMyYTEzZWZhNmJkN2MyM2MyMDg0MTVhNTRkMzgzMTIyYWY4OTg3",
   "tracks": [
     {
       "added_at": "2023-11-09 22:36:13",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292920,
-      "name": "Te Va A Doler",
-      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 238236,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Por El Amor",
-        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Por El Amor",
+        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 186373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "La Otra Cara De La Moneda",
-      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 158373,
       "name": "Te V\u00ed Con El",
       "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "La Otra Cara De La Moneda",
+      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2023-11-09 22:36:13",
+      "album": {
         "name": "Salvaje Y Tierno",
         "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 190653,
       "name": "Oro",
       "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
-    },
-    {
-      "added_at": "2023-11-09 22:36:13",
-      "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2023-11-09 22:36:13",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2023-11-09 22:36:13",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2023-11-09 22:36:13",

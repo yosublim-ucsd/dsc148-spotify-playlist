@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 754905,
+  "num_followers": 755629,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmI1MjI4NmE3NGQ4YzA0MTVlNTVhOWUxZmQ5YzJmNjlmYTAwNTg4",
+  "snapshot_id": "MCxmM2NhYTQ4NGQ5MTg1YWZiNTAyZDlkOTA4NzkzMjljZTY3N2VlNzVl",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "We Like To Party! (The Vengabus)",
-      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "We Like To Party! (The Vengabus)",
+      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 255546,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 173666,
       "name": "Spice Up Your Life",
       "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 255546,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "Born Slippy (Nuxx)",
-      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Duophonic",
         "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 279600,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 336840,
-      "name": "Mr. Vain",
-      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 331760,
-      "name": "Canned Heat",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Move It!",
         "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 331760,
+      "name": "Canned Heat",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 336840,
+      "name": "Mr. Vain",
+      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
-      },
-      "artists": [
-        {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 227030,
       "name": "The Power (7\" Version)",
       "url": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2503,18 +2503,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO"
+        "name": "Step One",
+        "url": "https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq"
       },
       "artists": [
         {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1"
+      "duration_ms": 202266,
+      "name": "5, 6, 7, 8",
+      "url": "https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy"
     }
   ],
   "unique_name": "90s Party",

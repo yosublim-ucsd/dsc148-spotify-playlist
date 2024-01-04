@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: LE SSERAFIM)",
-  "num_followers": 81082,
+  "num_followers": 84183,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmEzODA0ZjI0NGY0MjEwNTQ4MzQ1MmM5MmIxYmI1YTFlMjFhOWQ4",
+  "snapshot_id": "MCwxMDNkNjgxNzM0MmRkNzAwNTE0YzA0Mjk0M2I1NjM3NTg0MTU3MzY0",
   "tracks": [
     {
       "added_at": "2023-11-16 14:34:56",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "I Love My Body",
-        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 150176,
-      "name": "I Love My Body",
-      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
-    },
-    {
-      "added_at": "2023-11-16 14:34:56",
-      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2023-11-16 14:34:56",
+      "album": {
+        "name": "I Love My Body",
+        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 150176,
+      "name": "I Love My Body",
+      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
       "artists": [
         {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1099,34 +1099,18 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2023-11-16 14:34:56",
-      "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1143,6 +1127,22 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2023-11-16 14:34:56",
+      "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "added_at": "2023-11-16 14:34:56",
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
-    },
-    {
-      "added_at": "2023-11-16 14:34:56",
-      "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "Do It Like That",
-        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
           "name": "TOMORROW X TOGETHER",
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 145065,
-      "name": "Do It Like That",
-      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
       },
       "artists": [
         {
           "name": "TOMORROW X TOGETHER",
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 209105,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "Talk Saxy",
-        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
         }
       ],
-      "duration_ms": 190941,
-      "name": "Talk Saxy",
-      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
       "added_at": "2023-11-16 14:34:56",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-11-16 14:34:56",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
       },
       "artists": [
         {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
     },
     {
       "added_at": "2023-11-16 14:34:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,924 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,950 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 18 | [La Orquesta](https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:23 |
 | 19 | [Cuerpo Soltero](https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:44 |
 | 20 | [Terco corazón](https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 3:41 |
-| 21 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 |
+| 21 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 |
 | 22 | [Chuquibambinita](https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 3:12 |
-| 23 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 |
+| 23 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 |
 | 24 | [Otra vez me equivoqué](https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh) | 3:17 |
 | 25 | [Huaynos Norteños \(Todo Empezó Como Jugando / Casualidad\)](https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Para Ti](https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu) | 6:01 |
 | 26 | [Huaylash Macho](https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:39 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 36 | [El Pio, Pio](https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Pio Pio](https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO) | 3:39 |
 | 37 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
 | 38 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
-| 39 | [Juntito a Ti](https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7) | 5:16 |
+| 39 | [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 |
 | 40 | [Dónde Está tu Dinero](https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:30 |
-| 41 | [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 |
+| 41 | [Juntito a Ti](https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7) | 5:16 |
 | 42 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
 | 43 | [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 |
-| 44 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
-| 45 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 |
+| 44 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 |
+| 45 | [Profesorita](https://open.spotify.com/track/19fr1BVHzzdxkJtHee5PU7) | [Los Campesinos](https://open.spotify.com/artist/4Y6bDQ3ZuNk1IcX4FmdrBZ) | [Grandes Exitos](https://open.spotify.com/album/1x7195GR18267D7Ix6xpzE) | 2:51 |
 | 46 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
 | 47 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
 | 48 | [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Soy Provinciano](https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf) | [Pumita Cazador](https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks) | [Soy Provinciano](https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt) | 6:22 |
 | 60 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 |
 
-Snapshot ID: `MCw3NTgyODAxYjcxMWM4OGVkODlkYjlmYTY5YTVlMDAwMTE3OGJlM2Rl`
+Snapshot ID: `MCw1ZTk2NTI1YzNjNmI2MGY1NmRkYzVjZjI0OGI5ZmIxZjk0ZjFiZDU3`

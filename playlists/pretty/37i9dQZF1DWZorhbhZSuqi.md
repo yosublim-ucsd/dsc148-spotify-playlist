@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > Leave room in your garden for fairies to dance 🍀🧚🏼‍♀️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,687 likes - 77 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,691 likes - 77 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 27 | [The Flower Garden](https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 2:58 |
 | 28 | [Fairy Fountain](https://open.spotify.com/track/3uhGWxwYdkwzI9vHITtaza) | [Super Guitar Bros](https://open.spotify.com/artist/2WosnSaZPybvQfyGUvD3NX) | [Ocarina of Time](https://open.spotify.com/album/0oCRqcXxOyKQsIjOvDfeQB) | 1:03 |
 | 29 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
-| 30 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
+| 30 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
 | 31 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
-| 32 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
+| 32 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 33 | [Blue Light](https://open.spotify.com/track/3BdHMOIA9B0bN53jbE5nWe) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:10 |
 | 34 | [Woodland](https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:51 |
 | 35 | [Without You Without Them](https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 1:21 |
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 37 | [Teenage Blue](https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty](https://open.spotify.com/album/6KiGqzmBh6yV7QOwFjA1sk) | 3:54 |
 | 38 | [Medicine](https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet) | 4:18 |
 | 39 | [Into Dust](https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 5:36 |
-| 40 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
-| 41 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
+| 40 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
+| 41 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 42 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 |
 | 43 | [Part III](https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 3:42 |
 | 44 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
 | 45 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 46 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 |
 | 47 | [Tears In The Typing Pool](https://open.spotify.com/track/2ckhAiLT5eV5blWvyDs8Lh) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/6xBYjKF7uvteMN51uxVNJv) | 2:12 |
-| 48 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 |
+| 48 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
 | 49 | [Organon](https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:30 |
-| 50 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
+| 50 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 |
 | 51 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 52 | [Plants](https://open.spotify.com/track/0vMr3GXZJi1IIIWE8bBJuZ) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 3:11 |
 | 53 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 58 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 |
 | 59 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 60 | [Some things Cosmic](https://open.spotify.com/track/5JeZZtqY0loM9UHQVIChby) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/0wtk8iyHpE7VnMmVf0ZV9f) | 2:54 |
-| 61 | [Different This Time](https://open.spotify.com/track/4WFWh42DCkPCjcjqITk54S) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:53 |
-| 62 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 |
+| 61 | [Landscape With a Fairy](https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8) | [aspidistrafly](https://open.spotify.com/artist/4ze7HHThfzYo15SuunBKhd) | [A Little Fable](https://open.spotify.com/album/7DqDOGXV5dAfYi85wrHkXN) | 4:25 |
+| 62 | [Different This Time](https://open.spotify.com/track/4WFWh42DCkPCjcjqITk54S) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:53 |
 | 63 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
 | 64 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 |
 | 65 | [overgrown garden](https://open.spotify.com/track/3HFhoym0OFKcbxycJRk8l4) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [overgrown garden](https://open.spotify.com/album/2Ooqlfie6JaWAJrKPMxOjw) | 4:45 |
@@ -84,6 +84,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 74 | [See Us](https://open.spotify.com/track/6dmvic5s3LHMDgT3S13A2W) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Spirit Tamer](https://open.spotify.com/album/4sIVjY70KXkT3JKFJ6ySQI) | 2:10 |
 | 75 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
 | 76 | [Snowman](https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:15 |
-| 77 | [Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Images](https://open.spotify.com/album/6HUVECqJdGEo4xJ8LIeES6) | 4:08 |
+| 77 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
 
-Snapshot ID: `MCxkZmI0YzBlYWExYTgxOTI5ZmI0OWY2OTQyNDRiNjgyN2NlNDAzZDgw`
+Snapshot ID: `MCxiODhhOTE1MmZjZjQwYzcxYTczYTEyZWZlYzBhMjc2YzRmN2I1MTM3`

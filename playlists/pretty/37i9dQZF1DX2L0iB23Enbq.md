@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 
 > Viral, trending and taking off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,338,357 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,339,860 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 | 69 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 70 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 
-Snapshot ID: `MCxhMGU4YWM0YWMxNjMyMTE5NzFiNDdkNzljMDYwOTlkYmFjZTM4MDlk`
+Snapshot ID: `MCwwYTZkNjU3N2U2NDI0YTFiNTk0NDkwOGQ5MjYzYzJmOWQyYjM0Mjdl`

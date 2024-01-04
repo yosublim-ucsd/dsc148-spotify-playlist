@@ -4,7 +4,7 @@
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Dalia
 
-265 songs - 15 hr 57 min
+266 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Ahla Kalam](https://open.spotify.com/track/35nWZOgErArkAXXnyVfhfz) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ahla Kalam](https://open.spotify.com/album/3Z2MoQ3xfHgNGPs4evIuQf) | 3:23 | 2022-05-04 | 2023-01-11 |
 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 | 2023-05-24 | 2023-06-24 |
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2023-05-17 | 2023-05-24 |
+| [Akhuya](https://open.spotify.com/track/5Xei35cn3yZQG0YwnlVDt5) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Akhuya](https://open.spotify.com/album/3QQXegHz4Yeo6jG09jOYPc) | 2:46 | 2024-01-03 |  |
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-05-17 | 2023-08-12 |
 | [Alach Ya Lil](https://open.spotify.com/track/6j1Y4fr04M40b6gwnPrM9N) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Alach Ya Lil](https://open.spotify.com/album/2g22RjouL5n8iipgwTve7e) | 2:45 | 2022-05-04 | 2022-07-13 |
 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 | 2022-05-04 | 2022-06-05 |
 | [Alby Plastic](https://open.spotify.com/track/3d77XC3WK7ud2bP4JvyPZe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Alby Plastic](https://open.spotify.com/album/2BCKExJzkbbOOBAqx5JQeU) | 3:31 | 2022-05-04 | 2023-01-11 |
-| [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 | 2023-07-11 |  |
+| [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 | 2023-07-11 | 2024-01-04 |
 | [Allah Honej](https://open.spotify.com/track/4NjgpqzC3K5e93GIXgOnk9) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Allah Honej](https://open.spotify.com/album/4jjIGbKOJrpXMylxaDZDnw) | 3:36 | 2023-05-17 | 2023-07-12 |
 | [Allah Shahid](https://open.spotify.com/track/2su3mVU3b25vzhHBYUX8CS) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Allah Shahid](https://open.spotify.com/album/5oIMyoc9iYzGFemCMxoIcR) | 4:19 | 2022-05-04 | 2023-02-16 |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-07-11 |  |

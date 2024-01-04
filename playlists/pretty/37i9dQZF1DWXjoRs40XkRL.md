@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,122 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,159 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 32 | [Seher](https://open.spotify.com/track/6WcBchq24S1Gl7VyHqWKJz) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Seher](https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb) | 3:28 |
 | 33 | [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 |
 | 34 | [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 |
-| 35 | [Raina Na Biti Jaye](https://open.spotify.com/track/6Rqt5TMC21YcmXNuhL53P2) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [Raina Na Biti Jaye](https://open.spotify.com/album/6coCzjKmAA5piWkHWEtetv) | 4:18 |
+| 35 | [Raina Na Biti Jaye](https://open.spotify.com/track/3ojBuM4WnkEJI4hcch11qo) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [Raina Na Biti Jaye](https://open.spotify.com/album/0GDMHtdy2vUIFlGfCH3edH) | 4:18 |
 | 36 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 |
 | 37 | [Shalimar](https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Shalimar](https://open.spotify.com/album/7fkrWwOqUqH31sXEKGEB3q) | 5:00 |
 | 38 | [Adaaein](https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/2nsN1K7V7l2QrxsLcwzAty) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCw3Yzg5M2NiNTU0NGI0NDc1NTFiMmFlNzI3MWY5MWI4ZTI4NGI3YWI4`
+Snapshot ID: `MCxhNjEwMDFhZGNkOWY0MjUxMTc4ZWZkYjVkMmVkOTNhZjE3N2IzMjJm`

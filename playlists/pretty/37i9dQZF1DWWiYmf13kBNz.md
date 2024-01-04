@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,276 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,368 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 33 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 34 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 35 | [La Vie en rose](https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 3:07 |
-| 36 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
-| 37 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
+| 36 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
+| 37 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
 | 38 | [Danke Schoen](https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5) | [Wayne Newton](https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ) | [Danke Schoen](https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT) | 2:35 |
 | 39 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
 | 40 | [You Go To My Head](https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 |
 | 41 | [\(I Love You\) For Sentimental Reasons](https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:04 |
 | 42 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
 | 43 | [They Say It's Wonderful](https://open.spotify.com/track/2TFzmt2xRoSd3KNelJcUxZ) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 3:02 |
-| 44 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 |
-| 45 | [They Can't Take That Away From Me](https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:39 |
-| 46 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
+| 44 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
+| 45 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 |
+| 46 | [They Can't Take That Away From Me](https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:39 |
 | 47 | [We Have All The Time In The World \- Remastered](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
 | 48 | [Again \(with The Mellomen\)](https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:47 |
 | 49 | [Moonlight Serenade](https://open.spotify.com/track/3ziJFd6JeioC8Xfct0UXpJ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:22 |
 | 50 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
 
-Snapshot ID: `MCw3YTI2ODA0MGFlMDUyY2M4ZDM3MmIzOTJmMTQ4MTkzMTFkOTBjZGI0`
+Snapshot ID: `MCwzM2E3OTg4YjhkM2NhYjAzYWQzYWQ5ZDdmNzQ1MjE5NGFmOGNjYmYy`

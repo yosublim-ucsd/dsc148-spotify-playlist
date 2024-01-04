@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume\. Cover:  <a href=“spotify:artist:5LkbTSqXfMBjFSGi9LOGjq”>Samara Joy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,434 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,433 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 24 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
 | 25 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
 | 26 | [I Wish you Roses](https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:39 |
-| 27 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
-| 28 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 |
+| 27 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 |
+| 28 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 | 29 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 |
 | 30 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
 | 31 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 45 | [Always Get This Way](https://open.spotify.com/track/5biKfVBoteSxCfBqrwlFEh) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:54 |
 | 46 | [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
 | 47 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
-| 48 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
-| 49 | [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 |
+| 48 | [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 |
+| 49 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 50 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 
-Snapshot ID: `MCxiYWFlN2IxYjRjOGZmNjVkNTBmYmVlMzU0OWI5MGJhYzMwMGY4N2Q0`
+Snapshot ID: `MCw1YTY1MWM5YTMyYmY4ZWRlMjQ5OWNkNDRjYzEyMDgxMWVmN2IzOTJi`

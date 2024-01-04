@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,151 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,198 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 22 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
 | 23 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
 | 24 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
-| 25 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
-| 26 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
+| 25 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
+| 26 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
 | 27 | [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 |
 | 28 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
 | 29 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Solitary Daze](https://open.spotify.com/track/2byiq9pZkmCmUmNK5caiRy) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Solitary Daze](https://open.spotify.com/album/5STqq58xC6FbYIB2r7a9DR) | 7:43 |
 | 50 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 |
 
-Snapshot ID: `MCw2ZTdlNGRlYmU1YjQxZjhmNmFlNTc0YTkyNTQyNWZlYThkODViOGJl`
+Snapshot ID: `MCw0ZjYyNWY0MWY2NjZhNGQyOGI3NjA5ZmViZjY1Y2I2ZGVjNWZlNmJh`

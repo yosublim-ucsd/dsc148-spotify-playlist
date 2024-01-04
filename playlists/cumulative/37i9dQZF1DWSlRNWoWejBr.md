@@ -4,7 +4,7 @@
 
 > fim d ano tdo dia é dia d fluxo
 
-133 songs - 5 hr 34 min
+134 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Capricorniana](https://open.spotify.com/track/6l1U4fX41XmzZfi67q9i8X) | [Mc Lzyn](https://open.spotify.com/artist/4CjwZ3c0XNrtf2JkXV0Ss6), [DJ DuBom](https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt) | [Capricorniana](https://open.spotify.com/album/3exXrNMJ6fvuLZyTZcnwb1) | 2:50 | 2023-10-06 | 2023-12-19 |
 | [Carro Bicho](https://open.spotify.com/track/3gqTBGVVutmaO55Q29gmel) | [Dj Leo Lg](https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Carro Bicho](https://open.spotify.com/album/5vvNsqp5JoAaDeTo2IZpc8) | 1:58 | 2023-10-06 |  |
 | [Colo do pai](https://open.spotify.com/track/0iCA0rynWVmE5D9qWgas9s) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [No Pique do GBR](https://open.spotify.com/album/6yBdJ09hwSrlbftsxsBsDW) | 2:05 | 2023-10-06 |  |
-| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 | 2023-11-27 |  |
+| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq) | 2:37 | 2023-11-27 | 2024-01-04 |
+| [DANÇA PRA ME PROVOCAR](https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [DANÇA PRA ME PROVOCAR](https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5) | 2:37 | 2023-12-27 |  |
 | [Dentro do I30](https://open.spotify.com/track/4JmXTD5hTvr95AEa5vdbs6) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ TH](https://open.spotify.com/artist/2OTaGBs7DQkUYV63K7BQVv), [mc talibã](https://open.spotify.com/artist/11bGvkxWCsKDOsDWYU8G7r), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [DJ GHP](https://open.spotify.com/artist/57Sr5qqqbks2nPwsK0ZYA9) | [Dentro do I30](https://open.spotify.com/album/4ghMU7dB8pi56MmjYIqMC3) | 2:09 | 2023-11-08 |  |
 | [DILATAÇÃO HIPNÓTICA 6.0](https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G) | [DJ FLG](https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [DILATAÇÃO HIPNÓTICA 6.0](https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs) | 2:30 | 2023-11-06 |  |
 | [Ela Mamou Versão Agressiva](https://open.spotify.com/track/37u5vAbbJID55cn5fUhs74) | [MC Gedai](https://open.spotify.com/artist/2lQhWQaSLJiJrhIcf7ncf0), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Ela Mamou Versão Agressiva](https://open.spotify.com/album/0ojiNGunBiH93T9I3JrMWm) | 2:34 | 2023-10-06 |  |

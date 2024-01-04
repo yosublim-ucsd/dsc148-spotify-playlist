@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,368 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,422 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 56 | [Parce que c'est toi](https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Toujours moi](https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg) | 4:05 |
 | 57 | [Pas toi](https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 5:31 |
 | 58 | [Belle \(with Patrick Fiori & Garou\)](https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM), [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Notre Dame de Paris \- Studio](https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs) | 4:37 |
-| 59 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 59 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
 | 60 | [La chanson des vieux amants](https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:27 |
-| 61 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
+| 61 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
 | 62 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
 | 63 | [Les feuilles mortes](https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Chante Prevert](https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT) | 3:21 |
 | 64 | [Entre nous](https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Entre Nous](https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX) | 3:21 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 68 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
 | 69 | [PS : Je t'aime](https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [PS : Je t'aime](https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy) | 2:53 |
 | 70 | [Tombé](https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0) | 3:53 |
-| 71 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
-| 72 | [Amoureux de ma femme](https://open.spotify.com/track/3lzHuQKxPntttBRs71cqkX) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/5Mf7FOBJFbHJMDeKWQiJIi) | 2:38 |
+| 71 | [Amoureux de ma femme](https://open.spotify.com/track/3lzHuQKxPntttBRs71cqkX) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/5Mf7FOBJFbHJMDeKWQiJIi) | 2:38 |
+| 72 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
 | 73 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 74 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
 | 75 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
 
-Snapshot ID: `MCw0NzU4MDQwMGJmZjM2YTVhNjAxNDllY2I1MjJmMTJmZjQ0Mzc0NGY4`
+Snapshot ID: `MCxkNzJkYzk5ZWY4OTk0ZDk5NDQ1YjQ1YzQxMTZlNzIzZGI3N2ZjMjdi`

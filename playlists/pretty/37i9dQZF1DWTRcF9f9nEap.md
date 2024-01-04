@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,125 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,182 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 10 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 | 11 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
 | 12 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
-| 13 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
-| 14 | [I'm In The Mood](https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 4:31 |
+| 13 | [I'm In The Mood](https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 4:31 |
+| 14 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
 | 15 | [I Can't Be Satisfied](https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
 | 16 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 17 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 |
 | 50 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 
-Snapshot ID: `MCwwYzZiNDEyMmMzZThlYzcwOWIzNTQyZDgzMmJmY2NlZGIwMjBlMmMz`
+Snapshot ID: `MCwzYzQyMTA0YTg4YjYyMDM0NDk4NmY5ZDU0M2E1MTc2YWI3NzRjMzEw`

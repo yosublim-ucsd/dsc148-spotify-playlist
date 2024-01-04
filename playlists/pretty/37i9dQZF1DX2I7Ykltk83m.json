@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 354859,
+  "num_followers": 354938,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY4OTdjYjYwNzAwNjI1NzRjZmQzMTNiZDlhM2MxYTlmMDMzYjEz",
+  "snapshot_id": "MCwxYTgzYmFlZTlkZjFmZmM0MDNiMWJkNTNmODdmZjVjMzNiMjY4MDJi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 307075,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "I Know I'm Funny haha",
         "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Making It Through",
-        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 282366,
-      "name": "Making It Through",
-      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 275013,
       "name": "I Don't Recognise You",
       "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Making It Through",
+        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 282366,
+      "name": "Making It Through",
+      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Hypochondriac",
-      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Stay Proud of Me",
         "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 215426,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Hypochondriac",
+      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 185813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2023-10-27 04:00:00",

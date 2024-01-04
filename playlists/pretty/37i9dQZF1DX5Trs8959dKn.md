@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,886 likes - 50 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,970 likes - 50 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 3 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
 | 4 | [Testimony Worship](https://open.spotify.com/track/7dtW1HbJwH2XFugoTyoB9T) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Testimony Worship](https://open.spotify.com/album/57GsttRZ4CBjyW9Ab5EUPs) | 8:55 |
 | 5 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 |
-| 6 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 |
+| 6 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 |
 | 7 | [Psalm 91](https://open.spotify.com/track/0hW0946E5rXXNbmABvEKco) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Psalm 91](https://open.spotify.com/album/2YHyz9WLok9J3TIczP37Tk) | 7:03 |
 | 8 | [You I Live For](https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 5:18 |
 | 9 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 |
 | 10 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 |
 | 11 | [See What the Lord Has Done](https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:34 |
-| 12 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 |
+| 12 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 |
 | 13 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 |
 | 14 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
 | 15 | [Jesus Oh](https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL) | 4:15 |
 | 16 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 17 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
-| 18 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
-| 19 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
+| 18 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
+| 19 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
 | 20 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
 | 21 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
 | 22 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
 | 50 | [Onye \(Here by Your Grace\)](https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Onye \(Here by Your Grace\)](https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq) | 8:16 |
 
-Snapshot ID: `MCxkODkyZTM2ZTk1MWFmNzczMzA5ZjVhNTkwOTRhYTBmY2QxYThhODhk`
+Snapshot ID: `MCwxYzJlZWExMDFlNzlkNGY3NWJlODEzYTk5OGI1NDJhMmZlYWRhZTI4`

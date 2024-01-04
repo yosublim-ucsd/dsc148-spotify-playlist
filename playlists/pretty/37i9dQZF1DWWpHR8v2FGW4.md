@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,577 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,677 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 17 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
 | 18 | [Holding On](https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Holding On](https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo) | 2:44 |
 | 19 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
-| 20 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
-| 21 | [Feel Alive](https://open.spotify.com/track/0rA4Qzu2P7gOhnbdxUngNh) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Half Life](https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd) | 4:08 |
+| 20 | [Feel Alive](https://open.spotify.com/track/0rA4Qzu2P7gOhnbdxUngNh) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Half Life](https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd) | 4:08 |
+| 21 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
 | 22 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 |
 | 23 | [Keep Up The Pace](https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Keep Up The Pace](https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4) | 3:12 |
 | 24 | [Fire](https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Matisse](https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV) | [Fire](https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3) | 4:20 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 34 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
 | 35 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
 | 36 | [Roots \- OddKidOut Remix](https://open.spotify.com/track/7jV4pzMGvGSRZ4F214Tznl) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs), [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [Places We Don’t Know Remix EP](https://open.spotify.com/album/6vTc0SjRCXb6Pn1i1piwpx) | 3:18 |
-| 37 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 |
-| 38 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
+| 37 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
+| 38 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 |
 | 39 | [Overdrive](https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Emma McGann](https://open.spotify.com/artist/7i99rgVJyrVbho0pfVUtzF) | [Overdrive](https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG) | 3:51 |
 | 40 | [Climax](https://open.spotify.com/track/7q5wmC4tPHeRGr2RpxEVN3) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Climax](https://open.spotify.com/album/0mQAB2WOlyQnj7U1PbZPZe) | 4:29 |
 | 41 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 47 | [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 |
 | 48 | [Earthquake](https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Sounds Of The Street II](https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG) | 2:26 |
 | 49 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
-| 50 | [Make Up My Mind](https://open.spotify.com/track/2FXwX8wv2nmDy1U8NRiHo2) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Make Up My Mind](https://open.spotify.com/album/4i55bHABEF6I4AKC47xHAw) | 2:25 |
+| 50 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 |
 
-Snapshot ID: `MCxhMDk0MGNmYzgxZDA0ZjQxYTk4NTczY2FlZTlhMWZmNTZhOTIxNmY5`
+Snapshot ID: `MCxkNWY2MTNmYzM4NjJiNzIxOTllYzQ4Y2ExZmYzODU1ODJiZjVmZjQw`

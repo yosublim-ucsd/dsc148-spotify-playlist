@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 32332,
+  "num_followers": 32404,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTdiMzI3NjUzY2U1MTQ0ZTFlNjUzZTZlOGI2ZmNiYjAxMGI0N2Fm",
+  "snapshot_id": "MCw1NzRiM2QwZjMyMjY3YzE3ZTJhNWQ2NzZmNzUyMjMzMDYzNTE4YmJj",
   "tracks": [
     {
       "added_at": "2023-12-14 20:48:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt"
-      },
-      "artists": [
-        {
-          "name": "Birdstone",
-          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 312904,
       "name": "Reach",
       "url": "https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt"
+      },
+      "artists": [
+        {
+          "name": "Birdstone",
+          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
-      },
-      "artists": [
-        {
-          "name": "MSS FRNCE",
-          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
-        }
-      ],
-      "duration_ms": 107456,
-      "name": "Pas la peine",
-      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Bride",
         "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 178000,
       "name": "Bride",
       "url": "https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
+      },
+      "artists": [
+        {
+          "name": "MSS FRNCE",
+          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
+        }
+      ],
+      "duration_ms": 107456,
+      "name": "Pas la peine",
+      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
+        "name": "A Hooded Witness",
+        "url": "https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "A Hooded Witness",
+      "url": "https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
         "name": "Afterparty - All We Have Is Now",
         "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 181600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
-        "name": "A Hooded Witness",
-        "url": "https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "A Hooded Witness",
-      "url": "https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "Kamggarn",
-        "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
-      },
-      "artists": [
-        {
-          "name": "Kamggarn",
-          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
-        }
-      ],
-      "duration_ms": 236542,
-      "name": "Lonesome Terror",
-      "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "L\u00e9on",
         "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 271000,
       "name": "L\u00e9on",
       "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "Kamggarn",
+        "url": "https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc"
+      },
+      "artists": [
+        {
+          "name": "Kamggarn",
+          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
+        }
+      ],
+      "duration_ms": 236542,
+      "name": "Lonesome Terror",
+      "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "You Never Did Anything Wrong to Me",
-        "url": "https://open.spotify.com/album/1Ko1UEiwHBr9AMXPi9xALP"
-      },
-      "artists": [
-        {
-          "name": "Team Ghost",
-          "url": "https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "A Glorious Time",
-      "url": "https://open.spotify.com/track/2lDKw5ftLPRDFjwSsCBA81"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 188736,
       "name": "Newspapers",
       "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "You Never Did Anything Wrong to Me",
+        "url": "https://open.spotify.com/album/1Ko1UEiwHBr9AMXPi9xALP"
+      },
+      "artists": [
+        {
+          "name": "Team Ghost",
+          "url": "https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "A Glorious Time",
+      "url": "https://open.spotify.com/track/2lDKw5ftLPRDFjwSsCBA81"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
+        "name": "DEUXI\u00c8ME \u00c9TOILE",
+        "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9niche",
+          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "REQUIN MAKO",
+      "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
         "name": "Gelled Water",
         "url": "https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "DEUXI\u00c8ME \u00c9TOILE",
-        "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
+        "name": "Sometimes I Wanna Fight",
+        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
       },
       "artists": [
         {
-          "name": "P\u00e9niche",
-          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
         }
       ],
-      "duration_ms": 164026,
-      "name": "REQUIN MAKO",
-      "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
+      "duration_ms": 202719,
+      "name": "Sometimes I Wanna Fight",
+      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "Sometimes I Wanna Fight",
-        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
       },
       "artists": [
         {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+          "name": "Mad Foxes",
+          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
         }
       ],
-      "duration_ms": 202719,
-      "name": "Sometimes I Wanna Fight",
-      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
+      "duration_ms": 179000,
+      "name": "Crystal Glass",
+      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
-      },
-      "artists": [
-        {
-          "name": "Mad Foxes",
-          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Crystal Glass",
-      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
-        "name": "Life Is Unfair",
-        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
-      },
-      "artists": [
-        {
-          "name": "DYE CRAP",
-          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
-        }
-      ],
-      "duration_ms": 135750,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Guilty Species",
         "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 294594,
       "name": "Cold Crusader",
       "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "Life Is Unfair",
+        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
+      },
+      "artists": [
+        {
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
+        "name": "Liquor Liquor",
+        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
+      },
+      "artists": [
+        {
+          "name": "Ponta Preta",
+          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
+        }
+      ],
+      "duration_ms": 222288,
+      "name": "Liquor Liquor",
+      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
         "name": "Chantal",
         "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 235944,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
-        "name": "Liquor Liquor",
-        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
-      },
-      "artists": [
-        {
-          "name": "Ponta Preta",
-          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
-        }
-      ],
-      "duration_ms": 222288,
-      "name": "Liquor Liquor",
-      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "Sitcoms for Aliens",
-        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
-      },
-      "artists": [
-        {
-          "name": "Noiseheads",
-          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Teenage Ends",
         "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 135270,
       "name": "I Don't Give A Shit",
       "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "Sitcoms for Aliens",
+        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
+      },
+      "artists": [
+        {
+          "name": "Noiseheads",
+          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "AqME",
-        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
-      },
-      "artists": [
-        {
-          "name": "AqME",
-          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Tant d'ann\u00e9es",
-      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Your Great Deception",
         "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
+        "name": "AqME",
+        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
+      },
+      "artists": [
+        {
+          "name": "AqME",
+          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Tant d'ann\u00e9es",
+      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
         "name": "charivari",
         "url": "https://open.spotify.com/album/3V6SbIMpgP3mEeYfL40yJQ"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 216346,
       "name": "playroom",
       "url": "https://open.spotify.com/track/0O57HN2JOSVjxSI0ajb0Bd"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 177040,
       "name": "Pop Pop Pop",
       "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2023-12-14 20:48:38",
@@ -1575,22 +1559,6 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2023-12-14 20:48:38",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB"
       },
@@ -1607,18 +1575,50 @@
     {
       "added_at": "2023-12-14 20:48:38",
       "album": {
-        "name": "Songs/Motion Return",
-        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
       "artists": [
         {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
+    },
+    {
+      "added_at": "2023-12-14 20:48:38",
+      "album": {
+        "name": "The Future Is the End",
+        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Strike a Match",
+      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
     }
   ],
   "unique_name": "French Noise",

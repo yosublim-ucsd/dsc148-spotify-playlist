@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Azmari
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,280 likes - 79 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,283 likes - 79 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 78 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
 | 79 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCxiYjI3ZTY1ZTFhNDIyNjkxY2Y1MDE1OTQ2MmQ4NDRjNGQyMDk3ODAz`
+Snapshot ID: `MCw4NzdkY2FlYTI4YTkzOWYxZGZkNzYyNTc1NjJlMjk4NDIzZDM4NmQ3`

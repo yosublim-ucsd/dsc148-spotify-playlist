@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,337 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,363 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,23 +42,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 32 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
 | 33 | [Too Young Cha Cha](https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS) | [Enoch Light And His Orchestra](https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc) | [Vintage Dance Orchestras No\. 304 \- EP: Provocative Cha Cha Cha](https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM) | 2:41 |
 | 34 | [Glow Worm Cha Cha Cha \- Remastered](https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD) | [Jackie Davis](https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ) | [Ultra\-Lounge: Fuzzy Retail Sampler](https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd) | 2:23 |
-| 35 | [Mareld 2021](https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Mareld 2021](https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj) | 3:02 |
-| 36 | [Uilani / Baby Kalae](https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1) | [Maunalua](https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS) | [Maunalua](https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I) | 5:24 |
+| 35 | [Uilani / Baby Kalae](https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1) | [Maunalua](https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS) | [Maunalua](https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I) | 5:24 |
+| 36 | [Mareld 2021](https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Mareld 2021](https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj) | 3:02 |
 | 37 | [Mombasa Love Song](https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [MGANGA!](https://open.spotify.com/album/421iMthufbbRmsu87uHsOS) | 2:40 |
 | 38 | [Hawaiian War Chant](https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Quiet Village](https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74) | 2:18 |
 | 39 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
 | 40 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
-| 41 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
-| 42 | [Blue Hawaii](https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 2:18 |
-| 43 | [Colors of Hawaiki](https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Call of the Islands](https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70) | 3:04 |
+| 41 | [Colors of Hawaiki](https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Call of the Islands](https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70) | 3:04 |
+| 42 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
+| 43 | [Blue Hawaii](https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 2:18 |
 | 44 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 45 | [Aquellos Ojos Verdes](https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu) | [Al Romero And His Orchestra](https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0) | [Vintage Jazz Nº 32 \- EPs Collectors "Aquellos Ojos Verdes"](https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs) | 2:42 |
 | 46 | [Deep Night/Softly As In A Morning Sunrise \- Medley](https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5) | [Terry Snyder](https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc) | [Ultra\-Lounge: Bongoland](https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO) | 5:41 |
 | 47 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
 | 48 | [Mini Skirt](https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:29 |
 | 49 | [Head Hunter](https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1) | [Don Ralke](https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3) | [The Savage And The Sensuous Bongos](https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8) | 3:03 |
-| 50 | [Shells \- Live from Hawaii](https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [The Don Ho Show! \(Live\)](https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4) | 4:04 |
-| 51 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |
+| 50 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |
+| 51 | [Shells \- Live from Hawaii](https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [The Don Ho Show! \(Live\)](https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4) | 4:04 |
 | 52 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
 | 53 | [Lamento Borincano](https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Esquivel! 1968](https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv) | 3:37 |
 | 54 | [Jivaro](https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Legend Of The Jivaro](https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7) | 2:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCw2NWI0Zjg0ZjZkMWM3MTUzMTY2ZDAyYjQ2ZTljYTgzYzgzYjg5NDA2`
+Snapshot ID: `MCxhNzA0OTU3YzBlNWYxNjE3Njg3NjIxNDVlOGMxNGI1MGM5OGMzMGQ4`

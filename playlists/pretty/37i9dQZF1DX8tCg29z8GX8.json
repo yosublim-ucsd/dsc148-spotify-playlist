@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 13075,
+  "num_followers": 13090,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTQ1MDc3Mjg1NjAzMWQ3YTdlNDVhMzEwMmY3NWIwOTUyNGQ4MzRl",
+  "snapshot_id": "MCwyZDAxMGE0Y2FhYWNhOWU3ZWE4ZjExM2RjZjY2NGI1YWNiZDdjYmI2",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -159,26 +159,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+        "name": "EZIOKWU (UNCUT)",
+        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+      "duration_ms": 171089,
+      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -215,22 +211,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "EZIOKWU (UNCUT)",
-        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 171089,
-      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Denge II",
         "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 158771,
       "name": "Denge II",
       "url": "https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 229345,
+      "name": "Non Living Thing (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "I Feel Nice",
         "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 229345,
-      "name": "Non Living Thing (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
     },
     {
       "added_at": "2023-12-22 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,723 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,865 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 53 | [I'm so sick](https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:19 |
 | 54 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:19 |
 | 55 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 |
-| 56 | [Blueprint](https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 4:11 |
-| 57 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
+| 56 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
+| 57 | [Blueprint](https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 4:11 |
 | 58 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
 | 59 | [Lullaby](https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:37 |
 | 60 | [Why](https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:27 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 67 | [LALALAY](https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [LALALAY](https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5) | 2:54 |
 | 68 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
 | 69 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
-| 70 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
-| 71 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
+| 70 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
+| 71 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
 | 72 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 |
 | 73 | [COME TO ME](https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:24 |
 | 74 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 |
 | 100 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 |
 
-Snapshot ID: `MCw0NDAyNTNmMGQ2MmM1OThmNWQ3NDAyNDI0NDdlMGRkZmQ4NTFjMmMy`
+Snapshot ID: `MCxlNmI4ZGFhYzU0MzA3MDZhZDVjMWYyOTNlZjM1YTQzZDE0Njg2M2Yw`

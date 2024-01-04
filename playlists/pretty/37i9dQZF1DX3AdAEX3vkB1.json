@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 234950,
+  "num_followers": 235160,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzMyMGFhMWE3YjRmMWNlYzk3MjUyMDBjOTAyNDYzOTZmNmVmY2Ey",
+  "snapshot_id": "MCw1OTk0NThhOTA4NmRiMmFjNzgwNmY2YTZhYjFlZDAyMDA2YmQ0ZTM2",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Baby Now That I've Found You",
         "url": "https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 180133,
       "name": "Build Me Up Buttercup (Mono)",
       "url": "https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Stay Awhile / I Only Want To Be With You",
@@ -1003,6 +987,22 @@
       "duration_ms": 158200,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+    },
+    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Knock On Wood",
@@ -1133,20 +1149,36 @@
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 171506,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Breaking Up Is Hard to Do",
-      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "It's Our Thing",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hang On Sloopy: The Best Of The McCoys",
-        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
-      },
-      "artists": [
-        {
-          "name": "The McCoys",
-          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Hang On Sloopy",
-      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Mony Mony",
         "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 174133,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hang On Sloopy: The Best Of The McCoys",
+        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
+      },
+      "artists": [
+        {
+          "name": "The McCoys",
+          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Hang On Sloopy",
+      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Chubby Checker 1959-1963",
-        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Chubby Checker 1959-1963",
+        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Complete Imperial Singles",
         "url": "https://open.spotify.com/album/6iaRjczTCIO23qM07qxMXs"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 142117,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/0Zkuewgtp8XbeJ5xInG4p8"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2"
     },
     {
       "added_at": "2022-06-16 22:02:00",

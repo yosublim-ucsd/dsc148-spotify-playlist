@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,132 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,142 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 10 | [One Number Away \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 3:44 |
 | 11 | [Not Over You \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 3:35 |
 | 12 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
-| 13 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
+| 13 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 | 14 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 |
 | 15 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/0aioEeNyDjBwl7yb0xH0Rg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 2:36 |
-| 16 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
+| 16 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 17 | [House Fire \(feat\. The Travelin' McCourys\)](https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:34 |
 | 18 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 |
 | 19 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 70 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MCw4YjM0ZGRmZWNkOTY2NWJkOWNlZjgwODA4OWQxNmY1NzMwMjY3MjM1`
+Snapshot ID: `MCxhNzVlMDI3NWM4MjczZjQ5OTY1ZWM5OWFiZjA0NzZmMTc3MjA1ZDA4`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 16, 17 y 18 de Febrero en Las Estacas para celebrar juntos! Compra tus entradas <a href=\"https://bahidora.com//\"> aqu\u00ed</a>. ",
-  "num_followers": 12448,
+  "num_followers": 12451,
   "original_name": "Bahidor\u00e1 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDI1YzU0NDQ3MGM1Zjc4OTRjOTk3N2VkNzg1OWYzMDU1Y2NiNzQ1",
+  "snapshot_id": "MCxjZWUzMDYwN2U3MWM0ZTExYjdmODI5ZGIwOGRhYjZjOTAxNTVlMWU3",
   "tracks": [
     {
       "added_at": "2023-11-01 04:13:15",
@@ -220,7 +220,7 @@
       "added_at": "2023-11-01 04:13:15",
       "album": {
         "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
@@ -228,17 +228,21 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 215412,
-      "name": "si preguntas por mi",
-      "url": "https://open.spotify.com/track/7z3rdMzhY122waIpkSsE7P"
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
     },
     {
       "added_at": "2023-11-01 04:13:15",
@@ -424,21 +428,17 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
         },
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 185806,
-      "name": "VOLVER",
-      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+      "duration_ms": 215412,
+      "name": "si preguntas por mi",
+      "url": "https://open.spotify.com/track/5Uoni5ULnC7Aq69DsRR10G"
     },
     {
       "added_at": "2023-11-01 04:13:15",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-01 04:13:15",
       "album": {
+        "name": "El Derroche",
+        "url": "https://open.spotify.com/album/5AVAJEQBc2EwhrEh5KoQrY"
+      },
+      "artists": [
+        {
+          "name": "Felipe Orjuela",
+          "url": "https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs"
+        }
+      ],
+      "duration_ms": 287372,
+      "name": "Equis de Siete (Mala Cara)",
+      "url": "https://open.spotify.com/track/0aYHSQXZuSAIitVA0TwIy1"
+    },
+    {
+      "added_at": "2023-11-01 04:13:15",
+      "album": {
         "name": "The Best!",
         "url": "https://open.spotify.com/album/1wDqXn3xaevYmKx4ER5P4H"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 477737,
       "name": "On Your Way",
       "url": "https://open.spotify.com/track/1Txy239Azz9buzEQ9034kF"
-    },
-    {
-      "added_at": "2023-11-01 04:13:15",
-      "album": {
-        "name": "El Derroche",
-        "url": "https://open.spotify.com/album/5AVAJEQBc2EwhrEh5KoQrY"
-      },
-      "artists": [
-        {
-          "name": "Felipe Orjuela",
-          "url": "https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs"
-        }
-      ],
-      "duration_ms": 287372,
-      "name": "Equis de Siete (Mala Cara)",
-      "url": "https://open.spotify.com/track/0aYHSQXZuSAIitVA0TwIy1"
     },
     {
       "added_at": "2023-11-01 04:13:15",

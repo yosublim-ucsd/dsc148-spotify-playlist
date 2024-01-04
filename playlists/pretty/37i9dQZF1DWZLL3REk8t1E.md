@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,961 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,017 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 39 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 | 40 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
 | 41 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
-| 42 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
-| 43 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 42 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 43 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
 | 44 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
 | 45 | [Fuiste Mía](https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:11 |
 | 46 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 91 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
 | 92 | [Te Ofrezco Un Corazón](https://open.spotify.com/track/0Y7t0yxq86MFEWQ1rTTN89) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:29 |
 | 93 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
-| 94 | [¿Y Todo Para Qué?](https://open.spotify.com/track/7EdSK9nLBY2RgbJ7g22s4z) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Lo Mejor De Intocable \- 12 Super Exitos](https://open.spotify.com/album/5oY5W4w4IC0vOD4jo7gahE) | 3:10 |
-| 95 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:46 |
-| 96 | [Adiós Amor](https://open.spotify.com/track/3OQXAp3uGQvkPi4DAMaM5p) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Adiós Amor](https://open.spotify.com/album/2aiJgzv5olyXxIErbwY5lt) | 3:22 |
+| 94 | [Ahí Donde Me Ven](https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:04 |
+| 95 | [¿Y Todo Para Qué?](https://open.spotify.com/track/7EdSK9nLBY2RgbJ7g22s4z) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Lo Mejor De Intocable \- 12 Super Exitos](https://open.spotify.com/album/5oY5W4w4IC0vOD4jo7gahE) | 3:10 |
+| 96 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:46 |
 | 97 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
-| 98 | [Ahí Donde Me Ven](https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:04 |
+| 98 | [Adiós Amor](https://open.spotify.com/track/3OQXAp3uGQvkPi4DAMaM5p) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Adiós Amor](https://open.spotify.com/album/2aiJgzv5olyXxIErbwY5lt) | 3:22 |
 | 99 | [La Mesa Del Rincón](https://open.spotify.com/track/5ogkMWqY3zIPdR0KXngrfq) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Las Grandes Norteñas De Los Idolos Del Pueblo](https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL) | 3:24 |
 | 100 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 
-Snapshot ID: `MCwzZGI0ODhhYWYzYTgyMTI2MzI1OGU1NzBhZGYwYWNhMjYxYTIxOTEw`
+Snapshot ID: `MCxkY2FmYmU2ZDhjYmIxZjU0NDY2OTkyMDIxYzRlMTE4ZTg2ZDNiMGEx`

@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 716635,
+  "num_followers": 716711,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGRkZGE5OGVkMzJkZjVhZmZjZTY3MDNmZjA4ODc0NjI2OTEwYmRk",
+  "snapshot_id": "MCxlOTYyMWZkZGM4MGI4ZGZjZTEwMDk2ZjlhNjBjNmM1YzgwMGUzZmVk",
   "tracks": [
     {
       "added_at": "2023-10-06 22:33:17",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 237386,
       "name": "Mi primer millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1639,6 +1639,38 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1675,38 +1707,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Historia De Un Idolo Vol.II",
         "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 154226,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267613,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
     },
     {
       "added_at": "2023-10-06 22:33:17",

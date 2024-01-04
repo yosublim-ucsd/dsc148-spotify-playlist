@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,621 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,550 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 49 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
 | 50 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
 | 51 | [Last Christmas \- Techno Remix](https://open.spotify.com/track/0BnZyRDwbkEKyIZKuwoK1r) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1) | [Last Christmas \(Techno Remix\)](https://open.spotify.com/album/72Zzvgn7JbEeUquIXEUwe3) | 2:27 |
-| 52 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
-| 53 | [Christmas Days](https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Christmas Days](https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo) | 3:16 |
-| 54 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
-| 55 | [Last Christmas](https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [ChipTune](https://open.spotify.com/artist/70GKv0GShE7KGqElJe9gxy) | [Last Christmas](https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku) | 2:28 |
+| 52 | [Last Christmas](https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [ChipTune](https://open.spotify.com/artist/70GKv0GShE7KGqElJe9gxy) | [Last Christmas](https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku) | 2:28 |
+| 53 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
+| 54 | [Christmas Days](https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Christmas Days](https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo) | 3:16 |
+| 55 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 56 | [Christmas Trees](https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:13 |
 | 57 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 | 58 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 59 | [Christmas Rave](https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Christmas Rave](https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67) | 2:25 |
 | 60 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 |
 
-Snapshot ID: `MCxlZGFlYjE1ZDMyZmRkNDE0YTY4ODQ0M2ZiMGZlZmIxMjVhYmQwMmY2`
+Snapshot ID: `MCxlZDRlNDI0YmEwODYzNGEzMzExNzVlN2EzYzA4NTM0M2YyZTE0NDFj`

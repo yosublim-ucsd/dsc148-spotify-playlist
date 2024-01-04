@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: ZAZEN BOYS
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,497 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,556 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 72 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
 | 73 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
 | 74 | [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
-| 75 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
+| 75 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
 | 76 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 77 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
 | 78 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 |
-| 79 | [The Gong of Knockout](https://open.spotify.com/track/7eITsVSfN8kKAxT35hoKF2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [HYPERTOUGHNESS](https://open.spotify.com/album/1521QnIsozCLhE19hCwp5M) | 3:30 |
-| 80 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
+| 79 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
+| 80 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
 
-Snapshot ID: `MCwxNWViZmJiMDdhNzE4ZmQ2ZDJmNmMyZjYxMjUyYzIzMzEyNWMyNzQ5`
+Snapshot ID: `MCxjYzUwMDdhOGM3YzcxZjRmYmMyMDAwYTdmOTUxOWQ4YWRiMTFjOWJj`

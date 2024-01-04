@@ -1,12 +1,12 @@
 {
   "description": "Si la rompe est\u00e1 ac\u00e1. Foto: Luck Ra.",
-  "num_followers": 3305295,
+  "num_followers": 3306565,
   "original_name": "\u00c9xitos Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGUzZGQzNmQ1NzkyMTk2MzcyNWY4NzU1MDhlZjQwYTlkZDRkYTBl",
+  "snapshot_id": "MCxlMDBiODVmY2RjY2RiNmViMjVhZGVjYjJkOWViMThlN2E1ZjA4ODdh",
   "tracks": [
     {
       "added_at": "2023-12-21 03:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
       },
@@ -83,18 +99,22 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+        "name": "Besos con Fernet",
+        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+      "duration_ms": 147375,
+      "name": "Besos con Fernet",
+      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -115,62 +135,6 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "UNA BALA",
-      "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "CALL ME MAYBE",
-        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 222401,
-      "name": "CALL ME MAYBE",
-      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "Besos con Fernet",
-        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 147375,
-      "name": "Besos con Fernet",
-      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -219,122 +183,6 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "Le Gustan lo' Flaites",
-        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
-      },
-      "artists": [
-        {
-          "name": "El Joan",
-          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
-        },
-        {
-          "name": "Celso El Potente",
-          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
-        }
-      ],
-      "duration_ms": 183328,
-      "name": "Le Gustan lo' Flaites",
-      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "DIME SI ERES FELIZ VOL.2",
-        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "DIME SI ERES FELIZ VOL.2",
-      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 120600,
-      "name": "Exclusive.mp3",
-      "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "TU DUO FAVORITO",
-        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 185241,
-      "name": "FLECHAZO EN EL CENTRO",
-      "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
       },
@@ -351,6 +199,26 @@
       "duration_ms": 171500,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -403,74 +271,42 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "Ni Una Ni Dos",
-        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 158535,
-      "name": "Ni Una Ni Dos",
-      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "GTA.mp3",
-        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "EVERYBODY GO TO THE DISCOTEK",
-        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "Mentiras | CROSSOVER #3",
-        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mentiras | CROSSOVER #3",
-      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -503,58 +339,78 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+        "name": "DIME SI ERES FELIZ VOL.2",
+        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 181043,
-      "name": "IConic.mp3",
-      "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
+      "duration_ms": 171667,
+      "name": "DIME SI ERES FELIZ VOL.2",
+      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
     },
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+        "name": "Ni Una Ni Dos",
+        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+      "duration_ms": 158535,
+      "name": "Ni Una Ni Dos",
+      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
     },
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+        "name": "Mentiras | CROSSOVER #3",
+        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 256596,
-      "name": "ALUMBRE",
-      "url": "https://open.spotify.com/track/2hdpglljEzt98X6zJkfW7k"
+      "duration_ms": 168000,
+      "name": "Mentiras | CROSSOVER #3",
+      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -587,6 +443,62 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
+        "name": "GTA.mp3",
+        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 120600,
+      "name": "Exclusive.mp3",
+      "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 185241,
+      "name": "FLECHAZO EN EL CENTRO",
+      "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh"
       },
@@ -603,6 +515,62 @@
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "CALL ME MAYBE",
+        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 222401,
+      "name": "CALL ME MAYBE",
+      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "Salgo a Bailar",
+        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157830,
+      "name": "Salgo a Bailar",
+      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -631,118 +599,34 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+      "duration_ms": 199946,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
     },
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
       "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "Salgo a Bailar",
-        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 157830,
-      "name": "Salgo a Bailar",
-      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "L\u00e1grimas | CROSSOVER #4",
-        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "L\u00e1grimas | CROSSOVER #4",
-      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "en dormir sin Madrid",
-        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
-      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "TRANKY FUNKY",
-        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 158325,
-      "name": "TRANKY FUNKY",
-      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
+      "duration_ms": 181043,
+      "name": "IConic.mp3",
+      "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -771,6 +655,26 @@
       "duration_ms": 204480,
       "name": "DISCOTEKA (feat. Locura Mix)",
       "url": "https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 183890,
+      "name": "UNA BALA",
+      "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -811,22 +715,42 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "BM | Mission 18",
-        "url": "https://open.spotify.com/album/16jEh2XoL253AFYGCjzN16"
+        "name": "L\u00e1grimas | CROSSOVER #4",
+        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
           "name": "BM",
           "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 177142,
-      "name": "BM | Mission 18",
-      "url": "https://open.spotify.com/track/2UIiJWTPP2BLPZKHbe4nhP"
+      "duration_ms": 167419,
+      "name": "L\u00e1grimas | CROSSOVER #4",
+      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "TRANKY FUNKY",
+        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 158325,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -851,6 +775,82 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "BM | Mission 18",
+        "url": "https://open.spotify.com/album/16jEh2XoL253AFYGCjzN16"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "BM | Mission 18",
+      "url": "https://open.spotify.com/track/2UIiJWTPP2BLPZKHbe4nhP"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
+      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -899,50 +899,18 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "EL AFTER DEL AFTER",
-        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
       "artists": [
         {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "ONIRIA",
-          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
-        },
-        {
-          "name": "Yesan \u96ea\u5c71",
-          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 168484,
-      "name": "NO DA M\u00c1S",
-      "url": "https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -967,42 +935,6 @@
     {
       "added_at": "2023-12-21 03:00:00",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "PERRO NEGRO",
-      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1019,26 +951,6 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2023-12-21 03:00:00",
-      "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
       "added_at": "2023-12-21 03:00:00",
@@ -1071,6 +983,94 @@
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "EL AFTER DEL AFTER",
+        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "ONIRIA",
+          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
+        },
+        {
+          "name": "Yesan \u96ea\u5c71",
+          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "NO DA M\u00c1S",
+      "url": "https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "PERRO NEGRO",
+      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+    },
+    {
+      "added_at": "2023-12-21 03:00:00",
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 256596,
+      "name": "ALUMBRE",
+      "url": "https://open.spotify.com/track/2hdpglljEzt98X6zJkfW7k"
     }
   ],
   "unique_name": "\u00c9xitos Argentina",

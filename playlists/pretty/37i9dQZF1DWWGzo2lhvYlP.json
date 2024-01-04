@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 536992,
+  "num_followers": 536974,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjA4NjhkMDU4NWE1ZjkzMDM2NjU4ZTQwZjYzOTlkNzUxMjI0YWM5",
+  "snapshot_id": "MCxkODVkYTUwZTYxYTNiMjc5YTE0YTM1MDRhYzY4YzNjMTAzODhhMWM1",
   "tracks": [
     {
       "added_at": "2023-11-21 17:04:42",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 212733,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -2747,18 +2747,22 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "Sweet Goodbye",
-        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+        "name": "Everything But You (feat. A7S)",
+        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 157619,
-      "name": "Sweet Goodbye",
-      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
+      "duration_ms": 198014,
+      "name": "Everything But You (feat. A7S)",
+      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -2779,22 +2783,18 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "Everything But You (feat. A7S)",
-        "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
+        "name": "Sweet Goodbye",
+        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 198014,
-      "name": "Everything But You (feat. A7S)",
-      "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
+      "duration_ms": 157619,
+      "name": "Sweet Goodbye",
+      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl"
       },
@@ -3103,6 +3087,22 @@
       "duration_ms": 218385,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -3319,22 +3319,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "Got Me Good",
-        "url": "https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 165805,
-      "name": "Got Me Good",
-      "url": "https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q"
       },
@@ -3351,6 +3335,22 @@
       "duration_ms": 182586,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "Got Me Good",
+        "url": "https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 165805,
+      "name": "Got Me Good",
+      "url": "https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK"
     },
     {
       "added_at": "2023-11-21 17:04:42",
@@ -3431,22 +3431,6 @@
     {
       "added_at": "2023-11-21 17:04:42",
       "album": {
-        "name": "It'll All Make Sense In The End (Deluxe)",
-        "url": "https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM"
-    },
-    {
-      "added_at": "2023-11-21 17:04:42",
-      "album": {
         "name": "Smoke Signal",
         "url": "https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs"
       },
@@ -3459,6 +3443,22 @@
       "duration_ms": 173808,
       "name": "GORGEOUS",
       "url": "https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh"
+    },
+    {
+      "added_at": "2023-11-21 17:04:42",
+      "album": {
+        "name": "It'll All Make Sense In The End (Deluxe)",
+        "url": "https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM"
     },
     {
       "added_at": "2023-11-21 17:04:42",

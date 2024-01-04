@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 57681,
+  "num_followers": 57750,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzZmYmRhMDlkMGY3NThlYjM0MTdjYWQwMGFjNzY2Nzc0YTVjNTg0",
+  "snapshot_id": "MCw3ODM4NmI4ODJjN2I3NzgwNGNjNzRkOGFkYzQ3Yzc3NjFhZGE3Nzk4",
   "tracks": [
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Bitar",
-          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
-        }
-      ],
-      "duration_ms": 136759,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Ya Samti",
         "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 232166,
       "name": "Ya Samti",
       "url": "https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "duration_ms": 136759,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Na'na' Ya Na'na'",
         "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 255066,
       "name": "Al Rozana",
       "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
     },
     {
       "added_at": "2023-11-11 14:44:03",

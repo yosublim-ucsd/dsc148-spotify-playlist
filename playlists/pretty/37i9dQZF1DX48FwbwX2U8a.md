@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,685 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,705 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 22 | [Burbujas de Amor](https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:10 |
 | 23 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
 | 24 | [Un Buen Perdedor](https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco de Vita](https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb) | 4:00 |
-| 25 | [La Dueña del Swing](https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Dueños del Swing](https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw) | 4:20 |
+| 25 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 26 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
-| 27 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
+| 27 | [La Dueña del Swing](https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Dueños del Swing](https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw) | 4:20 |
 | 28 | [Vivir Lo Nuestro](https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [The Greatest Salsa Ever](https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5) | 6:07 |
 | 29 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 30 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 49 | [La Sirena](https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:45 |
 | 50 | [Lo Mejor Para Los Dos \(Todo de Cabeza\) \- Version Guitarra \- En Vivo](https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH) | [Kaleth Morales En Guitarras](https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y) | 4:11 |
 
-Snapshot ID: `MCxhZWM3MjFhYTZjNTM3Zjg5MDZhNDVjZTUwYzcwMmVlZGJhMjFmODBm`
+Snapshot ID: `MCw5ZjhlMzA2OGY4ODZkMTU3ZTkxYzMxODg2M2Q4ODdiMWEyZmFjOTIx`

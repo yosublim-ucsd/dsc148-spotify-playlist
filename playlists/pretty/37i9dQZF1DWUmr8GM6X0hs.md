@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,139 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,193 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 44 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
 | 45 | [Si Nos Dejan](https://open.spotify.com/track/4pZEUFPChCHLkJJ78hkwvh) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/0Qsqqs8HWEjVSXfoHhlIkp) | 3:02 |
 | 46 | [Señor Abogado](https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 1:53 |
-| 47 | [Ese Hombre](https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 4:26 |
-| 48 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
+| 47 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
+| 48 | [Ese Hombre](https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 4:26 |
 | 49 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
 | 50 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
 | 51 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 52 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
 | 53 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
-| 54 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
-| 55 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 |
-| 56 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
+| 54 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
+| 55 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
+| 56 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 |
 | 57 | [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 |
-| 58 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
-| 59 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
+| 58 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
+| 59 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
 | 60 | [Diablo](https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd) | [Tito Cortes](https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa) | [Romántica](https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp) | 2:48 |
 
-Snapshot ID: `MCw4MDg2YjY0NjdhZTk0YjZmZTgzZDM1MWVlN2Y2MjMyZWE0MGFjMjYx`
+Snapshot ID: `MCwxMDVmZGEzNDU5OTc1Yzk3YmE5NWY0N2ZmM2E5ZWQ4NTNlMjU0ZmI5`

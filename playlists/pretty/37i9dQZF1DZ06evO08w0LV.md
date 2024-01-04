@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 
 > This is Måneskin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,886 likes - 36 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,890 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 14 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 | 15 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 |
 | 16 | [OWN MY MIND](https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:11 |
-| 17 | [Morirò da Re](https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:37 |
+| 17 | [L'altra dimensione](https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:06 |
 | 18 | [TRASTEVERE](https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:02 |
 | 19 | [Somebody Told Me](https://open.spotify.com/track/4AIatGjGyVipeEAzCMTqOg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:41 |
 | 20 | [READ YOUR DIARY](https://open.spotify.com/track/16HsEMkim07LboMyhR81eu) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:30 |
-| 21 | [L'altra dimensione](https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:06 |
+| 21 | [Morirò da Re](https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:37 |
 | 22 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 |
 | 23 | [Let's Get It Started](https://open.spotify.com/track/6D2tOVX5MMl8jNVkwsFaWg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:26 |
 | 24 | [FEEL](https://open.spotify.com/track/6pUcoYKUZzgBNokZ3IYCfA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:47 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 35 | [Recovery](https://open.spotify.com/track/01GZjSSjSSpvTnDNdR8r3Y) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:55 |
 | 36 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 
-Snapshot ID: `Mjg0MDMyOTYsMDAwMDAwMDBlNTQ3ZjFhMjg3NzY0ZmFjZDc4MmVjYjM0ZjcyNzgzYQ==`
+Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA5YmM5ODZjMmJjNjRiYTRjZWNjYTAwMDJmNGY5MDA1OQ==`

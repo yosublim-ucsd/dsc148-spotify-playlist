@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,089 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,179 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 56 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
 | 57 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 |
 | 58 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 |
-| 59 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
-| 60 | [Over & Over](https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:29 |
+| 59 | [Over & Over](https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:29 |
+| 60 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
 | 61 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
 | 62 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 |
 | 63 | [daphne did it](https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [daphne did it / the depths](https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M) | 3:22 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 65 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 66 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 |
 | 67 | [The Rush](https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n) | 3:07 |
-| 68 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 |
-| 69 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
-| 70 | [Wolf](https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 6:56 |
-| 71 | [Shakin' Off The Rust](https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2) | 3:42 |
+| 68 | [Shakin' Off The Rust](https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2) | 3:42 |
+| 69 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 |
+| 70 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
+| 71 | [Wolf](https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 6:56 |
 | 72 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
-| 73 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
+| 73 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 |
 | 74 | [Dark Nights](https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:09 |
-| 75 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 |
+| 75 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
 | 76 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 77 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
 | 78 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 80 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 |
 | 81 | [Entrance Song](https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ) | 3:38 |
 | 82 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
-| 83 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 |
-| 84 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
+| 83 | [Vertigo](https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:06 |
+| 84 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 |
 | 85 | [Love Is All You Love](https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O) | 3:22 |
 | 86 | [The Woods](https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK), [Brad Wilk](https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o) | [The Woods](https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn) | 2:53 |
 | 87 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 |
 | 100 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
 
-Snapshot ID: `MCw5ZTQ3ZGU1MTA5YzgyMjdiZGM5NmRjMGZmOTNmZDIwODM2NGRlZTU2`
+Snapshot ID: `MCw0OWUyNjYwNjg0ZDA1ZmVmZjMxYmVkMTQ1YTFmMjI1NDc2M2RkMzI1`

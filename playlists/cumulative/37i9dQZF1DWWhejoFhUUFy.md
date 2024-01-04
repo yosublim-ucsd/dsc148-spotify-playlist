@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-120 songs - 7 hr 11 min
+121 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,13 +42,14 @@
 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:49 | 2023-08-17 |  |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2023-04-17 | 2023-11-10 |
 | [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 | 2023-04-17 | 2023-08-18 |
+| [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2024-01-03 |  |
 | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 | 2023-04-17 |  |
 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 | 2023-08-17 |  |
 | [Iktara \(From "Wake Up Sid"\)](https://open.spotify.com/track/0bmp0lE3ArELHqda9PBMVG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [I Love You...Forever](https://open.spotify.com/album/3v8bVKuoU4pdMhMx0hStRN) | 4:13 | 2023-04-17 |  |
 | [In Your Eyes Only](https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [In Your Eyes Only](https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ) | 3:09 | 2023-09-26 | 2023-10-17 |
 | [Is This Love](https://open.spotify.com/track/0GVPRo9LEjxjT4C4o8BGot) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kismat Konnection \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N) | 5:29 | 2023-08-17 |  |
 | [Itni Si Baat Hain](https://open.spotify.com/track/3P167vmmGRGKHoy7uDugvy) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Azhar](https://open.spotify.com/album/0V1JQaeLB033XjgS7JqNbP) | 4:54 | 2023-08-17 | 2023-10-17 |
-| [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-04-17 |  |
+| [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-04-17 | 2024-01-04 |
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-16 |  |
 | [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-16 | 2023-12-21 |
 | [Jab Tak](https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 2:54 | 2023-04-17 |  |

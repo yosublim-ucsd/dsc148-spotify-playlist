@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 41925,
+  "num_followers": 41936,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjU0Y2E4ZWM4MTA3MGZiMGI0YmRlYzhiMWE5MmMyYTM0ZGVlODVk",
+  "snapshot_id": "MCxhOTk5MzVhMmYyNjk2Y2VjNzBjMDNmODM1Y2Y1NzY4NDM3NjNiNDhk",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Los Charapas de Oro",
-        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 221393,
-      "name": "La Danza del Petrolero",
-      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Los Charapas de Oro",
+        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 221393,
+      "name": "La Danza del Petrolero",
+      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
       "added_at": "2023-03-23 22:10:50",
       "album": {
         "name": "Agujas en el pecho",
@@ -771,6 +755,22 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cuatro Tigres",
+        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "La Danza de los Simpsons",
+      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
       "added_at": "2023-03-28 05:33:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Desesperanza",
-        "url": "https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
-      "url": "https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Coraz\u00f3n Amaz\u00f3nico",
         "url": "https://open.spotify.com/album/3ori0IxuTDxzwk9tkKmh4A"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 199680,
       "name": "Un Traguito de Ayahuasca",
       "url": "https://open.spotify.com/track/4trma9OFFdZn6Er56CiVfN"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
+      "url": "https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 271613,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/5S1bAi1KLbF0Cho7cB6G2Y"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 271613,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/5S1bAi1KLbF0Cho7cB6G2Y"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Legado: Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
-      },
-      "artists": [
-        {
-          "name": "Juaneco Y Su Combo",
-          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
-        }
-      ],
-      "duration_ms": 156366,
-      "name": "El Pinochito Saltarin",
-      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
-    },
-    {
       "added_at": "2022-06-22 16:48:57",
       "album": {
         "name": "Historias de amor y otras mierdas",
@@ -1123,6 +1107,22 @@
       "duration_ms": 179029,
       "name": "\u00c1ngeles y Demonios",
       "url": "https://open.spotify.com/track/2Yr9mWZoQDSjINYpEsoXgA"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Legado: Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW"
+      },
+      "artists": [
+        {
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        }
+      ],
+      "duration_ms": 156366,
+      "name": "El Pinochito Saltarin",
+      "url": "https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Bailazo",
-        "url": "https://open.spotify.com/album/190UZl9plvUecfZplaAhRs"
-      },
-      "artists": [
-        {
-          "name": "Rolando Bruno",
-          "url": "https://open.spotify.com/artist/6lxsLBQooRKATCql5xjXfP"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Thai Cumbia",
-      "url": "https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY"
-    },
-    {
       "added_at": "2023-03-31 17:32:57",
       "album": {
         "name": "Kristina",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+        "name": "Bailazo",
+        "url": "https://open.spotify.com/album/190UZl9plvUecfZplaAhRs"
       },
       "artists": [
         {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+          "name": "Rolando Bruno",
+          "url": "https://open.spotify.com/artist/6lxsLBQooRKATCql5xjXfP"
         }
       ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
+      "duration_ms": 225546,
+      "name": "Thai Cumbia",
+      "url": "https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY"
     },
     {
       "added_at": "2022-11-18 17:45:57",
@@ -1395,6 +1379,22 @@
       "duration_ms": 173148,
       "name": "Chichala",
       "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
-        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
-      },
-      "artists": [
-        {
-          "name": "Minyo Crusaders",
-          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
-        }
-      ],
-      "duration_ms": 304173,
-      "name": "Kushimoto Bushi - Cumbia",
-      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
-    },
-    {
       "added_at": "2023-05-25 19:15:17",
       "album": {
         "name": "Luna Villera",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
+        "url": "https://open.spotify.com/album/31P3YJyfhO17lDcfVXWCZm"
+      },
+      "artists": [
+        {
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+        }
+      ],
+      "duration_ms": 304173,
+      "name": "Kushimoto Bushi - Cumbia",
+      "url": "https://open.spotify.com/track/1pKIAVQB87sNjHtC4oLexv"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Desesperanza",
         "url": "https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 411040,
       "name": "Guaracha U.F.O (No Estamos Solos...)",
       "url": "https://open.spotify.com/track/5A8XYp8wXZD5Y3gQlZp81h"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Echo en Mexico",
-        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
-      },
-      "artists": [
-        {
-          "name": "Money Chicha",
-          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
-        }
-      ],
-      "duration_ms": 302602,
-      "name": "Lamento en la Selva",
-      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
       "added_at": "2022-02-25 04:26:16",
@@ -1543,6 +1527,22 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Echo en Mexico",
+        "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
+      },
+      "artists": [
+        {
+          "name": "Money Chicha",
+          "url": "https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE"
+        }
+      ],
+      "duration_ms": 302602,
+      "name": "Lamento en la Selva",
+      "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
-      },
-      "artists": [
-        {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
-        }
-      ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 206430,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1673,24 +1673,20 @@
       "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
     },
     {
-      "added_at": "2023-02-14 03:09:22",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbia Espectro",
-        "url": "https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv"
+        "name": "Cumbia siglo XXI",
+        "url": "https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp"
       },
       "artists": [
         {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Cumbia Espectro",
-      "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI"
     }
   ],
   "unique_name": "TROPILOCO",

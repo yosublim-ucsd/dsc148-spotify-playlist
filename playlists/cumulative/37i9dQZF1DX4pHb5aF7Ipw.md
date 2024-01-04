@@ -2,13 +2,14 @@
 
 ### [Burrh Rap](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Rap\. Cover:  Channi Nattan, Inderpal Moga
+> Fresh Punjabi Rap\. Cover:  Sikander Kahlon
 
-83 songs - 4 hr 4 min
+84 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2022 FLOW](https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2022 FLOW](https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im) | 3:51 | 2023-03-18 | 2023-08-01 |
+| [2024 FLOW](https://open.spotify.com/track/3LXSXyvucHKJehG54nq0hx) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2024 FLOW](https://open.spotify.com/album/0iLCdv2DbH7yCWDCpd9YHZ) | 5:32 | 2024-01-03 |  |
 | [24K](https://open.spotify.com/track/6xY43nXOaQezJsdE88019U) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:14 | 2023-07-27 |  |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-03-18 |  |
 | [94 Flow](https://open.spotify.com/track/7nfLjhLhQJHiauslrpXgnr) | [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [94 Flow](https://open.spotify.com/album/3wLyMJcP3IKdOJCm3C97n5) | 2:36 | 2023-03-18 |  |
@@ -18,7 +19,7 @@
 | [Akaal](https://open.spotify.com/track/0llzWsqUifJ2B2UtP9ST0o) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Akaal](https://open.spotify.com/album/6Xe0PVNMmjZVl4ofQNy9xd) | 2:28 | 2023-03-18 | 2023-10-12 |
 | [ALL ABOUT ME](https://open.spotify.com/track/2ZW4EoAqKdxhPQBcnXQUyQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:28 | 2023-07-31 |  |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2023-03-18 |  |
-| [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 |  |
+| [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-04 |
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-07 |
 | [Bar 4 Bar Champ 2023](https://open.spotify.com/track/1P2Un5t2ybxh43Wz5eSuF6) | [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Bar 4 Bar Champ 2023](https://open.spotify.com/album/3aV2FnHhTFdvZATdsnHZwX) | 3:38 | 2023-03-18 | 2023-12-07 |
 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 | 2023-03-18 | 2023-04-27 |

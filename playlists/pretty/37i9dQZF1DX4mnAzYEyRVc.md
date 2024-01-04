@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,452 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,486 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 78 | [Skalari Rude Klub \(SRK\)](https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [En la Kalle](https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P) | 3:37 |
 | 79 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 80 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
-| 81 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
+| 81 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
 | 82 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 |
-| 83 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
+| 83 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
 | 84 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
 | 85 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
 | 86 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 91 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 92 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
 | 93 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
-| 94 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
-| 95 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 |
+| 94 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 |
+| 95 | [Get Me Ready](https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Get Me Ready](https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB) | 2:49 |
 | 96 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 97 | [Sometimes](https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF) | [Oxo86](https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5), [Ole \- Brutal Bravo](https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx) | [...and the usual suspects](https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ) | 3:59 |
 | 98 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 | 99 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
 | 100 | [Gotta Keep It Going](https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j) | [The Gramophone Allstars](https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN), [Rodrigo Laviña](https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5) | [Gotta Keep It Going](https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX) | 3:45 |
 
-Snapshot ID: `MCxiNDViZWEwYTUzZmYxYmNlNGI5ZmYwMTA2ZDI2NjIzN2NmOWVmMjE4`
+Snapshot ID: `MCxmYzI2MDg5OGE3NWE2MmFiOTlkNTM1OGI0OTMxOTQxZDFhMTk2YTZk`

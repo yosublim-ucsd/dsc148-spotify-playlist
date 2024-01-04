@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,471 likes - 51 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,891,745 likes - 51 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 21 | [Battery](https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:12 |
 | 22 | [Die, Die My Darling](https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 2:26 |
 | 23 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 |
-| 24 | [Don't Tread On Me](https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 4:00 |
-| 25 | [Mama Said](https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:19 |
+| 24 | [Mama Said](https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:19 |
+| 25 | [Don't Tread On Me](https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 4:00 |
 | 26 | [72 Seasons](https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 7:39 |
-| 27 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
-| 28 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
-| 29 | [Hero Of The Day](https://open.spotify.com/track/0rDPQzWWmLTv9deHn4ulG7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:21 |
+| 27 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
+| 28 | [Hero Of The Day](https://open.spotify.com/track/0rDPQzWWmLTv9deHn4ulG7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:21 |
+| 29 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
 | 30 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |
 | 31 | [Whiplash \- Remastered](https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:08 |
 | 32 | [Blackened](https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:40 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 50 | [The Thing That Should Not Be](https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:36 |
 | 51 | [Jump In The Fire \- Remastered](https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:41 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDA5OTYwNWZjMDc4ZjJmOTJjZjYwZDI1ZDY2OWMyMmM0ZA==`
+Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBjY2Y4YjlmMWE3YTZiN2Y3ZDI5NmY1NjBmNjlkM2U2Nw==`
