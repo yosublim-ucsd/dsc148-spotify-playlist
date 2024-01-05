@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: <a href="https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w"> Phyno </a> and <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse\-kNLysa6h1Q"> Burna Boy</a>
 
-333 songs - 15 hr 53 min
+334 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 | 2023-04-28 |
 | [IRE](https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6) | [D Bliss](https://open.spotify.com/artist/3gQm1VLHWfgsxdCybVW3LA), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [IRE](https://open.spotify.com/album/1vrNczRrwYB6WVCNHpR7DY) | 3:21 | 2023-03-30 | 2023-04-15 |
 | [JAIYE EVERYDAY](https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [JAIYE EVERYDAY](https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09) | 3:01 | 2023-08-03 | 2023-09-29 |
+| [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 | 2024-01-05 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 |  |
 | [Joy](https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Joy](https://open.spotify.com/album/66o0wqPyjdeExQieFnNBK4) | 2:45 | 2023-12-01 |  |
 | [Keep it Kewt](https://open.spotify.com/track/7cNck7tTqRj8X1JEXEw9no) | [D\-Truce](https://open.spotify.com/artist/0hbjT5EweZ9GzgLl41IJM1) | [Smoke Break](https://open.spotify.com/album/2Q8lB4AzyFrrkg243kfkHn) | 1:46 | 2022-11-15 | 2022-11-25 |
@@ -226,7 +227,7 @@
 | [Owa](https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Owa](https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0) | 2:53 | 2023-02-24 | 2023-06-17 |
 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 | 2023-11-24 |  |
 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 | 2023-05-12 |  |
-| [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 | 2023-02-16 |  |
+| [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 | 2023-02-16 | 2024-01-05 |
 | [Pattern Gang \(feat\. Smada\)](https://open.spotify.com/track/0GW4OIKAGftHpBU7q85JHL) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Pattern Gang \(feat\. Smada\)](https://open.spotify.com/album/213CqMDl9DGW41okxo8lZn) | 2:16 | 2023-08-31 | 2023-09-29 |
 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 | 2023-12-08 |  |
 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 | 2022-09-01 | 2023-02-24 |

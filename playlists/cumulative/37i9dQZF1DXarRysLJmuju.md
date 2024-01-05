@@ -2,7 +2,7 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> The latest pop hits in one playlist\. Cover: Stephen Sanchez
+> The latest pop hits in one playlist\. Cover: Lewis Capaldi
 
 1,257 songs - 2 day 15 hr 46 min
 

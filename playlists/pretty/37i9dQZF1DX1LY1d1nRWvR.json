@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33143,
+  "num_followers": 33148,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
+  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -383,6 +383,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Trips #2: Vietnam",
+        "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        },
+        {
+          "name": "B\u00e8o D\u1ea1t M\u00e2y Tr\u00f4i",
+          "url": "https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM"
+        },
+        {
+          "name": "HCMC Students",
+          "url": "https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK"
+        }
+      ],
+      "duration_ms": 440341,
+      "name": "Ho Chi Min",
+      "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -419,26 +443,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Trips #2: Vietnam",
-        "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
       "artists": [
         {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
         },
         {
-          "name": "B\u00e8o D\u1ea1t M\u00e2y Tr\u00f4i",
-          "url": "https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM"
-        },
-        {
-          "name": "HCMC Students",
-          "url": "https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK"
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
         }
       ],
-      "duration_ms": 440341,
-      "name": "Ho Chi Min",
-      "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -459,22 +479,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
       },
       "artists": [
         {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+      "duration_ms": 356313,
+      "name": "Mother Theresa",
+      "url": "https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
       },
       "artists": [
         {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
         }
       ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa",
-      "url": "https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a"
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -563,18 +579,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+        "name": "Clockwork Visit",
+        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
       },
       "artists": [
         {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
         }
       ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+      "duration_ms": 224500,
+      "name": "A Place With A View - Edit",
+      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -615,22 +631,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Clockwork Visit",
-        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "A Place With A View - Edit",
-      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Jerusalem EP's",
         "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Moodymann",
         "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
@@ -711,30 +711,6 @@
       "duration_ms": 708706,
       "name": "Sloppy Cosmic",
       "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Tanto Tiempo",
-        "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
-      },
-      "artists": [
-        {
-          "name": "Scrimshire",
-          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
-        },
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        },
-        {
-          "name": "Village Cuts",
-          "url": "https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU"
-        }
-      ],
-      "duration_ms": 295606,
-      "name": "Tanto Tiempo - Village Cuts Remix",
-      "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -759,6 +735,30 @@
       "duration_ms": 239373,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Tanto Tiempo",
+        "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
+      },
+      "artists": [
+        {
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        },
+        {
+          "name": "Village Cuts",
+          "url": "https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU"
+        }
+      ],
+      "duration_ms": 295606,
+      "name": "Tanto Tiempo - Village Cuts Remix",
+      "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
     },
     {
       "added_at": "2021-10-08 17:36:35",

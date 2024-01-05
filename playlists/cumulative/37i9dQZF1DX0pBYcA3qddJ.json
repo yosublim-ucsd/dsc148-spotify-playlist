@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "black water",
+        "url": "https://open.spotify.com/album/3saierJqB0o8qda5fiLtE7"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142872,
+      "name": "black water",
+      "url": "https://open.spotify.com/track/4538ZqQBGCKy36Uus7exSl"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/5HA9AMO3DcZyoC4QHClC6l"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 225866,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/0GdIeCeSZQZCd7BZPVGKSX"
@@ -6305,6 +6323,32 @@
     },
     {
       "album": {
+        "name": "Near (Bryan Senti Remix)",
+        "url": "https://open.spotify.com/album/1rJZxFwlgDQIe3hc2XbSct"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        },
+        {
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402046,
+      "name": "Near - Bryan Senti Remix",
+      "url": "https://open.spotify.com/track/7HiCs8TLZ1BDl1xZx23byI"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx"
       },
@@ -6828,7 +6872,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 654586,
       "name": "Piano Concerto: I. Impromptu",
       "url": "https://open.spotify.com/track/5o0h2NGQYzBqfRoYdIrCh4"

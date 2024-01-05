@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 141920,
       "name": "Buona Sera - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 137653,
       "name": "Carolina In The Morning - 1997 Remaster",
       "url": "https://open.spotify.com/track/2Wkh6VPQgUNIZpVGG3B4eF"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 140440,
       "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
       "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
@@ -308,6 +308,24 @@
       "duration_ms": 161280,
       "name": "Corrine, Corrina",
       "url": "https://open.spotify.com/track/6hhuQN1IIAFir8fthpN9cH"
+    },
+    {
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "album": {
@@ -474,7 +492,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 160213,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2AwOwuP1gWzAHpXogqwbAJ"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 163053,
       "name": "In the Misty Moonlight",
       "url": "https://open.spotify.com/track/1RdFoJL4vjNXinXA2iSgGu"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 168466,
       "name": "My Rifle, My Pony And Me - Remastered",
       "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 177520,
       "name": "Promise Her Anything - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Ramblin' Rose",
       "url": "https://open.spotify.com/track/4k97sNw4iFVcCOUPqnsq6G"
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 162960,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 159360,
       "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
       "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 171986,
       "name": "The Door Is Still Open to My Heart",
       "url": "https://open.spotify.com/track/45tNymiGXb2afxk7opDlmA"
@@ -1572,6 +1590,24 @@
       "duration_ms": 189013,
       "name": "True Love (Duet)",
       "url": "https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau"
+    },
+    {
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "True Love - Remastered",
+      "url": "https://open.spotify.com/track/2x12Sb0lxMB5DR6Llzq5GA"
     },
     {
       "album": {
@@ -1792,7 +1828,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 120360,
       "name": "You'll Always Be the One I Love",
       "url": "https://open.spotify.com/track/42lA9iaBSjXJ0vlDyHfjs1"
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Los Besos",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mi Amigo Invencible",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "La Celebraci\u00f3n",
+        "url": "https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224739,
+      "name": "La Celebraci\u00f3n",
+      "url": "https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy"
+    },
+    {
+      "album": {
         "name": "El Llamado del Sol",
         "url": "https://open.spotify.com/album/5q5mMvzCeORGiT24mwpUtb"
       },
@@ -1482,6 +1500,24 @@
       "duration_ms": 183296,
       "name": "Todo el Universo",
       "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111534,
+      "name": "Todo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN"
     },
     {
       "album": {

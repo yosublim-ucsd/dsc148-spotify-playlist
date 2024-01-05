@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12315,
+  "num_followers": 12340,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0",
+  "snapshot_id": "MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM"
-      },
-      "artists": [
-        {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0wzJOZsUHlbbxahsZQl2PM"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/4csB0M65mPjoCpo1g9EQiB"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Bigger Than Sunday",
         "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 149545,
       "name": "Brighten The Corner Where You Are - Radio Edit",
       "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 316864,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 225773,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 316864,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Grace Ain't Fair (Acoustic Version)",
-        "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
-      },
-      "artists": [
-        {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
-        }
-      ],
-      "duration_ms": 214238,
-      "name": "Grace Ain't Fair - Acoustic Version",
-      "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208010,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Grace Ain't Fair (Acoustic Version)",
+        "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
+      },
+      "artists": [
+        {
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+        }
+      ],
+      "duration_ms": 214238,
+      "name": "Grace Ain't Fair - Acoustic Version",
+      "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Am Not Alone",
-        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
-      },
-      "artists": [
-        {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bring That Giant Down",
         "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Find My Joy",
-        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
+        "name": "I Am Not Alone",
+        "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
       },
       "artists": [
         {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
         }
       ],
-      "duration_ms": 249081,
-      "name": "Something Bigger Than Me",
-      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
+      "duration_ms": 178546,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -987,6 +971,22 @@
       "duration_ms": 202710,
       "name": "The Spirit and the Bride",
       "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Find My Joy",
+        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
+      },
+      "artists": [
+        {
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+        }
+      ],
+      "duration_ms": 249081,
+      "name": "Something Bigger Than Me",
+      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
-      },
-      "artists": [
-        {
-          "name": "Wisecarvers",
-          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
-        }
-      ],
-      "duration_ms": 219867,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
+      },
+      "artists": [
+        {
+          "name": "Wisecarvers",
+          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
+        }
+      ],
+      "duration_ms": 219867,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Music To Your Ears",
         "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
@@ -1267,42 +1283,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "How Good the Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "How Good the Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "In Your Hands",
         "url": "https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 235000,
       "name": "Every Story Whispers His Name",
       "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "How Good the Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        },
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "How Good the Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
     }
   ],
   "unique_name": "Streets Of Gold",

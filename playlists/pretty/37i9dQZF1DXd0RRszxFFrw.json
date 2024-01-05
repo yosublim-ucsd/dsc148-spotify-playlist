@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 54239,
+  "num_followers": 54266,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2U4MjJiNGE5NzcxZDk1NjBiYTIxYTQyY2RlNDQ5ZTM3ZDRmMTU4",
+  "snapshot_id": "MCw5N2E3NTcxYzczZjQ0YTU2Y2ZmOGZkMzFjY2U2M2ZjNjhjODVlYjlm",
   "tracks": [
     {
       "added_at": "2023-12-14 23:01:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Habichuela en Rama",
-        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
       },
       "artists": [
         {
-          "name": "Pepe Habichuela",
-          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Canta la Guitarra",
-      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
+      "duration_ms": 108053,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -447,22 +451,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
+        "name": "Habichuela en Rama",
+        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
       },
       "artists": [
         {
-          "name": "Francisco T\u00e1rrega",
-          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+          "name": "Pepe Habichuela",
+          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
         }
       ],
-      "duration_ms": 108053,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
+      "duration_ms": 230866,
+      "name": "Canta la Guitarra",
+      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Goia\u0302nia",
-        "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
-      },
-      "artists": [
-        {
-          "name": "Joana Ema",
-          "url": "https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Goia\u0302nia",
-      "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
         "name": "Commitments",
         "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 194944,
       "name": "Commitments",
       "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
+        "name": "Goia\u0302nia",
+        "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
+      },
+      "artists": [
+        {
+          "name": "Joana Ema",
+          "url": "https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Goia\u0302nia",
+      "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "Adelita Mazurka",
+      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
+    },
+    {
+      "added_at": "2023-12-14 23:01:00",
+      "album": {
         "name": "The Andalusian Guitar",
         "url": "https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 236842,
       "name": "Milonga",
       "url": "https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b"
-    },
-    {
-      "added_at": "2023-12-14 23:01:00",
-      "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "Adelita Mazurka",
-      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
     },
     {
       "added_at": "2023-12-14 23:01:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-14 23:01:00",
       "album": {
-        "name": "Contemporary Spanish Guitar: Kindred Spirits",
-        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
       },
       "artists": [
         {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
         }
       ],
-      "duration_ms": 402466,
-      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
-      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
     }
   ],
   "unique_name": "Cena con Guitarras",

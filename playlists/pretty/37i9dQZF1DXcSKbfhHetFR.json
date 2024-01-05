@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 9738,
+  "num_followers": 9743,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2QwMjZhOGQ3YzNjOTVhNTYwMWIwOTllMGQ3NTY0ZDljMDQwMzdj",
+  "snapshot_id": "MCxjZTU3NmE3MzNhYzQ3MDUzYTg2ZDEzZGE4Y2E0ZDc3ZTUzNjNkNzk2",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Le Nombre",
         "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
       },
@@ -591,18 +607,34 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+        "name": "100% boeuf",
+        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
       },
       "artists": [
         {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+      "duration_ms": 251520,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Projet Orange",
+        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
+      },
+      "artists": [
+        {
+          "name": "Projet Orange",
+          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Myst\u00e8re a\u00e9rosol",
+      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -635,38 +667,6 @@
       "duration_ms": 195133,
       "name": "Je suis down",
       "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Projet Orange",
-        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
-      },
-      "artists": [
-        {
-          "name": "Projet Orange",
-          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Myst\u00e8re a\u00e9rosol",
-      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "100% boeuf",
-        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9p\u00e9 et sa guitare",
-          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Poney",
-      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
     },
     {
       "added_at": "2020-06-23 14:47:30",

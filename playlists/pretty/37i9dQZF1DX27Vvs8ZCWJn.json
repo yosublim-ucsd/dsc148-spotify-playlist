@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 81851,
+  "num_followers": 81963,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2IwYmU0NzM1YTRjOGZiM2UyNWJiZjFmZDIxNzcyZTg5NzZmMTgx",
+  "snapshot_id": "MCwwNjMyNDEyMTg5OTY4ZjRlMzMyNGZhYWY1MDMyOTVkMWZiMWE5NGIx",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
     },
     {
+      "added_at": "2023-12-12 20:14:21",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
       "added_at": "2021-12-25 17:56:56",
       "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
@@ -799,22 +815,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2023-12-12 20:14:21",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/4sehYh39cQn4y8133SG1En"
-      },
-      "artists": [
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 103226,
-      "name": "Paraiso",
-      "url": "https://open.spotify.com/track/6eooWeZ10qf1hbl4OlCcG4"
     }
   ],
   "unique_name": "bohemia tranqui",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eurice Diniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,051 likes - 85 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,192 likes - 85 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 40 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 41 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 |
 | 42 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
-| 43 | [Minha Presença \- Ao Vivo](https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Minha Presença \(Ao Vivo\)](https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq) | 7:01 |
-| 44 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 |
+| 43 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 |
+| 44 | [Minha Presença \- Ao Vivo](https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Minha Presença \(Ao Vivo\)](https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq) | 7:01 |
 | 45 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 46 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 |
 | 47 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 66 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 67 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 | 68 | [Desapareceu um Povo \(Ao Vivo\)](https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rodrigo Vinheiro](https://open.spotify.com/artist/1z5mBQfcYWzBTrBschPZUc) | [Desapareceu um Povo \(Ao Vivo\)](https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS) | 3:30 |
-| 69 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
-| 70 | [Gerando Intimidade](https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Gerando Intimidade](https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6) | 4:14 |
+| 69 | [Gerando Intimidade](https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Gerando Intimidade](https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6) | 4:14 |
+| 70 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 |
 | 71 | [Tranquiliza \- Ao Vivo](https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Tranquiliza \(Ao Vivo\)](https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ) | 7:09 |
 | 72 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 |
 | 73 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Como Não Te Adorar \- Ao Vivo](https://open.spotify.com/track/0Wd7GcT9YDAKddGR2nz72n) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Como Não Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3) | 6:20 |
 | 85 | [Ele Não Mudou](https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Mudou](https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4) | 4:29 |
 
-Snapshot ID: `MCxkNjc3MzQ5OTM4ODE4YmVhN2Q1YzZiNTQzMTQzZmFiYTFhN2YzNWYx`
+Snapshot ID: `MCxmOWU4NzBmNjcxY2VlZjExY2RkOTZlNDExOWViMjIyMjNkNWExN2Q3`

@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KILY SAFARI
 
-633 songs - 1 day 5 hr 26 min
+634 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [G\-WAGON \(feat\. Wombat\)](https://open.spotify.com/track/56A51DVwMTzuzdqDpiXx8O) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [G\-WAGON \(feat\. Wombat\)](https://open.spotify.com/album/2ZocmqDOfpR1i9ZK27hpm3) | 3:10 | 2023-07-21 | 2023-11-03 |
 | [Game Day Ritual](https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ) | [OTEEZY](https://open.spotify.com/artist/1xM0fxmeNse4TvBV5RsuwO) | [Game Day Ritual](https://open.spotify.com/album/7dw7qyNIQiJ2nTpU5acc39) | 3:00 | 2022-03-21 | 2022-12-09 |
 | [Gammon](https://open.spotify.com/track/7klZOiqWVvF6G15AkvJFed) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [Gammon](https://open.spotify.com/album/5EaXgTjOzfEw2aY3ONBDuD) | 2:28 | 2023-10-26 |  |
-| [GANTZ \(feat\. EK\)](https://open.spotify.com/track/2NEYKsbrZn7K2eTsdyFU9L) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [GANTZ \(feat\. EK\)](https://open.spotify.com/album/3LiojQxWIZGce2OhlDp91a) | 3:30 | 2023-11-23 |  |
+| [GANTZ](https://open.spotify.com/track/3GmvmgJMpwEQk2xjHLgKJV) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [GANTZ](https://open.spotify.com/album/3s5lXRGczkXMJf7yluVank) | 3:30 | 2023-12-21 |  |
+| [GANTZ \(feat\. EK\)](https://open.spotify.com/track/2NEYKsbrZn7K2eTsdyFU9L) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [GANTZ \(feat\. EK\)](https://open.spotify.com/album/3LiojQxWIZGce2OhlDp91a) | 3:30 | 2023-11-23 | 2024-01-05 |
 | [GEEBO](https://open.spotify.com/track/7GPPTnXZERnBml7MQtTZaw) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [GEEBO](https://open.spotify.com/album/28pMKZUWlE56kSUhuW5i8H) | 3:41 | 2023-06-16 | 2023-11-17 |
 | [GEEK'D UP](https://open.spotify.com/track/72k5ui6BnVMyTU9xORhN8N) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [K4NIKI](https://open.spotify.com/artist/6ene33xp6RFlzDlHtpekUG) | [GEEK'D UP](https://open.spotify.com/album/7jR5PHqErRCQ0DImbN3KHJ) | 1:54 | 2023-09-28 |  |
 | [Geekin](https://open.spotify.com/track/789CKjDZXiVPpB5lKA3c2m) | [Baba T](https://open.spotify.com/artist/4WPntGyQOGuN0z4DfXhwGv) | [Geekin](https://open.spotify.com/album/5X3k1FiZvDb2RnpLHdc86C) | 2:42 | 2023-11-30 |  |

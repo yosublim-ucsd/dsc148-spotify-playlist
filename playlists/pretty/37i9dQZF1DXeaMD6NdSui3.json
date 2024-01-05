@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 138293,
+  "num_followers": 138360,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRiNDhiMWJhNmRkMjBhNzYyNmFmYjg0MzhlNjU0ZjBmMTQzOWNh",
+  "snapshot_id": "MCw4MzI4NWM2ZjA0NzgxYmI3M2FhMmMyMjNmOTQ3ZjAwYjMzYWZhOThl",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -567,26 +567,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs"
-      },
-      "artists": [
-        {
-          "name": "Smokin' Joe Kubek",
-          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
-        },
-        {
-          "name": "Bnois King",
-          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Don't Lose My Number",
-      "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Big Town Playboy",
         "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 200520,
       "name": "Since I Met You Baby",
       "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs"
+      },
+      "artists": [
+        {
+          "name": "Smokin' Joe Kubek",
+          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
+        },
+        {
+          "name": "Bnois King",
+          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Don't Lose My Number",
+      "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
     },
     {
       "added_at": "2018-02-27 16:43:49",

@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-207 songs - 11 hr 6 min
+209 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 | 2023-03-03 | 2023-05-17 |
 | [alter](https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [alter](https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC) | 2:18 | 2023-04-11 |  |
 | [attempt to disagree](https://open.spotify.com/track/59tYpcZZzf6eSjp5fGaZzf) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lakehouse](https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip) | 3:33 | 2023-07-14 |  |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-05 |  |
 | [Become the Warm Jets](https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 5:34 | 2023-02-09 |  |
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-02-09 | 2023-08-12 |
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2023-04-11 | 2023-10-07 |
@@ -105,6 +106,7 @@
 | [iv\. Deer in the Headlights](https://open.spotify.com/track/4CgSNrxK6tNtL9cRG9UIjD) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [iv\. Deer in the Headlights](https://open.spotify.com/album/36xTI7b2JYuC4tF15dBKxU) | 2:48 | 2023-08-18 | 2023-12-06 |
 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2023-02-09 | 2023-05-17 |
 | [Jealous of a Kid](https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Jealous of a Kid](https://open.spotify.com/album/177mzayu6o2R1V89SvxQzv) | 3:32 | 2023-06-02 |  |
+| [Joke](https://open.spotify.com/track/4l1iN5TaRGfBtxeWsbcHmO) | [the apology club](https://open.spotify.com/artist/0ex5LtpKzvId9NypSHHH92) | [Vicarious Life](https://open.spotify.com/album/5ZYZtfRmoAQEczQPxnZTLr) | 2:39 | 2024-01-05 |  |
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-11 |  |
 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 | 2023-07-14 |  |
 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-16 | 2023-07-01 |

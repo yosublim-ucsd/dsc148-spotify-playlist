@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 17566,
+  "num_followers": 17577,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjVhZTc1ZDc4M2U4ZmZhNzU0MzEwMTQwMzAyYTMyNzJkMGIzMGQ0",
+  "snapshot_id": "MCwxZWJmZjYwMTMyOWU1ZjYzZDVjNWU2ZDNmYzUyMGNmYTM5MzE4NjM5",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Shortwave Ruins",
-        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
-      },
-      "artists": [
-        {
-          "name": "Mount Shrine",
-          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
-        }
-      ],
-      "duration_ms": 434716,
-      "name": "Subtotem",
-      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Introspection (Edit)",
         "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 304186,
       "name": "By the Wall",
       "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Shortwave Ruins",
+        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
+      },
+      "artists": [
+        {
+          "name": "Mount Shrine",
+          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
+        }
+      ],
+      "duration_ms": 434716,
+      "name": "Subtotem",
+      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
-    },
-    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -655,6 +639,22 @@
       "duration_ms": 191746,
       "name": "Dear Ko (To Ko the Regt)",
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 370476,
-      "name": "Water Soaked In Forever",
-      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Aftertouches",
         "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 210000,
       "name": "Touch me & die",
       "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 370476,
+      "name": "Water Soaked In Forever",
+      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -729,20 +729,20 @@
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
     },
     {
-      "added_at": "2021-11-12 02:58:17",
+      "added_at": "2023-06-07 02:20:45",
       "album": {
-        "name": "Plant Music, Vol. 1",
-        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
+        "name": "Intrapersonal Experience",
+        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
       },
       "artists": [
         {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+          "name": "Saphileaum",
+          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
         }
       ],
-      "duration_ms": 231760,
-      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
-      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
+      "duration_ms": 336000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -765,20 +765,20 @@
       "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
-      "added_at": "2023-06-07 02:20:45",
+      "added_at": "2021-11-12 02:58:17",
       "album": {
-        "name": "Intrapersonal Experience",
-        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
       },
       "artists": [
         {
-          "name": "Saphileaum",
-          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
+      "duration_ms": 231760,
+      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
+      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
       "added_at": "2022-01-11 00:30:53",
       "album": {
         "name": "The Loss of Wilderness",
@@ -1195,6 +1179,22 @@
       "duration_ms": 357509,
       "name": "The Loss of Wilderness",
       "url": "https://open.spotify.com/track/3l6Ls8YScCSAwjZMDha2Mo"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     }
   ],
   "unique_name": "Planetary Soul",

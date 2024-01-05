@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTE3NSxjNmVjZTFlMjVlM2JhYTcwMmI5N2QxZTgwMTEwMjhhY2UyNzkxNmMx",
+  "snapshot_id": "MTE4MCw4NWE1YThkMmNiNGFhYzVkMzM0N2NjYmNmOTAxOTExNmI1ZGRiNGFk",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -5385,22 +5385,6 @@
       "url": "https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT"
     },
     {
-      "added_at": "2024-01-03 15:09:40",
-      "album": {
-        "name": "Rubblebucket",
-        "url": "https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5"
-      },
-      "artists": [
-        {
-          "name": "Rubblebucket",
-          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
-        }
-      ],
-      "duration_ms": 328400,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo"
-    },
-    {
       "added_at": "2024-01-03 15:30:49",
       "album": {
         "name": "Schlagenheim",
@@ -5431,6 +5415,78 @@
       "duration_ms": 241288,
       "name": "Love / Lover / Friend",
       "url": "https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi"
+    },
+    {
+      "added_at": "2024-01-04 08:10:35",
+      "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D"
+      },
+      "artists": [
+        {
+          "name": "Baloji",
+          "url": "https://open.spotify.com/artist/5u45xl7D9HpJJvRo0joct8"
+        },
+        {
+          "name": "L'Orchestre De La Katuba",
+          "url": "https://open.spotify.com/artist/3a6w0yNtD8R5ithA8vo44N"
+        },
+        {
+          "name": "Kuku",
+          "url": "https://open.spotify.com/artist/0jsSBgwm0lKxe2zNfrSSoc"
+        }
+      ],
+      "duration_ms": 322559,
+      "name": "Buy Africa",
+      "url": "https://open.spotify.com/track/6tmHvaDMluKUcSD1ncq2ta"
+    },
+    {
+      "added_at": "2024-01-04 08:19:23",
+      "album": {
+        "name": "Survival Sounds",
+        "url": "https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK"
+    },
+    {
+      "added_at": "2024-01-04 08:21:52",
+      "album": {
+        "name": "Not Real",
+        "url": "https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ"
+      },
+      "artists": [
+        {
+          "name": "Stealing Sheep",
+          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Sequence",
+      "url": "https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99"
+    },
+    {
+      "added_at": "2024-01-04 08:24:46",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 132917,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el"
     }
   ],
   "unique_name": "Zacklog",

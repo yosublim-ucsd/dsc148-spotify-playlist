@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Bring Me The Horizon
 
-715 songs - 1 day 10 hr 2 min
+718 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [KILLIN](https://open.spotify.com/track/0QNXRzvMbrX2NC6eZ8nLSl) | [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [KILLIN](https://open.spotify.com/album/3Oy7WMxX7dtnKx4HVCnyHP) | 2:03 | 2022-04-28 | 2022-10-14 |
 | [Knife Party \(feat\. Oli Sykes\)](https://open.spotify.com/track/08DG2bPYn9GHQt5AITyRtD) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:23 | 2022-04-19 | 2022-04-29 |
 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 | 2023-07-20 | 2023-11-11 |
+| [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 |  |
 | [KSALOL KRAZY](https://open.spotify.com/track/1mGLc2hq1aiGuuL9qed8WS) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [KSALOL KRAZY](https://open.spotify.com/album/4bojr9kRXvJ6tD3nVyIAA4) | 3:21 | 2023-05-19 | 2023-06-09 |
 | [KSALOL KRAZY](https://open.spotify.com/track/4DsZninoUAg6pNfKtCquml) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [DISTURRRBIA](https://open.spotify.com/album/3CZOUFl1SSNANvGwdqvGLQ) | 3:21 | 2023-09-28 | 2023-10-13 |
 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 | 2023-09-07 |  |
@@ -522,6 +523,7 @@
 | [POSSESS ME](https://open.spotify.com/track/1Xvj8YGcG6DLcIrAM5rD2r) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [POSSESS ME](https://open.spotify.com/album/6c4OTInxbcdjDMvMED68Q7) | 2:00 | 2022-08-04 | 2022-11-11 |
 | [Possession of a Weapon](https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Possession of a Weapon](https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk) | 2:35 | 2023-05-25 | 2023-07-07 |
 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 | 2022-04-19 | 2022-04-29 |
+| [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-05 |  |
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-27 | 2022-06-10 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-12-27 | 2022-02-04 |
 | [PRINCESS CHARMING](https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [MATRIARCHY NOW](https://open.spotify.com/album/0J66nObGBIxsgyAere8u1C) | 2:16 | 2022-08-04 | 2023-03-03 |
@@ -620,6 +622,7 @@
 | [Sweet Sweet](https://open.spotify.com/track/6GMKSAc1546d4mMen2UHd3) | [xDZVONx](https://open.spotify.com/artist/0EVHp9A1Qu3JIkeiOaHRW0) | [Sweet Sweet](https://open.spotify.com/album/17kfWL3qV8fIZWmAQexElT) | 2:31 | 2023-01-27 | 2023-06-16 |
 | [Talking To Myself](https://open.spotify.com/track/770scgQUE3GaT1HeemGdtp) | [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy), [Lil Tytan](https://open.spotify.com/artist/6xPylMjsDB2ZlarNnsSmev) | [Talking To Myself](https://open.spotify.com/album/7iqocKiDfPid4GJNbzB0ql) | 2:12 | 2022-11-11 | 2023-01-22 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-10-13 |  |
+| [THE ANGEL IN THE SOUND](https://open.spotify.com/track/645X2TEySTA8mWUZOSp3VL) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [THE ANGEL IN THE SOUND](https://open.spotify.com/album/06h9yuZQNJYeLfe83CHRZY) | 3:18 | 2024-01-05 |  |
 | [the boy has to go](https://open.spotify.com/track/4FjpjCIamZBgedcleaCvXW) | [SCARLET](https://open.spotify.com/artist/284gfU2jTQOAWk8WJgYKUj) | [the boy has to go](https://open.spotify.com/album/0aVw3K6DI8SaVyriGFnacg) | 2:45 | 2022-10-27 | 2023-01-13 |
 | [The Dungeon](https://open.spotify.com/track/15O8l8OCWIkJPe490rU90L) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO), [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [The Dungeon](https://open.spotify.com/album/1otV5RFeCmiYLeuA8a6Izy) | 2:29 | 2022-11-04 | 2022-11-11 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-04 | 2023-01-20 |

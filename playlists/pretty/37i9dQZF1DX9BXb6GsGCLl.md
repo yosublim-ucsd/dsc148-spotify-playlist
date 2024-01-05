@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,112 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,223 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII) | [Winati](https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [Sweet Dreams \(are Made of This\)](https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B) | 2:56 |
 | 80 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 |
 
-Snapshot ID: `MCwwYzc0YmU4ZTVjNmVjYjhkODM1YTdhZjY4MGNkODFlODRhYmQxMjll`
+Snapshot ID: `MCw0MzJjYTQyNDcxYTA5MjAxYWRlZjJmMGRmODg5M2JlNjlhZDdlZTY5`

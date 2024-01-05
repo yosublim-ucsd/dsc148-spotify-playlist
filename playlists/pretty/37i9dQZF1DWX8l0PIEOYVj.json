@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: SLANDER.",
-  "num_followers": 102250,
+  "num_followers": 102298,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTY0NGRmYjgzYzJmNzRiZDNmODFlOWJhOWE4OGFiN2FhMjcxYWM1",
+  "snapshot_id": "MCxmOTg4YTY5Yzc3MGI1YWFkYjBiZTRhZGZiOTczZDQ0NzJjMmY5YWM0",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "DRMVRSE",
+        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Crazy (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 212800,
       "name": "Crazy (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "DRMVRSE",
-        "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "All We Needed",
+        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All We Needed",
+      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 201931,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "All We Needed",
-        "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All We Needed",
-      "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Planet Oasis",
+        "url": "https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 180115,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc"
       },
@@ -1803,18 +1819,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Planet Oasis",
-        "url": "https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq"
       },
       "artists": [
         {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
         }
       ],
-      "duration_ms": 180115,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N"
+      "duration_ms": 213036,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1839,26 +1859,6 @@
       "duration_ms": 265600,
       "name": "From Ashes To Love",
       "url": "https://open.spotify.com/track/1gnYZJ13MLIRFexETWGDEo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq"
-      },
-      "artists": [
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        }
-      ],
-      "duration_ms": 213036,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/799Gi7H5g6nwQIKElr4COM"
-      },
-      "artists": [
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        },
-        {
-          "name": "Misdom",
-          "url": "https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1v2ZGStXrkBnQXuBvSxkTp"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Drown/Holding On (Remixes)",
         "url": "https://open.spotify.com/album/72c3cv9Y8ATLBYUPLr7Dle"
       },
@@ -2123,6 +2103,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/799Gi7H5g6nwQIKElr4COM"
+      },
+      "artists": [
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        },
+        {
+          "name": "Misdom",
+          "url": "https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1v2ZGStXrkBnQXuBvSxkTp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Lucky Ones",
         "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
       },
@@ -2143,6 +2143,30 @@
       "duration_ms": 205281,
       "name": "Lucky Ones",
       "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/6uQ74sZvl0pPpO1VVDHh1K"
+      },
+      "artists": [
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "Free Fall",
+          "url": "https://open.spotify.com/artist/5Y0oHsIgmZzj38UIN48CCS"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2187,30 +2211,6 @@
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/6uQ74sZvl0pPpO1VVDHh1K"
-      },
-      "artists": [
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        },
-        {
-          "name": "Free Fall",
-          "url": "https://open.spotify.com/artist/5Y0oHsIgmZzj38UIN48CCS"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6fuqMcgCHL1IJpUWMdo8eX"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Initium",
+        "url": "https://open.spotify.com/album/0Kn3RLVSrTdie6ylMAMSeT"
+      },
+      "artists": [
+        {
+          "name": "Pushing Daizies",
+          "url": "https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf"
+        }
+      ],
+      "duration_ms": 202258,
+      "name": "I Would Never",
+      "url": "https://open.spotify.com/track/3YkUKoKBZuqnVCAOsyeDav"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Heart of Stone (feat. Nevve)",
         "url": "https://open.spotify.com/album/39KdcGfRCK7nzvqpJvczVX"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 242200,
       "name": "Give Out",
       "url": "https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Initium",
-        "url": "https://open.spotify.com/album/0Kn3RLVSrTdie6ylMAMSeT"
-      },
-      "artists": [
-        {
-          "name": "Pushing Daizies",
-          "url": "https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf"
-        }
-      ],
-      "duration_ms": 202258,
-      "name": "I Would Never",
-      "url": "https://open.spotify.com/track/3YkUKoKBZuqnVCAOsyeDav"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2563,26 +2563,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA"
-      },
-      "artists": [
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r"
       },
@@ -2599,6 +2579,26 @@
       "duration_ms": 166344,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2691,6 +2691,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Almost Home (The Remixes)",
         "url": "https://open.spotify.com/album/0xEGWXpT3SZhB5KyIbOKZ7"
       },
@@ -2711,26 +2731,6 @@
       "duration_ms": 194545,
       "name": "Almost Home - MitiS Remix",
       "url": "https://open.spotify.com/track/2ddJ5eXea7HzGwAC745jOr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lena Leon",
-          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2779,6 +2779,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "One Day at a Time",
+        "url": "https://open.spotify.com/album/5AioSc4f4taFEkN7l41W7Q"
+      },
+      "artists": [
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        },
+        {
+          "name": "Ridley Slim",
+          "url": "https://open.spotify.com/artist/2V3Mbx5L6Lg6Aa2XHR5RBD"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/3ccep7dNfKrvfoYiQ5Kogy"
       },
@@ -2799,26 +2819,6 @@
       "duration_ms": 133913,
       "name": "Safe",
       "url": "https://open.spotify.com/track/7EuW5fS26s5cHZjI56FCjr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "One Day at a Time",
-        "url": "https://open.spotify.com/album/5AioSc4f4taFEkN7l41W7Q"
-      },
-      "artists": [
-        {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
-        },
-        {
-          "name": "Ridley Slim",
-          "url": "https://open.spotify.com/artist/2V3Mbx5L6Lg6Aa2XHR5RBD"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "One Day at a Time",
-      "url": "https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -3031,6 +3031,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "I'll Be Your Home",
+        "url": "https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "I'll Be Your Home",
+      "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Odd Ones Out",
         "url": "https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu"
       },
@@ -3051,26 +3071,6 @@
       "duration_ms": 225405,
       "name": "Odd Ones Out",
       "url": "https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "I'll Be Your Home",
-        "url": "https://open.spotify.com/album/3YJ6J8dmeDXXSMKpNl59JL"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "I'll Be Your Home",
-      "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
     },
     {
       "added_at": "2023-12-15 05:00:00",

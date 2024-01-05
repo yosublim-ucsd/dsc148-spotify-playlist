@@ -4,7 +4,7 @@
 
 > New music from Adrianne Lenker, Still Woozy, Kevin Kaarl and more...
 
-1,937 songs - 4 day 20 hr 32 min
+1,938 songs - 4 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-21 | 2023-08-21 |
 | [Dead](https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Dead](https://open.spotify.com/album/3QutVC0xl9EKHyHeUhUV21) | 3:39 | 2022-07-15 | 2022-07-25 |
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-15 | 2022-04-07 |
-| [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-10 |  |
+| [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-10 | 2024-01-05 |
 | [Dear Arkansas Daughter](https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [After](https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8) | 5:52 | 2023-06-26 | 2023-10-07 |
 | [Dear Stranger](https://open.spotify.com/track/10cPYHOPt1VpgFGy7NO2JI) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Future Past Life](https://open.spotify.com/album/72tIS6tPTKymncSkk2ezBJ) | 4:31 | 2020-04-18 | 2020-09-25 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-25 | 2022-09-17 |
@@ -568,6 +568,7 @@
 | [Flowers](https://open.spotify.com/track/29sQdO0XyF2fkdvbvmx8G0) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Flowers](https://open.spotify.com/album/3n2Lm7DjOxSL43kAREcP0x) | 4:57 | 2019-05-26\* | 2019-08-16 |
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-02-24 | 2023-05-06 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2020-07-24 | 2021-03-08 |
+| [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 | 2024-01-04 |  |
 | [For](https://open.spotify.com/track/0mMyFTMn9yNTfOd17unDcz) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [For](https://open.spotify.com/album/0rcNuOnE74TFSviwMTS4CK) | 3:45 | 2022-09-16 | 2022-10-12 |
 | [For Sure](https://open.spotify.com/track/5sIQB8xgfGiOOU2zQW2jwf) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/5VRzYNGWztoQLcAkCeUUpE) | 3:25 | 2020-12-04 | 2020-12-22 |
 | [For Sure](https://open.spotify.com/track/7tVYedjMc62HAxf10SbncH) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [For Sure](https://open.spotify.com/album/738pxgu3Av1SwvxsJULqXf) | 3:25 | 2020-07-24 | 2021-03-06 |

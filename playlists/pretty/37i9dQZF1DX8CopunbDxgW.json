@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: okgiorgio",
-  "num_followers": 866028,
+  "num_followers": 866121,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmY5M2EwY2VkZDE0NzJjZWJlNjMzNjBjMDc5MTlkYTIxNGI0ZjU1",
+  "snapshot_id": "MCxmOWIzNmY0ZmU5ZjRhYjYzMTg0ZTFmNGRhZDQ0MDRlZGVmYzFmZWZj",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -45,24 +45,40 @@
       "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
     },
     {
-      "added_at": "2023-12-18 17:20:03",
+      "added_at": "2024-01-02 15:16:58",
       "album": {
-        "name": "Peace In Silence",
-        "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Peace In Silence",
-      "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "If You Love Her (Fellini F\u00e9lin Remix)",
+        "url": "https://open.spotify.com/album/1IPCfsV5r44lyfjZGgJAf8"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        },
+        {
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "If You Love Her - Fellini F\u00e9lin Remix",
+      "url": "https://open.spotify.com/track/4ayhn2zWzj5U0rExzktQgY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -89,6 +105,58 @@
       "url": "https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Honor Your Goals: Live",
+        "url": "https://open.spotify.com/album/0YOfuU3oOBcph0Kn9sCqBk"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Honor Your Goals - Live Edit",
+      "url": "https://open.spotify.com/track/4bEveTxHy0FcvD5hJ8Fb3I"
+    },
+    {
+      "added_at": "2023-12-18 17:20:03",
+      "album": {
+        "name": "Peace In Silence",
+        "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Peace In Silence",
+      "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Gold In Autumn",
+        "url": "https://open.spotify.com/album/6YJbItTfxe6JuW0sQQbJcX"
+      },
+      "artists": [
+        {
+          "name": "Tutara Peak",
+          "url": "https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Gold In Autumn",
+      "url": "https://open.spotify.com/track/5s507gLJJBAAyTkZMKBQVB"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Walked In The Room",
@@ -103,46 +171,6 @@
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        }
-      ],
-      "duration_ms": 183524,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
-    },
-    {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Happy Ending (A.G Remix)",
-        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "A.G",
-          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Happy Ending - A.G Remix",
-      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -165,6 +193,38 @@
       "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Mountain Snow",
+        "url": "https://open.spotify.com/album/2QCc4wTc9nmYryvDXF43k0"
+      },
+      "artists": [
+        {
+          "name": "Ferdous",
+          "url": "https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Mountain Snow",
+      "url": "https://open.spotify.com/track/3NZEfp0Mc9G57oBInLYIpV"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Femenine",
@@ -183,18 +243,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Teenage Crime",
-        "url": "https://open.spotify.com/album/5w2hW6PibJ7ZXU3cQ2dcGN"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
       },
       "artists": [
         {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Teenage Crime",
-      "url": "https://open.spotify.com/track/54iQ7ZTkfp8kAJJYRexhm6"
+      "duration_ms": 183524,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -215,26 +295,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "If You Love Her (Fellini F\u00e9lin Remix)",
-        "url": "https://open.spotify.com/album/1IPCfsV5r44lyfjZGgJAf8"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        },
-        {
-          "name": "Fellini F\u00e9lin",
-          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "If You Love Her - Fellini F\u00e9lin Remix",
-      "url": "https://open.spotify.com/track/4ayhn2zWzj5U0rExzktQgY"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "comic relief",
         "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
       },
@@ -249,20 +309,24 @@
       "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 220311,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -281,20 +345,20 @@
       "url": "https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre"
     },
     {
-      "added_at": "2024-01-02 15:16:58",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+        "name": "iiwannabe",
+        "url": "https://open.spotify.com/album/0QvIrmOEWhi52W9J1Nx4K6"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
         }
       ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+      "duration_ms": 242356,
+      "name": "iiwannabe",
+      "url": "https://open.spotify.com/track/5NK7SxC2OhSDvuB2ueSbq4"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -321,22 +385,6 @@
       "url": "https://open.spotify.com/track/68hMlnUaIdjJfpFogolkUG"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Birth4000",
-        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
-    },
-    {
       "added_at": "2023-11-27 14:22:50",
       "album": {
         "name": "The World I'm Searching For",
@@ -351,6 +399,22 @@
       "duration_ms": 272946,
       "name": "Talk Tonight",
       "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Teenage Crime",
+        "url": "https://open.spotify.com/album/5w2hW6PibJ7ZXU3cQ2dcGN"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "duration_ms": 192282,
+      "name": "Teenage Crime",
+      "url": "https://open.spotify.com/track/54iQ7ZTkfp8kAJJYRexhm6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -393,6 +457,26 @@
       "url": "https://open.spotify.com/track/22NJL6tmHY3doX9E6sZqQi"
     },
     {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Happy Ending (A.G Remix)",
+        "url": "https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "A.G",
+          "url": "https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Happy Ending - A.G Remix",
+      "url": "https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "see u",
@@ -407,6 +491,22 @@
       "duration_ms": 130615,
       "name": "see u",
       "url": "https://open.spotify.com/track/6Fg0fOsCwdIKmJzuFJWekp"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1fGapBzWfHhD2yq4esJ7f0"
+      },
+      "artists": [
+        {
+          "name": "Money Lang",
+          "url": "https://open.spotify.com/artist/4sXjXTMEvVLMIEig1WGSXj"
+        }
+      ],
+      "duration_ms": 189699,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2uXRD5GktE9KnEY3C7m1m4"
     },
     {
       "added_at": "2023-11-24 17:16:34",
@@ -703,26 +803,6 @@
       "duration_ms": 181173,
       "name": "so cold",
       "url": "https://open.spotify.com/track/3WN37jy92FcsxyLSebdnQm"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Small Sanctuary (nimino Remix)",
-        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 252187,
-      "name": "Small Sanctuary - nimino Remix",
-      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
     },
     {
       "added_at": "2023-12-01 05:00:00",

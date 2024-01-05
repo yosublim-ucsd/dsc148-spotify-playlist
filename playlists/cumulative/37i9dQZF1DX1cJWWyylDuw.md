@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-515 songs - 1 day 9 hr 25 min
+516 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/track/4nCekuTPAxUJg8n5druzdZ) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD) | 2:51 | 2021-12-17 | 2022-07-26 |
 | [Black Colors](https://open.spotify.com/track/1RaP9HvKpIICb0HFWFjX5m) | [Victim Of Deception](https://open.spotify.com/artist/0EiohUJSIPGACElZ7CE5S5) | [VoD vs LDD](https://open.spotify.com/album/14wWJX2bVWtyIhiRNf2g8x) | 4:07 | 2021-12-17 | 2022-02-10 |
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2021-12-17 | 2023-12-24 |
+| [Black Heart](https://open.spotify.com/track/6LSrYyleml59eVadTzvaXD) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/3PwsDlnJqqIwBgMJ53uBJN) | 4:35 | 2023-12-13 |  |
 | [Black of My Eyes](https://open.spotify.com/track/0rl0t8BwHP1GIIEyC5DN4Q) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Black of My Eyes](https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1) | 3:52 | 2021-12-17 | 2022-07-26 |
 | [Black of My Eyes](https://open.spotify.com/track/2vAzfGEhThu7kM0ZR6nK1D) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7svL45hiXd5Ms0MBn3saXS) | 3:52 | 2023-12-13 |  |
 | [Black of My Eyes](https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG) | 3:52 | 2022-07-08 | 2023-12-24 |
@@ -280,7 +281,7 @@
 | [King Of Ruination](https://open.spotify.com/track/1eRZe6B0f1HZXqcWPF3z4K) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [King Of Ruination](https://open.spotify.com/album/5PIp9LGI371dv8UFlj8TTF) | 5:26 | 2023-12-13 | 2023-12-24 |
 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 | 2021-12-17 | 2023-04-15 |
 | [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 |  |
-| [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 |  |
+| [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 | 2024-01-05 |
 | [Left in the Wake](https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Left In The Wake](https://open.spotify.com/album/5QobPMRtyvAwC9GxkrcSzC) | 2:39 | 2023-06-16 | 2023-09-06 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2021-12-17 | 2022-07-29 |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2021-12-17 | 2022-12-13 |

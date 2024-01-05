@@ -1,13 +1,33 @@
 {
-  "description": "The biggest house bangers popping off in the UK, let's go! Sam Green, Campbell",
-  "num_followers": 753420,
+  "description": "The biggest house bangers popping off in the UK, let's go! LOSTBOYJAY",
+  "num_followers": 753441,
   "original_name": "UK House Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2YwMDlhYTQzMTg4NWY1MzczZTg0YTQ2YzY4ZTY5ZTQzYTg1NjIy",
+  "snapshot_id": "MCw3MDA0ODhhNTYyZWNiYTQyNTZkM2RhZDdhOGE1MDlmNjQzY2EzYTIx",
   "tracks": [
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Up Down Round",
+        "url": "https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 144393,
+      "name": "Up Down Round",
+      "url": "https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K"
+    },
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
@@ -27,6 +47,38 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/5v72zB4P7defUzWE8W0Vp4"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "duration_ms": 148427,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/3Kco472VXRNtElMsDj7u4k"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Take U",
+        "url": "https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 162727,
+      "name": "Take U",
+      "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
         "url": "https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I"
       },
@@ -39,6 +91,42 @@
       "duration_ms": 186536,
       "name": "DON\u2019T KNOW WHERE I\u2019M GOING",
       "url": "https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Say Goodbye (feat. Billy Raffoul)",
+        "url": "https://open.spotify.com/album/1oXAFYj4N52dFrMcOAKfQk"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOYJAY",
+          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+        },
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 126023,
+      "name": "Say Goodbye (feat. Billy Raffoul)",
+      "url": "https://open.spotify.com/track/3IkdjPFThBcKciyAV94dYp"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Aisha",
+        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -67,74 +155,6 @@
       "duration_ms": 340750,
       "name": "Time",
       "url": "https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Take U",
-        "url": "https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 162727,
-      "name": "Take U",
-      "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Up Down Round",
-        "url": "https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 144393,
-      "name": "Up Down Round",
-      "url": "https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Need To Know",
-        "url": "https://open.spotify.com/album/5v72zB4P7defUzWE8W0Vp4"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        }
-      ],
-      "duration_ms": 148427,
-      "name": "Need To Know",
-      "url": "https://open.spotify.com/track/3Kco472VXRNtElMsDj7u4k"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Aisha",
-        "url": "https://open.spotify.com/album/4NDHCK021W0pdlGQMvwOCv"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Aisha",
-      "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -181,26 +201,6 @@
       "url": "https://open.spotify.com/track/7Jdm5AztYoPpQXkAMccvGz"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Make Me (Franky Rizardo Remix)",
-        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
-      },
-      "artists": [
-        {
-          "name": "Borai & Denham Audio",
-          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Make Me - Franky Rizardo Remix",
-      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
-    },
-    {
       "added_at": "2023-12-08 00:08:00",
       "album": {
         "name": "In My Head (feat. Shayan)",
@@ -227,6 +227,46 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Make Me (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Make Me - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
         "name": "LOVE DESIRE",
         "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
       },
@@ -239,6 +279,26 @@
       "duration_ms": 171428,
       "name": "LOVE DESIRE",
       "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Fine Fine Baby (with Kah-Lo)",
+        "url": "https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 158716,
+      "name": "Fine Fine Baby (with Kah-Lo)",
+      "url": "https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -263,46 +323,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Say Goodbye (feat. Billy Raffoul)",
-        "url": "https://open.spotify.com/album/1oXAFYj4N52dFrMcOAKfQk"
-      },
-      "artists": [
-        {
-          "name": "LOSTBOYJAY",
-          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
-        },
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 126023,
-      "name": "Say Goodbye (feat. Billy Raffoul)",
-      "url": "https://open.spotify.com/track/3IkdjPFThBcKciyAV94dYp"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Needle On The Record",
         "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 186625,
       "name": "Needle On The Record",
       "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Fine Fine Baby (with Kah-Lo)",
-        "url": "https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 158716,
-      "name": "Fine Fine Baby (with Kah-Lo)",
-      "url": "https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2OrXnSIQ5SI8NliURLIFKz"
-      },
-      "artists": [
-        {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
-        },
-        {
-          "name": "CHA$EY JON\u00a3S",
-          "url": "https://open.spotify.com/artist/2cW0FSwOLEKSDCllbCC6db"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/0SEmzHfBCpkVvxLogm8NJU"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Saturday Morning (Arielle Free Remix)",
         "url": "https://open.spotify.com/album/2yjqqR82wX3JYUsamvV610"
       },
@@ -415,6 +395,50 @@
       "duration_ms": 183779,
       "name": "Saturday Morning - Arielle Free Remix",
       "url": "https://open.spotify.com/track/106EK5tbyObRjwbdPLfkoj"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Tic Tacs (JAKKOB Remix)",
+        "url": "https://open.spotify.com/album/3667AW7fmvUul08gOsR0L7"
+      },
+      "artists": [
+        {
+          "name": "Yofi Tofi",
+          "url": "https://open.spotify.com/artist/46K80vWigb3NWTFGfwUjfu"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "JAKKOB",
+          "url": "https://open.spotify.com/artist/1eZYmDz6m5XXpZ1dzo70v0"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Tic Tacs - JAKKOB Remix",
+      "url": "https://open.spotify.com/track/1THLb2bASzBj3HNpeW4QwG"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2OrXnSIQ5SI8NliURLIFKz"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        },
+        {
+          "name": "CHA$EY JON\u00a3S",
+          "url": "https://open.spotify.com/artist/2cW0FSwOLEKSDCllbCC6db"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0SEmzHfBCpkVvxLogm8NJU"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -489,28 +513,24 @@
       "url": "https://open.spotify.com/track/7o7Bd4gXTMMEWjGshr0pkH"
     },
     {
-      "added_at": "2023-12-08 00:08:00",
+      "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Tic Tacs (JAKKOB Remix)",
-        "url": "https://open.spotify.com/album/3667AW7fmvUul08gOsR0L7"
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
       },
       "artists": [
         {
-          "name": "Yofi Tofi",
-          "url": "https://open.spotify.com/artist/46K80vWigb3NWTFGfwUjfu"
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
         },
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "JAKKOB",
-          "url": "https://open.spotify.com/artist/1eZYmDz6m5XXpZ1dzo70v0"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Tic Tacs - JAKKOB Remix",
-      "url": "https://open.spotify.com/track/1THLb2bASzBj3HNpeW4QwG"
+      "duration_ms": 158095,
+      "name": "Dance To The Music",
+      "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -527,6 +547,22 @@
       "duration_ms": 126660,
       "name": "Ladybug",
       "url": "https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Do It Like This",
+        "url": "https://open.spotify.com/album/1yXx0NLhtCfK40O9Asc4qS"
+      },
+      "artists": [
+        {
+          "name": "Charlie Boon",
+          "url": "https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/0J7eodyP1Y6DlrbZceybTp"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -621,6 +657,26 @@
       "url": "https://open.spotify.com/track/0dyNRRAiEnX98U4BlZkbfT"
     },
     {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Overpowered",
+        "url": "https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Overpowered",
+      "url": "https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt"
+    },
+    {
       "added_at": "2023-12-08 00:08:00",
       "album": {
         "name": "Saving Up",
@@ -635,6 +691,62 @@
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "For The Seeing Kind",
+        "url": "https://open.spotify.com/album/0ciAKnkeTwJSrhKEWQuyLs"
+      },
+      "artists": [
+        {
+          "name": "Deep Aztec",
+          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
+        },
+        {
+          "name": "Black Soda",
+          "url": "https://open.spotify.com/artist/4DIbWYMpiH7S0Zw3PjUT3k"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "For The Seeing Kind",
+      "url": "https://open.spotify.com/track/4iLkw6QMQqU681oRTSUzEA"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "U Won't See Me",
+        "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Mystic Bill",
+          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "U Won't See Me",
+      "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Don't Bother Me EP",
+        "url": "https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE"
+      },
+      "artists": [
+        {
+          "name": "SYREETA",
+          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
+        }
+      ],
+      "duration_ms": 210822,
+      "name": "Don't Bother Me",
+      "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -671,42 +783,6 @@
       "duration_ms": 163245,
       "name": "About You",
       "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Don't Bother Me EP",
-        "url": "https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE"
-      },
-      "artists": [
-        {
-          "name": "SYREETA",
-          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
-        }
-      ],
-      "duration_ms": 210822,
-      "name": "Don't Bother Me",
-      "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "U Won't See Me",
-        "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        },
-        {
-          "name": "Mystic Bill",
-          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "U Won't See Me",
-      "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -947,26 +1023,6 @@
       "duration_ms": 225208,
       "name": "Sick With It",
       "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Lemon & Lime",
-        "url": "https://open.spotify.com/album/5xCWWknMlnS1qnU9ryzkkD"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Mandalo",
-          "url": "https://open.spotify.com/artist/7tqyHG5xJS1EqlXzl78eM4"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Lemon & Lime",
-      "url": "https://open.spotify.com/track/3tJrMqKlgX81AkZnSUG8AO"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -1391,22 +1447,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2r1u4VFgE7pZvf28bgPizn"
-      },
-      "artists": [
-        {
-          "name": "Mason Maynard",
-          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
-        }
-      ],
-      "duration_ms": 184782,
-      "name": "You - Edit",
-      "url": "https://open.spotify.com/track/61hQppufGvKelVZHZ3bnXk"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Things Are Gonna Get Better",
         "url": "https://open.spotify.com/album/2wbyJf5yqvZP2BGoir6035"
       },
@@ -1679,22 +1719,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "They Call It Acid",
-        "url": "https://open.spotify.com/album/2dcaLVqWXfzevvAYcjQDZg"
-      },
-      "artists": [
-        {
-          "name": "Meg Ward",
-          "url": "https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "They Call It Acid",
-      "url": "https://open.spotify.com/track/1RSwNDtLpLpVyx3lrsbpM1"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Soul Trouble",
         "url": "https://open.spotify.com/album/0rT1WMZ5ZxcF4R9VDPoSsu"
       },
@@ -1779,22 +1803,6 @@
       "duration_ms": 206153,
       "name": "Let\u2019s Get Close - Angelo Ferreri Remix",
       "url": "https://open.spotify.com/track/0LC5RJBwJIIwFIXZTJyia4"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
-        "name": "Garage Queen EP",
-        "url": "https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig"
-      },
-      "artists": [
-        {
-          "name": "ABSOLUTE.",
-          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Don't Ya Want It",
-      "url": "https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9"
     },
     {
       "added_at": "2023-12-08 00:08:00",

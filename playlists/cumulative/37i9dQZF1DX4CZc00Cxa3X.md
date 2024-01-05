@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-375 songs - 1 day 7 hr 8 min
+376 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [fall \(Hania Rani Rework\) \(feat\. Hania Rani\)](https://open.spotify.com/track/2Pdz8PtiGiZCHwGiuDVX2n) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [fall \(Hania Rani Rework\) \(feat\. Hania Rani\)](https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk) | 4:29 | 2023-05-19 | 2023-06-06 |
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-03-17 | 2022-05-05 |
 | [Far Place](https://open.spotify.com/track/1cdpJK8uK7yx3nOZuE9GWx) | [Holland Andrews](https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [Forgettings](https://open.spotify.com/album/2EDalGxtlykn9IQPSIV2Bg) | 3:15 | 2023-10-06 | 2023-10-20 |
+| [Far Place](https://open.spotify.com/track/4Zc7tToUcplEctwWxsARSY) | [Holland Andrews](https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [Forgettings](https://open.spotify.com/album/1f7ttZhjl8oKOcX4CQV0Kp) | 3:15 | 2023-11-17 |  |
 | [Farewell](https://open.spotify.com/track/04Azta7QhSUXNODJmbvOui) | [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Home Normal](https://open.spotify.com/album/2oiQ6Ck93DZDl9DHDOqpS1) | 6:18 | 2022-03-30 | 2022-07-26 |
 | [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-14 |  |
 | [FEEL](https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:27 | 2023-06-30 | 2023-07-14 |
@@ -318,7 +319,7 @@
 | [Swan Song](https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8), [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Swan Song](https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE) | 3:07 | 2022-03-17 | 2023-01-07 |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-05-19 | 2023-06-06 |
 | [Sweet Earth Flying \- Pt\. 1](https://open.spotify.com/track/7mEeRIIpi1xLkj0gYnOmKu) | [Marion Brown](https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS) | [Sweet Earth Flying](https://open.spotify.com/album/280Zp1w8nQhWtXuvaiDnLr) | 3:40 | 2023-09-22 | 2023-10-07 |
-| [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 |  |
+| [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 | 2024-01-05 |
 | [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 |  |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |

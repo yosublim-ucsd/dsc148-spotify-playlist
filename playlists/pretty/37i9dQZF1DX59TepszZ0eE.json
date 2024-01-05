@@ -1,29 +1,13 @@
 {
   "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA\">Sneziey</a>\n",
-  "num_followers": 48799,
+  "num_followers": 48951,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWZiYTZmNjQzM2Q2ODczMGZhZTI0OTRmZDhkYjk5MGM2YzJmMzA4",
+  "snapshot_id": "MCxmZjk3OWQ0ZmQwMmQ5NWI0MTA5YmNlNGZjYzgxYWI5ZDk0MWJiOTk3",
   "tracks": [
-    {
-      "added_at": "2023-05-05 07:24:36",
-      "album": {
-        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
-        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 336213,
-      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
-      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
-    },
     {
       "added_at": "2023-05-05 07:24:36",
       "album": {
@@ -103,6 +87,22 @@
     {
       "added_at": "2023-05-05 07:24:36",
       "album": {
+        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
+        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 336213,
+      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
+      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
+    },
+    {
+      "added_at": "2023-05-05 07:24:36",
+      "album": {
         "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
         "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 487650,
       "name": "Wakhazimula - Live",
       "url": "https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "Simbona Ngothando Lwakhe (Medley 5)",
+        "url": "https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "duration_ms": 342911,
+      "name": "Simbona Ngothando Lwakhe - Medley 5",
+      "url": "https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT"
     },
     {
       "added_at": "2023-06-09 00:01:00",

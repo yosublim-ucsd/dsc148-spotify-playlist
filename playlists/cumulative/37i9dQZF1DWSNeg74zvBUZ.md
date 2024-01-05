@@ -4,7 +4,7 @@
 
 > Morning's silent dew, ambient whispers unfold,<br/>zen echoes on play.
 
-159 songs - 12 hr 10 min
+160 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Canone Infinito](https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p) | 4:59 | 2021-09-10 |  |
 | [Canone Infinito](https://open.spotify.com/track/7aVGlNd40UZOnaT7Gqrjdd) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Scacco Matto](https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb) | 4:59 | 2021-09-10 | 2022-07-26 |
 | [Canter](https://open.spotify.com/track/3oEAYPcMoPjCyGI5SLqxzw) | [Úna Monaghan](https://open.spotify.com/artist/2kkfbansot1B9dPKK6vyag), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Canter](https://open.spotify.com/album/7oSvHxyn2nm8VMMwLtX2hb) | 4:09 | 2021-09-10 | 2022-07-28 |
-| [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 | 2021-09-10 |  |
+| [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 | 2021-09-10 | 2024-01-05 |
 | [Chipinque](https://open.spotify.com/track/2nY28xLbU220DiDAc3177k) | [Tiempo Fuera](https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z) | [Chipinque](https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM) | 3:14 | 2023-05-24 | 2023-12-13 |
 | [Chromakey Dreamcoat](https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:47 | 2021-09-10 | 2023-02-02 |
 | [Chromakey Dreamcoat](https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:47 | 2021-09-10 |  |
@@ -93,6 +93,7 @@
 | [Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Killswitch Lullaby](https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E) | 2:27 | 2024-01-03 |  |
 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 | 2022-07-15 |  |
 | [La Tierra de la Culebra](https://open.spotify.com/track/3oV2LIPGCNA2HlygO7oivy) | [Matthewdavid](https://open.spotify.com/artist/4KKx8fVJ0y7EcpmYZ42jPc) | [La Tierra de la Culebra](https://open.spotify.com/album/0x0QHB165KbmxHTJFdj8GB) | 2:04 | 2021-09-10 | 2022-07-27 |
+| [Lake Of Gold](https://open.spotify.com/track/0fI8RRzQhbc92lhT8bN7xr) | [Kirk Barley](https://open.spotify.com/artist/35yKqbBahxH38GhRc0vFrg) | [Lake Of Gold](https://open.spotify.com/album/4lJ3k8ZmLfvu7Voy8EJw6d) | 4:41 | 2024-01-04 |  |
 | [Le jardin](https://open.spotify.com/track/3Ns59TJVP7nnhlQqfMOAkc) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7HZ7EZCstniARXO3CcAMxt) | 4:28 | 2021-09-10 | 2022-07-29 |
 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2021-09-10 | 2023-09-01 |
 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 | 2021-09-10 | 2023-04-15 |

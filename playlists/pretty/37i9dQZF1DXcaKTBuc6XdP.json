@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8950,
+  "num_followers": 8951,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWJjZjE4NWFiYTM2ZTE0ZTkyODFkNmM4ODgzOGNlN2IwN2E4NTJk",
+  "snapshot_id": "MCwwMzNlYjIxYWJkZjllY2RmOGEzYjM4NzA4OTIyMjY1ZGQ4YzA4ZTRm",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -163,22 +163,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 318120,
-      "name": "The Heart Of Worship",
-      "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 288640,
       "name": "When You Walk Into The Room",
       "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 361173,
       "name": "Trading My Sorrows (Yes Lord)",
       "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
-      },
-      "artists": [
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        }
-      ],
-      "duration_ms": 352026,
-      "name": "Brokenness Aside",
-      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "duration_ms": 352026,
+      "name": "Brokenness Aside",
+      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Top 25 Praise Songs: 2005",
         "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Art of Translation",
-        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
-      },
-      "artists": [
-        {
-          "name": "Grits",
-          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Louder",
         "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 182000,
       "name": "Louder",
       "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
     },
     {
       "added_at": "2021-06-29 13:36:02",

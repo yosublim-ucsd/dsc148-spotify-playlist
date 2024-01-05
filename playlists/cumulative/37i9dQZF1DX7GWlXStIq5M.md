@@ -2,9 +2,9 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits já consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla
+> Os hits já consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla
 
-663 songs - 1 day 9 hr 33 min
+665 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Batom](https://open.spotify.com/track/5X1p2CarWqiYsur43hpKMD) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Batom](https://open.spotify.com/album/56Zhvpb2xP2PxRuXqYz0DM) | 3:31 | 2020-10-20 | 2022-07-11 |
 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2020-10-20 | 2023-01-01 |
 | [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 | 2020-10-20 | 2023-02-15 |
+| [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2024-01-05 |  |
 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 | 2023-04-14 | 2023-06-17 |
 | [Bendito](https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Bendito](https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm) | 2:57 | 2020-10-20 | 2022-07-29 |
 | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/track/58TLpLev8A4GFCUizxpF7T) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Berenice \(Papasessions \#6\) \[feat\. CALIFFA\]](https://open.spotify.com/album/1titgMf8Q4XDYVsG705KMU) | 5:01 | 2020-10-20 | 2022-07-29 |
@@ -352,6 +353,7 @@
 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 | 2023-08-25 | 2023-09-16 |
 | [Midas](https://open.spotify.com/track/1Adaje7vCpt4qKaF5YfUb3) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Midas](https://open.spotify.com/album/3MHN5j12HKAm8ZKujTRaVL) | 3:34 | 2023-06-16 | 2023-08-26 |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2020-10-20 | 2023-02-15 |
+| [Mil Vezes \- Remix](https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Melody](https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym) | [Mil Vezes \(Remix\)](https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1) | 2:07 | 2024-01-05 |  |
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-02-14 | 2023-06-24 |
 | [Minha Arte](https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Minha Arte](https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt) | 3:43 | 2023-11-24 |  |
 | [Mitsubishi](https://open.spotify.com/track/3bcduSxypEUxlM5UawQ3kD) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Mitsubishi](https://open.spotify.com/album/5vDJ7p8TCRpjRn1gGrDmpY) | 3:02 | 2020-10-20 | 2022-07-28 |

@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "The winner takes it all",
+        "url": "https://open.spotify.com/album/1i2L2zQlWf6Z36fGt7kmSg"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "The winner takes it all",
+      "url": "https://open.spotify.com/track/02Psb0agmZobapdLYj8Iax"
+    },
+    {
+      "album": {
         "name": "Time Passes By",
         "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
       },

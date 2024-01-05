@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-416 songs - 1 day 2 hr 58 min
+420 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Breadcrumb Trail](https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:55 | 2023-11-30 |  |
 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:46 | 2023-06-07 |  |
 | [BUSY / SIRENS](https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 5:29 | 2023-01-13 |  |
+| [Buy Africa](https://open.spotify.com/track/6tmHvaDMluKUcSD1ncq2ta) | [Baloji](https://open.spotify.com/artist/5u45xl7D9HpJJvRo0joct8), [L'Orchestre De La Katuba](https://open.spotify.com/artist/3a6w0yNtD8R5ithA8vo44N), [Kuku](https://open.spotify.com/artist/0jsSBgwm0lKxe2zNfrSSoc) | [Red Hot + Fela](https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D) | 5:22 | 2024-01-04 |  |
 | [By Ourselves](https://open.spotify.com/track/5UBJPtR2I4dAkZKOtY3ES6) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 2:12 | 2023-12-13 |  |
 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/51pAliCZ3Mm7jiqgk12O5R) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Remastered\)](https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA) | 4:16 | 2022-05-18 |  |
 | [Can't Stand It](https://open.spotify.com/track/1QBbFLiBCOElhEJVhsMNcl) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:46 | 2023-04-19 | 2023-07-19 |
@@ -258,10 +259,11 @@
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2023-06-22 | 2023-07-11 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/2Mc7SYpQ0KLJU6EjXnvqiW) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 3:03 | 2023-11-07 |  |
 | [Nothing’s Impossible](https://open.spotify.com/track/1UegvfqeikDPozAcaIWIuI) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 4:08 | 2023-03-15 |  |
-| [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 | 2024-01-03 |  |
+| [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 | 2024-01-03 | 2024-01-05 |
 | [Obrigado](https://open.spotify.com/track/7r9HZwjUZezpQpW4ToiEFL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 0:29 | 2022-09-13 |  |
 | [Old Familiar Way](https://open.spotify.com/track/6TeYtUQbGmNr4EKe0o9sTG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Gay Parade](https://open.spotify.com/album/2GYkvUhakNvHmI3L6tzKbd) | 2:25 | 2022-07-13 |  |
 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 | 2023-12-03 |  |
+| [On The Ground](https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Survival Sounds](https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB) | 3:38 | 2024-01-04 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-10-24 |  |
 | [Oncle Jazz](https://open.spotify.com/track/204t5SErksNRHRhU52g5JF) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 0:57 | 2023-08-19 | 2023-08-28 |
 | [One More Chance \- 2018 Remaster](https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually \(2018 Remaster\)](https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j) | 5:31 | 2023-08-04 |  |
@@ -273,6 +275,7 @@
 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 | 2023-10-30 |  |
 | [Overdrive](https://open.spotify.com/track/5WjKzP0MY4COScm6VPrLqU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:14 | 2022-07-30 |  |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
+| [Patience](https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Patience](https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF) | 2:12 | 2024-01-04 |  |
 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 | 2024-01-01 |  |
 | [Peace To All Freaks](https://open.spotify.com/track/1gSk8vyR6ExYlSqIhEzpSO) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [UR FUN](https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH) | 4:44 | 2023-06-28 | 2023-07-04 |
 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 | 2023-04-12 |  |
@@ -315,6 +318,7 @@
 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 | 2023-04-26 | 2023-12-14 |
 | [Sauna](https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:15 | 2023-03-25 |  |
 | [Searchin'](https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W) | [Acid Dad](https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm) | [Take It From The Dead](https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48) | 3:23 | 2023-07-12 |  |
+| [Sequence](https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99) | [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Not Real](https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ) | 3:13 | 2024-01-04 |  |
 | [Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness / Trail of Volcanoes / The Sacred Harp / Wait](https://open.spotify.com/track/3Y7ZWE3zat6O9YhMm44qCf) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Seven Psalms](https://open.spotify.com/album/2W88kNmADcEEvcaJPVGZHF) | 33:02 | 2023-05-21 |  |
 | [Shame On You](https://open.spotify.com/track/1FluLlYLGRBXRgLcv1Utlq) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Shaming Of The Sun](https://open.spotify.com/album/3oD7PqxjEBSzc7qE2xJteU) | 4:00 | 2023-10-01 |  |
 | [Showrooms](https://open.spotify.com/track/0k2y3MveQl3daR9d21R3qO) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Sam Prekop](https://open.spotify.com/album/5clbSCoEBQwvwnByDJ2Z8D) | 4:21 | 2022-07-31 |  |

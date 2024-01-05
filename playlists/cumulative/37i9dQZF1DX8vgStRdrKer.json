@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D\">PV Idemudia</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR?si=sY0cb-NSRyCkJ95O1PM80g\">Nuelzo</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 153780,
       "name": "Doh Doh Doh",
       "url": "https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 196169,
       "name": "I Thank the Lord",
       "url": "https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
@@ -1496,6 +1496,36 @@
       "duration_ms": 226649,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/3O1maNVb2DhRZLDjsQpEQp"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Aeno",
+          "url": "https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh"
+        },
+        {
+          "name": "Cee Emtee",
+          "url": "https://open.spotify.com/artist/12mhfZhybTbrNzyxpZmDjE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/6US0rhvD5zq5U9EZE7tvmW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8vgStRdrKer"

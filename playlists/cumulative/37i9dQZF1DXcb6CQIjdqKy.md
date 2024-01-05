@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:4GKPfwrzMoTyu7bYd4aqU1">JPCC Worship</a>
+> The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a> and <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
 
-676 songs - 1 day 23 hr 23 min
+677 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [More Than Able \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 | 2023-09-15 | 2023-10-24 |
 | [MORE!](https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 2:29 | 2023-09-22 |  |
 | [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chi Chi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2022-04-22 | 2022-10-01 |
+| [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 | 2024-01-05 |  |
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2022-02-11 | 2022-04-23 |
 | [My Inheritance](https://open.spotify.com/track/2WqciR3rQkk09eWCrxtjo3) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [My Inheritance](https://open.spotify.com/album/7LxrrpGOizlJSuXhVGNWUR) | 3:34 | 2023-09-01 | 2023-09-16 |
 | [My Jesus](https://open.spotify.com/track/5hY47DTHfGcwqMj5KvXerB) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [My Jesus](https://open.spotify.com/album/2aiRSXQz8bJN9n2XOIePHH) | 3:37 | 2021-12-17 | 2022-02-19 |
@@ -650,7 +651,7 @@
 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 | 2023-09-08 |  |
 | [Wholehearted](https://open.spotify.com/track/0hyP1FixDFPwp2BAmMntZd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 3:02 | 2021-12-17 | 2023-02-25 |
 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 | 2023-04-02 | 2023-10-24 |
-| [Why I Believe](https://open.spotify.com/track/0CCTLv71lcdHmOl6C9Thxt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Jesus Changed My Life](https://open.spotify.com/album/4yPOPMBZssCEEmShWCGTNB) | 4:18 | 2023-11-10 |  |
+| [Why I Believe](https://open.spotify.com/track/0CCTLv71lcdHmOl6C9Thxt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Jesus Changed My Life](https://open.spotify.com/album/4yPOPMBZssCEEmShWCGTNB) | 4:18 | 2023-11-10 | 2024-01-05 |
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-04-29 | 2022-08-20 |
 | [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 | 2022-02-25 | 2022-07-09 |
 | [Wild & Free](https://open.spotify.com/track/0afBbn5tybe8kP4VTRl8k0) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Wild & Free](https://open.spotify.com/album/2aoOxybpEbfvDoWE8DHSvb) | 2:08 | 2023-05-12 | 2023-12-16 |

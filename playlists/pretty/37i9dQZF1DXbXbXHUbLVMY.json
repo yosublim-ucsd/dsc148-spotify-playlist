@@ -1,18 +1,18 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 26816,
+  "num_followers": 26819,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjM5MTRiYjU3YTUzMTZiY2ViZWM3ZDdjYTE1NDg2ZmFhMGQ3NjVi",
+  "snapshot_id": "MCw1MzUwMGI5MzM3Y2M5ZDU4NDdhZDY3YTI3ZmZiMWEwZDExNDhjNzY0",
   "tracks": [
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Stakken Pt. II",
-        "url": "https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u"
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
       },
       "artists": [
         {
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 161557,
-      "name": "Stakken Pt. II",
-      "url": "https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq"
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
@@ -41,71 +41,7 @@
       "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Roser",
-        "url": "https://open.spotify.com/album/1PX57v6vo13dlBDyJnPzUf"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Roser",
-      "url": "https://open.spotify.com/track/0Bf8Kte0qL9GXQszfqbRLM"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Hj\u00e4rta",
-        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
-      },
-      "artists": [
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "03 Rica",
-        "url": "https://open.spotify.com/album/3aLl7TfFtN7iYy1BKn4iCj"
-      },
-      "artists": [
-        {
-          "name": "Tommy Tee",
-          "url": "https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p"
-        },
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "T Section",
-          "url": "https://open.spotify.com/artist/6JQh39rF2lAj25dMHEXpoC"
-        },
-        {
-          "name": "amir.",
-          "url": "https://open.spotify.com/artist/3pwG0vw2XedZiTh0qNVl8P"
-        },
-        {
-          "name": "OTG",
-          "url": "https://open.spotify.com/artist/1svzRrihwnGVSMLMKBGvTU"
-        }
-      ],
-      "duration_ms": 153432,
-      "name": "03 Rica",
-      "url": "https://open.spotify.com/track/5jLuUEQG8HUp1ee8o2h1vf"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "\u00d6verallt",
         "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
@@ -121,7 +57,23 @@
       "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
@@ -145,7 +97,23 @@
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 202954,
+      "name": "Har Dig",
+      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
@@ -161,7 +129,7 @@
       "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Sp\u00e5r av BLod",
         "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
@@ -181,39 +149,7 @@
       "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 202954,
-      "name": "Har Dig",
-      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "G63",
-        "url": "https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
@@ -233,7 +169,23 @@
       "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "G63",
+        "url": "https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
@@ -257,7 +209,7 @@
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
@@ -273,7 +225,39 @@
       "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 138085,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Vill va med dig",
+        "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "duration_ms": 168473,
+      "name": "Vill va med dig",
+      "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "BONANZA",
         "url": "https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH"
@@ -297,23 +281,7 @@
       "url": "https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Vill va med dig",
-        "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 168473,
-      "name": "Vill va med dig",
-      "url": "https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "En till dans",
         "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
@@ -329,7 +297,7 @@
       "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Gas",
         "url": "https://open.spotify.com/album/4rBij9sYNOfrBltR7rUYjN"
@@ -345,55 +313,7 @@
       "url": "https://open.spotify.com/track/77T996JlKleOyB1RAchTQr"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Tessas H\u00e6vn (Igen Bitch)",
-        "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
-      },
-      "artists": [
-        {
-          "name": "Tessa",
-          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
-        }
-      ],
-      "duration_ms": 136218,
-      "name": "Hvor Som Helst",
-      "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 138085,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "SILENT HILLS",
-        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "EXTEND",
-      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7"
@@ -413,7 +333,23 @@
       "url": "https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Tessas H\u00e6vn (Igen Bitch)",
+        "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        }
+      ],
+      "duration_ms": 136218,
+      "name": "Hvor Som Helst",
+      "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "2X SPEKTRUM FREESTYLE",
         "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
@@ -429,7 +365,23 @@
       "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "SILENT HILLS",
+        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "EXTEND",
+      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
@@ -445,23 +397,7 @@
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "BLIND",
-        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "BLIND",
-      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
@@ -477,23 +413,23 @@
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+      "duration_ms": 148120,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Dum av dej",
         "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
@@ -509,7 +445,23 @@
       "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Sommerhus",
         "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
@@ -525,7 +477,7 @@
       "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "PRAPAPA",
         "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
@@ -541,7 +493,23 @@
       "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Lenge Leve",
+      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
@@ -557,7 +525,7 @@
       "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "BLANCO",
         "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
@@ -577,43 +545,7 @@
       "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 127209,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "Lenge Leve",
-      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Gangster V\u00e4rld",
         "url": "https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e"
@@ -633,7 +565,27 @@
       "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 127209,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "K\u00e4nslokall",
         "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
@@ -649,7 +601,7 @@
       "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
@@ -669,7 +621,7 @@
       "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Gata",
         "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
@@ -685,7 +637,7 @@
       "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
@@ -701,7 +653,7 @@
       "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
@@ -717,7 +669,7 @@
       "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
@@ -733,7 +685,7 @@
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
@@ -753,7 +705,7 @@
       "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "L\u00f8sningsorienterte",
         "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
@@ -769,7 +721,7 @@
       "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
@@ -789,23 +741,7 @@
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Palmerna",
-        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Palmerna",
-      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "KALASH",
         "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
@@ -821,7 +757,7 @@
       "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
@@ -837,7 +773,23 @@
       "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Zinah",
         "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
@@ -853,7 +805,23 @@
       "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Koppla Av",
         "url": "https://open.spotify.com/album/3NUr1KOsJkDcK7x20aL0OR"
@@ -873,23 +841,7 @@
       "url": "https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
@@ -905,27 +857,7 @@
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
@@ -949,7 +881,27 @@
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Slipp deg l\u00f8s",
         "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
@@ -965,7 +917,7 @@
       "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
@@ -981,7 +933,23 @@
       "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Hoodrich",
+        "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 144890,
+      "name": "Hoodrich",
+      "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Cuando Menos Lo Espera",
         "url": "https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC"
@@ -1001,23 +969,7 @@
       "url": "https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Hoodrich",
-        "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 144890,
-      "name": "Hoodrich",
-      "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Whina",
         "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
@@ -1033,7 +985,7 @@
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Seri\u00f8s (feat. Amara)",
         "url": "https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS"
@@ -1053,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "I Care",
         "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
@@ -1069,7 +1021,7 @@
       "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
@@ -1089,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "LEVENDE LEGENDE",
         "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
@@ -1109,27 +1061,7 @@
       "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "TRAPEN TILL RADION",
         "url": "https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k"
@@ -1149,7 +1081,43 @@
       "url": "https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "BAD GIRL",
         "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
@@ -1169,23 +1137,7 @@
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "STILO",
         "url": "https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q"
@@ -1201,7 +1153,7 @@
       "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "SIPPER",
         "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
@@ -1221,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
         "url": "https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox"
@@ -1241,7 +1193,7 @@
       "url": "https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
@@ -1257,23 +1209,7 @@
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Psykopat",
-        "url": "https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d"
-      },
-      "artists": [
-        {
-          "name": "Steph K",
-          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
-        }
-      ],
-      "duration_ms": 129714,
-      "name": "Psykopat",
-      "url": "https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
@@ -1289,7 +1225,23 @@
       "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Psykopat",
+        "url": "https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d"
+      },
+      "artists": [
+        {
+          "name": "Steph K",
+          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
+        }
+      ],
+      "duration_ms": 129714,
+      "name": "Psykopat",
+      "url": "https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
@@ -1305,7 +1257,7 @@
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Se & L\u00e4r",
         "url": "https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv"
@@ -1321,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "PANGPANG",
         "url": "https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H"
@@ -1337,7 +1289,7 @@
       "url": "https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
@@ -1357,7 +1309,7 @@
       "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "F.H.D.S!",
         "url": "https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj"
@@ -1373,7 +1325,39 @@
       "url": "https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Stakken Pt. II",
+        "url": "https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Stakken Pt. II",
+      "url": "https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Kiko Club",
+        "url": "https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 183332,
+      "name": "Skarpt Lys",
+      "url": "https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Kvar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
@@ -1393,7 +1377,7 @@
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
         "name": "Brazil Flow",
         "url": "https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl"
@@ -1409,24 +1393,24 @@
       "url": "https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr"
     },
     {
-      "added_at": "2023-12-14 23:00:00",
+      "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "FLEX",
-        "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
+        "name": "TRILLE",
+        "url": "https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D"
       },
       "artists": [
         {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
         },
         {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
         }
       ],
-      "duration_ms": 134400,
-      "name": "FLEX",
-      "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
+      "duration_ms": 162017,
+      "name": "TRILLE",
+      "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
     }
   ],
   "unique_name": "100 (2)",

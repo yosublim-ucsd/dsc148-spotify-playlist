@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/21t5KX5n6BZKr0O3Jrgvfd"
+      },
+      "artists": [
+        {
+          "name": "Thames Quartet",
+          "url": "https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213678,
+      "name": "It's Complicated",
+      "url": "https://open.spotify.com/track/1BLlTzQGwfRBUPakc5EruZ"
+    },
+    {
+      "album": {
         "name": "It's Not Forever",
         "url": "https://open.spotify.com/album/1Va59mXaQclhCVDJ6Sor0L"
       },
@@ -4208,6 +4226,24 @@
       "duration_ms": 209551,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD"
+    },
+    {
+      "album": {
+        "name": "Shadow Play",
+        "url": "https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225100,
+      "name": "Shadow Play",
+      "url": "https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3"
     },
     {
       "album": {

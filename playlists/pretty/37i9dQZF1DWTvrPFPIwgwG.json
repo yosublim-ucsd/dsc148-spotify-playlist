@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 112051,
+  "num_followers": 112192,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjc3MzQ5OTM4ODE4YmVhN2Q1YzZiNTQzMTQzZmFiYTFhN2YzNWYx",
+  "snapshot_id": "MCxmOWU4NzBmNjcxY2VlZjExY2RkOTZlNDExOWViMjIyMjNkNWExN2Q3",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Minha Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 421992,
       "name": "Minha Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
-      },
-      "artists": [
-        {
-          "name": "Sandra Pires",
-          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
-        }
-      ],
-      "duration_ms": 304938,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Gerando Intimidade",
         "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 254754,
       "name": "Gerando Intimidade",
       "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+      },
+      "artists": [
+        {
+          "name": "Sandra Pires",
+          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
+        }
+      ],
+      "duration_ms": 304938,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
     },
     {
       "added_at": "2023-12-22 03:00:00",

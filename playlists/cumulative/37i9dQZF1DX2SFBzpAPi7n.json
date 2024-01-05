@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HANRORO(\ud55c\ub85c\ub85c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: ROYA(\ub85c\uc57c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 330250,
       "name": "APEX",
       "url": "https://open.spotify.com/track/5Fo2XhCLFLa1u4yK08VWbi"
@@ -612,6 +612,24 @@
       "duration_ms": 251693,
       "name": "Aspirin Overdose",
       "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
+    },
+    {
+      "album": {
+        "name": "Astronaut Boy",
+        "url": "https://open.spotify.com/album/6HC3e0omLtCmfc74SvSoLO"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "Astronaut Boy",
+      "url": "https://open.spotify.com/track/63AIIigBWh2K3zjuFvvYF8"
     },
     {
       "album": {
@@ -1974,6 +1992,24 @@
       "duration_ms": 193129,
       "name": "Do You Need A Rockstar",
       "url": "https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69"
+    },
+    {
+      "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/0eia9DMR5uq7qYcmhxxFzq"
+      },
+      "artists": [
+        {
+          "name": "Park Eunbin",
+          "url": "https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Do-re-mi-fa",
+      "url": "https://open.spotify.com/track/0QfAVkbO0cxDe6ibSnQW4c"
     },
     {
       "album": {
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"

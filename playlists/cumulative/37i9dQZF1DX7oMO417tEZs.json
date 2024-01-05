@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "new gems by artists carving their own lane. cover: KAYTRANADA",
+  "description": "new gems by artists carving their own lane. cover: Yam\u00ea",
   "name": "outliers",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 196750,
       "name": "03:17",
       "url": "https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 244000,
       "name": "Elijah",
       "url": "https://open.spotify.com/track/57jrSfmZ8i3AnAARCTfuV8"
@@ -6522,6 +6522,24 @@
       "duration_ms": 262613,
       "name": "Follow",
       "url": "https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j"
+    },
+    {
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "album": {
@@ -7987,6 +8005,28 @@
     },
     {
       "album": {
+        "name": "HOHO",
+        "url": "https://open.spotify.com/album/75s9O9fwwj3oXKGx50iJvT"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Adig\u00e9ry",
+          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        {
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "HOHO",
+      "url": "https://open.spotify.com/track/1IG6MPqGzVL9YfFxJkVmr7"
+    },
+    {
+      "album": {
         "name": "Jesus At The Gay Bar",
         "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
       },
@@ -8132,7 +8172,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 184914,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n"
@@ -8796,6 +8836,24 @@
       "duration_ms": 206374,
       "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
       "url": "https://open.spotify.com/track/4a3Uc0VzhyittIPDoVVzNv"
+    },
+    {
+      "album": {
+        "name": "if you didnt want me",
+        "url": "https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "if you didnt want me",
+      "url": "https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e"
     },
     {
       "album": {
@@ -11308,7 +11366,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 153341,
       "name": "Mile End - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21"
@@ -13626,6 +13684,32 @@
       "duration_ms": 217743,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/0gnQIXp4YEsk3DgtT616re"
+    },
+    {
+      "album": {
+        "name": "peace of mind",
+        "url": "https://open.spotify.com/album/7eRDLcNVaoPLT6roRdjPlZ"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        },
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170895,
+      "name": "peace of mind",
+      "url": "https://open.spotify.com/track/0hh5w9zgdzGcEEt9wZQhPy"
     },
     {
       "album": {
@@ -18185,6 +18269,28 @@
     },
     {
       "album": {
+        "name": "They Vouching",
+        "url": "https://open.spotify.com/album/5XNjBYmabogIiDhBnCIgWq"
+      },
+      "artists": [
+        {
+          "name": "Your Boy Posca",
+          "url": "https://open.spotify.com/artist/3eRrSwoBXVymTu0DLNfTv5"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205257,
+      "name": "They Vouching",
+      "url": "https://open.spotify.com/track/0kpBoHiJ71ESg58f6IXFkn"
+    },
+    {
+      "album": {
         "name": "Things Are Gonna Change",
         "url": "https://open.spotify.com/album/0jUNhpJpFgX2zmjLhnPZLa"
       },
@@ -19598,7 +19704,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 170869,
       "name": "What A Way To Go",
       "url": "https://open.spotify.com/track/1BRaaNsHfcAFVZPJkmJgVp"

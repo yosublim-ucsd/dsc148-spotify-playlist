@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Ghetts & Skrapz
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Central Cee
 
-1,633 songs - 3 day 11 hr 11 min
+1,634 songs - 3 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1493,6 +1493,7 @@
 | [Training Day](https://open.spotify.com/track/5D5gxoqeVLsX0KN10FSEH8) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Training Day](https://open.spotify.com/album/3QyY7JuRAUb9TPTRL26ccs) | 3:06 | 2020-06-19 | 2020-07-18 |
 | [Trapway](https://open.spotify.com/track/2m6MzHbANhE3KlgJ2hKRwI) | [M'Way](https://open.spotify.com/artist/4a9smiC3FdklrSyh5akDHP) | [Trapway](https://open.spotify.com/album/2beCuZXvc2UM7ACFSRyiIw) | 3:46 | 2020-09-18 | 2020-10-16 |
 | [Traumatised](https://open.spotify.com/track/2L717z38Qgcs4XvmXXxjHL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Traumatised](https://open.spotify.com/album/2ruzEAmfk6jx6hpcqJVna6) | 2:57 | 2023-01-06 | 2023-03-31 |
+| [Trench P \(London City\)](https://open.spotify.com/track/5btsue784U8VgfhfaeLKNL) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Trench P \(London City\)](https://open.spotify.com/album/2GnLFlJG4lzA49jd0ktuj7) | 2:51 | 2024-01-05 |  |
 | [Trill Shit](https://open.spotify.com/track/03gJID2yRJnrWDssCBx77y) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Top Bitch](https://open.spotify.com/album/5Sz4wKUtVXEcwZhTVrihJo) | 2:15 | 2022-03-25 | 2022-05-06 |
 | [Triple Threat](https://open.spotify.com/track/01ZTKFMGyLDjZadCCWiFYa) | [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Uno Uno](https://open.spotify.com/album/092WYc5urW9jjCM3tZfy2D) | 2:33 | 2021-01-23 | 2021-02-27 |
 | [TRIPLE THREAT](https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [TRIPLE THREAT](https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam) | 3:17 | 2023-09-22 |  |

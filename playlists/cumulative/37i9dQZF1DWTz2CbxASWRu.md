@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-398 songs - 1 day 5 hr 21 min
+399 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 | 2023-07-10 |  |
 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 | 2023-07-10 |  |
 | [Kisasa Kisas](https://open.spotify.com/track/6ArwNGBU2aBHf1hLIQWmm8) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kisasa Kisas b/w Erkilet Güzeli](https://open.spotify.com/album/4BNMUwnfonwUG2Ma9KdodA) | 3:49 | 2023-07-10 | 2023-11-29 |
+| [Kokonibaka](https://open.spotify.com/track/0a5iBtLboMmPfMqnk2ObID) | [William Takaku](https://open.spotify.com/artist/2GDr1oliMRmvo2lmsQK5wG), [Pidia Kaur Group](https://open.spotify.com/artist/5RmShz1JR97ThBgsppiS45), [Kamalita Tibola](https://open.spotify.com/artist/4cqzpGDoc4KxWWQ4ON9A40) | [Bibirosi](https://open.spotify.com/album/2uBITvXXAuR9mXDLaqdZnC) | 2:09 | 2024-01-05 |  |
 | [Kossa Kossa](https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 4:08 | 2023-07-10 |  |
 | [Kumbayeo](https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo](https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q) | 3:34 | 2023-07-10 |  |
 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 | 2023-07-10 |  |
@@ -311,7 +312,7 @@
 | [Ruby](https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH) | 5:55 | 2023-07-10 |  |
 | [Ruby](https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:55 | 2023-07-10 | 2023-11-04 |
 | [Rumba Argelina](https://open.spotify.com/track/2P8ktzvsZSenVlECrTNhnh) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina](https://open.spotify.com/album/02G4K8LFZciEEnmqFNtZcG) | 3:36 | 2023-07-10 |  |
-| [Rumbero](https://open.spotify.com/track/7lccfP8P28uLa2fgqgwCt7) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:44 | 2023-07-10 |  |
+| [Rumbero](https://open.spotify.com/track/7lccfP8P28uLa2fgqgwCt7) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:44 | 2023-07-10 | 2024-01-05 |
 | [Sakla Beni](https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/0LBQVMsur8H3i3mwKkXV20) | 4:40 | 2023-07-10 |  |
 | [Samba de Verão](https://open.spotify.com/track/4ZxCL1QHcscbhxVDpkpoI7) | [Bahia Bahia Bahia](https://open.spotify.com/artist/5MbdV2ChR2UTRO6yczv6gj) | [A Rã EP](https://open.spotify.com/album/304Bab3sFlZCbt76DhqXh2) | 3:15 | 2023-07-10 |  |
 | [Samba Malató](https://open.spotify.com/track/67XnVq3LNc4nByje3F2kOL) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Oilando](https://open.spotify.com/album/2jsOKtBQHgnOzVXjdOmGn0) | 3:25 | 2023-07-10 |  |

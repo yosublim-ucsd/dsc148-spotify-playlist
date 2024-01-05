@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 23452,
+  "num_followers": 23463,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQ4YzQwMzk0ZDIyNDhkY2JkMzRlOTUzOTFlMTE4ODc2NDYxYTJh",
+  "snapshot_id": "MCxiY2RjNjdkNjJmMWE0MTE2YzM5YjFlZDM3OWI3MjBmYzg3NDRhMzlj",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 133000,
       "name": "El Ahualulco",
       "url": "https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "La Charanga Eterna",
+        "url": "https://open.spotify.com/album/7wOFA3A9v0qNESJJls2Kix"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "El Paso De Encarnaci\u00f3n",
+      "url": "https://open.spotify.com/track/2N1K9fjMTgKd2qSmG7PJ8B"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "La Charanga Eterna",
-        "url": "https://open.spotify.com/album/7wOFA3A9v0qNESJJls2Kix"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "El Paso De Encarnaci\u00f3n",
-      "url": "https://open.spotify.com/track/2N1K9fjMTgKd2qSmG7PJ8B"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Cl\u00e1sicos de La M\u00fasica Cubana Volume 3",
-        "url": "https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH"
-      },
-      "artists": [
-        {
-          "name": "Celina Y Reutilio",
-          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Todos Sus Exitos",
         "url": "https://open.spotify.com/album/4vaptc3l16FcWm1WBQLdry"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 165933,
       "name": "El Manisero",
       "url": "https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Cl\u00e1sicos de La M\u00fasica Cubana Volume 3",
+        "url": "https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH"
+      },
+      "artists": [
+        {
+          "name": "Celina Y Reutilio",
+          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC"
     },
     {
       "added_at": "2023-01-23 22:42:50",

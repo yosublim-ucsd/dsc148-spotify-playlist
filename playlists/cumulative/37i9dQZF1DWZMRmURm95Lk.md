@@ -2,9 +2,9 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Ensi e Nerone in cover.
+> Beat e rime, oggi come una volta\. Cor Veleno in cover.
 
-333 songs - 19 hr 21 min
+334 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Foto di gruppo](https://open.spotify.com/track/6fc22mbFV0QVn6gzdvehnK) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Foto di gruppo](https://open.spotify.com/album/0OX04ldIVHEuZTZMDxpokA) | 3:30 | 2023-02-17 |  |
 | [Fra le note](https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM) | [Wiser Keegan](https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur), [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw) | [Magic boulevard](https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf) | 3:05 | 2022-05-12 |  |
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-05-05 | 2023-10-25 |
+| [Fuoco Sacro \(feat\. Colle Der Fomento\)](https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Fuoco Sacro \(feat\. Colle Der Fomento\)](https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj) | 4:47 | 2024-01-04 |  |
 | [Fuori di qua \- 2022 Remastered](https://open.spotify.com/track/3M1k8jBtXbbx7Mpuy4hyuR) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Fuori di qua! \(Stories\) \[2022 Remastered\]](https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn) | 3:56 | 2022-05-05 | 2022-07-29 |
 | [Ghetto Master \(La Mattanza\)](https://open.spotify.com/track/2JIvVxNnDoD7Xo8P1oFiTl) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/434YYdIpKD5qonaSMNBM98) | [Ghetto Master \(La Mattanza\)](https://open.spotify.com/album/6PuiDaep9vUmivUEjsZHNn) | 2:38 | 2022-05-05 | 2022-05-22 |
 | [Ghettoblaster](https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Stokka](https://open.spotify.com/artist/4J7IDFi8WMrs8WpGnh8geP), [Mad Buddy](https://open.spotify.com/artist/1xB5wW9mLQM0q8FEqY8OAJ), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0) | [60 Hz](https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO) | 5:11 | 2022-05-05 | 2023-05-26 |
@@ -145,7 +146,7 @@
 | [KnockOut](https://open.spotify.com/track/4f7UParyMjj7ERp6xtnZur) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Nyvek](https://open.spotify.com/artist/36CXk6swlo9eKfqj5mkaeO), [Wiser Keegan](https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur), [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [KnockOut](https://open.spotify.com/album/423EeGdSywHgtEKArX9pCC) | 3:24 | 2023-11-30 | 2023-12-22 |
 | [Kojima](https://open.spotify.com/track/2ADu47LHn7w7B9iNvgwadZ) | [Pufuleti](https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A), [Zutera](https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0) | [Kojima](https://open.spotify.com/album/2YJSVXhcMTd6Ft8Rol8fUH) | 2:06 | 2022-08-26 | 2022-09-23 |
 | [L'Anima Giusta](https://open.spotify.com/track/66LvacHJCJWy11UemxShz7) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 4:13 | 2022-05-05 |  |
-| [L'attimo esatto](https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali \(Deluxe\)](https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa) | 3:45 | 2023-01-19 |  |
+| [L'attimo esatto](https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali \(Deluxe\)](https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa) | 3:45 | 2023-01-19 | 2024-01-05 |
 | [L'avventura di due sposi](https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Carlo Corallo](https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt), [James Logan](https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [L'avventura di due sposi](https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd) | 3:53 | 2023-10-19 |  |
 | [L'ELICOTTERO SUL BOSCO](https://open.spotify.com/track/1OLOiaFk7AdHIlLoCUM74D) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [L'ELICOTTERO SUL BOSCO](https://open.spotify.com/album/0q0OFv4Gboexr3bzfJkSxK) | 3:21 | 2022-07-21 | 2022-07-25 |
 | [L'uomo dei sogni](https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [CHIODI](https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9) | 4:08 | 2022-06-14 |  |

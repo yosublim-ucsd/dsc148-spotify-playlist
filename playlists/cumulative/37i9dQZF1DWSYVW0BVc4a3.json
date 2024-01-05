@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -1179,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Barbarian",
+        "url": "https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm"
+    },
+    {
+      "album": {
         "name": "Baron",
         "url": "https://open.spotify.com/album/5KdqH77dbjIdJ80Cj1Ird8"
       },
@@ -1511,6 +1533,40 @@
     },
     {
       "album": {
+        "name": "Bololo (Remixes)",
+        "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/0DdbrsAMsJHh1EFRkrVmzb"
+        },
+        {
+          "name": "Francesco V",
+          "url": "https://open.spotify.com/artist/6MrtkunYTDdVAjtH4cHjLb"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143255,
+      "name": "Bololo - MichaelBM & Francesco V Remix",
+      "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "album": {
         "name": "Bon Trip",
         "url": "https://open.spotify.com/album/2Mmsb8bBd17AgrB6O2NQKx"
       },
@@ -1694,6 +1750,24 @@
       "duration_ms": 330500,
       "name": "Bro Wtf",
       "url": "https://open.spotify.com/track/6RFVEhmTcIYTyV4iTelALw"
+    },
+    {
+      "album": {
+        "name": "Broke Man",
+        "url": "https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342717,
+      "name": "Broke Man",
+      "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
     },
     {
       "album": {
@@ -2662,7 +2736,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
@@ -2814,7 +2888,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
@@ -3494,7 +3568,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 243909,
       "name": "Donic",
       "url": "https://open.spotify.com/track/5MIydDQ8VFDJrHbzxLboVT"
@@ -3524,6 +3598,32 @@
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236975,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
     },
     {
       "album": {
@@ -4483,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "album": {
         "name": "From a World to Another",
         "url": "https://open.spotify.com/album/0rWma4mIzxjq7TEmsN56nK"
       },
@@ -4694,7 +4812,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 327593,
       "name": "GET TUSSI - CLUB MIX",
       "url": "https://open.spotify.com/track/69b9Gd41v8EwhltyaIYz8R"
@@ -5712,7 +5830,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 185213,
       "name": "Hurt You - AN21 Mix",
       "url": "https://open.spotify.com/track/0oEThl1m4VSYqrGz2IHCPs"
@@ -7008,6 +7126,36 @@
       "duration_ms": 286387,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh"
+    },
+    {
+      "album": {
+        "name": "Let You Go (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/1B6Cr6HAPrqmP2B9wvcpYj"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "AunA",
+          "url": "https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Let You Go - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/2Mi3VViZL1ty4BZJUdhRhH"
     },
     {
       "album": {
@@ -8914,7 +9062,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 418528,
       "name": "Night After Night - CamelPhat Remix",
       "url": "https://open.spotify.com/track/2Nq06gpBMrjYnBLpi0cNYy"
@@ -10040,7 +10188,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
@@ -10416,6 +10564,24 @@
       "duration_ms": 333658,
       "name": "Renegade - Adam Ten & Mita Gami Remix",
       "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
+    },
+    {
+      "album": {
+        "name": "Respirando",
+        "url": "https://open.spotify.com/album/4e25OhfEzHKVO55cdxrGeN"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247619,
+      "name": "Respirando - VIP Mix / Radio Edit",
+      "url": "https://open.spotify.com/track/1CClIAcSZPnnv6pzUxec9R"
     },
     {
       "album": {
@@ -11444,7 +11610,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 206445,
       "name": "Simply Won't Do",
       "url": "https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa"
@@ -11646,7 +11812,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 241153,
       "name": "Slingshot",
       "url": "https://open.spotify.com/track/6F5XAqtXZ09t626dA6Ap4u"
@@ -11672,7 +11838,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
@@ -11974,7 +12140,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 187200,
       "name": "Sorry (with Madonna) - Miss Monique Remix",
       "url": "https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL"
@@ -13378,7 +13544,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 404875,
       "name": "The Signal - Day Mix",
       "url": "https://open.spotify.com/track/3arUvQCkg6Q3lYpVmgANsU"
@@ -13980,6 +14146,32 @@
       "duration_ms": 178969,
       "name": "Together (feat. Queen Rose)",
       "url": "https://open.spotify.com/track/5tbKjkHYB93WVpFDt5dqSV"
+    },
+    {
+      "album": {
+        "name": "Tontoron Tonton (Vlado & Rockywhereyoubeen Remix)",
+        "url": "https://open.spotify.com/album/66mbvl4eeLvyvM7umCzsac"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278225,
+      "name": "Tontoron Tonton - Vlado & Rockywhereyoubeen Remix",
+      "url": "https://open.spotify.com/track/5Ee8ES72Vh06MDIRleMYkA"
     },
     {
       "album": {

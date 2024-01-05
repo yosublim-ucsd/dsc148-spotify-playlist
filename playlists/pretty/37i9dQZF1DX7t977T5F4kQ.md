@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1?si=TOzAEf6yTvWEDysOJWHqPA"> Olivetheboy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,483 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,499 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 |
 | 85 | [Gbemidebe](https://open.spotify.com/track/7GnTsvc6WXJLnc94DT8wCG) | [Demmi](https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk), [The Ganyo](https://open.spotify.com/artist/1XRErztmwGC9jKhzkxLlJx) | [Dawn](https://open.spotify.com/album/6zJfi1Ey442LFULpxma6vS) | 2:28 |
 
-Snapshot ID: `MCxhNjdkZDg1MDViZmQxMmE4ZmQ1YjA2ODQ5OGEzYjQxYjU2MzQyYzIy`
+Snapshot ID: `MCxjOTk1Zjg3OWY4YTA3MTNhOWE3ZTExMWJjM2YwYWFmOGUyMGEzZjc1`

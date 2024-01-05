@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Los Bendecidos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,599 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,724 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 5 | [De La Mata](https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [De La Mata](https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0) | 2:40 |
 | 6 | [Noviembre](https://open.spotify.com/track/4dovzpehTgRhQjLfmOTGKE) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Noviembre](https://open.spotify.com/album/5BKObDBIwXjmdMZY4HFmsa) | 2:20 |
 | 7 | [Fast Money](https://open.spotify.com/track/7HLEbRRK4Iq7S7bUPctThw) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fast Money](https://open.spotify.com/album/63GZfJMhOCxvQ1bqibtN3e) | 2:44 |
-| 8 | [Recuerden](https://open.spotify.com/track/4bnUnhYQNux2wg8sULSBWZ) | [Hip Hop Venezolano](https://open.spotify.com/artist/2pT1e0myb5i98HTpnLXX6A), [Radio Macoña](https://open.spotify.com/artist/6CCH23nnQAl2HgJQpsvJ3e), [Jointer](https://open.spotify.com/artist/52A5MGEDcaaGX8sryGloEc), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B), [GATO GARCÍA](https://open.spotify.com/artist/4bnvbwGLz789ZjXnzKiJ5Y), [Zerouno csz](https://open.spotify.com/artist/1YOkmVxPJd5xM24YdRa3DU) | [Trascendencia \(Lado A\)](https://open.spotify.com/album/4HD3UJ6N9kq66xuttqrW4e) | 3:36 |
+| 8 | [Recuerden](https://open.spotify.com/track/4bnUnhYQNux2wg8sULSBWZ) | [Hip Hop Venezolano](https://open.spotify.com/artist/2pT1e0myb5i98HTpnLXX6A), [Jointer](https://open.spotify.com/artist/52A5MGEDcaaGX8sryGloEc), [Radio Macoña](https://open.spotify.com/artist/6CCH23nnQAl2HgJQpsvJ3e), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B), [GATO GARCÍA](https://open.spotify.com/artist/4bnvbwGLz789ZjXnzKiJ5Y), [Zerouno csz](https://open.spotify.com/artist/1YOkmVxPJd5xM24YdRa3DU) | [Trascendencia \(Lado A\)](https://open.spotify.com/album/4HD3UJ6N9kq66xuttqrW4e) | 3:36 |
 | 9 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 |
 | 10 | [Alzypher Vol\. 16](https://open.spotify.com/track/5u89qLN3SSj4jELsCLZ61K) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Alzypher Vol\. 16](https://open.spotify.com/album/4yKlBRqB6qCAoZzQPcBZeg) | 2:19 |
 | 11 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 100 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `MCw0Y2U2YWNkYjVkMGIyNzM3MDAzMmYzN2MyMzhjOTU5MTdhNzkyODk1`
+Snapshot ID: `MCwxNzNkYjlhODQ1Y2RiNzcxNGU5NGI2MGI4MGM1MjFjMmYxMGMzNGMx`

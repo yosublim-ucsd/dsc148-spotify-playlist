@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308038,
+  "num_followers": 308053,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTcwOWE1MzdmYzQ0NzMyMjlmZTVlYWQzZjY2MjA5MTY1OTI4MGRk",
+  "snapshot_id": "MCwzM2Y2NWM1N2I1NzExOTUwMzY5ZTJiMWMyMDM0MjkwZDJjNjUwYzI4",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 235740,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Djavan",
         "url": "https://open.spotify.com/album/7FrPBgxnDtKXFF0fDo02VU"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 269909,
       "name": "Djavan",
       "url": "https://open.spotify.com/track/5qvHuqSk7uQmHWyGLn58LE"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 235740,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Playlist Transante",
-        "url": "https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS"
+        "name": "Contato",
+        "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
       },
       "artists": [
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         },
         {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 197494,
-      "name": "Playlist Transante",
-      "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
+      "duration_ms": 193971,
+      "name": "Fala",
+      "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
     }
   ],
   "unique_name": "Rala e Rola",

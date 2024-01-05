@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 144000,
       "name": "Kruddy",
       "url": "https://open.spotify.com/track/0gxCaMPURIuLdhBzEkccIK"
@@ -4130,6 +4130,28 @@
       "duration_ms": 228927,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0D33xYNKDKQ7HIbDKkPOFy"
+    },
+    {
+      "album": {
+        "name": "Navigate",
+        "url": "https://open.spotify.com/album/3vWLw691e8qxZp9fKedyjZ"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Variation",
+      "url": "https://open.spotify.com/track/0QMpZlncJmcReaAyVZ27Fk"
     },
     {
       "album": {

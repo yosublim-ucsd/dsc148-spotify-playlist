@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-240 songs - 14 hr 47 min
+241 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [If I Knew \- Instrumental](https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Short Trip Home](https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA) | 4:04 | 2021-12-03 |  |
 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2021-12-03 | 2023-12-24 |
 | [In the Kitchen](https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/2DAoJjVCPS64NjFDpvN3Ud) | 4:11 | 2023-11-24 |  |
-| [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 | 2021-12-03 |  |
+| [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 | 2021-12-03 | 2024-01-05 |
 | [Jamboree](https://open.spotify.com/track/153MUfhVPtLQ6vpv91k9qH) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ) | [School Project](https://open.spotify.com/album/1AVQTlOkCpgYHUMyF7HxrG) | 2:17 | 2023-11-24 |  |
 | [Jerusalem Ridge](https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Church Street Blues](https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb) | 3:27 | 2021-12-03 |  |
 | [Joshua](https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq) | [Act 1](https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf) | 2:37 | 2021-12-03 | 2023-02-06 |
@@ -132,6 +132,7 @@
 | [Just a Closer Walk With Thee](https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [New Highway \(Remastered\)](https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0) | 2:20 | 2023-03-03 | 2023-06-02 |
 | [Katmandu](https://open.spotify.com/track/7DlaaNwxmS99iypST4bTS0) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol\. 2](https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q) | 4:23 | 2021-12-03 | 2022-07-23 |
 | [Kimper County](https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Kimper County](https://open.spotify.com/album/7JliMRkz67DvdEhsldiCfV) | 4:01 | 2022-03-18 | 2022-10-25 |
+| [Last One on the Line](https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk) | 4:59 | 2023-11-24 |  |
 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-12-03 | 2023-12-24 |
 | [Leather Britches](https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t) | [Curtis McPeake](https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi), [Andy May](https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO) | [The Good Things \(Outweigh the Bad\)](https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE) | 1:24 | 2022-07-22 | 2023-05-06 |
 | [Leavin' Egypt \- Instrumental](https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr) | [Cedar Hill](https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05) | [New Chapter](https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3) | 3:08 | 2022-03-04 | 2023-03-14 |

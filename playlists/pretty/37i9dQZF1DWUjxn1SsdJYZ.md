@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KILY SAFARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,038 likes - 98 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,047 likes - 98 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 34 | [Please Explain](https://open.spotify.com/track/5w9lYiAZOOG2y1EfMHOXb3) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [Please Explain](https://open.spotify.com/album/2B3x1q4E17aIDbATRywkLu) | 5:27 |
 | 35 | [I'M HIM](https://open.spotify.com/track/4RORp4ME6jWic4il63VgvY) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [SPRING](https://open.spotify.com/album/7daufRMnOOB2v2CP1ev9cN) | 1:55 |
 | 36 | [PureBliss](https://open.spotify.com/track/5Ayd4929w0iPLDwlbhkFe5) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Better Late Than Never](https://open.spotify.com/album/77qFbya1FWPzS40DD5cviZ) | 2:03 |
-| 37 | [GANTZ \(feat\. EK\)](https://open.spotify.com/track/2NEYKsbrZn7K2eTsdyFU9L) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [GANTZ \(feat\. EK\)](https://open.spotify.com/album/3LiojQxWIZGce2OhlDp91a) | 3:30 |
+| 37 | [GANTZ](https://open.spotify.com/track/3GmvmgJMpwEQk2xjHLgKJV) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [GANTZ](https://open.spotify.com/album/3s5lXRGczkXMJf7yluVank) | 3:30 |
 | 38 | [Cleopatra](https://open.spotify.com/track/3Y11Cdb3yQqTlz6FyVmxQN) | [SHYY](https://open.spotify.com/artist/1YwahHQ8EJW7tM6z9hQci3), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Cleopatra](https://open.spotify.com/album/0DJs9ZbmZfELKebEReq8Du) | 2:15 |
 | 39 | [UH UH](https://open.spotify.com/track/6CoSZHbo5BMNY7NKtBvHYX) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [UH UH](https://open.spotify.com/album/6Dcnj6vb8Mdbf7bDT1VY2Q) | 2:05 |
 | 40 | [Queenstown](https://open.spotify.com/track/6L0MbYJhGk4XoEaZwWGVVw) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Queenstown](https://open.spotify.com/album/2oLD4argcWCIATfbaTBb3n) | 2:16 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 97 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 |
 | 98 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 
-Snapshot ID: `MCw2NWVlZmI0MTNjZmViZTE5NjM3OTViZmY3ZDgwMjUwNjAzZGI3ZjNm`
+Snapshot ID: `MCxjZTIyOWM1NmFjOGM3ODQ4MzUwOTEwMTNkMzkyOTEwYmJkY2FmNTIw`

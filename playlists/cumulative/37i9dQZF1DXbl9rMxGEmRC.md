@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-574 songs - 2 day 0 hr 57 min
+575 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Inno A Satana](https://open.spotify.com/track/3hKxsjBdyJmqOyNMgv2wOx) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 4:48 | 2022-07-13 | 2023-05-05 |
 | [Inno A Satana](https://open.spotify.com/track/4Q3fgTWAZjCM3qQrPhE2qT) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/0va7zHEUQixlEhLAFz2r63) | 4:48 | 2023-05-12 | 2023-07-04 |
 | [Insides Out](https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Insides Out](https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK) | 3:32 | 2022-09-09 |  |
+| [Intestinal Wrap](https://open.spotify.com/track/3GeJhc6lM7I5afCGTmREpb) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Boundless Domain](https://open.spotify.com/album/3SJSmyMIUDmSjpHGeZKxDG) | 3:24 | 2024-01-02 |  |
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 | 2023-07-13 |
 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 | 2022-09-01 | 2023-07-04 |
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
@@ -363,7 +364,7 @@
 | [One Word](https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [One Word](https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe) | 5:57 | 2023-12-15 |  |
 | [Only When I'm Breathing](https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart? \(Bonus Version\)](https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo) | 3:49 | 2023-12-15 |  |
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 | 2023-10-10 |
-| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 |  |
+| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 | 2024-01-05 |
 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 | 2023-11-17 |  |
 | [Out of the Light](https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY) | [Schizogen](https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA) | [Out of the Light](https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM) | 5:33 | 2023-12-15 |  |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 |  |

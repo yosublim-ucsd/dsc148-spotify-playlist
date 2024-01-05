@@ -1,13 +1,29 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 459279,
+  "num_followers": 459308,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmE3NDQ1N2Y1NDFhYmM2ZDFmYjFmZmQwYTcwOGM5ZjkzZGQ5ZDA1",
+  "snapshot_id": "MCw0NjhiZDdjZGZiZDBmMzQ3NjZmNmMxZjUwZGIxM2U2ZTE2MjQ4Njc0",
   "tracks": [
+    {
+      "added_at": "2024-01-04 19:26:35",
+      "album": {
+        "name": "DATA (Instrumental)",
+        "url": "https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 180103,
+      "name": "VOLVER (instrumental)",
+      "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+    },
     {
       "added_at": "2023-10-10 02:44:22",
       "album": {
@@ -89,6 +105,26 @@
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
+      "added_at": "2024-01-05 03:32:15",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON"
+      },
+      "artists": [
+        {
+          "name": "Sunareht",
+          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
+        },
+        {
+          "name": "Le Dom",
+          "url": "https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P"
+        }
+      ],
+      "duration_ms": 226118,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
+    },
+    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Transactional Relationship",
@@ -121,6 +157,22 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
+      "added_at": "2024-01-03 19:19:56",
+      "album": {
+        "name": "R U Guna Move",
+        "url": "https://open.spotify.com/album/3mTh8XaiVOGtGLsopbTbjU"
+      },
+      "artists": [
+        {
+          "name": "Venjent",
+          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+        }
+      ],
+      "duration_ms": 169248,
+      "name": "Create Machines",
+      "url": "https://open.spotify.com/track/7FOYuFCff3wYlAuO2m8zYe"
+    },
+    {
       "added_at": "2023-11-08 01:35:05",
       "album": {
         "name": "Zan",
@@ -151,38 +203,6 @@
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
-    },
-    {
-      "added_at": "2024-01-03 19:19:56",
-      "album": {
-        "name": "R U Guna Move",
-        "url": "https://open.spotify.com/album/3mTh8XaiVOGtGLsopbTbjU"
-      },
-      "artists": [
-        {
-          "name": "Venjent",
-          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
-        }
-      ],
-      "duration_ms": 169248,
-      "name": "Create Machines",
-      "url": "https://open.spotify.com/track/7FOYuFCff3wYlAuO2m8zYe"
-    },
-    {
-      "added_at": "2023-12-12 21:00:18",
-      "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 243664,
-      "name": "Bermondsey Bender",
-      "url": "https://open.spotify.com/track/2GOjnXqV31xkDYPSQrvLkT"
     },
     {
       "added_at": "2022-08-03 03:12:05",
@@ -541,22 +561,6 @@
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
-      "added_at": "2023-03-28 06:18:56",
-      "album": {
-        "name": "weirdbloom",
-        "url": "https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ"
-      },
-      "artists": [
-        {
-          "name": "Artur M Puga",
-          "url": "https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn"
-        }
-      ],
-      "duration_ms": 279816,
-      "name": "NPCs have feelings too",
-      "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
-    },
-    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Hondo (Remix)",
@@ -581,22 +585,6 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -615,6 +603,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2022-04-29 18:24:26",
@@ -665,22 +669,6 @@
       "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
     },
     {
-      "added_at": "2023-06-01 23:13:49",
-      "album": {
-        "name": "Circuitous",
-        "url": "https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby"
-      },
-      "artists": [
-        {
-          "name": "Afrikan Sciences",
-          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
-        }
-      ],
-      "duration_ms": 334798,
-      "name": "Circuitous",
-      "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
-    },
-    {
       "added_at": "2023-01-07 03:51:32",
       "album": {
         "name": "Crass",
@@ -713,22 +701,6 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2023-03-28 06:23:11",
-      "album": {
-        "name": "Extensions",
-        "url": "https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN"
-      },
-      "artists": [
-        {
-          "name": "Imp\u00e9rieux",
-          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
-        }
-      ],
-      "duration_ms": 252601,
-      "name": "Desert Viper",
-      "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
-    },
-    {
       "added_at": "2022-01-19 22:44:25",
       "album": {
         "name": "Fwd: Re: late (Ref.: karoshi)",
@@ -743,6 +715,22 @@
       "duration_ms": 361386,
       "name": "Fwd: Re: late (Ref.: karoshi)",
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
+      "added_at": "2023-03-28 06:23:11",
+      "album": {
+        "name": "Extensions",
+        "url": "https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN"
+      },
+      "artists": [
+        {
+          "name": "Imp\u00e9rieux",
+          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
+        }
+      ],
+      "duration_ms": 252601,
+      "name": "Desert Viper",
+      "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -851,6 +839,22 @@
       "duration_ms": 337194,
       "name": "Opak",
       "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
+    },
+    {
+      "added_at": "2023-12-12 21:00:18",
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "duration_ms": 243664,
+      "name": "Bermondsey Bender",
+      "url": "https://open.spotify.com/track/0vW7OH6FgumkWUgyHPFeRR"
     },
     {
       "added_at": "2023-05-24 02:20:35",

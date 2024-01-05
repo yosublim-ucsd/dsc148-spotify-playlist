@@ -1439,6 +1439,32 @@
     },
     {
       "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "HOOD (feat. Tedua)",
+      "url": "https://open.spotify.com/track/3Ah9P299vJePE9QPEBjGtv"
+    },
+    {
+      "album": {
         "name": "Il mio dawg",
         "url": "https://open.spotify.com/album/2SzZuyYZGp87OgalWyJHsb"
       },

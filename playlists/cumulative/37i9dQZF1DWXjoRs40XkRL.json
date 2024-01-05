@@ -2388,6 +2388,48 @@
     {
       "album": {
         "name": "Main Bharose",
+        "url": "https://open.spotify.com/album/43RF0ABJNj8UdrSoCnTR8S"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Naik",
+          "url": "https://open.spotify.com/artist/5LdF19BpLXsQs4ELTk8VXE"
+        },
+        {
+          "name": "Apurva Kulkarni",
+          "url": "https://open.spotify.com/artist/4Tk7SLs9my2CCDFmtzy6DU"
+        },
+        {
+          "name": "Gayatri Saraf",
+          "url": "https://open.spotify.com/artist/4iqlL57fSjUZQSAdzXVuaJ"
+        },
+        {
+          "name": "Mitali Satonkar",
+          "url": "https://open.spotify.com/artist/20LOzy8HZRGv5rgjpYNt96"
+        },
+        {
+          "name": "Rushali Khirwadkar",
+          "url": "https://open.spotify.com/artist/5OThH9A9IYu8IkhPy7i4kb"
+        },
+        {
+          "name": "Sanika Phadke",
+          "url": "https://open.spotify.com/artist/46RzK6ES4M0yVhR5cboSq1"
+        },
+        {
+          "name": "Shivani Kulkarni",
+          "url": "https://open.spotify.com/artist/7EHToNUH8VQB5ZXbGuNP0N"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325318,
+      "name": "Main Bharose",
+      "url": "https://open.spotify.com/track/1TIzMi4wEFsKqgQC6Zq9pD"
+    },
+    {
+      "album": {
+        "name": "Main Bharose",
         "url": "https://open.spotify.com/album/1ppMNvQmMiDiQBJjWL06zS"
       },
       "artists": [
@@ -2422,7 +2464,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 325318,
       "name": "Main Bharose",
       "url": "https://open.spotify.com/track/33AshJyW3Wu1iKtTLoD8AW"
@@ -4334,10 +4376,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 300537,
       "name": "Shalimar",
       "url": "https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI"
+    },
+    {
+      "album": {
+        "name": "Shalimar",
+        "url": "https://open.spotify.com/album/0Bxk2bMpkm3VRbhSJKaOta"
+      },
+      "artists": [
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300537,
+      "name": "Shalimar",
+      "url": "https://open.spotify.com/track/7FQydG9BiGii1eyKEkmvLD"
     },
     {
       "album": {

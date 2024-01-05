@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 120399,
+  "num_followers": 121136,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVmZDc3YzQ1YTJlMTYxYzA4OThiOTI2MDUzM2YxMmYxZDJiMjcy",
+  "snapshot_id": "MCxhZGZiY2JlYmE2MzY4MzllMDY3M2Q3Mzg2ODlmZmQyNTUyZGY1MzNl",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Stickin' (feat. Masego & VanJess)",
         "url": "https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB"
       },
@@ -1115,26 +1135,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Queen Tings (Santi Remix)",
         "url": "https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Coco Blood",
-        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 215848,
-      "name": "Coco Blood",
-      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Let The Morning Come",
         "url": "https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Coco Blood",
+        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 215848,
+      "name": "Coco Blood",
+      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
-      },
-      "artists": [
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        },
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "So Bad (feat. HAIM)",
-      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Love Me Like (feat. DUCKWRTH)",
         "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 164745,
       "name": "Love Me Like (feat. DUCKWRTH)",
       "url": "https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "So Bad (feat. HAIM)",
+      "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "sukkerspinn & hodepine (Del 2)",
         "url": "https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0"
       },
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Sweet Insomnia",
-        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Compromise (feat. Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 195572,
       "name": "21",
       "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 194831,
       "name": "like you",
       "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",

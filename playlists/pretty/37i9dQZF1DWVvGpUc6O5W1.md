@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,740 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,772 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 86 | [Me Enamoras](https://open.spotify.com/track/3UHdYZVfVsWVpPtv0k5JQm) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Quiero Ser Tu Dueño](https://open.spotify.com/album/6Tvn0zXKNlKZUisPepycYG) | 2:52 |
 | 87 | [Claro](https://open.spotify.com/track/3nztdzVzO5c4tn2fHMCw7l) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 3:41 |
 | 88 | [Me Dolio](https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 3:00 |
-| 89 | [No Pidas Tantos Besos](https://open.spotify.com/track/4DqWHaLn57FD9pjA6XskNe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [La Verdadera Joya](https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF) | 2:42 |
-| 90 | [Para Que No Te Lo Imagines](https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Para Que No Te Lo Imagines](https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr) | 3:00 |
+| 89 | [Para Que No Te Lo Imagines](https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Para Que No Te Lo Imagines](https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr) | 3:00 |
+| 90 | [No Pidas Tantos Besos](https://open.spotify.com/track/4DqWHaLn57FD9pjA6XskNe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [La Verdadera Joya](https://open.spotify.com/album/3tAJ4bxsREayc87SIzSLgF) | 2:42 |
 | 91 | [No Es Un Juego](https://open.spotify.com/track/4brAkdbamMA7UuS0IEjiRZ) | [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [No Es Un Juego](https://open.spotify.com/album/0H8HvLS6Gv0ZStVuZiz9jD) | 3:36 |
 | 92 | [Tu Frágil Desnudez](https://open.spotify.com/track/2X7pK6x3eAR8hP0Lg4Ejb7) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 3:03 |
 | 93 | [Sin Ganas De Cenar \(Banda\)](https://open.spotify.com/track/72OxyG9p9Yyd4jWFBWV9FX) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Capaz de Todo](https://open.spotify.com/album/4IwstpJh76BsS12JPKXuxq) | 3:41 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 122 | [Me Toca Llorar](https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Quedamos](https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA) | 2:53 |
 | 123 | [No Quieren](https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 2:18 |
 | 124 | [Te Descuidaste](https://open.spotify.com/track/4gHsaRdzzmJ5YeGXRGnA0I) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Chicas Malas](https://open.spotify.com/album/2xLZeRTFP8qtCpGEP6Ij5e) | 3:35 |
-| 125 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
-| 126 | [No Merecías Tanto Amor](https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 3:29 |
+| 125 | [No Merecías Tanto Amor](https://open.spotify.com/track/1UsZoJEQqZ1XlH8jbxBoJw) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 3:29 |
+| 126 | [Chaparrita de Mi Amor](https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc) | [Luis y Julián Jr.](https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP) | [Homenaje a Nuestros Viejos](https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG) | 3:07 |
 | 127 | [Me Está Gustando](https://open.spotify.com/track/5bgdBDUaIWHabyVJYvJ60G) | [Eduardo Cabral](https://open.spotify.com/artist/5kLm9wfd9SlurOr1INOgFB) | [Me Está Gustando](https://open.spotify.com/album/6ZgG6YA8IDX5cSG2g8J76q) | 2:36 |
 | 128 | [El Shake \(feat\. Las Cumbia Girls\)](https://open.spotify.com/track/0h51QJSvVN3KTEe2SnBCbn) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Las Cumbia Girls](https://open.spotify.com/artist/62Q3pEV06xLxzApKPoMg0D) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 3:03 |
 | 129 | [No Te Quedes Con la Duda](https://open.spotify.com/track/7nDEn4gYqkKBznmC5bstSJ) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [No Te Quedes Con la Duda](https://open.spotify.com/album/62c6m1PDu6ZWB1p2XPT9lT) | 2:33 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 143 | [Si Tú Fueras Mía](https://open.spotify.com/track/0O0KpqeoegBvsTsrrso8jN) | [Norteño 4.5](https://open.spotify.com/artist/5R0uTYaJ08t5mODUEZgNoY) | [Y Lo Que Le Sigue](https://open.spotify.com/album/1AbdyqxuWnZrJlX1wHmmJo) | 3:06 |
 | 144 | [La Mejor Versión de Mi](https://open.spotify.com/track/7nu53ruv2tSg9zC90FA0cy) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:41 |
 | 145 | [Para Siempre](https://open.spotify.com/track/1H1MOSnAIVLImWFDlIFYjW) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Para Siempre](https://open.spotify.com/album/0l0tiUZGSfNroO6vuFSuzl) | 4:08 |
-| 146 | [Amor Puro](https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:45 |
-| 147 | [Que la Quieran](https://open.spotify.com/track/0oLrcolw7yV23WL5ppnMIp) | [Los De La Corona](https://open.spotify.com/artist/1zN8223xpqskBClxZG32Jw), [Francisco Chan](https://open.spotify.com/artist/3Oy3bSMncht3I8MgrDwv0Z) | [Que la Quieran](https://open.spotify.com/album/7MmnatJ6aSMaZb36CY5s2Q) | 3:06 |
+| 146 | [Que la Quieran](https://open.spotify.com/track/0oLrcolw7yV23WL5ppnMIp) | [Los De La Corona](https://open.spotify.com/artist/1zN8223xpqskBClxZG32Jw), [Francisco Chan](https://open.spotify.com/artist/3Oy3bSMncht3I8MgrDwv0Z) | [Que la Quieran](https://open.spotify.com/album/7MmnatJ6aSMaZb36CY5s2Q) | 3:06 |
+| 147 | [Amor Puro](https://open.spotify.com/track/0vm73PVeE1qthY2YyjS0S0) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Vete Acostumbrando \(Deluxe Edition\)](https://open.spotify.com/album/4PLGITwnM0rWky5uYVflOh) | 2:45 |
 | 148 | [Pude](https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA) | [Gabriel Diaz](https://open.spotify.com/artist/4FqkFAlXmpAJGOsc9k4GBO) | [Prohibido El Amor](https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9) | 3:20 |
 | 149 | [Más Loca Que Yo](https://open.spotify.com/track/5VUiQMg3cDaNVj1OZUSyGk) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 2:39 |
 | 150 | [Si Te Ven Conmigo](https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:25 |
 
-Snapshot ID: `MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4`
+Snapshot ID: `MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0`

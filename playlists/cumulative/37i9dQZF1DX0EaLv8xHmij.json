@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: F\u00faria",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: ogoin, Linguini",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -2182,6 +2182,28 @@
       "duration_ms": 191999,
       "name": "Drip De Bandz",
       "url": "https://open.spotify.com/track/1jwzzR8pffJhNZyQfLm72g"
+    },
+    {
+      "album": {
+        "name": "Ogoin & Linguini: TV Show",
+        "url": "https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202273,
+      "name": "Dudley Boyz",
+      "url": "https://open.spotify.com/track/0Pj8wKuf5TDRtQ5kv9mRtW"
     },
     {
       "album": {
@@ -5222,7 +5244,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 227791,
       "name": "Savana",
       "url": "https://open.spotify.com/track/4cmI1TDIYw4xv8L6ai6ShN"

@@ -4,12 +4,12 @@
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-434 songs - 23 hr 47 min
+435 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["CEVICHE"...](https://open.spotify.com/track/0Lhz8qMfRXQFoLYivW36cQ) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [THIS LAKE IS SUCCESSFUL](https://open.spotify.com/album/4AgoGCem8ILqsZS63YTmo3) | 2:58 | 2023-03-23 | 2023-04-14 |
-| [0 RÉPONSE](https://open.spotify.com/track/26dbD2N3kzwkTOEjjwqKt2) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [0 RÉPONSE](https://open.spotify.com/album/1tp6jz6x6f3bZegK5Dkndq) | 2:58 | 2023-11-23 |  |
+| [0 RÉPONSE](https://open.spotify.com/track/26dbD2N3kzwkTOEjjwqKt2) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [0 RÉPONSE](https://open.spotify.com/album/1tp6jz6x6f3bZegK5Dkndq) | 2:58 | 2023-11-23 | 2024-01-05 |
 | [1964](https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [1964](https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU) | 4:18 | 2022-04-28 | 2022-07-08 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-07 | 2022-06-03 |
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
@@ -161,6 +161,7 @@
 | [Honey](https://open.spotify.com/track/1BOv46ISdg4Xuv5Ou7M1cG) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Honey Please Be Soft & Tender](https://open.spotify.com/album/4QT6KOT5bn4560EwVH55hi) | 4:07 | 2021-12-16 | 2022-01-21 |
 | [Honey Pot](https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Honey Pot](https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z) | 3:21 | 2022-10-27 | 2023-02-10 |
 | [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 |  |
+| [HOPE YOU'LL FIND OUT](https://open.spotify.com/track/3q7Kc3SMI3yBnsfESjvnok) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOPE YOU'LL FIND OUT](https://open.spotify.com/album/4Vg1pFAFqhtUxw26brxhuE) | 3:46 | 2024-01-04 |  |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-02-16 | 2023-03-03 |
 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 | 2023-11-24 |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |

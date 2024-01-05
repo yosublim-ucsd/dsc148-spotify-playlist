@@ -1,28 +1,96 @@
 {
   "description": "Underground indie rock gems. Cover: Wednesday",
-  "num_followers": 293316,
+  "num_followers": 293348,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzk0ZGIwZjMyMGQ3M2M0OGEzZGU3ZTY3NjEyYmVlYjk4OWU1Zjcw",
+  "snapshot_id": "MCxhNjk4Nzg0YmRhNjdjNDYxMDgzMjE5YmQzNzE0NDY4M2RmOTZkNzAz",
   "tracks": [
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+        "name": "it's all the same to me .",
+        "url": "https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "a blue room",
+          "url": "https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0"
+        },
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
         }
       ],
-      "duration_ms": 247520,
-      "name": "Quarry",
-      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
+      "duration_ms": 225985,
+      "name": "it's all the same to me .",
+      "url": "https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Obstruction",
+        "url": "https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "Obstruction",
+      "url": "https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Soft Landing",
+        "url": "https://open.spotify.com/album/4gxwYu9L7CNEn1RqHewXJx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gebhardt",
+          "url": "https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA"
+        }
+      ],
+      "duration_ms": 173941,
+      "name": "Soft Landing",
+      "url": "https://open.spotify.com/track/62NdrxSg8YAdnnPikjZN8N"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Milk thistle",
+        "url": "https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8"
+      },
+      "artists": [
+        {
+          "name": "60 juno",
+          "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Milk thistle",
+      "url": "https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "kind",
+        "url": "https://open.spotify.com/album/48oMrS46I2wpHnv9j07RLx"
+      },
+      "artists": [
+        {
+          "name": "High Sunn",
+          "url": "https://open.spotify.com/artist/2zBwozgONxPvn5iOOwuO7g"
+        }
+      ],
+      "duration_ms": 238909,
+      "name": "kind",
+      "url": "https://open.spotify.com/track/5ttZib0IxapfdIeyCUtvcR"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -39,6 +107,22 @@
       "duration_ms": 274714,
       "name": "Dead Lands",
       "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -431,22 +515,6 @@
       "duration_ms": 180422,
       "name": "underneath",
       "url": "https://open.spotify.com/track/1gkAHeSzB8nVjA8baciVUQ"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 158374,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
     },
     {
       "added_at": "2023-12-08 17:28:54",
@@ -1559,74 +1627,6 @@
       "duration_ms": 265183,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Infinite Spring",
-        "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
-      },
-      "artists": [
-        {
-          "name": "Superviolet",
-          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Big Songbirds Don't Cry",
-      "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Love Lives Forever (BBC Sessions 2003 - 2011)",
-        "url": "https://open.spotify.com/album/7FMrGhU4N8ANuRjf7wsVxu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Johnston",
-          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Mountain Top (BBC Radio 1 Live Session)",
-      "url": "https://open.spotify.com/track/4BHbExhXdWKvJXsd6D5tk6"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Hot Things",
-        "url": "https://open.spotify.com/album/0KN38aCbmazAlM73rAnpyq"
-      },
-      "artists": [
-        {
-          "name": "Joiner",
-          "url": "https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d"
-        }
-      ],
-      "duration_ms": 258825,
-      "name": "Hot Things",
-      "url": "https://open.spotify.com/track/2KjkXKhalXNzDgO8QOqIzu"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Great Big Warm House",
-        "url": "https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm"
-      },
-      "artists": [
-        {
-          "name": "filous",
-          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
-        },
-        {
-          "name": "Golden Vessel",
-          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
-        }
-      ],
-      "duration_ms": 142651,
-      "name": "Great Big Warm House",
-      "url": "https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH"
     }
   ],
   "unique_name": "undercurrents",

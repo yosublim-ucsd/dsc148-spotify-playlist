@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-879 songs - 1 day 19 hr 45 min
+880 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [I Can't Explain It](https://open.spotify.com/track/3ik7GJDS05vxigLItkZUQ6) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill \(Deluxe\)](https://open.spotify.com/album/6DIrDW8OgvBr1B0tItaTxm) | 2:25 | 2022-08-06 | 2022-08-26 |
 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 | 2022-10-01 | 2023-12-16 |
 | [I Did It](https://open.spotify.com/track/46WvgmhHE4OE3g4oDAVrex) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [F'rael](https://open.spotify.com/artist/1bjGUP5zjge68RaUaBSPvW), [Nino Salas](https://open.spotify.com/artist/1VEG5CVdjFpXLzDAs3sEhP) | [I Did It](https://open.spotify.com/album/0UO9j7kRuJF2I4MiEniHTb) | 3:12 | 2022-10-14 | 2022-12-13 |
+| [I DONT EVEN WALK BY SIGHT \(IDEWBS\)](https://open.spotify.com/track/0phy1bFQHxebC37OtcXnLK) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [I DONT EVEN WALK BY SIGHT \(IDEWBS\)](https://open.spotify.com/album/1IZjA2Qh8W9Iwf2sKwmVJQ) | 2:30 | 2024-01-05 |  |
 | [I GET THIS?](https://open.spotify.com/track/5eFvHwmGYSPuJogHddWqKI) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [I GET THIS?](https://open.spotify.com/album/0MwCux4d1pQUooFfGvr9A3) | 2:45 | 2022-02-04 | 2022-07-26 |
 | [I LIKE THAT](https://open.spotify.com/track/3LLV32YyC64BtS9Bp0vnlD) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [I LIKE THAT](https://open.spotify.com/album/3R2JrfvI1bFbK3VUTBxIIx) | 3:37 | 2021-12-11 | 2022-04-27 |
 | [I Made It \(feat\. Xay Hill\)](https://open.spotify.com/track/7BMvXcjawgV2IYhflUhJZs) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [I Made It \(feat\. Xay Hill\)](https://open.spotify.com/album/5uH5AXivCEdRwtBmvsTY5w) | 2:48 | 2021-12-11 | 2022-04-28 |
@@ -526,7 +527,7 @@
 | [No Ceilings](https://open.spotify.com/track/1gp0U9OhufHHgoDl5qNJsp) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [No Limits](https://open.spotify.com/album/2miXyGveSEG0bGayLr9Q9T) | 1:53 | 2021-12-11 | 2022-01-31 |
 | [No Cholo \(feat\. 350 & F'rael\)](https://open.spotify.com/track/3FIeCXalAlSgdNPoCbUcls) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [F'rael](https://open.spotify.com/artist/1bjGUP5zjge68RaUaBSPvW), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [No Cholo \(feat\. 350 & F'rael\)](https://open.spotify.com/album/44eq2VcE3yrVu0A31PCIkN) | 2:10 | 2021-12-11 | 2022-01-27 |
 | [No Church In A While](https://open.spotify.com/track/6yCdMEIrxBXwH2EfPYopnv) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [No Church In A While](https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ) | 2:59 | 2021-12-11 | 2022-05-29 |
-| [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-03-25 |  |
+| [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-03-25 | 2024-01-05 |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-12 | 2022-08-07 |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-01-27 | 2023-08-26 |
 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 | 2022-09-11 | 2023-03-25 |

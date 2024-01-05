@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-406 songs - 15 hr 24 min
+408 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-09-08 |  |
 | [Lights Out](https://open.spotify.com/track/0kYQSFd5wZUOaxoe5CHsNY) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Lights Out](https://open.spotify.com/album/7sGsMM5RfNCcH3u4sfrwk8) | 2:12 | 2022-10-28 |  |
 | [Like a Chameleon](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Like a Chameleon](https://open.spotify.com/album/5oSBoD1IusxIf8wcn8P0du) | 1:59 | 2023-11-17 | 2023-12-15 |
+| [lilac hues](https://open.spotify.com/track/3BvhYWx13t0t1vVI1rGct9) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lilac hues](https://open.spotify.com/album/2nbROq5Bo1vlrNttd0CPYX) | 2:46 | 2024-01-05 |  |
 | [lite](https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [lite](https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ) | 1:59 | 2023-12-08 |  |
 | [Little Cloud](https://open.spotify.com/track/70GWHagnyrzyKf6e227ScK) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu) | [Little Cloud](https://open.spotify.com/album/6OIPgL6LLPAQVFX4CqWk7h) | 2:24 | 2022-09-09 | 2022-12-16 |
 | [Long Time](https://open.spotify.com/track/0LV7tvc3Y45H7w8Pf9VtVR) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Long Time](https://open.spotify.com/album/4sWW2iBS1PUFuQGiKmJdUc) | 2:00 | 2022-11-11 |  |
@@ -359,6 +360,7 @@
 | [Sun Course](https://open.spotify.com/track/5zd8kAM3NF6oPd4jJJzaJe) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Sun Course](https://open.spotify.com/album/64KBolf3eGaOVnzA0tv4TJ) | 1:52 | 2023-10-13 |  |
 | [Sun Day](https://open.spotify.com/track/5EIrJ59T18nnpxDBBn1yjJ) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Sun Day](https://open.spotify.com/album/1VjeX2hkfm4FZxixjy4I9A) | 1:54 | 2022-09-09 | 2023-01-20 |
 | [Sunflower Plaza](https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW) | [Lofi City Colours](https://open.spotify.com/artist/6LVXwiOOvFdK6cr6I1IEEV) | [Sunflower Plaza](https://open.spotify.com/album/3s40pZdRf3QWAXgBYR90Ke) | 2:51 | 2022-09-09 | 2022-09-30 |
+| [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |
 | [sunnyside](https://open.spotify.com/track/40JSfmfC3JDZjvNhUqAcjb) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [sunnyside](https://open.spotify.com/album/2ngUaBm5OsUKRRNKv58x6M) | 1:50 | 2022-09-09 | 2022-12-24 |
 | [sunset](https://open.spotify.com/track/2GfHkWBa1HHwo9OdTisl22) | [miroki](https://open.spotify.com/artist/4MuxvjwPudGqy8dvRJWqe4) | [sunset](https://open.spotify.com/album/5u6ppYQIUNMgqH8HZwPBGa) | 2:23 | 2023-12-08 |  |
 | [Sunset in L\. A.](https://open.spotify.com/track/3e9LUXxxDxo5Wai5ZL4g1N) | [b\-auu](https://open.spotify.com/artist/0mgcipbSSbhDQ5RhMcqi4j), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Sunset in L\. A.](https://open.spotify.com/album/2A5nLz0V0CipQLqxbMvSE1) | 2:14 | 2022-09-09 | 2023-09-05 |

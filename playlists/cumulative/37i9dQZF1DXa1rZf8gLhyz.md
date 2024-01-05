@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-457 songs - 23 hr 47 min
+462 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [First\-rate](https://open.spotify.com/track/3MJfmq7LwGPkzmFm0BBcph) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [First\-rate](https://open.spotify.com/album/6P8l5ZJ9uktJb9Shz2lnTM) | 3:14 | 2023-06-22 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flaming Katy](https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Flaming Katy](https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J) | 3:21 | 2023-09-22 |  |
+| [Flowers in the Morning](https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Flowers in the Morning](https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX) | 3:11 | 2024-01-05 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-01-05 |  |
@@ -138,6 +139,7 @@
 | [Four Casinos](https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Four Casinos](https://open.spotify.com/album/4h3c6zAo3Qj26fVX2Bmz2a) | 2:28 | 2023-05-25 |  |
 | [Friends And Strangers](https://open.spotify.com/track/6tZc3j3MwIP4dg4eiz6qgX) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Friends And Strangers](https://open.spotify.com/album/7zuHcKj8izOoEjfNUtuFjG) | 2:36 | 2023-04-13 |  |
 | [Full Moon Hike](https://open.spotify.com/track/3AtccUNxKL52a5RNrcd2bk) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Full Moon Hike](https://open.spotify.com/album/2jpf5Zh64f7t8Rn0XByGNa) | 2:23 | 2023-05-25 |  |
+| [Genil](https://open.spotify.com/track/3OEAQoD8wzqvmKgLXFhUYI) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Genil](https://open.spotify.com/album/68CUVHoFKWeYgv68RrMstw) | 2:41 | 2024-01-05 |  |
 | [Gentle Nightfall](https://open.spotify.com/track/4C7ShIQ1lzkwlwJhfCnXcD) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Gentle Nightfall](https://open.spotify.com/album/6NQyqE4zhqTlaLUcFgnHlK) | 3:53 | 2023-11-17 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2021-12-07 |  |
 | [Giant Steps](https://open.spotify.com/track/0DZTgBMJcZhfGi5WAhlaLM) | [Cato Connor](https://open.spotify.com/artist/0ScVxBaBLUG41oCsXpyhwJ) | [Giant Steps](https://open.spotify.com/album/3rfsMsMmXGie8emynmy2XA) | 2:50 | 2021-12-07 | 2022-04-12 |
@@ -255,6 +257,7 @@
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2022-10-06 |  |
 | [Mademoiselle](https://open.spotify.com/track/3rG8628IHuYUTbjFHoT1Rm) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Mademoiselle](https://open.spotify.com/album/2JMZHzAkjIVkNlBWqMBT6X) | 2:52 | 2023-11-17 |  |
 | [Mademoiselle de Paris](https://open.spotify.com/track/4glQlLaG9HCB1w15qrPYnn) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Mademoiselle de Paris](https://open.spotify.com/album/2MGgsKh8Vv7WfbuBwOMHfZ) | 2:01 | 2023-05-11 |  |
+| [Madison Avenue](https://open.spotify.com/track/04oey4VksjOx3oLQ5jRX0b) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Madison Avenue](https://open.spotify.com/album/2NUUhds2mneVXC8rsCpoqG) | 3:00 | 2024-01-05 |  |
 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
 | [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-02 |  |
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-01-04 |  |
@@ -336,6 +339,7 @@
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2022-09-13 |  |
 | [Second Time Around](https://open.spotify.com/track/6UVDL7iRD2koITeSrXeYo0) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [Second Time Around](https://open.spotify.com/album/7KJ6N0sOmOUq9oEH4TAoXZ) | 2:08 | 2023-12-22 |  |
+| [See you tomorrow](https://open.spotify.com/track/5ApP4J3IcZF6kFoldItSWy) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [See you tomorrow](https://open.spotify.com/album/7alzLpjhSmsL2Ixpc7WGgE) | 2:23 | 2024-01-05 |  |
 | [Sense of deja vu](https://open.spotify.com/track/6skHdCKQql2JWRHv7A6kY0) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Sense of deja vu](https://open.spotify.com/album/5xiZ8E2KJx45TZ8tRVfff7) | 2:51 | 2023-08-10 |  |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2021-12-07 |  |
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-01-12 |  |
@@ -392,6 +396,7 @@
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2023-03-16 |  |
 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 | 2021-12-07 |  |
 | [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 | 2023-05-04 |  |
+| [The Hills](https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [The Hills](https://open.spotify.com/album/2EpNaRXAmNdUmG3I40dJXv) | 2:48 | 2024-01-05 |  |
 | [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2023-06-01 |  |
 | [The Midday Heat](https://open.spotify.com/track/3o3lK3EBpwmyKrhUsLGyRB) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [The Midday Heat](https://open.spotify.com/album/1uEFsEsd3nBKIzVPhzeDfs) | 3:43 | 2021-12-07 |  |
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2021-12-07 |  |

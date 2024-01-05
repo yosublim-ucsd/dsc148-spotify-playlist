@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 132000,
       "name": "BLACK SHEEP",
       "url": "https://open.spotify.com/track/3LTn2xJNo1bjXTGPWzBm2m"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 181368,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/6uc4JPPkkoRy0qMGA4XdXC"
@@ -3365,6 +3365,28 @@
     },
     {
       "album": {
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/4YaVtmZTvCrrPI9uNiJSmT"
+      },
+      "artists": [
+        {
+          "name": "Reechdee",
+          "url": "https://open.spotify.com/artist/3PaWKH51rpBK83eeFtTQki"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/22cpDkwxFPGpD0zu0bhoyZ"
+    },
+    {
+      "album": {
         "name": "Escapism (feat. Fave & Tay Iwar)",
         "url": "https://open.spotify.com/album/1pXxUkUcfkvbCTeCRPRHVe"
       },
@@ -4110,7 +4132,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 153000,
       "name": "Healer",
       "url": "https://open.spotify.com/track/7wvFFjFIfQbwk0enwlTc8p"
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 173617,
       "name": "Home",
       "url": "https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak"
@@ -5470,7 +5492,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 97832,
       "name": "Lackin",
       "url": "https://open.spotify.com/track/4xChpii9VTLnxj7AM9DO0t"
@@ -5528,7 +5550,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 240000,
       "name": "Late Night On Lokko Street",
       "url": "https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO"
@@ -6816,7 +6838,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 101052,
       "name": "NEW SEASON",
       "url": "https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ"
@@ -9226,7 +9248,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 141818,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/4vW1HwzceCsO8EWA8YJSBu"
@@ -10394,7 +10416,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 163663,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM"
@@ -10784,7 +10806,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 146447,
       "name": "Wetin Dey",
       "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
@@ -10902,7 +10924,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 194649,
       "name": "Who Dey Shake - Cassellbeats Remix",
       "url": "https://open.spotify.com/track/7JzpzomGoQJAjMzSrUYbyc"

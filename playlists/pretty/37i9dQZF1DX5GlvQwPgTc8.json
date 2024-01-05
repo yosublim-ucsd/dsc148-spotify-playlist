@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdhYmFiMDM5YjNkOTA5ZTQ2Y2RmYzM4ZjFkMDA1MDcwNGI5NmVk",
+  "snapshot_id": "MCwwMmMwMjZkZDU3YTM3ODg2ZjYxMjU4MDM1OTdhYTFjYzE3YzA5MWY2",
   "tracks": [
     {
       "added_at": "2019-03-25 10:58:27",
@@ -101,26 +101,6 @@
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
-      "added_at": "2018-09-23 12:12:32",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
-    },
-    {
       "added_at": "2019-03-25 09:25:40",
       "album": {
         "name": "Sugar",
@@ -139,6 +119,26 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2018-09-23 12:12:32",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2019-11-04 12:23:05",
@@ -993,24 +993,24 @@
       "url": "https://open.spotify.com/track/0YNt1BzzwTwkeIMDciq7u0"
     },
     {
-      "added_at": "2019-02-03 06:56:37",
+      "added_at": "2020-09-07 09:37:59",
       "album": {
-        "name": "J'adore",
-        "url": "https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw"
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
       },
       "artists": [
         {
-          "name": "Four7",
-          "url": "https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Tiffany",
-          "url": "https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 308341,
-      "name": "J'adore",
-      "url": "https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx"
+      "duration_ms": 384555,
+      "name": "SBCNCSLY",
+      "url": "https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS"
     }
   ],
   "unique_name": "That Party Feeling",

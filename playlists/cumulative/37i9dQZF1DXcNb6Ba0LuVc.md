@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-476 songs - 18 hr 30 min
+477 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Homebound](https://open.spotify.com/track/7bqqQzMnUGjrauxOWTbZnH) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Marie](https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z) | 3:23 | 2021-11-11 | 2022-06-03 |
 | [honey](https://open.spotify.com/track/4Iru0dqCxenHmei8t6dTeN) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:40 | 2022-02-18 | 2022-09-17 |
 | [Honey BBQ](https://open.spotify.com/track/3gwrmMNE03XPOGf8PikAjX) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Honey BBQ](https://open.spotify.com/album/1FsCFzDQhtgugb0zaM02dG) | 1:57 | 2023-01-20 |  |
+| [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 | 2024-01-05 |  |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Hot Hot Stuff](https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Hot Hot Stuff](https://open.spotify.com/album/6nACjiFL7fZuIjraKoTvdX) | 2:01 | 2021-11-11 | 2023-09-08 |
 | [Hummingbirds](https://open.spotify.com/track/5TkKcXv3hkVsVKAc3x4Xjz) | [Dan Juno](https://open.spotify.com/artist/4XB8JAQw1Kturm4SPu6fgo) | [Hummingbirds](https://open.spotify.com/album/5diCic6lbgI1F1Seb7EhVF) | 2:36 | 2023-06-15 |  |

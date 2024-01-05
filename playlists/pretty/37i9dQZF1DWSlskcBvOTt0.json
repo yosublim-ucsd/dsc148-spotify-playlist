@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 437258,
+  "num_followers": 437508,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmY2YzQwNDhhNDExOWVmZGJkYzEzMjcyZWRkZjg3NjI1ZDMwNzA2",
+  "snapshot_id": "MCxhZTMxMmZlMjViYjI0Mzc5NzI2NWE3N2Q5ODFjZTcyZjU0MjNiNmZi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 268032,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 117539,
-      "name": "Si Te Portas Bonito - Edit",
-      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Carry On (EarthLife Remix)",
-        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
-        }
-      ],
-      "duration_ms": 218789,
-      "name": "Carry On - EarthLife Remix",
-      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Horizon Red",
         "url": "https://open.spotify.com/album/5OH8W2ZKQwvjRvxhlzuSCc"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 259672,
       "name": "Horizon Red",
       "url": "https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Carry On (EarthLife Remix)",
+        "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "Carry On - EarthLife Remix",
+      "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Alone (Stephan Jolk Remix)",
-        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Alone - Stephan Jolk Remix",
-      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "UUUU (&ME Remix)",
         "url": "https://open.spotify.com/album/6WcXcUljr548zs4lB6zWBb"
       },
@@ -1367,6 +1343,30 @@
       "duration_ms": 385103,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Alone (Stephan Jolk Remix)",
+        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Alone - Stephan Jolk Remix",
+      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 209031,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "3 Sense",
         "url": "https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 163278,
       "name": "3 Sense",
       "url": "https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 209031,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Human Aura",
         "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
-      },
-      "artists": [
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 222080,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Find U",
+        "url": "https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "duration_ms": 214864,
+      "name": "Find U",
+      "url": "https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Before The Flood (Ankho\u00ef Remix)",
         "url": "https://open.spotify.com/album/3G4VhXCiJY7gHFgFoQssyH"
       },
@@ -2295,22 +2311,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Find U",
-        "url": "https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9"
-      },
-      "artists": [
-        {
-          "name": "Disfreq",
-          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
-        }
-      ],
-      "duration_ms": 214864,
-      "name": "Find U",
-      "url": "https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7"
       },
@@ -2323,22 +2323,6 @@
       "duration_ms": 352986,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Sound of the Jungle (Pt. 6/6)",
-        "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 315418,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2359,6 +2343,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Sound of the Jungle (Pt. 6/6)",
+        "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 315418,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Haze EP",
         "url": "https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF"
       },
@@ -2371,22 +2371,6 @@
       "duration_ms": 183934,
       "name": "Haze",
       "url": "https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom"
-      },
-      "artists": [
-        {
-          "name": "Kora (CA)",
-          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
-        }
-      ],
-      "duration_ms": 454008,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2411,6 +2395,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom"
+      },
+      "artists": [
+        {
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        }
+      ],
+      "duration_ms": 454008,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Atacama (Edit)",
         "url": "https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX"
       },
@@ -2427,18 +2427,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Balafonerra",
-        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
+        "name": "Like Forever / Little Void",
+        "url": "https://open.spotify.com/album/6EByNISL8uFeS2mW1kVzVA"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 251465,
-      "name": "Balafonerra",
-      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
+      "duration_ms": 380621,
+      "name": "Like Forever",
+      "url": "https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2499,6 +2503,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Balafonerra",
+        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 251465,
+      "name": "Balafonerra",
+      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "I Feel Love (Monkey Safari Remix)",
         "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
       },
@@ -2523,42 +2543,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Like Forever / Little Void",
-        "url": "https://open.spotify.com/album/6EByNISL8uFeS2mW1kVzVA"
+        "name": "Amuse EP",
+        "url": "https://open.spotify.com/album/5RhrNAJ8VGK4X3hnvdQhXV"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 380621,
-      "name": "Like Forever",
-      "url": "https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Skogen",
-        "url": "https://open.spotify.com/album/1io9HEqbF6pvjJBkE3sOl8"
-      },
-      "artists": [
-        {
-          "name": "Pretty Output",
-          "url": "https://open.spotify.com/artist/4FAoJpn4ia94ewEqXftG5o"
-        },
-        {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        }
-      ],
-      "duration_ms": 310410,
-      "name": "Skogen",
-      "url": "https://open.spotify.com/track/3aTNVxSQEN83WqKYQNPLt5"
+      "duration_ms": 354098,
+      "name": "Amuse",
+      "url": "https://open.spotify.com/track/1qK9yeRfOQop2yj6wOqoLv"
     },
     {
       "added_at": "2023-12-15 05:00:00",

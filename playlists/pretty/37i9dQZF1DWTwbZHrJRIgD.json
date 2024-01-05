@@ -1,12 +1,12 @@
 {
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Tu Jhoothi Main Makkaar",
-  "num_followers": 288315,
+  "num_followers": 288559,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWYyMjY2NjE4NjY4NjY1NzcyNzZlODU3ZDE1Mjg3NWI0OGJkMDY2",
+  "snapshot_id": "MCw4NDQ1YzVjYjQ0MTk5NTI0NjdkOTg5YzkwNjhmZTUyMzYxZDc5ZDg5",
   "tracks": [
     {
       "added_at": "2024-01-02 04:31:10",
@@ -128,12 +128,24 @@
           "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         },
         {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
           "name": "Benny Dayal",
           "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
         },
         {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "duration_ms": 180172,

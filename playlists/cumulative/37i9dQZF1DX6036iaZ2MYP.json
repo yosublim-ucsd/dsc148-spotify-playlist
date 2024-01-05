@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Nelson Freitas",
+  "description": "Tracks popping off in the Afro scene. Cover: Babyboy AV",
   "name": "Afro Station",
   "tracks": [
     {
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 154040,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6kZkSWQOWE3zpekjg0Jrpq"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 156212,
       "name": "NO COMPETITION (feat. Asake)",
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
@@ -4250,6 +4250,24 @@
       "duration_ms": 123716,
       "name": "Organise",
       "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+    },
+    {
+      "album": {
+        "name": "Ouyeyeh",
+        "url": "https://open.spotify.com/album/3KNlxcz08C0Yv8DcLgOe3t"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126563,
+      "name": "Ouyeyeh",
+      "url": "https://open.spotify.com/track/7guW3M8QXGPOx1mMBwJB5V"
     },
     {
       "album": {
@@ -5622,6 +5640,24 @@
       "duration_ms": 160720,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/518491N44Ra47LhPOI9S1n"
+    },
+    {
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145031,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
     },
     {
       "album": {

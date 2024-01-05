@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-472 songs - 1 day 6 hr 15 min
+475 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-09-29 |  |
 | [All Of The Little Things I Know](https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All Of The Little Things I Know](https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG) | 4:51 | 2023-08-10 |  |
+| [All That's Left Is A Song](https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [All That's Left Is A Song](https://open.spotify.com/album/2FBgIfyayKTGoQijjiKW0N) | 2:45 | 2024-01-05 |  |
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-06-01 | 2022-10-28 |
 | [Almost Like Being in Love](https://open.spotify.com/track/4kJiHS82dfbCtJUbZjp0kL) | [110th Street Jazz Trio](https://open.spotify.com/artist/2iTyqgOU23gOA8FmtoqZhl) | [All Alone](https://open.spotify.com/album/5IULrSSu2oXE0tI1vQvDZY) | 4:53 | 2021-12-07 |  |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-03-03 |  |
@@ -305,6 +306,7 @@
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-06 |  |
 | [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [Nostalgic Days](https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Nostalgic Days](https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6) | 5:53 | 2023-08-10 |  |
+| [Not Enough Reason](https://open.spotify.com/track/0fg9IEvt4CpDAF2GRWDLB5) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Not Enough Reason](https://open.spotify.com/album/0orFxu3KTEjSH88fEG0n29) | 3:43 | 2024-01-05 |  |
 | [Not For You](https://open.spotify.com/track/0TkD1uo8sJpqhqhEM5m0Pk) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Not For You](https://open.spotify.com/album/0IOv54Aw3Vdji9dKE15IWJ) | 3:58 | 2023-12-08 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-08-11 |  |
 | [Nowhere To Go](https://open.spotify.com/track/30qiKII7quQgj7xBz9hL74) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Nowhere To Go](https://open.spotify.com/album/65hkYKJukpRB7kvDFbewtr) | 2:44 | 2023-08-10 |  |
@@ -428,6 +430,7 @@
 | [Turn Out the Stars](https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Turn Out the Stars](https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ) | 3:23 | 2021-12-07 |  |
 | [Twilight Tango](https://open.spotify.com/track/28OvNaGWpPXguj3JrP7j6y) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Twilight Tango](https://open.spotify.com/album/1mlBi3H00EBt2G5oEqBUGU) | 2:43 | 2023-11-24 |  |
 | [Up In Town](https://open.spotify.com/track/1Kvxzf1WFEdBkLuvGVwpjM) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Up In Town](https://open.spotify.com/album/5NOAzrUZ0U9HyZdZPEHxOH) | 4:17 | 2023-11-17 |  |
+| [Urban Jazz Chronicles](https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Urban Jazz Chronicles](https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0) | 3:41 | 2024-01-05 |  |
 | [Velvet Lounge Reverie](https://open.spotify.com/track/5ubFgdUwUuPtaNlMq0rgD6) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Velvet Lounge Reverie](https://open.spotify.com/album/3WQaiEOLo1bjvZwOUdqCAx) | 3:07 | 2023-12-08 |  |
 | [Verdi](https://open.spotify.com/track/1PkzwTamcxLX4xILLLPe2X) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verdi](https://open.spotify.com/album/1m2JnLJjMzWERe2uVhcR1y) | 3:45 | 2022-08-11 | 2023-10-06 |
 | [Very Early](https://open.spotify.com/track/2i6UvEb8X7i2oQTVHah3pV) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:27 | 2021-12-07 | 2022-06-01 |

@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 307100,
       "name": "Neo-Aspect",
       "url": "https://open.spotify.com/track/5cgXMOSZLF9lfbG7nrxF25"
@@ -6246,7 +6246,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 266413,
       "name": "\u681e",
       "url": "https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR"
@@ -6390,7 +6390,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 218866,
       "name": "\u78a7\u5929\u4f34\u8d70",
       "url": "https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv"
@@ -6492,6 +6492,24 @@
       "duration_ms": 304766,
       "name": "\u7d04\u675f",
       "url": "https://open.spotify.com/track/7rXA5MuwDku3tT0ABY7Amn"
+    },
+    {
+      "album": {
+        "name": "\u7d20\u6674\u3089\u3057\u304d\u4e16\u754c \u3067\u3082 \u3069\u3053\u306b\u3082\u306a\u3044\u5834\u6240",
+        "url": "https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268360,
+      "name": "\u7d20\u6674\u3089\u3057\u304d\u4e16\u754c \u3067\u3082 \u3069\u3053\u306b\u3082\u306a\u3044\u5834\u6240",
+      "url": "https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1"
     },
     {
       "album": {

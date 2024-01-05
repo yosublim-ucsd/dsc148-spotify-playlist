@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,946 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,031 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 7 | [Yafaso \(feat\. Villa\)](https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Dee Cee](https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt), [Villa](https://open.spotify.com/artist/0sZFV6TXt2oSQUfW37guTt) | [Yafaso \(feat\. Villa\)](https://open.spotify.com/album/3018AvgGDwngM2RRBueTgq) | 3:49 |
 | 8 | [Don't Wake Up \(Citizen Blaq Mix\) \(feat\. Sir Trill\)](https://open.spotify.com/track/577gR2DoV0c6ZUtkRRo36g) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Don't Wake Up \(Citizen Blaq Mix\) \(feat\. Sir Trill\)](https://open.spotify.com/album/0ot7uPauEdSTO2iwWfAdCX) | 5:33 |
 | 9 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 |
-| 10 | [Voices](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [Taru](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 |
+| 10 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 |
 | 11 | [Thonga Lami \- Gaudi Remix](https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Thonga Lami \(Gaudi Remix\)](https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL) | 5:51 |
 | 12 | [As You Are](https://open.spotify.com/track/7HEAAxdGcMiuXRRLSLeRxn) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C) | [As You Are](https://open.spotify.com/album/02CuyRkS6NjTil1vI6Dk1d) | 7:07 |
 | 13 | [Suka](https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [104 BPM](https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi) | [Suka](https://open.spotify.com/album/3DIvPF7rZfvZMCQJUpUON7) | 6:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 49 | [Umthandazo](https://open.spotify.com/track/4m3OLxVFU9Ba1QTFByKqPr) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Umthandazo](https://open.spotify.com/album/1jq2mKT01GdpCrSv4Ko7Go) | 6:11 |
 | 50 | [Qala Phansi](https://open.spotify.com/track/4vDi7OUpnU8AU6ux8nNBjA) | [LaSoulMates](https://open.spotify.com/artist/3JC7eRaM1eJZEr0ypKrryJ), [Que DJ](https://open.spotify.com/artist/6US33OdDB5JmPMRDo16547) | [Qala Phansi](https://open.spotify.com/album/5IgT9uVYSqiTJHOP29oEKu) | 5:57 |
 
-Snapshot ID: `MCxkODU3MDhkMDE2YzYxOWYzMTMyYjI3MzdkMzFiNDk3NjFiYzgwNjY5`
+Snapshot ID: `MCxmMjFkOTg1YjViYzYxMTNiM2I3OGExNTg0MDkyODFlZTc4MjI3NWM4`

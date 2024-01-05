@@ -2,7 +2,7 @@
 
 ### [Rock Favourites](https://open.spotify.com/playlist/37i9dQZF1DX4HwNAFq2CF0)
 
-> The hits that keep on rocking your world\. Cover: Måneskin
+> The hits that keep on rocking your world\. Cover: Avril Lavigne, YUNGBLUD
 
 133 songs - 8 hr 7 min
 

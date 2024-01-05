@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,669 likes - 148 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,718 likes - 148 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 7 | [daydreaming](https://open.spotify.com/track/1vanuicvdPJJFjJ2OYdLGI) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [daydreaming](https://open.spotify.com/album/7AKUxroCnX0EgGKKJ5moXU) | 5:13 |
 | 8 | [Still Day](https://open.spotify.com/track/1505n8rEQ4XBoiEXDoSbLc) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Rarities \- Piano](https://open.spotify.com/album/4uSxyDvTRZUvSElk9Rasza) | 2:23 |
 | 9 | [A Brief Silence](https://open.spotify.com/track/56BVuagoCX2UtxxZclPkW7) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence](https://open.spotify.com/album/2iAqb5d0RyhfozPm80ew6D) | 2:20 |
-| 10 | [Ripples \- Ambient Rework](https://open.spotify.com/track/5eOS4q21Ykr0xXlj2SIol0) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Andrew Simpson](https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU) | [Ripples \(Ambient Rework\)](https://open.spotify.com/album/4YjqtoSHa8ddrvL6nJzfxu) | 3:37 |
+| 10 | [Ripples \- Ambient Rework](https://open.spotify.com/track/70BoDJMyp0sdDXao92dqAp) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Andrew Simpson](https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU) | [Remixes of a Lockdown](https://open.spotify.com/album/6j119jGCBkVUiC7bobYn9C) | 3:37 |
 | 11 | [Snowdancer](https://open.spotify.com/track/6xtbN7FVNxuoC47OxlOUPi) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY), [Ambient Endeavors](https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W) | [Snowdancer](https://open.spotify.com/album/4syPT0qNBee66jH36u7SXe) | 4:10 |
 | 12 | [Fair Passage](https://open.spotify.com/track/4c9HQKG5IyaNByZGysAeqG) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Vivarium](https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz) | 2:19 |
 | 13 | [Mirrored](https://open.spotify.com/track/13h0RNAH8CdNaJwtaJhJtL) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Mirrored](https://open.spotify.com/album/7k9InSFsbW5RvarCLiB20W) | 2:21 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 147 | [Ordinary Bones](https://open.spotify.com/track/3LMB1SBK5SMdtFwGZ1AhGj) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:29 |
 | 148 | [We Came And Left](https://open.spotify.com/track/02Tb4Ftr6z6vrfzwOGYUfG) | [Cedric Vermue](https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh) | [Left Upon Us](https://open.spotify.com/album/2mvUfWFb1iPupKxdOK2fxh) | 5:41 |
 
-Snapshot ID: `MCw5YWUxODlmMWYwZjI2ZjI1ODM4YTkyMzNlNTZlOWE3MDIxOGEwOGUy`
+Snapshot ID: `MCw3ZDMzYmJjYmMwNDc1ZDU1OGRhZjllMzg3OGI1ZDQ5M2U0Y2JhMzY5`

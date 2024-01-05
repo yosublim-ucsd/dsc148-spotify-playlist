@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 197648,
       "name": "BAD POSITION",
       "url": "https://open.spotify.com/track/053RPxRYGZXuoPleZEwbfd"
@@ -5907,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q"
+    },
+    {
+      "album": {
         "name": "Hooked (Hot Stuff)",
         "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
       },
@@ -7668,7 +7686,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 166498,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr"
@@ -14128,6 +14146,24 @@
       "duration_ms": 124285,
       "name": "XXX",
       "url": "https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT"
+    },
+    {
+      "album": {
+        "name": "Jaw Drop",
+        "url": "https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w"
     },
     {
       "album": {

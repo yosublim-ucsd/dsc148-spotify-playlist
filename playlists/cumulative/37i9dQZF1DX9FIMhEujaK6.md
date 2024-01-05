@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-163 songs - 12 hr 46 min
+164 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2023-11-17 |  |
 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 | 2023-09-01 |  |
 | [Bloom!](https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3) | [Pavlov](https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu) | [Pink Bloom!](https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc) | 8:26 | 2021-10-15 | 2022-07-29 |
-| [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 | 2023-11-17 |  |
+| [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 | 2023-11-17 | 2024-01-05 |
 | [Both Of Us \- Jayda G Sunset Bliss Mix](https://open.spotify.com/track/4yzN4R8n4esAGQgRBlACH8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us \(Jayda G Sunset Bliss Mix\)](https://open.spotify.com/album/6sMkMbTp8E8LOxui7iMPPj) | 6:12 | 2021-10-15 | 2022-07-27 |
 | [British Summertime](https://open.spotify.com/track/6AWElb3A8ZE1iZe8PjuWix) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [From the Vaults 1998\-2006 Vol.2](https://open.spotify.com/album/33lBpS0mVv49w7EDw5BRiX) | 4:38 | 2022-07-20 | 2023-03-08 |
 | [Burnt Orange](https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 5:36 | 2021-10-15 | 2023-11-29 |
@@ -53,6 +53,7 @@
 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 | 2022-07-20 | 2023-09-02 |
 | [Grow \- Submotion Orchestra Remix](https://open.spotify.com/track/4Mu8rwtP51hn3MZjtIA6Dt) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Grow \(Submotion Orchestra Remix\)](https://open.spotify.com/album/0qRen0N25toBfBrPsTgCjC) | 3:11 | 2021-10-15 | 2023-11-17 |
 | [Hates Me](https://open.spotify.com/track/65TQTuti8fOntyi7NzXLTQ) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Hates Me](https://open.spotify.com/album/3hISp4YyeYVGRPvEM2j5E0) | 4:23 | 2021-10-15 | 2022-07-19 |
+| [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 | 2023-11-17 |  |
 | [Hayling](https://open.spotify.com/track/5ewsTJzfU5eiBLcGlaSrpG) | [FC Kahuna](https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg), [Hafdis Huld](https://open.spotify.com/artist/49gtDVpCBqLszTPkOy8idU) | [Machine Says Yes](https://open.spotify.com/album/2IHhaQat5XDDqjlU57CRPo) | 6:47 | 2022-07-20 | 2023-11-17 |
 | [Hayling](https://open.spotify.com/track/6ADH2LsNyV7DlrQlIMjA8N) | [FC Kahuna](https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg), [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Machine Says Yes](https://open.spotify.com/album/1Fk4mcqyY0knkJ3NKxHGIM) | 6:47 | 2022-07-20 | 2022-10-14 |
 | [He's On My Heart](https://open.spotify.com/track/6O66F7vtQHe2mE9gB7QqiT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 5:21 | 2021-10-15 | 2022-07-29 |

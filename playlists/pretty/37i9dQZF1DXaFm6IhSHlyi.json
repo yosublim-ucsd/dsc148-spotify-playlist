@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 143126,
+  "num_followers": 143143,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmViZjdjNWU1NGE0MmNmMDI5MDJiOWRmZWI4OTdkNjY1ODQ4YmM1",
+  "snapshot_id": "MCw4Y2JiZDBlYzQ2ZGI2NDE1ZTRmMDExMzQ0YzRlYTQyMzFmOGZmNGE5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Binalewala",
-        "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
-      },
-      "artists": [
-        {
-          "name": "Michael Dutchi Libranda",
-          "url": "https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8"
-        }
-      ],
-      "duration_ms": 268486,
-      "name": "Binalewala - Original Version",
-      "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Maula",
         "url": "https://open.spotify.com/album/1OIWkzjWFJuClJVm7DEry4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 238000,
       "name": "Maula",
       "url": "https://open.spotify.com/track/7pncFFzijtxIQtLpNwiAyO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Binalewala",
+        "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
+      },
+      "artists": [
+        {
+          "name": "Michael Dutchi Libranda",
+          "url": "https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8"
+        }
+      ],
+      "duration_ms": 268486,
+      "name": "Binalewala - Original Version",
+      "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dahan",
-        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Dahan",
-      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "What If I Told You That I Love You",
         "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
       },
@@ -951,26 +935,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u6469\u5929\u52d5\u7269\u5712",
-        "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
-      },
-      "artists": [
-        {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-        },
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 262597,
-      "name": "\u5225\u52c9\u5f37",
-      "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Title (Expanded Edition)",
         "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
       },
@@ -991,18 +955,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+        "name": "\u6469\u5929\u52d5\u7269\u5712",
+        "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        },
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
+      "duration_ms": 262597,
+      "name": "\u5225\u52c9\u5f37",
+      "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1019,6 +987,22 @@
       "duration_ms": 222666,
       "name": "Hilo Rojo",
       "url": "https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 192613,
       "name": "Ocean - Remix",
       "url": "https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/4kEVDvxSiBOBHxB3hR4iqz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u6cbf\u5fd7\u594f\u9022",
-        "url": "https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx"
-      },
-      "artists": [
-        {
-          "name": "Bank Band",
-          "url": "https://open.spotify.com/artist/5kbHObZlWoViBhC3p4EvZo"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "\u7cf8",
-      "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sa Paghimig Mo",
-        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
+        "name": "\u6cbf\u5fd7\u594f\u9022",
+        "url": "https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx"
       },
       "artists": [
         {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+          "name": "Bank Band",
+          "url": "https://open.spotify.com/artist/5kbHObZlWoViBhC3p4EvZo"
         }
       ],
-      "duration_ms": 236516,
-      "name": "Sa Paghimig Mo",
-      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+      "duration_ms": 284360,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1739,22 +1723,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Tilak",
-        "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bandook",
-          "url": "https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs"
-        }
-      ],
-      "duration_ms": 359290,
-      "name": "Tilak",
-      "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Al Kawn Janni Maak",
         "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
       },
@@ -1767,6 +1735,22 @@
       "duration_ms": 135060,
       "name": "Al Kawn Janni Maak",
       "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Tilak",
+        "url": "https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bandook",
+          "url": "https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs"
+        }
+      ],
+      "duration_ms": 359290,
+      "name": "Tilak",
+      "url": "https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1815,6 +1799,22 @@
       "duration_ms": 298000,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 236516,
+      "name": "Sa Paghimig Mo",
+      "url": "https://open.spotify.com/track/5VIXkOeKsZDYye15Xhr5sT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Love song",
-        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
-      },
-      "artists": [
-        {
-          "name": "J-JUN",
-          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Tender love",
-      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Flourishing",
         "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 241093,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Love song",
+        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Tender love",
+      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Obscured star",
-        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Cardamom Tea",
         "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 221714,
       "name": "Cardamom Tea",
       "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Obscured star",
+        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
-      },
-      "artists": [
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 228541,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 228541,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
     },
     {
       "added_at": "2022-10-17 15:00:00",

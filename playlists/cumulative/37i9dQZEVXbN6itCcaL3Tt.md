@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,507 songs - 3 day 5 hr 25 min
+1,508 songs - 3 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,6 +906,7 @@
 | [Nie Z Tego Świata](https://open.spotify.com/track/21kOVKmv0AQXAzZpqZr3Ql) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [Nie Z Tego Świata](https://open.spotify.com/album/7F88VSdKUmDByWngDi6P6c) | 3:15 | 2022-08-13 | 2022-08-21 |
 | [Niech mówią](https://open.spotify.com/track/40qD9qMnp7tmYJeNfncjiv) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Niech mówią](https://open.spotify.com/album/0tYj94tcXmYtVwTE2IL0gY) | 2:40 | 2023-08-13 | 2023-09-12 |
 | [Niedziela](https://open.spotify.com/track/4mFhy52M8GY8N2h5tlqdhW) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh), [Borucci](https://open.spotify.com/artist/6g2jl1lzwac64Q6pAI2PEt), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:25 | 2023-09-23 | 2023-10-07 |
+| [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/track/0JvlaGyGok0jMp8wCQhI9p) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/album/48f7zFPrWZT3Iaku5XQWIH) | 2:22 | 2024-01-04 |  |
 | [Nieskończoność](https://open.spotify.com/track/0koGAxnL8nNWLF6yOHn4NE) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [Mały Książę](https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt) | 2:51 | 2023-04-01 | 2023-04-09 |
 | [Nieskończoność](https://open.spotify.com/track/3j1a22N3VBL62Z1rUVJvTt) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [Nieskończoność](https://open.spotify.com/album/3F9UlUENDp2rTqPMwIs0xG) | 2:51 | 2023-02-02 | 2023-02-27 |
 | [NIETOPERZE](https://open.spotify.com/track/7yL315ekRVSzp62p0bOBGJ) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 3:05 | 2023-07-28 | 2023-07-31 |
@@ -1307,7 +1308,7 @@
 | [The End Fin Esc Abort](https://open.spotify.com/track/0ABWnYEkKDjtgc3vg8l5sB) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Młody Dron](https://open.spotify.com/artist/6YChScQJwIcM2FNH9M9etv), [Szamz](https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE) | [Fight Club](https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj) | 3:25 | 2021-04-01 | 2021-04-05 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-12 | 2022-10-14 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-01-01 | 2022-04-09 |
-| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-23 |  |
+| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-23 | 2024-01-05 |
 | [TIL FURTHER NOTICE](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-29 | 2023-07-31 |
 | [tired of love](https://open.spotify.com/track/1XwpWQUlkgArpGypJ8Cofn) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [<33](https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi) | 2:21 | 2023-09-09 | 2023-09-16 |
 | [To co masz Ty!](https://open.spotify.com/track/3RYR0I1GeqV3Qw5IgLcByW) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [To co masz Ty!](https://open.spotify.com/album/6ZmRlpg8x8sC0dW41ZjcKg) | 3:35 | 2022-10-09 | 2022-10-23 |

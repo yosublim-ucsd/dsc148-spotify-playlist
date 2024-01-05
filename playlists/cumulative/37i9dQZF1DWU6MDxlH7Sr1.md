@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-313 songs - 20 hr 8 min
+315 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-04-26 | 2022-06-09 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-04-26 | 2023-05-26 |
 | [It's Always You](https://open.spotify.com/track/2i7sJAA8we9WPS4TzDazRQ) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [It's Always You](https://open.spotify.com/album/5nHIEvhqTrblgGXsrDPiQJ) | 3:39 | 2022-08-10 | 2023-01-06 |
+| [It's Complicated](https://open.spotify.com/track/1BLlTzQGwfRBUPakc5EruZ) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [It's Complicated](https://open.spotify.com/album/21t5KX5n6BZKr0O3Jrgvfd) | 3:33 | 2024-01-05 |  |
 | [It's Not Forever](https://open.spotify.com/track/6qi3FFTVaIAZSQnQIoswUQ) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [It's Not Forever](https://open.spotify.com/album/1Va59mXaQclhCVDJ6Sor0L) | 3:26 | 2022-09-20 | 2023-01-06 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
@@ -239,6 +240,7 @@
 | [Sea Smoke](https://open.spotify.com/track/0eZ6EQ8ekEGV8URaCmS7ah) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [For Celia](https://open.spotify.com/album/3rx1K0Or8xmmwwFBK4bhMT) | 4:42 | 2022-04-26 | 2022-09-30 |
 | [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-06-08 |  |
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 | 2023-03-02 |
+| [Shadow Play](https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Shadow Play](https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN) | 3:45 | 2024-01-05 |  |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 | 2023-09-23 |
 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-04-26 | 2023-01-13 |
 | [Sincera](https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Sincera](https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj) | 2:38 | 2022-12-08 |  |

@@ -1269,6 +1269,32 @@
     },
     {
       "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D"
+      },
+      "artists": [
+        {
+          "name": "Baloji",
+          "url": "https://open.spotify.com/artist/5u45xl7D9HpJJvRo0joct8"
+        },
+        {
+          "name": "L'Orchestre De La Katuba",
+          "url": "https://open.spotify.com/artist/3a6w0yNtD8R5ithA8vo44N"
+        },
+        {
+          "name": "Kuku",
+          "url": "https://open.spotify.com/artist/0jsSBgwm0lKxe2zNfrSSoc"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322559,
+      "name": "Buy Africa",
+      "url": "https://open.spotify.com/track/6tmHvaDMluKUcSD1ncq2ta"
+    },
+    {
+      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -4656,7 +4682,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 328400,
       "name": "November",
       "url": "https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo"
@@ -4718,6 +4744,24 @@
       "duration_ms": 213137,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP"
+    },
+    {
+      "album": {
+        "name": "Survival Sounds",
+        "url": "https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB"
+      },
+      "artists": [
+        {
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218600,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK"
     },
     {
       "album": {
@@ -4924,6 +4968,24 @@
       "duration_ms": 177013,
       "name": "Pantyhose",
       "url": "https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132917,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el"
     },
     {
       "album": {
@@ -5700,6 +5762,24 @@
       "duration_ms": 203135,
       "name": "Searchin'",
       "url": "https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W"
+    },
+    {
+      "album": {
+        "name": "Not Real",
+        "url": "https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ"
+      },
+      "artists": [
+        {
+          "name": "Stealing Sheep",
+          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Sequence",
+      "url": "https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99"
     },
     {
       "album": {

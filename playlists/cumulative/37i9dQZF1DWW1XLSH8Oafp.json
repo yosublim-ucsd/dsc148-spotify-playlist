@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring Marlon Hoffstadt",
+  "description": "ur on the list bb \ud83e\ude90 featuring Shygirl",
   "name": "planet rave",
   "tracks": [
     {
@@ -100,6 +100,36 @@
       "duration_ms": 262773,
       "name": "1-800-GHETTOLICIOUS",
       "url": "https://open.spotify.com/track/7u6MpMQU3LujRn2rte9whp"
+    },
+    {
+      "album": {
+        "name": "10 Out Of 10 (feat. Kylie Minogue) [Marlon Hoffstadt aka DJ Daddy Trance Remix]",
+        "url": "https://open.spotify.com/album/5E1GLLCzq8Qm3gsntShZ49"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202129,
+      "name": "10 Out Of 10 (feat. Kylie Minogue) - Marlon Hoffstadt aka DJ Daddy Trance Remix",
+      "url": "https://open.spotify.com/track/6s1bYJu0LUw3aIPyUVQ1Wj"
     },
     {
       "album": {
@@ -428,7 +458,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 121359,
       "name": "A While Now",
       "url": "https://open.spotify.com/track/7IoaHWlY2nd7OQl79TVxoM"
@@ -2868,7 +2898,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 123196,
       "name": "COOL_DNB_SONG",
       "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
@@ -3462,7 +3492,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 168000,
       "name": "Distance",
       "url": "https://open.spotify.com/track/2Sc3ifpiaD9fKVYA6cKwiB"
@@ -3624,7 +3654,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 158117,
       "name": "dr34m3r",
       "url": "https://open.spotify.com/track/1EzIRJUKNOKl2jRDBoKOZL"
@@ -3971,6 +4001,28 @@
     },
     {
       "album": {
+        "name": "Elation (Otik Remix)",
+        "url": "https://open.spotify.com/album/192v3NGQFrR3p8PVYFhCbl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279925,
+      "name": "Elation - Otik Remix",
+      "url": "https://open.spotify.com/track/6DCmgTl86qBcjn6pjgGGZ5"
+    },
+    {
+      "album": {
         "name": "EMBER",
         "url": "https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky"
       },
@@ -4314,6 +4366,46 @@
       "duration_ms": 126000,
       "name": "f0rbiidden l0ve$tory",
       "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
+    },
+    {
+      "album": {
+        "name": "f@k\u20ac",
+        "url": "https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107250,
+      "name": "f@k\u20ac",
+      "url": "https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/50B35HNEevWOTWK8VQWzYB"
+      },
+      "artists": [
+        {
+          "name": "Electro-Light",
+          "url": "https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121509,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5Quc8LGzGQW5hLmCwwtLOY"
     },
     {
       "album": {
@@ -6574,7 +6666,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 128063,
       "name": "i dont mean no harm",
       "url": "https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH"
@@ -8294,7 +8386,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 159857,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2Y2a5PkzPN9vfxrqNI60m3"
@@ -10089,6 +10181,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
+    },
+    {
+      "album": {
         "name": "Past Time",
         "url": "https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9"
       },
@@ -11665,6 +11775,24 @@
     },
     {
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/2Ioum7eZHDUzp8N9CYzkZm"
+      },
+      "artists": [
+        {
+          "name": "Blimpmode",
+          "url": "https://open.spotify.com/artist/59vmlSpUxBFgi7EgV1nWN9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/4kYYqrroBKPHdLahIEb6vE"
+    },
+    {
+      "album": {
         "name": "The Sex EP",
         "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
       },
@@ -11864,7 +11992,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 156551,
       "name": "shy girl",
       "url": "https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf"
@@ -12086,7 +12214,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 256519,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v"
@@ -13049,6 +13177,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1yoqPoznkVxqXWYPHrXN2M"
+      },
+      "artists": [
+        {
+          "name": "Vuducru",
+          "url": "https://open.spotify.com/artist/5vNv3PGJXFcGbwCjlHcqpx"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168967,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0dTQcsPN8diGCNfZkUfP42"
+    },
+    {
+      "album": {
         "name": "Tell Me Your Fears",
         "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
       },
@@ -13122,6 +13268,24 @@
       "duration_ms": 178829,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/3SZGQebN9xqyh5cUbUD5fN"
+    },
+    {
+      "album": {
+        "name": "The Color Violet",
+        "url": "https://open.spotify.com/album/36dWBfIQbv0BDmQ95TWCnB"
+      },
+      "artists": [
+        {
+          "name": "DATSKO",
+          "url": "https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298584,
+      "name": "The Color Violet",
+      "url": "https://open.spotify.com/track/3aBOX8zZPFHEfugtg6Dtch"
     },
     {
       "album": {

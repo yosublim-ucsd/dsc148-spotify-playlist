@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 85713,
+  "num_followers": 85797,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODhlYmFmZDY0YzM2OTNjY2Q0NWQ5ODRkZDg0ODUyNjM5MWZhN2Zm",
+  "snapshot_id": "MCxlODVmZTQ1MzBmNWVmYjZhZTcyMzM3OWMwMWVhZDM5ODkyNTQxNTA5",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Achei um Bom Amigo",
         "url": "https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 208927,
       "name": "Achei um Bom Amigo",
       "url": "https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Ramalho",
-          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Entre Milh\u00f5es",
         "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 251000,
       "name": "Entre Milh\u00f5es",
       "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -459,42 +459,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        }
-      ],
-      "duration_ms": 279191,
-      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Sua Paz",
-        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -515,18 +479,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Me Ensina a Viver",
-        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
+        "name": "Sua Paz",
+        "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 310312,
-      "name": "Me Ensina a Viver",
-      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+        }
+      ],
+      "duration_ms": 279191,
+      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -547,6 +531,22 @@
       "duration_ms": 261290,
       "name": "Sopro de Deus",
       "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Me Ensina a Viver",
+        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 310312,
+      "name": "Me Ensina a Viver",
+      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Nasce o Sol (Remix)",
+        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Nasce o Sol - Remix",
+      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "S\u00f3 o Come\u00e7o",
         "url": "https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 284153,
       "name": "S\u00f3 o Come\u00e7o",
       "url": "https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Nasce o Sol (Remix)",
-        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Nasce o Sol - Remix",
-      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "O Amor de Deus",
         "url": "https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 156481,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -935,30 +935,6 @@
       "duration_ms": 219857,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "A Melhor Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
-      },
-      "artists": [
-        {
-          "name": "Coral Teen Cap",
-          "url": "https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Victoria Niza",
-          "url": "https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6"
-        }
-      ],
-      "duration_ms": 230727,
-      "name": "A Melhor Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1019,6 +995,30 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "A Melhor Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
+      },
+      "artists": [
+        {
+          "name": "Coral Teen Cap",
+          "url": "https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Victoria Niza",
+          "url": "https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6"
+        }
+      ],
+      "duration_ms": 230727,
+      "name": "A Melhor Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Tudo Novo",
         "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vilhena",
-          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
-        },
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sinal de Aviso",
         "url": "https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 195422,
       "name": "Sinal de Aviso",
       "url": "https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vilhena",
+          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
+        },
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
-      },
-      "artists": [
-        {
-          "name": "Jael Caroline",
-          "url": "https://open.spotify.com/artist/1VK1FCC4cFoAy90kXBtt7f"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
+      },
+      "artists": [
+        {
+          "name": "Jael Caroline",
+          "url": "https://open.spotify.com/artist/1VK1FCC4cFoAy90kXBtt7f"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -1451,6 +1419,38 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2023-12-22 03:00:00",

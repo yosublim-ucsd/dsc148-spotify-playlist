@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 789914,
+  "num_followers": 789963,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWJhMGE4YzA3YmY5OTIzYzc3Y2U2YjJjNGM1NDUxOGQyM2ZmZjY5",
+  "snapshot_id": "MCw3ZjU4NTc3OTgxNzk2MWIzZjRmMGFhODhiZWMxZGVmZDdhOWIzNWE2",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 178718,
-      "name": "Coisa Linda",
-      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 156970,
-      "name": "Vento Alecrim",
-      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+      "duration_ms": 178718,
+      "name": "Coisa Linda",
+      "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -455,6 +439,22 @@
       "duration_ms": 394706,
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156970,
+      "name": "Vento Alecrim",
+      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Estandarte",
         "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Musica para Churrasco, Vol. 2",
         "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267413,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -967,22 +967,18 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Ef\u00eamera",
-        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
+        "name": "Verdade (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
       },
       "artists": [
         {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Z\u00e9 Pi",
-          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 221253,
-      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
+      "duration_ms": 191254,
+      "name": "Potinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Verdade (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c"
+        "name": "Ef\u00eamera",
+        "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Z\u00e9 Pi",
+          "url": "https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM"
         }
       ],
-      "duration_ms": 191254,
-      "name": "Potinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/65Hf3gwW25JLOxqxJv6BjC"
+      "duration_ms": 221253,
+      "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
     },
     {
       "added_at": "2023-12-11 13:23:48",

@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes! Cover: Alessio
+> Motion & good vibes! Cover: ValsBezig
 
-833 songs - 1 day 13 hr 35 min
+834 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk) | 2:22 | 2022-09-29 | 2023-01-13 |
 | [Blow It All](https://open.spotify.com/track/4ctRvN6xv0tokJj6YXW0ms) | [Brackos](https://open.spotify.com/artist/2tgqUyyINzNSEX0cHwzUMq) | [Blow It All](https://open.spotify.com/album/75s5xM1KQ4oSc0L1YTnHbC) | 2:48 | 2023-11-02 | 2023-12-01 |
 | [BMS \(feat\. Henkie T\)](https://open.spotify.com/track/3W8JSq7pOdwMdKkFpoEU9N) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Knock Knock 4](https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f) | 3:28 | 2023-10-26 | 2023-12-22 |
-| [BOCA](https://open.spotify.com/track/3RB7BHWMR3lzKzpxV0HLeL) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG), [WEF](https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [BOCA](https://open.spotify.com/album/1Cx9Aef4Hqu026KazG5Wto) | 2:46 | 2023-11-30 |  |
+| [BOCA](https://open.spotify.com/track/3RB7BHWMR3lzKzpxV0HLeL) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG), [WEF](https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [BOCA](https://open.spotify.com/album/1Cx9Aef4Hqu026KazG5Wto) | 2:46 | 2023-11-30 | 2024-01-05 |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-01-19 | 2023-03-03 |
 | [Body 2 Body](https://open.spotify.com/track/3nZUuSajBjZLSuE8T5wiBL) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Body 2 Body](https://open.spotify.com/album/4zrmUS51yIS2ttZtS3WPRo) | 3:07 | 2023-08-10 | 2023-10-13 |
 | [Body On Top](https://open.spotify.com/track/3XzXpiHPDi8SMObGM0GEE7) | [Oscar Bando](https://open.spotify.com/artist/7yI53Ja9QcOFyqj8ezWR2Q), [Ross Thomson](https://open.spotify.com/artist/6kaDtlAFQg4Iki1hnsVKta) | [Body On Top](https://open.spotify.com/album/7nTc0du5lUgC0f32t7cIPp) | 2:19 | 2022-12-29 | 2023-01-13 |
@@ -394,6 +394,7 @@
 | [La Vida Loca](https://open.spotify.com/track/2In3xN9kujyxAWIz54jpxf) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [La Vida Loca](https://open.spotify.com/album/5tT02kwcuk7v5Jdgnmpqzc) | 2:01 | 2023-03-02 | 2023-03-31 |
 | [La Vida Loca](https://open.spotify.com/track/29lH6pPwUsKYGP5oyt3JQZ) | [Zwieberr](https://open.spotify.com/artist/2WLCp8EhZaB1f0Ljv5lzVK), [Guy](https://open.spotify.com/artist/3jqb9NazfolKHm0Js6T7tB) | [La Vida Loca](https://open.spotify.com/album/4UO53RgrV9wnmZEUL6hVw1) | 2:13 | 2022-12-15 | 2023-01-13 |
 | [La vie de rêve](https://open.spotify.com/track/5joUzFnW2GLrktOQpIswU6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:38 | 2022-12-12 | 2023-01-27 |
+| [Laat](https://open.spotify.com/track/2uZOGsbpfLwCHgBBKycpZx) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Laat](https://open.spotify.com/album/2DWJCCUl66SbxdndoJYc7V) | 2:20 | 2024-01-04 |  |
 | [Laat Dat](https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V), [Fastah Selectah](https://open.spotify.com/artist/1IB58gi0dQAvYcHoFuqwXT) | [Laat Dat](https://open.spotify.com/album/52crv8PIm3sJmJtqFOXkLU) | 2:21 | 2022-10-20 | 2023-01-27 |
 | [Laat Niet Los](https://open.spotify.com/track/0fSv9ttNPjT6syAff9NvhQ) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Pum Pum Power](https://open.spotify.com/album/3qSa5rF02TVsGzSqql9tyt) | 2:24 | 2023-11-02 |  |
 | [Lagos](https://open.spotify.com/track/6U4CdtoVCMKf4IWmzuwdJl) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V), [Briills](https://open.spotify.com/artist/5IV61MOkv5i5JK0F327AyS) | [Lagos](https://open.spotify.com/album/4pDSiXX8F8BT8zwgWuaaiu) | 2:16 | 2023-08-31 | 2023-12-01 |

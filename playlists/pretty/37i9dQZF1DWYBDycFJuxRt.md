@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 星野源 \*👉 <a href="https://spice.eplus.jp/articles/324821?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,585 likes - 79 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,661 likes - 79 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [Tokyo Under Construction](https://open.spotify.com/track/5HbTUAaixA61HUb3U9zdbj) | [DJ TANAKEN](https://open.spotify.com/artist/2JbB2acDrN9qLBVPNVMP81), [Rino Latina II](https://open.spotify.com/artist/6RdQUqN8PjAPmAK5zwz9Gh) | [Tokyo Under Construction](https://open.spotify.com/album/1glPK1RdCUs4u52tOKRc7p) | 2:36 |
 | 79 | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT) | 3:26 |
 
-Snapshot ID: `MCxmN2JjNzM2ZjM2N2FkNzlkZmRmMDYxZWFiMjY2OGJhNjEzNDkxYWZh`
+Snapshot ID: `MCwwOGUxMzAwZjY5NjU5YjMwNGQ1NDI1YjEwMDM3OWEyYjMwZjMwNzkz`

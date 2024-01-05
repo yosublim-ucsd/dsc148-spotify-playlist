@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Sophie Ellis-Bextor",
-  "num_followers": 136510,
+  "num_followers": 136584,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2ZmYTBkY2U5ZWM0MzQzZGE4MTRhYmIxOWM1OGNiOWZkY2VmZjY2",
+  "snapshot_id": "MCxjNjk1NGNhM2U0YmVjYmE2ZTRlMDI4MjQzNDMzYjA2YWIxMWU1NWY0",
   "tracks": [
     {
       "added_at": "2023-12-29 05:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 168695,
       "name": "Stop The Time",
       "url": "https://open.spotify.com/track/21PLu6RKamRrwSj3pOa6Ok"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "BODY PARTS (Full Frontal)",
+        "url": "https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "BODY PARTS (Full Frontal)",
+      "url": "https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5"
     },
     {
       "added_at": "2023-11-22 22:24:36",
@@ -109,20 +125,20 @@
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
     {
-      "added_at": "2023-11-22 22:24:36",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+        "name": "Jaw Drop",
+        "url": "https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
         }
       ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+      "duration_ms": 146680,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w"
     },
     {
       "added_at": "2023-11-22 22:24:36",
@@ -139,6 +155,22 @@
       "duration_ms": 149918,
       "name": "Rhinestone Heart",
       "url": "https://open.spotify.com/track/28TbRayU38hCt7vYvRbHM4"
+    },
+    {
+      "added_at": "2023-11-22 22:24:36",
+      "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -185,22 +217,6 @@
       "url": "https://open.spotify.com/track/76BUikFfXcbbOasPMbOCaZ"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "BODY PARTS (Full Frontal)",
-        "url": "https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "BODY PARTS (Full Frontal)",
-      "url": "https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5"
-    },
-    {
       "added_at": "2023-12-11 15:56:04",
       "album": {
         "name": "POP MUSIC",
@@ -215,6 +231,26 @@
       "duration_ms": 172031,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/0f4IgvYuSp3Ui1418ZZLoM"
+    },
+    {
+      "added_at": "2023-11-22 22:24:36",
+      "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
     },
     {
       "added_at": "2023-11-22 22:24:36",
@@ -253,24 +289,20 @@
       "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
     },
     {
-      "added_at": "2023-11-22 22:24:36",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Against The Wall",
-        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8"
       },
       "artists": [
         {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
         }
       ],
-      "duration_ms": 205061,
-      "name": "Against The Wall",
-      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
+      "duration_ms": 146979,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -711,26 +743,6 @@
     {
       "added_at": "2023-11-22 22:24:36",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 166498,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr"
-    },
-    {
-      "added_at": "2023-11-22 22:24:36",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
       },
@@ -811,22 +823,6 @@
       "duration_ms": 214068,
       "name": "SUCKER 4 GREEN",
       "url": "https://open.spotify.com/track/4C7qGYJ9vMAzX95o2xTdhA"
-    },
-    {
-      "added_at": "2023-11-22 22:24:36",
-      "album": {
-        "name": "BAD POSITION",
-        "url": "https://open.spotify.com/album/0vKib6orNSh7ke5dUK88Aa"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "BAD POSITION",
-      "url": "https://open.spotify.com/track/053RPxRYGZXuoPleZEwbfd"
     },
     {
       "added_at": "2023-11-22 22:24:36",

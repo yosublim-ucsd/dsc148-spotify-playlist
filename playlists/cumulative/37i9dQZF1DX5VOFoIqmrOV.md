@@ -2,9 +2,9 @@
 
 ### [Tollywood Pearls](https://open.spotify.com/playlist/37i9dQZF1DX5VOFoIqmrOV)
 
-> The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
+> The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-230 songs - 15 hr 13 min
+231 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Aanandam Madike](https://open.spotify.com/track/3AqiOvi0fx0LsYlqPswUf8) | [Sid Sriram, Satya Yamini](https://open.spotify.com/artist/5R6Apw6QgECTJDP8RqWm3n) | [Ishq \- Not A Love Story](https://open.spotify.com/album/4S1FWZaXzEt3MXbzChYDkR) | 3:38 | 2021-12-16 | 2022-07-25 |
 | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/track/1xTxKdIpD2QDTBAMvBNr7J) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Shivam Mahadevan](https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl) | [Akhanda \- Title Song \(From "Akhanda"\)](https://open.spotify.com/album/1o06U1v1fjOYGWWCA0sSvn) | 4:44 | 2021-12-16 | 2022-07-25 |
 | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Poornachari](https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\) \- Single](https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue) | 3:33 | 2023-02-10 | 2023-08-08 |
+| [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs) | 3:39 | 2024-01-04 |  |
 | [Amrutha](https://open.spotify.com/track/4aRL9e0DzH0qGAQMe9MhdK) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Solo Brathuke So Better \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7awYSEyiYQKxMwz6jBumue) | 3:28 | 2021-12-16 | 2022-07-24 |
-| [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 | 2023-08-07 |  |
+| [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 | 2023-08-07 | 2024-01-05 |
 | [Antha Ishtam](https://open.spotify.com/track/1VNGeVuR8QfMunZ3RzoN5m) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bheemla Nayak](https://open.spotify.com/album/0OXwLqAqKJ61sxep5A2hTR) | 3:46 | 2021-12-16 | 2022-07-25 |
 | [Aradhya](https://open.spotify.com/track/3nCqpSpwxuO4gYF1wGS6WM) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Kushi \(Telugu\)](https://open.spotify.com/album/78bohc0Dzw7AoPpqVn9rsl) | 4:42 | 2023-12-12 |  |
 | [Arere Yekkada](https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:56 | 2023-08-07 |  |

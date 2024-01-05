@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 136346,
       "name": "ALEINN",
       "url": "https://open.spotify.com/track/2EBBCNkrmPM4IagcLa5ysg"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 232256,
       "name": "Allir Me\u00f0 (feat. Egill \u00d3lafsson)",
       "url": "https://open.spotify.com/track/23UrAQkpPDm0lyokbduSlN"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -14080,7 +14080,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 180343,
       "name": "J\u00e1 \u00e9g veit",
       "url": "https://open.spotify.com/track/527GqNC4mcZ45iNhkAxwSm"
@@ -20656,7 +20656,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -23114,7 +23114,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 165812,
       "name": "R\u00fantarinn",
       "url": "https://open.spotify.com/track/2cHBypBYR5pXwBRA3jCxwb"
@@ -26340,6 +26340,24 @@
       "duration_ms": 202226,
       "name": "Surface Pressure - From \"Encanto\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5"
+    },
+    {
+      "album": {
+        "name": "Surrendered",
+        "url": "https://open.spotify.com/album/1pChl5V1OqoHrZ1QRSIg8i"
+      },
+      "artists": [
+        {
+          "name": "Joshua Acker",
+          "url": "https://open.spotify.com/artist/6YUmy5y8WHXu5xCdCnVEwZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159548,
+      "name": "Surrendered",
+      "url": "https://open.spotify.com/track/5mGptLo1aGQJKSnlEuD0pA"
     },
     {
       "album": {
@@ -32118,7 +32136,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 156923,
       "name": "\u00deegar Vetur",
       "url": "https://open.spotify.com/track/2oBgo1udjEp72pDo4u5O3P"

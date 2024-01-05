@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. Lauran Hibberd & Alex Gaskarth
 
-688 songs - 1 day 10 hr 29 min
+690 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 | 2023-11-17 |
 | [27 Club](https://open.spotify.com/track/5VzSiFJ4aIIk7CH8edrMMm) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [27 Club](https://open.spotify.com/album/548YYAqvz0iL09oldWVENe) | 2:42 | 2022-01-21 | 2022-04-01 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2022-01-07 | 2022-02-11 |
+| [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-05 |  |
 | [3am](https://open.spotify.com/track/3xIux1ZElfdLkTEDUTnk2K) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [3am](https://open.spotify.com/album/7mZK9wCykimMtEssDlhpZ7) | 3:02 | 2023-12-08 |  |
 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 | 2022-06-09 | 2022-08-05 |
 | [5 Things I Can Taste](https://open.spotify.com/track/2M3NmJ4ukVKxPsuPV7JM3k) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [5 Things I Can Taste](https://open.spotify.com/album/71IBPfv1DLKTIPiq8jzZfW) | 3:56 | 2023-09-22 |  |
@@ -117,7 +118,7 @@
 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 | 2023-05-26 |
 | [Cemetery Drive](https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:08 | 2022-05-26 | 2022-08-05 |
 | [Certified Depressant](https://open.spotify.com/track/69kWNJKHnRH73WkKPT3QU4) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/4sI51hGGXuzZYCBnSC7LMs) | 2:49 | 2023-03-10 | 2023-09-15 |
-| [Chained Into My Brain](https://open.spotify.com/track/3PL15g18dHsv9j2japWLeZ) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SCUM](https://open.spotify.com/album/30Vekn7zrEIyTT0IKTrI93) | 2:55 | 2023-10-26 |  |
+| [Chained Into My Brain](https://open.spotify.com/track/3PL15g18dHsv9j2japWLeZ) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SCUM](https://open.spotify.com/album/30Vekn7zrEIyTT0IKTrI93) | 2:55 | 2023-10-26 | 2024-01-05 |
 | [Changes](https://open.spotify.com/track/7eoZz7VZAVUhRsAwLh6Jbm) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:30 | 2023-09-28 |  |
 | [CHASING DAYLIGHT](https://open.spotify.com/track/0GbR5S3hwd82Bk34FhjtQQ) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [CHASING DAYLIGHT](https://open.spotify.com/album/39sPvZlY3dkNblSzDgeMVp) | 2:43 | 2022-05-12 | 2022-07-15 |
 | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX) | 3:40 | 2021-12-31 | 2022-01-08 |
@@ -322,7 +323,7 @@
 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 | 2023-05-25 | 2023-09-15 |
 | [I Love Myself](https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [I Love Myself](https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo) | 2:25 | 2023-02-10 | 2023-07-28 |
 | [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 | 2023-02-03 | 2023-02-24 |
-| [i suck at grieving](https://open.spotify.com/track/1MIkIg97L17FYEUo3UCskt) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [i suck at grieving](https://open.spotify.com/album/7rwgNUuOGESDGhkAP98Ywu) | 3:58 | 2023-09-22 |  |
+| [i suck at grieving](https://open.spotify.com/track/1MIkIg97L17FYEUo3UCskt) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [i suck at grieving](https://open.spotify.com/album/7rwgNUuOGESDGhkAP98Ywu) | 3:58 | 2023-09-22 | 2024-01-05 |
 | [I Think I Hate Myself](https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Think I Hate Myself](https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA) | 3:34 | 2022-03-08 | 2022-03-09 |
 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 | 2023-02-10 | 2023-03-25 |
 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-03-03 | 2023-05-05 |
@@ -476,6 +477,7 @@
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-04-01 |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-02-24 | 2023-10-20 |
 | [Precipitation](https://open.spotify.com/track/70XcZF6Cn3tSFXeI9xw2is) | [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [Precipitation](https://open.spotify.com/album/5fOO6cmR9Dbd0DgO9KNQ7M) | 3:36 | 2022-06-02 | 2022-06-10 |
+| [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-05 |  |
 | [Pretty Boy](https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Pretty Boy](https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ) | 2:55 | 2023-09-22 |  |
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2022-01-07 | 2022-03-09 |
 | [pretty good for a bad day](https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [pretty good for a bad day](https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r) | 3:15 | 2023-12-15 |  |

@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: HI\-LO
 
-273 songs - 22 hr 2 min
+274 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 | 2023-10-27 | 2023-11-17 |
 | [Apollo](https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Apollo](https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe) | 5:49 | 2023-11-13 |  |
 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 | 2022-10-13 | 2023-11-05 |
-| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-13 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-12-22 |  |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-13 | 2024-01-05 |
 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 | 2022-04-15 | 2022-10-14 |
 | [Aura](https://open.spotify.com/track/74R7A9muWldPpUhr8fqOiN) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Aura / Distance](https://open.spotify.com/album/7BOzIIvwf46hf8WVtaJcEG) | 7:03 | 2023-03-14 |  |
 | [Away](https://open.spotify.com/track/0YZAILWkcrwLfRMPWvVIwv) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Away](https://open.spotify.com/album/2bTOJZjjyHS3JjZ6fqfAF1) | 5:30 | 2022-04-15 | 2023-03-15 |

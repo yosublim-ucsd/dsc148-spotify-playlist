@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-712 songs - 1 day 18 hr 55 min
+713 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Call Me Up](https://open.spotify.com/track/5fBamKoQ3aXwQpe2Cch8K6) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Fresh Air](https://open.spotify.com/album/6hXa2OPdIt6xwGpaRpvDFz) | 2:28 | 2020-12-21 | 2022-04-18 |
 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 | 2023-11-21 |  |
 | [Can I](https://open.spotify.com/track/3e0ZGE7Gp034iLknjQk4QW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:09 | 2022-08-10 | 2022-08-27 |
+| [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-01-04 |  |
 | [Can't Swim](https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Can't Swim](https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS) | 3:31 | 2023-05-25 | 2023-05-27 |
 | [Candy](https://open.spotify.com/track/0U4GyEwrU9iN0laMOxAZTE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb) | 3:51 | 2023-05-25 | 2023-10-24 |
 | [Candy](https://open.spotify.com/track/1G6LCMsx0HPSrWXgSVzHKB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Candy](https://open.spotify.com/album/5NaAAxoTOC3eTwmVMHrxtK) | 3:51 | 2020-12-21 | 2022-04-21 |
@@ -444,7 +445,7 @@
 | [Night Moves](https://open.spotify.com/track/3itTjtSUO9mC7if5prxrTn) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/4ylvwWueTH4ahlgjcbUJsF) | 3:19 | 2020-12-21 | 2022-04-19 |
 | [Night Owl](https://open.spotify.com/track/3hxr617DsAJYONKlrtWLO7) | [Spooky Mansion](https://open.spotify.com/artist/7BrrcOKe9ymT5md3Up7BRz), [Rose Droll](https://open.spotify.com/artist/0cJVnp8uzj8C78IB0mcVx9) | [I'm the Moon, You're the Wave](https://open.spotify.com/album/15nXxasdD73enV3hPiXwCD) | 2:48 | 2022-07-20 | 2022-07-29 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2023-04-25 | 2023-07-29 |
-| [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 | 2023-10-17 |  |
+| [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 | 2023-10-17 | 2024-01-05 |
 | [Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:14 | 2022-10-16 | 2022-10-29 |
 | [Nikes On](https://open.spotify.com/track/5b31aX22XfycZp4LcpaG8p) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 2:42 | 2021-05-01 | 2022-07-21 |
 | [NIV](https://open.spotify.com/track/4rvLFKSENvJQrdLQj1Y93d) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [NIV](https://open.spotify.com/album/7fud2Fh5NxgmhmiTuGDtcd) | 4:35 | 2020-12-21 | 2022-04-14 |

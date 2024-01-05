@@ -1181,6 +1181,44 @@
     },
     {
       "album": {
+        "name": "BRO",
+        "url": "https://open.spotify.com/album/1jLo4M7PX02IxWQdApCr7e"
+      },
+      "artists": [
+        {
+          "name": "Kavi",
+          "url": "https://open.spotify.com/artist/7DEbY3KYXiVoSwEmAQNVvy"
+        },
+        {
+          "name": "Madhan",
+          "url": "https://open.spotify.com/artist/3xzFmJk8UpXTBrkfEgZHpf"
+        },
+        {
+          "name": "Charu",
+          "url": "https://open.spotify.com/artist/14AzZVcs8TlxRqHUyVkl7Z"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Aravind",
+          "url": "https://open.spotify.com/artist/2K4egCaYvo8DzUa3T5Al4K"
+        },
+        {
+          "name": "Malini",
+          "url": "https://open.spotify.com/artist/6MEryLoR4Vi0fiGI6hNgWv"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285652,
+      "name": "Theme Of BRO",
+      "url": "https://open.spotify.com/track/2sfkCFgbfuuKBonieSeuWw"
+    },
+    {
+      "album": {
         "name": "Theme Of BRO (From \"BRO\")",
         "url": "https://open.spotify.com/album/3rTpozmrrlFOTJOJmjpG3t"
       },
@@ -1360,7 +1398,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 285652,
       "name": "Theme Of BRO (From \"BRO\")",
       "url": "https://open.spotify.com/track/6zpANi4RRtyijGYhV2gXJL"

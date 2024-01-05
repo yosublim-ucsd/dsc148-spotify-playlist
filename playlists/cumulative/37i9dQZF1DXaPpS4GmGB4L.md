@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-187 songs - 10 hr 50 min
+188 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [It's My Fault, Darling \- Remastered](https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:53 | 2021-12-20 |  |
 | [I’ve Been Walkin’](https://open.spotify.com/track/6SDqFo0iI7gFPvoO7rIgAE) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8) | 2:34 | 2021-12-20 | 2022-07-28 |
 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 | 2021-12-20 |  |
+| [Just As Gone](https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Just As Gone](https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh) | 2:28 | 2023-11-24 |  |
 | [Just Friends](https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI) | [Joe Flip](https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k) | [Home Sweet Home](https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM) | 3:37 | 2023-08-18 |  |
 | [Just Like I Treat You \- Single Version](https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:55 | 2023-08-18 |  |
 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 | 2022-08-18 |  |
@@ -134,7 +135,7 @@
 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 | 2021-12-20 |  |
 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 | 2021-12-20 |  |
 | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH) | [L.A\. Big Daddy's](https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE) | [Proud Man's Blues \(Radio Mix\)](https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK) | 3:27 | 2022-07-08 |  |
-| [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 | 2023-08-18 |  |
+| [Put It](https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Put It](https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5) | 3:30 | 2023-08-18 | 2024-01-05 |
 | [RED DRESS](https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb) | [Ethan Wilson](https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP) | [RED DRESS](https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA) | 3:16 | 2023-08-18 |  |
 | [Red Hot](https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Red Hot / No Greater Love](https://open.spotify.com/album/7KEEvzpHHkU4R3BKgsBtZV) | 2:27 | 2023-08-18 |  |
 | [Reverse Engineer](https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 4:10 | 2022-11-17 |  |

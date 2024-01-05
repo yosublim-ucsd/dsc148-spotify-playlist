@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 103787,
+  "num_followers": 103786,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzFlZGIwNzU4NGVlMmE1YjE4MTFkNWVmY2Q5NWE1YTVkMTVmZjY5",
+  "snapshot_id": "MCw2YjE1MDY0NjllMmRmN2U3ZmNhNjVjYjFlYTU0ZWFhOTA4YTllMDQw",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -995,18 +995,18 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Imploding The Mirage",
-        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
+        "name": "I Love Me",
+        "url": "https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
+      "duration_ms": 203672,
+      "name": "I Love Me",
+      "url": "https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "I Love Me",
-        "url": "https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH"
+        "name": "Imploding The Mirage",
+        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 203672,
-      "name": "I Love Me",
-      "url": "https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA"
+      "duration_ms": 269533,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
     },
     {
       "added_at": "2020-08-24 22:19:29",

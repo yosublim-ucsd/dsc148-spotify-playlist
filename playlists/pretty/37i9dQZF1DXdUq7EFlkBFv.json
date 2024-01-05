@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 14574,
+  "num_followers": 14618,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTE0ZmM3Yzg2ODExZjk1OTgyYzU2NzYyZGI0ODI4ZWEyY2UwMDgz",
+  "snapshot_id": "MCw3ZjhjMjE5NjMxNGRhOGQzNjAxNmU1NjE4MjE0ZTVkMDRmNWNhZDEx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Harley Quinn",
+        "url": "https://open.spotify.com/album/4m63GViylc612eTrydpMuL"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Harley Quinn",
+      "url": "https://open.spotify.com/track/34YCupHXq3MOdB62pRYXSa"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 167190,
       "name": "Free Shiest Life (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Harley Quinn",
-        "url": "https://open.spotify.com/album/4m63GViylc612eTrydpMuL"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Harley Quinn",
-      "url": "https://open.spotify.com/track/34YCupHXq3MOdB62pRYXSa"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Just A Matter of Slime",
-        "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 186894,
-      "name": "Thugged Out (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Off-White (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 164353,
       "name": "Off-White (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Just A Matter of Slime",
+        "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 186894,
+      "name": "Thugged Out (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
     },
     {
       "added_at": "2022-10-01 16:17:17",

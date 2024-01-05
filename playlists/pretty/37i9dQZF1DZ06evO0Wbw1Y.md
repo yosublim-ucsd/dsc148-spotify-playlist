@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,651 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,656 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 41 | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/track/70uI28CvYn53Pdrup7l2Zf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/album/7rMM6AFd033KI3CsuZateJ) | 2:49 |
 | 42 | [Ay, Ay \(feat\. Ventino\) \- El Viaje de Matisse](https://open.spotify.com/track/57ArSJkTCbaoYzKKpgbOTS) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ay, Ay \(feat\. Ventino\) \[El Viaje de Matisse\]](https://open.spotify.com/album/76SyibMosP4WpwjJkPuB2L) | 3:26 |
 
-Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDA0NzMzZmQyMmYyYjFmZDFjOGU4MmVkOGYzNmU4NGQwMw==`
+Snapshot ID: `Mjg0MDYxODQsMDAwMDAwMDA5YWY2MGU4OTEwOTMwZWZlYzJiMTc1YzQ5NzkyYzQ4ZA==`

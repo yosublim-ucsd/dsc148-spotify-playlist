@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 167287,
+  "num_followers": 167454,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDMxYTkyOWJjNTE4Y2QyOTY0ZGY3NmY0MTljYzVjNTJhOTliM2Rl",
+  "snapshot_id": "MCxiMzAwODA4ODA4ZDEyMzczNTgxMmNkZWJlNGU2Y2Q2MDUzNzdiMzNi",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/3IuCUFbRlEXQv9Wjbbxyys"
     },
     {
+      "added_at": "2024-01-05 00:53:46",
+      "album": {
+        "name": "Thema Maboneng",
+        "url": "https://open.spotify.com/album/5mXLvcZ34Cx7gnnbfQBspS"
+      },
+      "artists": [
+        {
+          "name": "Abacothozi",
+          "url": "https://open.spotify.com/artist/6q0RdUllgGK6vkvHhQ98S1"
+        }
+      ],
+      "duration_ms": 382534,
+      "name": "Thema Maboneng",
+      "url": "https://open.spotify.com/track/2irMaYF8DQXBz6ILPvTdmr"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "EGOLI",
@@ -311,26 +327,6 @@
       "duration_ms": 443640,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4"
-    },
-    {
-      "added_at": "2022-04-17 20:07:01",
-      "album": {
-        "name": "Mon Cheri",
-        "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        }
-      ],
-      "duration_ms": 248127,
-      "name": "Mon Cheri",
-      "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
     },
     {
       "added_at": "2023-12-12 21:18:55",
@@ -383,6 +379,62 @@
       "duration_ms": 301995,
       "name": "Pelota (Cut a Rug Mix)",
       "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
+    },
+    {
+      "added_at": "2024-01-05 01:10:40",
+      "album": {
+        "name": "1972 / 1973 / 1974",
+        "url": "https://open.spotify.com/album/6TfbYc7N7gpJRIJLhJyltN"
+      },
+      "artists": [
+        {
+          "name": "Franco",
+          "url": "https://open.spotify.com/artist/4LfIeBRMY0ej1yImkWFqwx"
+        },
+        {
+          "name": "TPOK Jazz",
+          "url": "https://open.spotify.com/artist/26oIizmJ4rFTYV3DLA0NdS"
+        }
+      ],
+      "duration_ms": 296560,
+      "name": "Mambu Ma Miondo",
+      "url": "https://open.spotify.com/track/65mRq2v09izLLDenAdS1vg"
+    },
+    {
+      "added_at": "2022-04-17 20:07:01",
+      "album": {
+        "name": "Mon Cheri",
+        "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "duration_ms": 248127,
+      "name": "Mon Cheri",
+      "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
+      "added_at": "2024-01-05 01:26:20",
+      "album": {
+        "name": "Volume 1, Volume 2 & Previously Unreleased Tracks (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia"
     },
     {
       "added_at": "2022-07-01 02:44:20",
@@ -439,22 +491,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Fine Anyway (Habibi Funk 016)",
-        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
-        }
-      ],
-      "duration_ms": 165604,
-      "name": "Gone Away Again",
-      "url": "https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -467,6 +503,22 @@
       "duration_ms": 142480,
       "name": "Run To Your Mama",
       "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Fine Anyway (Habibi Funk 016)",
+        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "duration_ms": 165604,
+      "name": "Gone Away Again",
+      "url": "https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -617,26 +669,6 @@
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
     },
     {
-      "added_at": "2022-04-17 20:09:31",
-      "album": {
-        "name": "Inspiration Information 3",
-        "url": "https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        },
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
-    },
-    {
       "added_at": "2022-04-22 19:20:43",
       "album": {
         "name": "Up and Away",
@@ -655,6 +687,26 @@
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
+    },
+    {
+      "added_at": "2022-04-17 20:09:31",
+      "album": {
+        "name": "Inspiration Information 3",
+        "url": "https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Cha Cha",
+      "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
     },
     {
       "added_at": "2022-08-31 03:53:27",
@@ -741,38 +793,6 @@
       "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
     },
     {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Harumi",
-        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
-      },
-      "artists": [
-        {
-          "name": "Harumi",
-          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Fire By The River",
-      "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Yeti Season (Deluxe Version)",
@@ -791,6 +811,38 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Harumi",
+        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
+      },
+      "artists": [
+        {
+          "name": "Harumi",
+          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Fire By The River",
+      "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
+    },
+    {
+      "added_at": "2022-02-03 23:38:31",
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
     },
     {
       "added_at": "2022-02-18 02:21:25",
@@ -827,6 +879,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -855,22 +923,6 @@
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1177,6 +1229,22 @@
       "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     },
     {
+      "added_at": "2022-02-23 18:02:26",
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
+      },
+      "artists": [
+        {
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+        }
+      ],
+      "duration_ms": 351374,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Light",
@@ -1211,38 +1279,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Kabul Fire Vol. 2",
-        "url": "https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1"
-      },
-      "artists": [
-        {
-          "name": "Farhot",
-          "url": "https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Yak Sher",
-      "url": "https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc"
-    },
-    {
-      "added_at": "2022-02-23 18:02:26",
-      "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351374,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -1255,6 +1291,22 @@
       "duration_ms": 338108,
       "name": "Tala Tannam",
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Kabul Fire Vol. 2",
+        "url": "https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1"
+      },
+      "artists": [
+        {
+          "name": "Farhot",
+          "url": "https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Yak Sher",
+      "url": "https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc"
     },
     {
       "added_at": "2022-04-06 01:47:33",
@@ -1271,6 +1323,22 @@
       "duration_ms": 236578,
       "name": "\u015einanay",
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
+    },
+    {
+      "added_at": "2023-02-23 03:11:35",
+      "album": {
+        "name": "In Between Thoughts...A New World",
+        "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Descending To Nowhere",
+      "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1291,22 +1359,6 @@
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
-    },
-    {
-      "added_at": "2023-02-23 03:11:35",
-      "album": {
-        "name": "In Between Thoughts...A New World",
-        "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Descending To Nowhere",
-      "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1393,26 +1445,6 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
-      "added_at": "2022-02-18 03:47:28",
-      "album": {
-        "name": "Solst\u00edcio",
-        "url": "https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "Carlos N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Solst\u00edcio",
-      "url": "https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW"
-    },
-    {
       "added_at": "2022-03-28 18:17:41",
       "album": {
         "name": "Udhero Na",
@@ -1431,6 +1463,26 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    },
+    {
+      "added_at": "2022-02-18 03:47:28",
+      "album": {
+        "name": "Solst\u00edcio",
+        "url": "https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "Carlos N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Solst\u00edcio",
+      "url": "https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW"
     },
     {
       "added_at": "2022-08-31 05:11:30",
@@ -1613,6 +1665,22 @@
       "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
+      "added_at": "2023-06-05 21:04:25",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
       "added_at": "2023-06-07 04:01:30",
       "album": {
         "name": "Taivshral",
@@ -1643,74 +1711,6 @@
       "duration_ms": 220142,
       "name": "Rak\u0131ya Su Katamam",
       "url": "https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
-    },
-    {
-      "added_at": "2023-06-05 21:04:25",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
-      "added_at": "2023-07-19 02:43:48",
-      "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Global Control / Invisible Invasion",
-        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
-      },
-      "artists": [
-        {
-          "name": "Ammar 808",
-          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
-        },
-        {
-          "name": "Susha",
-          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Geeta duniki",
-      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     }
   ],
   "unique_name": "Folk Fabrique",

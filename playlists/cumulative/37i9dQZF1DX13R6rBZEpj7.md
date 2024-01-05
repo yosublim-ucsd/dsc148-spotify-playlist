@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Dread MC
 
-230 songs - 14 hr 14 min
+231 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Fly With Us](https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny) | 4:08 | 2023-04-04 | 2023-12-22 |
 | [Forever](https://open.spotify.com/track/3pTc4kmOx7sMJFc9hHxpbm) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Forever](https://open.spotify.com/album/6YAbxrNP039ENGg0ixwfG0) | 4:27 | 2022-04-15 | 2023-06-01 |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2023-08-10 |  |
+| [Friday Nights \(efan Remix\)](https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT) | [Friday Nights \(efan Remix\)](https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6) | 3:26 | 2024-01-05 |  |
 | [Gary Lineker](https://open.spotify.com/track/7D8VkKuN2WMYv1CHS9pX5t) | [Turtleneck \(UK\)](https://open.spotify.com/artist/5jIzXYWBUAzr2ztaTHD2fp) | [Gary Lineker](https://open.spotify.com/album/4QMOqeOSjkXAZGV3Ne3PS1) | 3:53 | 2022-06-10 | 2022-06-30 |
 | [Get Mad](https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f) | 3:37 | 2022-04-15 | 2023-05-19 |
 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 | 2023-04-04 |  |
@@ -209,7 +210,7 @@
 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 | 2023-08-10 |  |
 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 | 2023-12-01 |  |
 | [Take Me](https://open.spotify.com/track/5x7FItoIkhDAAH0E3sZA3c) | [Pyrate](https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o) | [Take Me](https://open.spotify.com/album/4FuLhNgsflh3RNznQljG6p) | 3:43 | 2022-04-22 | 2022-07-21 |
-| [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 | 2022-04-15 |  |
+| [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 | 2022-04-15 | 2024-01-05 |
 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-22 |  |
 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 | 2023-12-22 |  |
 | [The Feeling](https://open.spotify.com/track/1O6etlhQyBRj72rNJYhZye) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [The Feeling](https://open.spotify.com/album/0Dp87gJ8DtX815dX4JqdY5) | 4:59 | 2022-04-15 | 2022-07-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1104039,
+  "num_followers": 1104131,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGE5NzZmMmNjYWZjNWQ4M2JhMTlhMmI0M2MxZTQyOGFmNmM2MGQ4",
+  "snapshot_id": "MCwzMDI2ZTZkYjRkZmFiNjk0NWM2NTE0NjVhMjA5NjVkOTJjOGViNDFk",
   "tracks": [
     {
       "added_at": "2023-10-19 19:03:47",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "book of spells",
         "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
       },
@@ -1099,22 +1083,6 @@
       "duration_ms": 108571,
       "name": "book of spells",
       "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1151,18 +1119,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1183,6 +1151,38 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 193478,
       "name": "July",
       "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
-    },
-    {
-      "added_at": "2023-10-13 23:06:29",
-      "album": {
-        "name": "NIGHTTIME",
-        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 147783,
-      "name": "NIGHTTIME",
-      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1227,6 +1211,22 @@
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
+    },
+    {
+      "added_at": "2023-10-13 23:06:29",
+      "album": {
+        "name": "NIGHTTIME",
+        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 147783,
+      "name": "NIGHTTIME",
+      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "an extended play",
-        "url": "https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF"
-      },
-      "artists": [
-        {
-          "name": "pizzagirl",
-          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
-        }
-      ],
-      "duration_ms": 298477,
-      "name": "seabirds",
-      "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "With Somebody",
         "url": "https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 204160,
       "name": "With Somebody",
       "url": "https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "an extended play",
+        "url": "https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF"
+      },
+      "artists": [
+        {
+          "name": "pizzagirl",
+          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
+        }
+      ],
+      "duration_ms": 298477,
+      "name": "seabirds",
+      "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Goodbye Texas",
-        "url": "https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 214424,
-      "name": "Goodbye Texas",
-      "url": "https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "three days",
         "url": "https://open.spotify.com/album/03QHPO8UISM00EjTxjnze4"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 133175,
       "name": "three days",
       "url": "https://open.spotify.com/track/5A2r83uvDlxSBsgbfQ2zCv"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Goodbye Texas",
+        "url": "https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 214424,
+      "name": "Goodbye Texas",
+      "url": "https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Eternal Slowdown",
         "url": "https://open.spotify.com/album/0ZHd1Jd0l3pc7t6DfVlDbd"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 260480,
       "name": "Pond Weed",
       "url": "https://open.spotify.com/track/2Tq8kdQuyuQNudS7PO3fSw"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2023-09-29 19:35:30",

@@ -2,7 +2,7 @@
 
 ### [Out The Mud](https://open.spotify.com/playlist/37i9dQZF1DXaxIqwkEGFEh)
 
-> Strictly for the streets\. Cover: Tee Grizzley
+> Strictly for the streets\. Cover: Mudbaby Ru
 
 1,132 songs - 2 day 4 hr 30 min
 

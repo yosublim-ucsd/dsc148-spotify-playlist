@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,604 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,659 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 46 | [YES](https://open.spotify.com/track/49npsHkkRrF42IxwU10Egt) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Dre](https://open.spotify.com/artist/2YKqI0pz6dY15GpzxT66HD) | [YES](https://open.spotify.com/album/0E74lJz7EpijEP2YDHGDYh) | 3:26 |
 | 47 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
 
-Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDBjNDI0YWIxNDZlYTY2NGQ3YTBmNGEyMDI4MzhmZTIxZQ==`
+Snapshot ID: `Mjg0MDYxODQsMDAwMDAwMDBiYTkwYjYwYjg2NzAwYzM5Njc1NzdmMTdjM2I5ZWM4Zg==`

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 209731,
+  "num_followers": 209928,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTMzMTliNTRmYTQzMTIwMTJkMTM1ZWFkODg0YzE3MGZlNTlkN2Fm",
+  "snapshot_id": "MCw3Y2YxYjQyZjE2YzQxYmJmZjJjODgzN2M2ODcyMzk1MmM4YzgwMjBm",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhapsody In White (Reissue)",
-        "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
-      },
-      "artists": [
-        {
-          "name": "The Love Unlimited Orchestra",
-          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Love's Theme",
-      "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Ballade pour Adeline",
         "url": "https://open.spotify.com/album/3OmnZpkIdjodCWDrKQL5ZT"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 158000,
       "name": "Ballade pour Adeline (Piano et orchestre)",
       "url": "https://open.spotify.com/track/0Ep9uYqDWeVvhhqe124p9E"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rhapsody In White (Reissue)",
+        "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
+      },
+      "artists": [
+        {
+          "name": "The Love Unlimited Orchestra",
+          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Love's Theme",
+      "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -155,18 +155,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
       "artists": [
         {
-          "name": "Chuck Mangione",
-          "url": "https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6"
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 582733,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy"
+      "duration_ms": 303333,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -187,18 +187,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD"
       },
       "artists": [
         {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Chuck Mangione",
+          "url": "https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
+      "duration_ms": 582733,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 111026,
       "name": "Music to Watch Girls By",
       "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Gold Series - Latin Romance",
-        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
-      },
-      "artists": [
-        {
-          "name": "Francis Goya",
-          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
-        }
-      ],
-      "duration_ms": 234962,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Nadia's Theme (Theme from the Young and Restless)",
         "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
       },
@@ -871,18 +855,34 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+        "name": "The Gold Series - Latin Romance",
+        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
       },
       "artists": [
         {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+          "name": "Francis Goya",
+          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+      "duration_ms": 234962,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -903,18 +903,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
       },
       "artists": [
         {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
         }
       ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
+      "duration_ms": 189346,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Svezia, Inferno E Paradiso",
-        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 116559,
-      "name": "Mah N\u00e0 Mah N\u00e0",
-      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Svezia, Inferno E Paradiso",
+        "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 116559,
+      "name": "Mah N\u00e0 Mah N\u00e0",
+      "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+        "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
+        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
       },
       "artists": [
         {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
+      "duration_ms": 279320,
+      "name": "M\u00e9lissa (de \"Bilitis\")",
+      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
-        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
+        "name": "",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
       },
       "artists": [
         {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 279320,
-      "name": "M\u00e9lissa (de \"Bilitis\")",
-      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",

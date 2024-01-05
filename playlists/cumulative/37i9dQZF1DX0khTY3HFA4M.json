@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 120000,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF"
@@ -5413,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "Ink of Dawn",
+        "url": "https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg"
+      },
+      "artists": [
+        {
+          "name": "Basicboy",
+          "url": "https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115598,
+      "name": "Ink of Dawn",
+      "url": "https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq"
+    },
+    {
+      "album": {
         "name": "Neon Tapestries",
         "url": "https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P"
       },
@@ -8431,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Pink Soda",
+        "url": "https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt"
+      },
+      "artists": [
+        {
+          "name": "Keylo Parks",
+          "url": "https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Pink Soda",
+      "url": "https://open.spotify.com/track/5MSeGUnLLWatEBCxViIcGC"
+    },
+    {
+      "album": {
         "name": "Planets Over There",
         "url": "https://open.spotify.com/album/7CQ4XolMl1vPh6DF9biQdt"
       },
@@ -10102,6 +10138,24 @@
       "duration_ms": 137624,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4Do2TEF4vaVVplxqzDisvX"
+    },
+    {
+      "album": {
+        "name": "Snowful Peace",
+        "url": "https://open.spotify.com/album/6E3leoVqHuimOOQcN1ZngY"
+      },
+      "artists": [
+        {
+          "name": "Bluerosie",
+          "url": "https://open.spotify.com/artist/4csk2WW11IvLN5qTmHe1L3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Snowful Peace",
+      "url": "https://open.spotify.com/track/1u2SXLe9KHUX2uIqHG47JL"
     },
     {
       "album": {

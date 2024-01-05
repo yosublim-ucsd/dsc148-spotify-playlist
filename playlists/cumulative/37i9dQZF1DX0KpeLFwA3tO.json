@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Sum 41",
+  "description": "The best new music from the wide world of punk. Cover: SPRINTS",
   "name": "All New Punk",
   "tracks": [
     {
@@ -356,6 +356,24 @@
       "duration_ms": 195782,
       "name": "2AM (And I Did It Again)",
       "url": "https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm"
+    },
+    {
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "album": {
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 273000,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
@@ -7157,6 +7175,24 @@
     },
     {
       "album": {
+        "name": "Dubious Goals Committee",
+        "url": "https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134026,
+      "name": "Dubious Goals Committee",
+      "url": "https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs"
+    },
+    {
+      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -10373,6 +10409,24 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC"
+    },
+    {
+      "album": {
         "name": "Heavy Steps",
         "url": "https://open.spotify.com/album/0fsLogewsZXku52SwVJF0I"
       },
@@ -10684,7 +10738,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 176933,
       "name": "High Tea",
       "url": "https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM"
@@ -11096,6 +11150,24 @@
       "duration_ms": 81291,
       "name": "Human Body Human Brain",
       "url": "https://open.spotify.com/track/3Fj65DZOXlfDa6MjXkDw9m"
+    },
+    {
+      "album": {
+        "name": "Hunger Games",
+        "url": "https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220101,
+      "name": "Hunger Games",
+      "url": "https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g"
     },
     {
       "album": {
@@ -13184,6 +13256,24 @@
       "duration_ms": 198437,
       "name": "Late Bloom (bonus track)",
       "url": "https://open.spotify.com/track/4dEjfHLUW3ZbiXmNFQiVUv"
+    },
+    {
+      "album": {
+        "name": "Greatest Hangs",
+        "url": "https://open.spotify.com/album/4v4tvpx7fkXA9sqHrKNSy1"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148100,
+      "name": "Late Start",
+      "url": "https://open.spotify.com/track/2XKJdTyC04s10z8jberHmj"
     },
     {
       "album": {
@@ -16006,7 +16096,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 172092,
       "name": "My One Wish",
       "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
@@ -16552,6 +16642,24 @@
       "duration_ms": 176749,
       "name": "NO SLEEP",
       "url": "https://open.spotify.com/track/4cb4AJPCtXRswCG4wzT5kU"
+    },
+    {
+      "album": {
+        "name": "No Thank You For The Music",
+        "url": "https://open.spotify.com/album/5BtpS9O9Z6wGYb8RKMime5"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229533,
+      "name": "No Thank You For The Music",
+      "url": "https://open.spotify.com/track/02KgdbM5JkhtBUBIkjFaaA"
     },
     {
       "album": {
@@ -17299,6 +17407,24 @@
     },
     {
       "album": {
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
+    },
+    {
+      "album": {
         "name": "One for the Road",
         "url": "https://open.spotify.com/album/4D1EguvbHxw5zdqIHETkCp"
       },
@@ -17880,7 +18006,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 206610,
       "name": "ParaNoia",
       "url": "https://open.spotify.com/track/5G9amsIn2lFbIbx628vDFk"
@@ -20248,7 +20374,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 195525,
       "name": "SCARED TO DIE",
       "url": "https://open.spotify.com/track/5egHfv3MM6LMHHTrkowFru"
@@ -21096,7 +21222,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 187000,
       "name": "Show Friends",
       "url": "https://open.spotify.com/track/553jmB9Nq4yPJgMFtkjVRm"
@@ -21288,6 +21414,24 @@
       "duration_ms": 183598,
       "name": "Silent Disco",
       "url": "https://open.spotify.com/track/74pHl63oQm9m8OeEZY8kOv"
+    },
+    {
+      "album": {
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "album": {
@@ -22212,7 +22356,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 212787,
       "name": "Stare At The Sun",
       "url": "https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP"
@@ -25626,7 +25770,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 213402,
       "name": "Under The Rules",
       "url": "https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49"

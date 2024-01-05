@@ -1,12 +1,12 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 5006,
+  "num_followers": 5100,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgwNjlhOTgyOTU4MmJiZjk4YTgxNDM2YTBmZWRjYmJlMzhjMDJk",
+  "snapshot_id": "MCw3ZDBkMTU5MzE0OGJkNWJiM2Q5YzQ3NzkwOTM3Nzc5M2E5YWQ1YmY1",
   "tracks": [
     {
       "added_at": "2023-12-01 14:44:59",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "TROYA",
-        "url": "https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "TROYA",
-      "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 147499,
       "name": "Quiz\u00e1s, Tal Vez",
       "url": "https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "TROYA",
+        "url": "https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "TROYA",
+      "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Recoger",
-        "url": "https://open.spotify.com/album/2FiYyjIorlmOa9dD7STI05"
-      },
-      "artists": [
-        {
-          "name": "Yung Sarria",
-          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
-        }
-      ],
-      "duration_ms": 132041,
-      "name": "Recoger",
-      "url": "https://open.spotify.com/track/66UNqQkLP3vwoAK9FnxFca"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "bla bla bla",
         "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 145185,
       "name": "bla bla bla",
       "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Recoger",
+        "url": "https://open.spotify.com/album/2FiYyjIorlmOa9dD7STI05"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        }
+      ],
+      "duration_ms": 132041,
+      "name": "Recoger",
+      "url": "https://open.spotify.com/track/66UNqQkLP3vwoAK9FnxFca"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Real Hips 2",
-        "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
+        "name": "In The Night (feat. Bandmanrill)",
+        "url": "https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM"
       },
       "artists": [
         {
@@ -1352,17 +1352,21 @@
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
         },
         {
           "name": "Defiant Presents",
           "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 131200,
-      "name": "Real Hips 2",
-      "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
+      "duration_ms": 212400,
+      "name": "In The Night (feat. Bandmanrill)",
+      "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1407,8 +1411,8 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "In The Night (feat. Bandmanrill)",
-        "url": "https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM"
+        "name": "Real Hips 2",
+        "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
       },
       "artists": [
         {
@@ -1416,21 +1420,17 @@
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         },
         {
           "name": "Defiant Presents",
           "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
-        },
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
         }
       ],
-      "duration_ms": 212400,
-      "name": "In The Night (feat. Bandmanrill)",
-      "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
+      "duration_ms": 131200,
+      "name": "Real Hips 2",
+      "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
     },
     {
       "added_at": "2023-12-01 14:44:59",

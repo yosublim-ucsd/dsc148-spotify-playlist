@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 166620,
       "name": "Everybody Salsa - Andruss Remix",
       "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
@@ -1168,6 +1168,24 @@
     {
       "album": {
         "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PszKzAqcqcRyZkwIDtCJP"
+      },
+      "artists": [
+        {
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157016,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL"
+    },
+    {
+      "album": {
+        "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
       "artists": [
@@ -1244,6 +1262,28 @@
       "duration_ms": 177958,
       "name": "Hag\u00fce",
       "url": "https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6"
+    },
+    {
+      "album": {
+        "name": "HAVANA",
+        "url": "https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN"
+      },
+      "artists": [
+        {
+          "name": "Vince Morgana",
+          "url": "https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8"
+        },
+        {
+          "name": "GLADYS",
+          "url": "https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "HAVANA",
+      "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
     },
     {
       "album": {
@@ -2036,7 +2076,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 212307,
       "name": "Mueve Los Dos Pies",
       "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"

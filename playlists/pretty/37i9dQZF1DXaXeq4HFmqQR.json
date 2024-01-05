@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que brillaron en 2023. Foto: Vesta Lugg",
-  "num_followers": 13283,
+  "num_followers": 13282,
   "original_name": "EQUAL Chile: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1",
+  "snapshot_id": "MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Heredera del Surrealismo",
         "url": "https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Ahora Vienes A Llorar",
-        "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
-      },
-      "artists": [
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Ahora Vienes A Llorar",
-      "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 146000,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/3f4F947OK390ug1C4igSLp"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Ahora Vienes A Llorar",
+        "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Ahora Vienes A Llorar",
+      "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
     },
     {
       "added_at": "2023-11-29 12:15:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Dream Love",
-        "url": "https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        }
-      ],
-      "duration_ms": 175996,
-      "name": "Dream Love",
-      "url": "https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "MYKOSIS",
         "url": "https://open.spotify.com/album/0S0hdCgAvLwwYfWXx7cdro"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174826,
       "name": "MAL NECESARIO",
       "url": "https://open.spotify.com/track/5NAY9xwApRcdX445YCN7MU"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Dream Love",
+        "url": "https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "duration_ms": 175996,
+      "name": "Dream Love",
+      "url": "https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj"
     },
     {
       "added_at": "2023-11-29 12:15:00",

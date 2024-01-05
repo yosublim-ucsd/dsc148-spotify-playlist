@@ -6644,7 +6644,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 234750,
       "name": "MY FLIGHT",
       "url": "https://open.spotify.com/track/7L2eEhN4CkzFe1oXJCeVdF"
@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 236500,
       "name": "run a marathon",
       "url": "https://open.spotify.com/track/1GLdIW8xUY07dKESHxVtbN"
@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 216486,
       "name": "Stars turn into snow",
       "url": "https://open.spotify.com/track/5K6lLvomVxtg1XXCcTwSQm"
@@ -15919,6 +15919,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u63c6",
+        "url": "https://open.spotify.com/album/5ikYdBpLMYXadwfkJIPfje"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193578,
+      "name": "\u4e00\u63c6",
+      "url": "https://open.spotify.com/track/0dVNJHo0xIt3uaCQDUsfve"
+    },
+    {
+      "album": {
         "name": "\u4e00\u751f\u3053\u306e\u307e\u307e",
         "url": "https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U"
       },
@@ -16522,6 +16540,24 @@
       "duration_ms": 167733,
       "name": "\u5316\u3051\u732b",
       "url": "https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9"
+    },
+    {
+      "album": {
+        "name": "\u533f\u540d\u5947\u8b00",
+        "url": "https://open.spotify.com/album/7n1ooVetm2k8AUgQZF1jSu"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30ad\u30bf\u30b1\u30c8\u30e2",
+          "url": "https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214433,
+      "name": "\u533f\u540d\u5947\u8b00",
+      "url": "https://open.spotify.com/track/56VGFy1ykmlUfGulaXaGo0"
     },
     {
       "album": {
@@ -18291,6 +18327,24 @@
     },
     {
       "album": {
+        "name": "\u6674\u308b",
+        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270705,
+      "name": "\u6674\u308b",
+      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "album": {
         "name": "\u6700\u4f4e\u306a\u3068\u3082\u3060\u3061",
         "url": "https://open.spotify.com/album/1dBBgW5NchBijnKn9h2K0X"
       },
@@ -18464,7 +18518,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
@@ -20018,6 +20072,24 @@
       "duration_ms": 189670,
       "name": "\u8f1d\u304d",
       "url": "https://open.spotify.com/track/2e6nZ02qETkZALnBGG1aTl"
+    },
+    {
+      "album": {
+        "name": "\u8f1d\u3051\u308b\u3082\u306e",
+        "url": "https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j"
+      },
+      "artists": [
+        {
+          "name": "ACIDMAN",
+          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260680,
+      "name": "\u8f1d\u3051\u308b\u3082\u306e",
+      "url": "https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS"
     },
     {
       "album": {

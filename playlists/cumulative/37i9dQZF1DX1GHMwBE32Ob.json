@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
@@ -2346,6 +2346,28 @@
       "duration_ms": 186000,
       "name": "Mental",
       "url": "https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg"
+    },
+    {
+      "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Yo X",
+          "url": "https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo"
     },
     {
       "album": {

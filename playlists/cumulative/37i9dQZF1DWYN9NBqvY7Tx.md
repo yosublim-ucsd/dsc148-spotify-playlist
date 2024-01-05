@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-448 songs - 23 hr 55 min
+449 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-23 | 2023-08-19 |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-05-13 | 2022-07-27 |
 | [Anywhere \(feat\. shYbeast, PLYA\)](https://open.spotify.com/track/07ImPoPqKNwqucuPEZooBj) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [shYbeast](https://open.spotify.com/artist/3J2VNcCwzeJXNFu40evXPE), [PLYA](https://open.spotify.com/artist/7ic9h4HxC9vccg3mk4NRFV) | [Anywhere \(feat\. shYbeast, PLYA\)](https://open.spotify.com/album/7b517Ob0a6KWytvqSVk6OJ) | 4:47 | 2022-05-27 | 2022-06-07 |
-| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-09-22 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-12-06 |  |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-09-22 | 2024-01-05 |
 | [Artemis](https://open.spotify.com/track/4xwdCGKQNzjHy7y4DLD6KH) | [Sineflow](https://open.spotify.com/artist/2viEI92b5w5qUwpKI9YZ46), [Nocturnal Zen](https://open.spotify.com/artist/6HTNZNtQhxaKlu3mNiFjxv), [Loudsilence](https://open.spotify.com/artist/6PllcnuKXZ9fHMUSZdCnRg) | [Artemis](https://open.spotify.com/album/0uTWn07xZxhYj8DuNcMXwc) | 2:22 | 2022-05-13 | 2022-08-13 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-08-18 | 2023-09-22 |
 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 | 2022-07-14 |  |

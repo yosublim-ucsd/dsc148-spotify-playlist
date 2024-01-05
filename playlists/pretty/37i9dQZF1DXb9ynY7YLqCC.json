@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 159876,
+  "num_followers": 159996,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTA0YWEyMTQ3NWY2NWRkZjgxZDAyY2FmMGVmNGYxZmYxNTBkNzQz",
+  "snapshot_id": "MCxmNWY4ZTkwYTAyM2QzZDQzYmZhMTQwODI1NzM5ZmMwMzliNWQ3ZTI5",
   "tracks": [
     {
       "added_at": "2024-01-03 18:31:37",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Vine Hasta Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Casi Justicia Social I",
         "url": "https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 161880,
       "name": "Misterios",
       "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "La Esquina Del Infinito",
-        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Panic Show",
-      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -651,6 +619,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "La Esquina Del Infinito",
+        "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Panic Show",
+      "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Las Pastillas del Abuelo",
         "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 303866,
       "name": "Tantas Escaleras",
       "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
+      "duration_ms": 247336,
+      "name": "No Se Llama Amor",
+      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 247336,
-      "name": "No Se Llama Amor",
-      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
+      "duration_ms": 431626,
+      "name": "Amar y Envejecer",
+      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -775,22 +775,6 @@
       "duration_ms": 339480,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 431626,
-      "name": "Amar y Envejecer",
-      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 324053,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Vengo Del Placard De Otro",
         "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "\u00a1Esta!",
-        "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
-      },
-      "artists": [
-        {
-          "name": "Kapanga",
-          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Desearia",
-      "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 226586,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "\u00a1Esta!",
+        "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
+      },
+      "artists": [
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Desearia",
+      "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -935,22 +935,6 @@
       "duration_ms": 244093,
       "name": "Cielo De Un Solo Color",
       "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Gladiadores del rock",
         "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "A Cielo Abierto - El a\u00f1o del tigre",
-        "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 194597,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 199573,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "A Cielo Abierto - El a\u00f1o del tigre",
+        "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 194597,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Solo Canciones",
-        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Contratiempos",
         "url": "https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V"
       },
@@ -1127,6 +1095,22 @@
       "duration_ms": 195900,
       "name": "Sutil",
       "url": "https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Solo Canciones",
+        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1259,22 +1243,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Alma en Pe\u00f1a",
         "url": "https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH"
       },
@@ -1287,6 +1255,22 @@
       "duration_ms": 236605,
       "name": "Solito",
       "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1323,22 +1307,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Probame (Demo)",
-        "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 126426,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Sangre en Tus Luces",
         "url": "https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi"
       },
@@ -1351,6 +1319,22 @@
       "duration_ms": 224213,
       "name": "Ojos Ventanal",
       "url": "https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Probame (Demo)",
+        "url": "https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 126426,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 306079,
       "name": "La ilusi\u00f3n que me condena",
       "url": "https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue"
+    },
+    {
+      "added_at": "2024-01-03 18:31:37",
+      "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 256385,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
     },
     {
       "added_at": "2024-01-03 18:31:37",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-01-03 18:31:37",
       "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
-    },
-    {
-      "added_at": "2024-01-03 18:31:37",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
       },
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 256385,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
+      "duration_ms": 278386,
+      "name": "Vine Hasta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7LOkbiMpnZYbybdWuv7S4U"
     },
     {
       "added_at": "2024-01-03 18:31:37",

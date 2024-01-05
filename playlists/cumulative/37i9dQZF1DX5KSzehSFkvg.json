@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "Les meilleurs Pop Hits Maghr\u00e9bins sont ici. Cover: Mounim Slimani",
+  "description": "Les meilleurs hits Pop du Maghreb sont ici. Cover: 7-Toun",
   "name": "Top Maghreb Pop",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 238939,
       "name": "00:00",
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
@@ -146,6 +146,28 @@
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
+    },
+    {
+      "album": {
+        "name": "Alo 3omry",
+        "url": "https://open.spotify.com/album/0hhP3TMu5ezA6w9JxLLKm5"
+      },
+      "artists": [
+        {
+          "name": "Wiem Yahia",
+          "url": "https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd"
+        },
+        {
+          "name": "Rayen Youssef",
+          "url": "https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206153,
+      "name": "Alo 3omry",
+      "url": "https://open.spotify.com/track/1nnrbEthwYl9i40tPRm9QY"
     },
     {
       "album": {
@@ -1090,7 +1112,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 193893,
       "name": "Maria",
       "url": "https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4"

@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 178711,
       "name": "BUST DOWN",
       "url": "https://open.spotify.com/track/2cHYZzKKZa05xIIlsaTugV"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 187118,
       "name": "HOT",
       "url": "https://open.spotify.com/track/2QBBF2LnQjWhJHmnyFEE3e"
@@ -1307,6 +1307,32 @@
     },
     {
       "album": {
+        "name": "V In The AM (The Remixes)",
+        "url": "https://open.spotify.com/album/1jbu2ZFA1CGJGsRkG2zVcb"
+      },
+      "artists": [
+        {
+          "name": "Booka Banks",
+          "url": "https://open.spotify.com/artist/4l1ILapGYe8Zuf6wTv4FLV"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "WRECKVGE",
+          "url": "https://open.spotify.com/artist/61ok6SPm69xJ8lsAVlCWCi"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "V In The AM - WRECKVGE Remix",
+      "url": "https://open.spotify.com/track/2L5jxPcB7JtX3wRnV4g9it"
+    },
+    {
+      "album": {
         "name": "V in the AM",
         "url": "https://open.spotify.com/album/0uMrIBhNFMqzQO2kY3syHI"
       },
@@ -1326,7 +1352,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 198000,
       "name": "V in the AM - WRECKVGE Remix",
       "url": "https://open.spotify.com/track/2fz5C6XXP4daeX91zQgf1r"

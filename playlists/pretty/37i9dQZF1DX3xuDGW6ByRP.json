@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47298,
+  "num_followers": 47318,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2Q4MGEyYzJjMTRiNzRmOWIwOGJiY2E5MzZlYTFjNzk1ZTYxODcw",
+  "snapshot_id": "MCxkY2JlNTBjNWQ4YTk4NWQwN2M1NmMyZmU1ZDZlM2ViZmM3M2U2Njk5",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Obscuro",
-        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
-      },
-      "artists": [
-        {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
-        }
-      ],
-      "duration_ms": 218161,
-      "name": "Obscuro",
-      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "o maior ot\u00e1rio da cidade",
         "url": "https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 163880,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Obscuro",
+        "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "duration_ms": 218161,
+      "name": "Obscuro",
+      "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -951,18 +951,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "DUBL\u00ca",
-        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
       },
       "artists": [
         {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
         }
       ],
-      "duration_ms": 178208,
-      "name": "DUBL\u00ca",
-      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+        "name": "DUBL\u00ca",
+        "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
         }
       ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+      "duration_ms": 178208,
+      "name": "DUBL\u00ca",
+      "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "FORA DE SI",
+        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "FORA DE SI",
+      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "S\u00f3 Sinto",
         "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "PODERIA SER (bem) PIOR",
-        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
-      },
-      "artists": [
-        {
-          "name": "Number Teddie",
-          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
-        }
-      ],
-      "duration_ms": 171861,
-      "name": "Amigo de Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "VERMELHO FAROL",
         "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "FORA DE SI",
-        "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
+        "name": "PODERIA SER (bem) PIOR",
+        "url": "https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
         }
       ],
-      "duration_ms": 142825,
-      "name": "FORA DE SI",
-      "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+      "duration_ms": 171861,
+      "name": "Amigo de Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2023-12-15 03:00:00",

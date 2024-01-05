@@ -1,13 +1,29 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: ZZ Ward",
-  "num_followers": 445358,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Danielle Nicole",
+  "num_followers": 445430,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjI2NzdmZTc5OGRmMTM2NTI5NzMxZDQ4ZDIxZTQ5YTE3MzMyYzEx",
+  "snapshot_id": "MCxlY2M0NDc3ODQ2NDAwNzg3MTE5Mzg5NmM0ZjdjZWE5MWFmMjIwNDJj",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
@@ -135,22 +151,6 @@
       "duration_ms": 226726,
       "name": "I Drink Alone",
       "url": "https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Make Love",
-        "url": "https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 227937,
-      "name": "Make Love",
-      "url": "https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp"
     },
     {
       "added_at": "2023-10-06 04:00:00",

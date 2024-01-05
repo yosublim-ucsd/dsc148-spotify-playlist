@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,416 songs - 3 day 1 hr 45 min
+1,417 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Da det var oss](https://open.spotify.com/track/2mtC4zyp4Dn3GaoGonrWax) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Da det var oss](https://open.spotify.com/album/5ZNnY5Cmp6mycztZY5HLye) | 3:07 | 2022-01-22 | 2022-02-06 |
 | [Dagene](https://open.spotify.com/track/25FS0ztvFZVMpVyYiqUKsx) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Dagene](https://open.spotify.com/album/41sgFLH3ullYaSckj7sF5X) | 2:38 | 2023-11-11 | 2023-11-19 |
 | [Damn Girl](https://open.spotify.com/track/2nUlmWTApV6PdzUUATOawa) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Mat Duo](https://open.spotify.com/artist/3MnHIMag9x5bhfjijnboUz) | [Damn Girl](https://open.spotify.com/album/2wuM0XTwdK9YxqCylLW90B) | 2:31 | 2023-05-13 | 2023-06-25 |
-| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-27 |  |
+| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-27 | 2024-01-05 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-26 | 2022-07-06 |
 | [Dancing In The Dark \- Live](https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb) | [Jørgen Dahl Moe](https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ) | [The Voice 2022: Blind Auditions 1 \(Live\)](https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS) | 2:33 | 2022-01-09 | 2022-01-30 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2023-01-01 | 2023-01-03 |
@@ -1079,6 +1079,7 @@
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-27 |
 | [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 | 2022-10-31 | 2023-03-28 |
 | [Rike Folk I Vårt Rike](https://open.spotify.com/track/0y3eiJy6WeSKMztmVsJnhi) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Rike Folk I Vårt Rike](https://open.spotify.com/album/5G4udRZZZGB3fppUlkwpMx) | 2:42 | 2023-09-30 | 2023-10-07 |
+| [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-01-04 |  |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-03-27\* | 2021-05-18 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 | 2023-03-19 |
 | [Rizzetid](https://open.spotify.com/track/09Ljv4rzoqrDyiuH7cOPgh) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [b.G](https://open.spotify.com/artist/2zw4zwwb2LoNYssj3hdLoa), [Phill](https://open.spotify.com/artist/1caxfZzRftKxfWglKFyXEj) | [Rizzetid](https://open.spotify.com/album/1VsbaUaBQ5LvjVyJWEvXGv) | 3:21 | 2023-09-16 | 2023-11-21 |

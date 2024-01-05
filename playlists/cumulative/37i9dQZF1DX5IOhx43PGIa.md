@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-674 songs - 1 day 10 hr 57 min
+675 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-22 |  |
 | [OOP! \- Dipha Barus Remix](https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [OOP! \(Dipha Barus Remix\)](https://open.spotify.com/album/7wPnQIhSTsmUMquBZ5sdXG) | 3:48 | 2022-05-27 | 2022-07-26 |
 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 | 2023-07-14 | 2023-09-28 |
-| [OUT OF BODY](https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [OUT OF BODY](https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX) | 2:07 | 2023-09-22 |  |
+| [OUT OF BODY](https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [OUT OF BODY](https://open.spotify.com/album/6Vn4kSaFkyRbNToiLEtNiX) | 2:07 | 2023-09-22 | 2024-01-05 |
 | [Pair Of You](https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Pair Of You](https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL) | 2:24 | 2022-10-07 | 2022-10-16 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-05-27 | 2023-07-07 |
 | [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-29 | 2023-10-04 |
@@ -557,6 +557,7 @@
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2022-05-27 | 2023-02-18 |
 | [Subliminal](https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Subliminal](https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh) | 3:00 | 2022-05-27 | 2022-07-29 |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-18 | 2023-09-02 |
+| [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 |  |
 | [Summer went and came around](https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Summer went and came around](https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl) | 2:48 | 2023-08-25 |  |
 | [Sunny](https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k) | 3:31 | 2023-11-17 |  |
 | [Sunny](https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB) | 3:31 | 2023-09-22 | 2023-11-18 |

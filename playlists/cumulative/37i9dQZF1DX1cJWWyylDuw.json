@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Black Heart",
+        "url": "https://open.spotify.com/album/3PwsDlnJqqIwBgMJ53uBJN"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275875,
+      "name": "Black Heart",
+      "url": "https://open.spotify.com/track/6LSrYyleml59eVadTzvaXD"
+    },
+    {
+      "album": {
         "name": "Black of My Eyes",
         "url": "https://open.spotify.com/album/5mSrxhCmMMzvAufAaR33r1"
       },
@@ -5120,7 +5138,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 230500,
       "name": "Lamb to the Slaughter",
       "url": "https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs"

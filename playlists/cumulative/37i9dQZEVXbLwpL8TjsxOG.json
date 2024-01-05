@@ -8982,7 +8982,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
@@ -10826,6 +10826,24 @@
       "duration_ms": 279677,
       "name": "\u592a\u5e73\u9053",
       "url": "https://open.spotify.com/track/63Hnm2IiSP9VDzJF2WdzCL"
+    },
+    {
+      "album": {
+        "name": "\u5931\u7d04\u5df4\u9ece",
+        "url": "https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey \u9b4f\u6d5a\u7b19",
+          "url": "https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222314,
+      "name": "\u5931\u7d04\u5df4\u9ece",
+      "url": "https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9"
     },
     {
       "album": {

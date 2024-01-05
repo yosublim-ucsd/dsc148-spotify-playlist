@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,091 likes - 67 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,640 likes - 67 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 66 | [Suite compostelana: II\. Coral](https://open.spotify.com/track/1FbAQqtKHiQhLbz5Yodjbf) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Krzysztof Meisinger](https://open.spotify.com/artist/43JBMYEGjtG25QfTpngBWM) | [Mystique](https://open.spotify.com/album/25nuEAVTtDUOSLcYmuZQkx) | 3:28 |
 | 67 | [Piano Concerto in A minor, Op\. 16: II\. Adagio \- Live](https://open.spotify.com/track/48ncsTkxc9KlRZEG0PC2rZ) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q), [Symphonieorchester des Bayerischen Rundfunks](https://open.spotify.com/artist/4WXodir2Ci7Ywk0uTaTKkt), [Esa\-Pekka Salonen](https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m) | 6:38 |
 
-Snapshot ID: `MCw3NWJhZDJmYWVkZTNmOThiNjNmOWUwNDRmZDQyNzdkZmFkMTA0NGQ3`
+Snapshot ID: `MCxhOTgxN2RjNzc5NWYxMGM5ZDY5YmUxYTk0ODQ5MjI1YjQ0N2U4MzA0`

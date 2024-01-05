@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Drake, Jack Harlow and Juice WRLD.
+> Music from Nicki Minaj, Drake and Jack Harlow.
 
 1,884 songs - 4 day 1 hr 36 min
 

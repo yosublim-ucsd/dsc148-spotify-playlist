@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,790 songs - 3 day 8 hr 9 min
+1,791 songs - 3 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,7 +1065,7 @@
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2021-06-16 | 2022-07-28 |
 | [Notturno](https://open.spotify.com/track/6XhO3CKHqmmHVyIZQCAt1C) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Notturno](https://open.spotify.com/album/4ugobTFZdHqpUH1wbGiaJG) | 2:52 | 2021-04-23 | 2022-04-20 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2021-05-23 | 2022-04-10 |
-| [Nouvelles Tentatives](https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Nouvelles Tentatives](https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d) | 2:00 | 2022-12-22 |  |
+| [Nouvelles Tentatives](https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Nouvelles Tentatives](https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d) | 2:00 | 2022-12-22 | 2024-01-05 |
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2022-12-22 | 2023-04-26 |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2021-03-23 | 2022-07-29 |
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-12-22 | 2023-10-18 |
@@ -1295,6 +1295,7 @@
 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 | 2022-12-22 |  |
 | [Scared To Lose Someone](https://open.spotify.com/track/5BRBfTf0rRIfJgXVacS6cL) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Scared To Lose Someone](https://open.spotify.com/album/3jrXoHU10DsH3EFAuIK9Bo) | 2:13 | 2021-05-16 | 2022-04-13 |
 | [Scarlet Macaw](https://open.spotify.com/track/4RInQKgHfqQBhKomdMIfsP) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Scarlet Macaw](https://open.spotify.com/album/2Nfx6pdv7VoBJzWkcjmLdH) | 2:22 | 2021-03-10 | 2021-05-09 |
+| [Schutter](https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Schutter](https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW) | 2:30 | 2024-01-04 |  |
 | [Scintilla](https://open.spotify.com/track/69sPwFCc8ztlWFMQJnuS3n) | [Mino Monterosso](https://open.spotify.com/artist/528WOUREknwtSsfI7Nj7Zl) | [Scintilla](https://open.spotify.com/album/2Gwv9ptZ8XEK95Gk7M0LNf) | 2:34 | 2021-05-03 | 2021-05-20 |
 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 | 2021-10-14 | 2022-09-30 |
 | [Sea Mist](https://open.spotify.com/track/0wVPyqumJ4hMOb0Tjg7Qdb) | [Mbo Mentho](https://open.spotify.com/artist/12LKRIil9hDrLLD9PdKlwQ) | [Sea Mist](https://open.spotify.com/album/3x2Q4WxVxN30BzHY7UJtoA) | 3:02 | 2021-03-11 | 2022-04-17 |

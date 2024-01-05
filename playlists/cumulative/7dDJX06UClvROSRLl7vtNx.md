@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-200 songs - 8 hr 49 min
+201 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [So Long](https://open.spotify.com/track/2MgAhjcBonrPzFM7hmjvz5) | [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [lunne.](https://open.spotify.com/artist/5goXrxWAAzbAiWUsDkm8mk) | [So Long](https://open.spotify.com/album/0kMygFJabOWCx0ELzJRHAa) | 2:13 | 2023-10-24 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/3TKa8yERndZnBgC9NmtVld) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Somewhere Only We Know](https://open.spotify.com/album/2rmTvGRyqQK3BpTXUWZjFc) | 2:50 | 2023-09-22 |  |
 | [Sound of Your Summer \- SUPER\-Hi Remix](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr) | [Quarry](https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Sound of Your Summer](https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti) | 3:08 | 2023-09-22 |  |
+| [Still Standing](https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Still Standing](https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY) | 2:15 | 2024-01-04 |  |
 | [Stress You](https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Stress You](https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD) | 2:36 | 2023-09-30 |  |
 | [Stuck In Paradise](https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U) | 2:04 | 2023-12-27 |  |
 | [Sugar \(feat\. Eirik Næss\)](https://open.spotify.com/track/3JWBhbcviDe1gIvZS3wwFa) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Sugar](https://open.spotify.com/album/3wCwbzjcVI6PNPyWGuH3AG) | 2:45 | 2023-09-22 |  |

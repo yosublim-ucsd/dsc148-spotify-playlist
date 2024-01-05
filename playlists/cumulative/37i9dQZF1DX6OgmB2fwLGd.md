@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-912 songs - 1 day 13 hr 23 min
+913 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 | 2023-09-08 |  |
 | [I Love It](https://open.spotify.com/track/13jvtLuv8vRg2fmvClhWP1) | [Jaah SLT](https://open.spotify.com/artist/6oUVQSkgFOPuv5g2hRCONc), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [I Love It](https://open.spotify.com/album/3h4aKAY35vJTr0GFpbB03r) | 2:51 | 2021-12-03 | 2022-04-29 |
 | [I Love You](https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke) | [Young Slo\-Be](https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM) | [Slo\-Be Bryant 3](https://open.spotify.com/album/1PAmNh4VorpJrt4QgfEaHS) | 2:03 | 2022-01-21 | 2022-05-21 |
-| [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-18 |  |
+| [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-18 | 2024-01-05 |
 | [I Need Bands](https://open.spotify.com/track/4mU3dpFlrTUqp94wrQodYk) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [I Need Bands](https://open.spotify.com/album/4Cu7Dpsdv8JUgiegEQ9Bg7) | 2:49 | 2022-01-21 | 2022-02-05 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-15 | 2023-07-15 |
 | [i of the storm](https://open.spotify.com/track/0OktnjMxp7dF3zXfRfdadn) | [Perry Maysun](https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0), [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE) | [i of the storm](https://open.spotify.com/album/26BbMv6aZkI5KnF91PA4XA) | 2:31 | 2023-06-09 | 2023-08-12 |
@@ -690,6 +690,7 @@
 | [RICH BOY](https://open.spotify.com/track/56rLW4cKE1A6ckp48OPhQS) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [RICH BOY](https://open.spotify.com/album/05Mxsv56M4jUAVxu4z28pK) | 1:51 | 2021-12-10 | 2022-03-07 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-06-29 | 2022-12-03 |
 | [RICH SCHOLAR](https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [RICH SCHOLAR](https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om) | 1:58 | 2023-06-16 | 2023-12-12 |
+| [RICK DENIMS](https://open.spotify.com/track/6uqcUT0cuNiMrZb480CpTA) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [RICK DENIMS](https://open.spotify.com/album/1W9OMYGaUq8X1zkK2o35L4) | 2:24 | 2024-01-04 |  |
 | [Rick Rubin](https://open.spotify.com/track/5NOOxxawp4MU1remSX2eJQ) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Lil Pump 2 Deluxe](https://open.spotify.com/album/0xfbrQStjGicZ7WR2iXMXN) | 2:02 | 2023-09-22 |  |
 | [RIDE THE WAVE!](https://open.spotify.com/track/5W8s7MrKDEk1j9gtD0TeQm) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [RIDE THE WAVE!](https://open.spotify.com/album/1qROXmq8dciE3jPJgyKlke) | 2:03 | 2023-01-13 | 2023-02-15 |
 | [Righteous](https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/4wKiLDuvLSKBtWyez67oSG) | 2:43 | 2022-08-12 | 2022-09-17 |

@@ -15610,7 +15610,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 199680,
       "name": "Foto da Unha",
       "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
@@ -19904,7 +19904,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 641941,
       "name": "Let's Go 4",
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
@@ -31147,6 +31147,24 @@
     },
     {
       "album": {
+        "name": "PUTARIA NO COMPLEXO X SELVA DO URSO",
+        "url": "https://open.spotify.com/album/1Tj1actnkA3wyQpSDSxrn7"
+      },
+      "artists": [
+        {
+          "name": "Dj Klebin",
+          "url": "https://open.spotify.com/artist/23bq5HhjGzFYe46YVIOkjZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120813,
+      "name": "PUTARIA NO COMPLEXO X SELVA DO URSO",
+      "url": "https://open.spotify.com/track/1jFaGv9IAS5hsoBeqjniCJ"
+    },
+    {
+      "album": {
         "name": "Putaria N\u00e3o, Putaria Sim",
         "url": "https://open.spotify.com/album/5bsWA3hvGUuEV2N8F6Fffa"
       },
@@ -32175,6 +32193,24 @@
     },
     {
       "album": {
+        "name": "Revoagro",
+        "url": "https://open.spotify.com/album/6SfYV04FgAT7Q7aCQT7eba"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nelore & Texano",
+          "url": "https://open.spotify.com/artist/1znNLduZAHoADY3lXy5tbw"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164524,
+      "name": "Revoagro",
+      "url": "https://open.spotify.com/track/0RW4b6DpxuV0ZgJwsKtJIm"
+    },
+    {
+      "album": {
         "name": "Reza",
         "url": "https://open.spotify.com/album/3S2kchDYPQj5YKFLkii0dB"
       },
@@ -32360,10 +32396,6 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
           "name": "MC Paulin da Capital",
           "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
         },
@@ -32394,6 +32426,10 @@
         {
           "name": "NOG",
           "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
       "date_added": "2023-12-26",

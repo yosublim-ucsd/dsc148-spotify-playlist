@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 2140,
+  "num_followers": 2267,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDllY2Y3NzgxNTlkNjMxYjg4ZDNlZjVkZGU0NzVlNzBmYzAwYzc0",
+  "snapshot_id": "MCw3Nzc2MDcwNDllNTE2NzU5NmNkOWY3M2I1OTcwNGE1Mzk2M2UyZGU4",
   "tracks": [
     {
       "added_at": "2024-01-02 10:39:40",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-01-02 10:39:40",
       "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
-    },
-    {
-      "added_at": "2024-01-02 10:39:40",
-      "album": {
         "name": "Out of Exile",
         "url": "https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 278973,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/3zwmW1gM4E8FlHXV5nE16u"
+    },
+    {
+      "added_at": "2024-01-02 10:39:40",
+      "album": {
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "added_at": "2024-01-02 10:39:40",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-01-02 10:39:40",
       "album": {
-        "name": "Floored",
-        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
-    },
-    {
-      "added_at": "2024-01-02 10:39:40",
-      "album": {
         "name": "Isolate And Medicate",
         "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 197800,
       "name": "Nobody Praying For Me",
       "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
+    },
+    {
+      "added_at": "2024-01-02 10:39:40",
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
     },
     {
       "added_at": "2024-01-02 10:39:40",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-02 10:39:40",
       "album": {
-        "name": "Ultraviolet Disguise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
-      },
-      "artists": [
-        {
-          "name": "The Technicolors",
-          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Tonight You Are Mine",
-      "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
-    },
-    {
-      "added_at": "2024-01-02 10:39:40",
-      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 231666,
       "name": "Bury Me Face Down",
       "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
+    },
+    {
+      "added_at": "2024-01-02 10:39:40",
+      "album": {
+        "name": "Ultraviolet Disguise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
+      },
+      "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Tonight You Are Mine",
+      "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
     },
     {
       "added_at": "2024-01-02 10:39:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-02 10:39:40",
       "album": {
-        "name": "Birds and the Bees",
-        "url": "https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 254263,
-      "name": "Birds and the Bees",
-      "url": "https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah"
-    },
-    {
-      "added_at": "2024-01-02 10:39:40",
-      "album": {
         "name": "Team Sleep (U.S. Release)",
         "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2024-01-02 10:39:40",
       "album": {
-        "name": "Chris Cornell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 345626,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW"
-    },
-    {
-      "added_at": "2024-01-02 10:39:40",
-      "album": {
         "name": "Nothing But Thieves (Track by Track)",
         "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 206573,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
+    },
+    {
+      "added_at": "2024-01-02 10:39:40",
+      "album": {
+        "name": "Chris Cornell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 345626,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW"
     },
     {
       "added_at": "2024-01-02 10:39:40",
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2024-01-02 10:39:40",
       "album": {
-        "name": "I'm with You",
-        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 335893,
-      "name": "Police Station",
-      "url": "https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe"
-    },
-    {
-      "added_at": "2024-01-02 10:39:40",
-      "album": {
         "name": "Sleeping With Ghosts",
         "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
       },
@@ -1247,6 +1215,22 @@
       "duration_ms": 195680,
       "name": "Protect Me from What I Want",
       "url": "https://open.spotify.com/track/6gWTeVFeCtQH4IZV4GL6IE"
+    },
+    {
+      "added_at": "2024-01-02 10:39:40",
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 335893,
+      "name": "Police Station",
+      "url": "https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe"
     },
     {
       "added_at": "2024-01-02 10:39:40",
@@ -1295,6 +1279,22 @@
       "duration_ms": 254773,
       "name": "Ain't It The Life",
       "url": "https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP"
+    },
+    {
+      "added_at": "2024-01-02 10:39:40",
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "San Diego",
+      "url": "https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG"
     }
   ],
   "unique_name": "hAngOvEr fRiEnDLy rOcK",

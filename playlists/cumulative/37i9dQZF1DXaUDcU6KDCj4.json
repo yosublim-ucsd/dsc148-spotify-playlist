@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hermanos Guti\u00e9rrez",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Katy Kirby",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 136863,
       "name": "Creatures of a Day",
       "url": "https://open.spotify.com/track/7kgZkJICJVicsUHlLHU2W3"
@@ -5796,6 +5796,24 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
+    },
+    {
+      "album": {
+        "name": "Cuero Dudes / Beauty Opens Doors",
+        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298921,
+      "name": "Cuero Dudes",
+      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
     },
     {
       "album": {
@@ -5983,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "All to Bones",
+        "url": "https://open.spotify.com/album/4Zn4YKoRpgesieWwWrKWX3"
+      },
+      "artists": [
+        {
+          "name": "Park Bird",
+          "url": "https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Dandelions, Dandelions",
+      "url": "https://open.spotify.com/track/191coUoVGfnFw9AKrHAcjm"
+    },
+    {
+      "album": {
         "name": "Dark Reflection",
         "url": "https://open.spotify.com/album/4owCDcV0Y7w6BmKxnZ9DkP"
       },
@@ -6164,6 +6200,24 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
+        "name": "Days Can Turn Around",
+        "url": "https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Days Can Turn Around",
+      "url": "https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz"
     },
     {
       "album": {
@@ -6446,6 +6500,28 @@
       "duration_ms": 135124,
       "name": "didn't you believe in me?",
       "url": "https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR"
+    },
+    {
+      "album": {
+        "name": "die slower",
+        "url": "https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE"
+      },
+      "artists": [
+        {
+          "name": "Brendan Abernathy",
+          "url": "https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW"
+        },
+        {
+          "name": "Annie Omalley",
+          "url": "https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195187,
+      "name": "Die Slower",
+      "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
     },
     {
       "album": {
@@ -7846,7 +7922,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 278029,
       "name": "Even on Bad Days",
       "url": "https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg"
@@ -10242,7 +10318,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 311610,
       "name": "Growing at the Edges",
       "url": "https://open.spotify.com/track/7LLeuuh9o3z0VPISrNzWHc"
@@ -10336,6 +10412,24 @@
       "duration_ms": 294835,
       "name": "Hadsel",
       "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
+    },
+    {
+      "album": {
+        "name": "Half of forever",
+        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Half of forever",
+      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
       "album": {
@@ -10456,6 +10550,24 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "album": {
+        "name": "Hand to Hand",
+        "url": "https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226836,
+      "name": "Hand to Hand",
+      "url": "https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6"
     },
     {
       "album": {
@@ -11128,7 +11240,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 235654,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5yHof3Avv4JjYuzTTks0v8"
@@ -11186,6 +11298,28 @@
       "duration_ms": 152709,
       "name": "Her (Sunflower)",
       "url": "https://open.spotify.com/track/44W2FeI0SRWDleedTeaD7O"
+    },
+    {
+      "album": {
+        "name": "Here We Are",
+        "url": "https://open.spotify.com/album/6F4qTjhtfCoOgu9CdBMNph"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        },
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242346,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/5sNoC9OJEPwWTh8fvUi99x"
     },
     {
       "album": {
@@ -11490,7 +11624,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 239373,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW"
@@ -11884,7 +12018,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 212480,
       "name": "Honest Mistake",
       "url": "https://open.spotify.com/track/7I5lWaa5IhmZ9e2C1CNMeh"
@@ -13082,6 +13216,24 @@
       "duration_ms": 177573,
       "name": "I Only See the Moon",
       "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
+    },
+    {
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221415,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
     },
     {
       "album": {
@@ -15407,6 +15559,28 @@
     },
     {
       "album": {
+        "name": "Letting Things Go",
+        "url": "https://open.spotify.com/album/6MNCxoXONutvv8SNHiJ6K3"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Evangeline",
+          "url": "https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152339,
+      "name": "Letting Things Go",
+      "url": "https://open.spotify.com/track/5ua2M4ijwRgQy9xQKsGXzG"
+    },
+    {
+      "album": {
         "name": "Lie, Cheat, and Steal",
         "url": "https://open.spotify.com/album/3tNhkfksbSiHIu7YLgRz0z"
       },
@@ -16582,6 +16756,24 @@
       "duration_ms": 174086,
       "name": "Lovers to Strangers",
       "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "album": {
@@ -18214,7 +18406,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
@@ -18232,7 +18424,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 207745,
       "name": "Neighbors",
       "url": "https://open.spotify.com/track/3WSBzbvcQmrxZwCESZfMJC"
@@ -18804,7 +18996,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 149000,
       "name": "not a king",
       "url": "https://open.spotify.com/track/4FVzimiTl5SZXWMVgJ4nEe"
@@ -23232,7 +23424,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 209493,
       "name": "Slow Lightning",
       "url": "https://open.spotify.com/track/00lSyfryFdrABIUTxAaLy1"
@@ -23644,7 +23836,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 250858,
       "name": "Someone You Don't Know",
       "url": "https://open.spotify.com/track/2t6MT4mPRPUzBRUjBH1bRK"
@@ -28464,7 +28656,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 147607,
       "name": "Turn out fine",
       "url": "https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM"
@@ -28732,7 +28924,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 233150,
       "name": "unconditional",
       "url": "https://open.spotify.com/track/0lMr7vbQZeDT4ZS37Ui5l9"
@@ -29584,7 +29776,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 219973,
       "name": "We Don't Run - We Don't Run",
       "url": "https://open.spotify.com/track/0GrjCTn1mcBP8as4atYzAH"
@@ -30132,7 +30324,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 185546,
       "name": "When We Get Home",
       "url": "https://open.spotify.com/track/375efClGJqfXkb3ftpU6af"

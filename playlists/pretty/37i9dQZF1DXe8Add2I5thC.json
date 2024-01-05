@@ -1,12 +1,12 @@
 {
   "description": "the golden era of the \ud835\ude92\ud835\ude97\ud835\ude9d\ud835\ude8e\ud835\ude9b\ud835\ude97\ud835\ude8e\ud835\ude9d",
-  "num_followers": 24782,
+  "num_followers": 24831,
   "original_name": "the blog era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2U4MWJmN2MzYTc2YWFmMTNjMDNiNzhlOGU4OWFmZmI0YzA2NWY3",
+  "snapshot_id": "MCw4OTIwY2Q3ZDM3YjI2NGJhNWE3OGU4NmRiOWY4ZWUxMDU2YjA5NmQx",
   "tracks": [
     {
       "added_at": "2023-10-22 00:51:07",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 168591,
-      "name": "Rigamortus",
-      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 286013,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 168591,
+      "name": "Rigamortus",
+      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG"
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Treats",
-        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
       "artists": [
         {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Rill Rill",
-      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+      "duration_ms": 201000,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "A Certain Trigger",
-        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Apply Some Pressure",
-      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
+        "name": "A Certain Trigger",
+        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Apply Some Pressure",
+      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 224973,
       "name": "Fences",
       "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
-        "name": "In Ghost Colours (UK Version Delux)",
-        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Lights & Music",
-      "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Nighttiming",
-        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
+        "name": "In Ghost Colours (UK Version Delux)",
+        "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
       "artists": [
         {
-          "name": "Coconut Records",
-          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
         }
       ],
-      "duration_ms": 168492,
-      "name": "Nighttiming",
-      "url": "https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV"
+      "duration_ms": 279373,
+      "name": "Lights & Music",
+      "url": "https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1435,6 +1419,22 @@
       "duration_ms": 264000,
       "name": "Polish Girl",
       "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Nighttiming",
+        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
+      },
+      "artists": [
+        {
+          "name": "Coconut Records",
+          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+        }
+      ],
+      "duration_ms": 168492,
+      "name": "Nighttiming",
+      "url": "https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV"
     },
     {
       "added_at": "2023-10-22 00:51:07",

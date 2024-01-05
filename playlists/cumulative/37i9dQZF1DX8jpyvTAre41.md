@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The biggest songs in today's Rock scene\. Cover: The Last Dinner Party
+> The biggest songs in today's Rock scene\. Cover: Palaye Royale
 
-741 songs - 1 day 18 hr 5 min
+744 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-24 | 2022-07-30 |
 | [A Beautiful Life](https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl) | 3:35 | 2022-04-22 | 2023-02-18 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-19 | 2023-10-21 |
-| [A Little Bit Happy \- Spotify Singles](https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 3:25 | 2023-11-10 |  |
+| [A Little Bit Happy \- Spotify Singles](https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 3:25 | 2023-11-10 | 2024-01-05 |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-03-18 | 2022-03-26 |
 | [A Little Bit of Love](https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 2:44 | 2022-03-25 | 2022-09-10 |
 | [AB Bride](https://open.spotify.com/track/008o3F2Bvkb6F7WgWGG9DS) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [CANDU :: AB Bride](https://open.spotify.com/album/1AH4y5LvN3Fv3MT2VqppFA) | 3:47 | 2022-02-11 | 2022-03-05 |
@@ -51,6 +51,7 @@
 | [Ammunition](https://open.spotify.com/track/5ElI4FJe3HnOeXCnzewjfy) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [End Of The Ocean](https://open.spotify.com/album/7b5hvyZJ6sezSlccARvcqI) | 4:40 | 2022-01-14 | 2022-03-18 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 |  |
 | [Arm In Arm](https://open.spotify.com/track/2LHAUUKtI3eaojULITCZ0K) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Once](https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT) | 2:41 | 2021-12-31 | 2022-03-05 |
+| [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2024-01-05 |  |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-29 |  |
 | [AUTOMATIC](https://open.spotify.com/track/3npR6Dg8NmwbEW9gU7jGCX) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [AUTOMATIC](https://open.spotify.com/album/5qEofzKKcDkOe2mcThqUco) | 2:33 | 2023-02-17 | 2023-06-24 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-03-04 | 2022-03-19 |
@@ -141,7 +142,7 @@
 | [CTRL^^^](https://open.spotify.com/track/1gbKpOkTCN7880ZmL3xVFV) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [CTRL^^^](https://open.spotify.com/album/7zcDuE7nJZaKy3xcTsrWsQ) | 2:39 | 2022-02-04 | 2022-06-25 |
 | [Cut Me Loose](https://open.spotify.com/track/5OkKRSGDSVISuXEYQIWx6z) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Cut Me Loose](https://open.spotify.com/album/5Hu41DxrwMBV6QGgc83jTr) | 2:45 | 2021-12-31 | 2022-05-28 |
 | [Cut My Hair](https://open.spotify.com/track/1yxjaC8bqy31Cs7BrwCKz0) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Cut My Hair](https://open.spotify.com/album/1zV6fb0hPcA66LadF38UAC) | 4:55 | 2021-12-31 | 2022-01-29 |
-| [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/3l6ibS9n423uKLhY7y3E62) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/album/64Hq3bXpxvfpXX3so2qoaj) | 3:18 | 2023-02-03 |  |
+| [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/3l6ibS9n423uKLhY7y3E62) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/album/64Hq3bXpxvfpXX3so2qoaj) | 3:18 | 2023-02-03 | 2024-01-05 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2023-02-11 |
 | [Dad Vibes](https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:12 | 2021-12-31 | 2022-01-29 |
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2021-12-31 | 2022-01-15 |
@@ -323,7 +324,7 @@
 | [junkie](https://open.spotify.com/track/1EbsleQQFhD9HYxPaTqgfu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/0F3HviU9yaZBcYOHAfhOpE) | 2:39 | 2022-07-22 | 2022-09-03 |
 | [junkie](https://open.spotify.com/track/2WIWwLS7IOl3GzQmr1GJSb) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/6XnFiwvPC1UBH9ZRkfb94q) | 2:39 | 2022-04-08 | 2022-07-29 |
 | [Just a Boy](https://open.spotify.com/track/0HL2BZqdCwVO19FaUGylu5) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [The Sixty90’s](https://open.spotify.com/album/52OLN3MpGAVuwOA2nmxXW6) | 3:48 | 2022-10-28 | 2023-02-04 |
-| [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2022-11-11 |  |
+| [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2022-11-11 | 2024-01-05 |
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-07-07 | 2023-08-12 |
 | [Just To See You Smile](https://open.spotify.com/track/31fAlCZ3eVL0981LG2hOVi) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Just To See You Smile](https://open.spotify.com/album/58c9WlRAThSshA0zPJlv1x) | 4:59 | 2022-07-29 | 2022-08-27 |
 | [Just What I Needed](https://open.spotify.com/track/2rjPMQ8rJTLskPHP4ZCkji) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Just What I Needed](https://open.spotify.com/album/0I00sFWhGUoZY0muWNXA6M) | 3:36 | 2021-12-31 | 2022-02-19 |
@@ -529,6 +530,7 @@
 | [Run Away to Mars](https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [HELGMYS](https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h) | 3:33 | 2022-11-04 | 2022-11-13 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-09-09 | 2023-04-15 |
 | [Run Away to Mars](https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:33 | 2021-12-31 | 2022-09-11 |
+| [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 | 2024-01-05 |  |
 | [Running For The Hills](https://open.spotify.com/track/47jE6cHrtaLp3KIiPXQ3eP) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Running For The Hills](https://open.spotify.com/album/12iUAdUunxdy80zdZduc9u) | 2:57 | 2022-04-15 | 2022-04-21 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-10 |  |
 | [Sacred Heart](https://open.spotify.com/track/7xdNikoGh1g2rY7FO2ikzR) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Sacred Heart](https://open.spotify.com/album/2buEnpNyo1Gue2fXNcTvTF) | 4:22 | 2022-03-11 | 2022-06-18 |
@@ -702,6 +704,7 @@
 | [Washed Away](https://open.spotify.com/track/4F5tbFtORseJ6Vbemsn4vG) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Washed Away](https://open.spotify.com/album/6MI2S0SLN6rKzdYr8uBVTB) | 3:20 | 2022-04-08 | 2022-05-20 |
 | [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 | 2023-08-11 |  |
 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-02-03 | 2023-08-13 |
+| [Wasteland](https://open.spotify.com/track/1ODKNzRaEnhpwBhlHrv348) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 2:53 | 2024-01-05 |  |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-10 |  |
 | [We Could Get High](https://open.spotify.com/track/1XP8ad1y8ZO2waW4w9gqrh) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [We Could Get High](https://open.spotify.com/album/3yQIForUmxKbu1trz4C2El) | 2:58 | 2022-10-07 | 2023-02-18 |
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-08-04 |  |

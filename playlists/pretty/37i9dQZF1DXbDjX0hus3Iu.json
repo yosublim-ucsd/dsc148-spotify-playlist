@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 493197,
+  "num_followers": 493292,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzZmZjY2Y2VlNTAxMjQwNGExMzdlMGEzZTIxZGY5ZDM5Zjg3NDJm",
+  "snapshot_id": "MCw5MTc1ZWE1ODcyMGI5ODA5MTZkODk1OGZhMWM3YTI4OTRkNGE1OWQ4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+      },
+      "artists": [
+        {
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "It Hurts To Want It So Bad",
+      "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Potlatch",
         "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 255840,
       "name": "Island",
       "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
-      },
-      "artists": [
-        {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "It Hurts To Want It So Bad",
-      "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+      },
+      "artists": [
+        {
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+        }
+      ],
+      "duration_ms": 316600,
+      "name": "That's Your Secret",
+      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "The Johnny Van Zant Collection",
         "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 245600,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
       },
       "artists": [
         {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 316600,
-      "name": "That's Your Secret",
-      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Thorn And A Wild Rose",
-      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Train, Train",
         "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 244400,
       "name": "Gimme, Gimme, Gimme",
       "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Shake 'Em On Down",
+      "url": "https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Thorn And A Wild Rose",
+      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "Back to Rock",
         "url": "https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 247200,
       "name": "Don't Know Where I'm Bound",
       "url": "https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
-        "name": "Shake Hands With Shorty",
-        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "Shake 'Em On Down",
-      "url": "https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw"
     },
     {
       "added_at": "2023-01-18 21:52:55",

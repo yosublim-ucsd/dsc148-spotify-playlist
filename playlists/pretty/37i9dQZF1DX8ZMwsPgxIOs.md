@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: HI\-LO
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,289 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,327 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 |
 | 2 | [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 |
-| 3 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
+| 3 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 |
 | 4 | [Desert Queen](https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Desert Queen](https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH) | 3:56 |
 | 5 | [Let's Begin](https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Let's Begin](https://open.spotify.com/album/2QB0mD6cQ2yPnMmo4QaoN8) | 2:53 |
 | 6 | [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 |
 | 80 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 |
 
-Snapshot ID: `MCw3MGIxZjNlMWI1NGE2NjQxYWY0NjQ1YTE5YWJhMDdmMTIzZWI2MDM5`
+Snapshot ID: `MCwwODdmYzcyY2MwNDE2OGE2OTY3M2M1Mjg4NDI1NjIxMWIyNTlkZTE1`

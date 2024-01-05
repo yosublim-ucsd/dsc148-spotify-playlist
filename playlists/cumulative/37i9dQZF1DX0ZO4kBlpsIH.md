@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-191 songs - 9 hr 16 min
+192 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Besame Mucho](https://open.spotify.com/track/6NTGlwq5oGviybLyppZL7T) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 3:21 | 2023-03-15 | 2023-08-19 |
 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 | 2022-02-18 |  |
 | [Black and White](https://open.spotify.com/track/2EQpfex5XjYR1ctXdtjJ9I) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:01 | 2023-05-18 |  |
+| [bleu comme ton cœur](https://open.spotify.com/track/66rl8hBMjkG5qOwzwP7sRN) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [bleu comme ton cœur](https://open.spotify.com/album/6bMV2838VZMsLZ6wLoHnyp) | 4:20 | 2024-01-05 |  |
 | [Bleu D’Auvergne](https://open.spotify.com/track/6q0M3prfVKJeSdx2ruNjsg) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 1:50 | 2023-03-15 | 2023-08-04 |
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 | 2023-08-19 |
 | [bol et rot](https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 2:54 | 2023-06-15 |  |

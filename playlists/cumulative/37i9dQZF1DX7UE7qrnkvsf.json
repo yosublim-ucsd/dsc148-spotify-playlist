@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "All That's Left Is A Song",
+        "url": "https://open.spotify.com/album/2FBgIfyayKTGoQijjiKW0N"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165201,
+      "name": "All That's Left Is A Song",
+      "url": "https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K"
+    },
+    {
+      "album": {
         "name": "All To Soon",
         "url": "https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi"
       },
@@ -5383,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "Not Enough Reason",
+        "url": "https://open.spotify.com/album/0orFxu3KTEjSH88fEG0n29"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223891,
+      "name": "Not Enough Reason",
+      "url": "https://open.spotify.com/track/0fg9IEvt4CpDAF2GRWDLB5"
+    },
+    {
+      "album": {
         "name": "Not For You",
         "url": "https://open.spotify.com/album/0IOv54Aw3Vdji9dKE15IWJ"
       },
@@ -7614,6 +7650,24 @@
       "duration_ms": 257915,
       "name": "Up In Town",
       "url": "https://open.spotify.com/track/1Kvxzf1WFEdBkLuvGVwpjM"
+    },
+    {
+      "album": {
+        "name": "Urban Jazz Chronicles",
+        "url": "https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221431,
+      "name": "Urban Jazz Chronicles",
+      "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"
     },
     {
       "album": {

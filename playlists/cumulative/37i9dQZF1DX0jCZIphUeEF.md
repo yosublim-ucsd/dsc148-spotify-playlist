@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-143 songs - 14 hr 5 min
+144 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Crush](https://open.spotify.com/track/69oXiXBdSLgPK9ayBdnE34) | [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Crush](https://open.spotify.com/album/6cgpRG3y1okC2TUt2mCeQr) | 4:35 | 2023-11-03 | 2023-11-06 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-11-07 |  |
 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 | 2022-08-01 |  |
-| [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-11-07 |  |
+| [Dance With Me](https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS) | 6:31 | 2023-12-15 |  |
+| [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-11-07 | 2024-01-05 |
 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2023-07-27 | 2023-08-24 |
 | [Deep Inside \- Edit](https://open.spotify.com/track/1GHae878N0DGFm8XCpFBzy) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 3:37 | 2023-05-31 | 2023-08-24 |
 | [Dice](https://open.spotify.com/track/6pK1dCN0zuT6Rkf0rqA7AI) | [DJ Wady](https://open.spotify.com/artist/2yRUlvlTqfWQHTriEoeR55), [Afroloko](https://open.spotify.com/artist/4xYh2GHr8Vj2lmNmbfBcsU) | [Dice](https://open.spotify.com/album/0FrXYHZpNdgwGO7fLjFVyq) | 6:15 | 2022-08-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove, ANNA",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1585,6 +1585,32 @@
     },
     {
       "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "B\u00c2TIMENT (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6BhhV1ImaKVr1YwsyYIBWJ"
+    },
+    {
+      "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
       },
@@ -1876,7 +1902,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 157168,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o"
@@ -6370,6 +6396,24 @@
       "duration_ms": 177716,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr"
+    },
+    {
+      "album": {
+        "name": "Paganini",
+        "url": "https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Paganini",
+      "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
     },
     {
       "album": {

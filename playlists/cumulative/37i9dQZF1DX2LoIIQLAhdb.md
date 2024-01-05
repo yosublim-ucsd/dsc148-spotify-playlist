@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Nej
+> Le R&B français, nouvelle ère\. Photo : Ronisia
 
-240 songs - 11 hr 36 min
+241 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Karma](https://open.spotify.com/track/5cdWpC6rPjP1hroxlKYLKb) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Karma](https://open.spotify.com/album/0HjyI7O830iye5BHTdRkQz) | 2:30 | 2023-10-05 | 2023-10-20 |
 | [Kassïm](https://open.spotify.com/track/3wNaJ961pZuyveLQddISkm) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Kassïm](https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl) | 1:33 | 2023-06-08 | 2023-07-07 |
 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 | 2023-11-09 | 2023-11-25 |
-| [Keisha](https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Keisha](https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd) | 2:52 | 2023-11-30 |  |
+| [Keisha](https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Keisha](https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd) | 2:52 | 2023-11-30 | 2024-01-05 |
 | [KM](https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [UNE LARME DE +](https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc) | 2:39 | 2023-06-22 | 2023-09-29 |
 | [L'AMÉRICAINE](https://open.spotify.com/track/5o9i7yTVirTIMMQrZrtTkd) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [SÛR ET CERTAIN](https://open.spotify.com/album/5lybxL3zlWlLz4eYh9Ns67) | 2:45 | 2023-08-03 | 2023-09-29 |
 | [L'officiel](https://open.spotify.com/track/2kwPIIXZX9ZcnbeXtTTFsZ) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 3:05 | 2022-11-24 | 2023-02-24 |
@@ -174,13 +174,14 @@
 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 | 2023-09-14 | 2023-12-15 |
 | [Oublier \(Music Monday\)](https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Oublier \(Music Monday\)](https://open.spotify.com/album/7FrXZtOcGmHoIqCsh2TD22) | 2:34 | 2022-11-24 | 2023-01-06 |
 | [Paradis](https://open.spotify.com/track/11UPOVNoEDQT16KypWgRR8) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS) | [Paradis](https://open.spotify.com/album/5LfYlTPsOjWOniv1s96cJE) | 2:40 | 2023-06-22 | 2023-08-11 |
+| [Parano](https://open.spotify.com/track/5Ts3gJAbMVewHiE5vrrPbb) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Coeur froid](https://open.spotify.com/album/56jucH9s6rmLITqM7N9Ejl) | 2:14 | 2024-01-04 |  |
 | [Parcours](https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Parcours](https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA) | 3:30 | 2023-09-28 | 2023-12-08 |
 | [Pardon](https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Pardon](https://open.spotify.com/album/2lg8wdL4nCUipxVf6Rr0l4) | 2:47 | 2022-11-24 | 2022-12-24 |
 | [Pardonne\-moi](https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:06 | 2023-10-12 |  |
 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 | 2023-09-28 |  |
 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-11-24 | 2023-01-20 |
 | [Pas deux fois](https://open.spotify.com/track/7rHVUZyPGUAUobgJ4raVjQ) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Pas deux fois](https://open.spotify.com/album/4v04mvu8sazAy4w0bbtHWi) | 2:44 | 2023-10-26 | 2023-11-25 |
-| [Pas Les Mots](https://open.spotify.com/track/12WqCvcP9QJl4PpmSYDIyt) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Pas Les Mots](https://open.spotify.com/album/6WyzXWdIMI09xHThKp8Hbt) | 2:12 | 2023-09-14 |  |
+| [Pas Les Mots](https://open.spotify.com/track/12WqCvcP9QJl4PpmSYDIyt) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Pas Les Mots](https://open.spotify.com/album/6WyzXWdIMI09xHThKp8Hbt) | 2:12 | 2023-09-14 | 2024-01-05 |
 | [PAS LÀ](https://open.spotify.com/track/593rLZfwh40YutczjPvbwD) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF) | [PAS LÀ](https://open.spotify.com/album/2Al8CFaYs6K4RPY0XVvCl4) | 2:51 | 2022-12-08 | 2023-01-20 |
 | [PAS LÀ](https://open.spotify.com/track/5GIRSbbvKHSmY4p2pEnZke) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [PAS LÀ](https://open.spotify.com/album/5EzYNyHB5oRjRpB1zcUdnc) | 2:27 | 2023-04-27 | 2023-06-23 |
 | [Pervers narcissique](https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Pervers narcissique](https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B) | 4:17 | 2022-11-24 | 2023-02-10 |

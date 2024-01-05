@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-94 songs - 4 hr 39 min
+95 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,10 +93,11 @@
 | [Só Me Usa](https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL) | [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Só Me Usa](https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol) | 2:34 | 2023-09-15 |  |
 | [Só Minha](https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Só Minha](https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn) | 2:29 | 2023-09-15 |  |
 | [Só Olha \- Ao Vivo](https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:40 | 2023-12-08 |  |
+| [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 | 2024-01-05 |  |
 | [Te Vejo Mais Tarde](https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Éffe](https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW) | [Te Vejo Mais Tarde](https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv) | 1:54 | 2023-10-13 |  |
 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 | 2023-09-15 | 2023-10-28 |
 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 | 2023-12-01 |  |
-| [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 | 2023-10-27 |  |
+| [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 | 2023-10-27 | 2024-01-05 |
 | [Verdade ou Ilusão](https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Verdade ou Ilusão](https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA) | 3:24 | 2023-11-24 | 2023-12-02 |
 | [Vitória Brindar](https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Vitória Brindar](https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O) | 3:17 | 2023-10-27 | 2023-11-11 |
 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 |  |

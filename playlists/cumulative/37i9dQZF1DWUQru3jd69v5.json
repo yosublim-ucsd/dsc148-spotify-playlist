@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: emanuelino",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Suspect CB",
   "name": "Raptopia",
   "tracks": [
     {
@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 126724,
       "name": "1%",
       "url": "https://open.spotify.com/track/3AQQle6VHmqjcsbcJokOTZ"
@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "4 My City",
+        "url": "https://open.spotify.com/album/7E3DF9GqySGnfGusveoWcZ"
+      },
+      "artists": [
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "4 My City",
+      "url": "https://open.spotify.com/track/7yiesgWTNRftomEmfjSeg9"
+    },
+    {
+      "album": {
         "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
         "url": "https://open.spotify.com/album/47I5eWAahrkjPWPXXcLcG8"
       },
@@ -558,6 +576,24 @@
       "duration_ms": 137147,
       "name": "70 Chiamate",
       "url": "https://open.spotify.com/track/17Oog1A2D5j3HEXupcGe5M"
+    },
+    {
+      "album": {
+        "name": "7ALA MALA",
+        "url": "https://open.spotify.com/album/08wDX53HfmLr9tNxvsazgA"
+      },
+      "artists": [
+        {
+          "name": "Zeta Cooper",
+          "url": "https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "7ALA MALA",
+      "url": "https://open.spotify.com/track/2EIzwTAQb8svqu3Uq7vzxr"
     },
     {
       "album": {
@@ -1036,7 +1072,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 155833,
       "name": "AMM\u00d2",
       "url": "https://open.spotify.com/track/00GgIQHKgPpplvmVKGQtpN"
@@ -1764,6 +1800,28 @@
       "duration_ms": 161739,
       "name": "BATIMENT #2 (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/3w0OOMArLZWeMitNkH6C4m"
+    },
+    {
+      "album": {
+        "name": "BATMAN (feat. Taxi B)",
+        "url": "https://open.spotify.com/album/6fUxnW94DLBaGJkP0YgVha"
+      },
+      "artists": [
+        {
+          "name": "Sapobully",
+          "url": "https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE"
+        },
+        {
+          "name": "Taxi B",
+          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "BATMAN (feat. Taxi B)",
+      "url": "https://open.spotify.com/track/7cLxlBFQVQeJw22itW3mv2"
     },
     {
       "album": {
@@ -3958,7 +4016,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 141032,
       "name": "CONFERMATO \u2705",
       "url": "https://open.spotify.com/track/5SqjG8aqX3Zt83de3ndOPR"
@@ -4420,7 +4478,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 116928,
       "name": "DAMN \u00a1!",
       "url": "https://open.spotify.com/track/5ef8Gx0sUwDv1FLBKy8xwZ"
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 160728,
       "name": "Driftando (feat. Tony 2Milli)",
       "url": "https://open.spotify.com/track/3KVW8uK3CatQ599k3ahRGn"
@@ -6749,6 +6807,28 @@
     },
     {
       "album": {
+        "name": "Giorgia (feat. Ernia)",
+        "url": "https://open.spotify.com/album/3w2x6OtrsJ65EBilNXUlIi"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152451,
+      "name": "Giorgia (feat. Ernia)",
+      "url": "https://open.spotify.com/track/1cL7CwiRexam7rkd8nHZEr"
+    },
+    {
+      "album": {
         "name": "Girasoli",
         "url": "https://open.spotify.com/album/0MTzddCkOU8eNKBZ3DOOg9"
       },
@@ -7196,6 +7276,28 @@
       "duration_ms": 145920,
       "name": "Gu\u00e9rrilla",
       "url": "https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw"
+    },
+    {
+      "album": {
+        "name": "GZ4",
+        "url": "https://open.spotify.com/album/1EBMU1aB0h2Jm86aUFhZ1F"
+      },
+      "artists": [
+        {
+          "name": "Westcross",
+          "url": "https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk"
+        },
+        {
+          "name": "GZ4",
+          "url": "https://open.spotify.com/artist/1YwCX5uqgII2mEGZeKNFa8"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "GZ4",
+      "url": "https://open.spotify.com/track/1HdwLA1o3hDywj82mBvEw1"
     },
     {
       "album": {
@@ -13090,7 +13192,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 154394,
       "name": "Pezzo di Terra",
       "url": "https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU"
@@ -13460,7 +13562,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 116909,
       "name": "Poto",
       "url": "https://open.spotify.com/track/55wSyoqffHuph5oqDYsZPR"
@@ -15034,7 +15136,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 203470,
       "name": "SCUSAMI",
       "url": "https://open.spotify.com/track/5A67l2REi7nTtv3qWTI2dK"
@@ -15588,7 +15690,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 101565,
       "name": "Sipario",
       "url": "https://open.spotify.com/track/2TN5owJ3vR80Erm7KfgGmO"
@@ -17171,6 +17273,32 @@
     },
     {
       "album": {
+        "name": "TRIVMVIRATO (feat. Scaccia, Vuem)",
+        "url": "https://open.spotify.com/album/7yqYUMzMuAwU6ciUEGXjPB"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        },
+        {
+          "name": "Vuem",
+          "url": "https://open.spotify.com/artist/2GjnVCgb9y5iv2A4TvJOxK"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "TRIVMVIRATO (feat. Scaccia, Vuem)",
+      "url": "https://open.spotify.com/track/3DaLSs0frzohkcQMlOVAAn"
+    },
+    {
+      "album": {
         "name": "Amore Odio",
         "url": "https://open.spotify.com/album/4I1dXR2vPbyFgSZJKV0NqQ"
       },
@@ -17434,7 +17562,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 179016,
       "name": "UN'ALTRA NOTTE",
       "url": "https://open.spotify.com/track/2VSKm8Uz0Y57LMB8AOHqOm"
@@ -17634,7 +17762,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 127883,
       "name": "Vero Stepper",
       "url": "https://open.spotify.com/track/7MSnErYp36L1D6H0YRRxJp"

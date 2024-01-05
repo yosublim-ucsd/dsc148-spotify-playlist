@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 255091,
       "name": "Mi Mala (feat. Becky G, Leslie Grace & Lali) - Remix",
       "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
@@ -3492,6 +3492,24 @@
       "duration_ms": 181093,
       "name": "Tanta Falta",
       "url": "https://open.spotify.com/track/0sPTfDSZgE3KvcvqaKPtEx"
+    },
+    {
+      "album": {
+        "name": "Tanta Falta",
+        "url": "https://open.spotify.com/album/41rlAaHfREFibaYl9ZfLbN"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Tanta Falta",
+      "url": "https://open.spotify.com/track/6H8vwKQzKhw0oAgRPZsQge"
     },
     {
       "album": {

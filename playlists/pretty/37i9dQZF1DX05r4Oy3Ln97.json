@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 552845,
+  "num_followers": 552893,
   "original_name": "Summer House 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI3MTc5YTdhNjEzYmQ0YzJiNDFmMDNjMzRlMjk5MTY5ZjM4MDQ4",
+  "snapshot_id": "MCxkMTM5ZDBiZDVmNzY1YjAxZWIwZDMwMjRlODVjMThhYzVhNDQyMWRm",
   "tracks": [
     {
       "added_at": "2023-12-22 16:00:00",
@@ -59,26 +59,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "Pon De Replay",
-        "url": "https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1"
-      },
-      "artists": [
-        {
-          "name": "Ed Marquis",
-          "url": "https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 257943,
-      "name": "Pon De Replay",
-      "url": "https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "If You Wanna",
         "url": "https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 159586,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "Pon De Replay",
+        "url": "https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1"
+      },
+      "artists": [
+        {
+          "name": "Ed Marquis",
+          "url": "https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 257943,
+      "name": "Pon De Replay",
+      "url": "https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 160403,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
+        "name": "Got Me Like",
+        "url": "https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 224549,
       "name": "The Future",
       "url": "https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
-        "name": "Got Me Like",
-        "url": "https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 130714,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP"
     },
     {
       "added_at": "2023-12-22 16:00:00",

@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Vianney, Kendji Girac et Soprano au top des 50 hits de variété française du moment.
+> Joseph Kamel au top des 50 hits de variété française du moment.
 
-80 songs - 4 hr 14 min
+81 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Le bruit du silence](https://open.spotify.com/track/063IwEdb1LaITJk0LOP0h9) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 3:02 | 2023-12-07 |  |
 | [Le feu](https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP) | 3:57 | 2023-12-07 |  |
 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-09-28 | 2023-12-09 |
-| [Le hall des départs](https://open.spotify.com/track/5OSiXJYZvfXGCJh7XCfeWi) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Marie Poulain](https://open.spotify.com/artist/0tHVDfybuHROQ71GCPp5hS) | [Le hall des départs](https://open.spotify.com/album/66pvkJqMZ590mHlqAxlq7B) | 4:14 | 2023-09-28 |  |
+| [Le hall des départs](https://open.spotify.com/track/5OSiXJYZvfXGCJh7XCfeWi) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Marie Poulain](https://open.spotify.com/artist/0tHVDfybuHROQ71GCPp5hS) | [Le hall des départs](https://open.spotify.com/album/66pvkJqMZ590mHlqAxlq7B) | 4:14 | 2023-09-28 | 2024-01-05 |
 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 | 2023-09-28 | 2023-11-11 |
 | [Les petites gens \- Radio Edit](https://open.spotify.com/track/0xULefKNTqOSzZQK7CJznN) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:33 | 2023-10-05 | 2023-12-09 |
 | [Les visages et les odeurs](https://open.spotify.com/track/1wWlrjujdwAy7BC3EamVTU) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Les visages et les odeurs](https://open.spotify.com/album/5Jm4aY0hAgdP67HoSUSZwc) | 3:00 | 2023-12-07 |  |
@@ -87,6 +87,7 @@
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-11-09 | 2023-12-09 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-28 |  |
 | [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 |  |
+| [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 |  |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

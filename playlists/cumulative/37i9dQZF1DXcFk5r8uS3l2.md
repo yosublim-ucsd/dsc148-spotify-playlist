@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: ZZ Ward
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Danielle Nicole
 
-335 songs - 21 hr 4 min
+336 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,12 +186,13 @@
 | [Love Again](https://open.spotify.com/track/7EVUpwSsr1saF9Vc3lrvYY) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/7HHCXEXhlxETfoWhxlXpBW) | 3:43 | 2022-01-28 |  |
 | [Love in the Lead](https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa) | [Ivan Hartle](https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6) | [Love in the Lead](https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN) | 3:15 | 2023-05-19 |  |
 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 | 2021-12-17 | 2023-02-25 |
+| [Love On My Brain](https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Love On My Brain](https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer) | 4:33 | 2024-01-05 |  |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 | 2023-02-25 |
 | [Lovesick Blues](https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY) | [Annie Keating](https://open.spotify.com/artist/2xKlrRpBoX4Vgas5prEf1n) | [Lovesick Blues](https://open.spotify.com/album/0Fm9l5ccn4T7xYOiyx6Ul9) | 3:33 | 2022-09-16 | 2022-09-24 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2021-12-17 | 2023-02-25 |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-12-17 | 2023-03-11 |
 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 | 2023-03-31 |  |
-| [Make Love](https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Make Love](https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u) | 3:47 | 2023-10-27 |  |
+| [Make Love](https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Make Love](https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u) | 3:47 | 2023-10-27 | 2024-01-05 |
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2021-12-17 | 2023-03-11 |
 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 | 2021-12-17 | 2022-12-03 |
 | [Maybe Someday](https://open.spotify.com/track/5hPQhhwqgJfPDUJIwYAzql) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Maybe Someday](https://open.spotify.com/album/2i59MYGjnrbk9qtiTNcZ19) | 2:55 | 2023-03-24 | 2023-05-20 |

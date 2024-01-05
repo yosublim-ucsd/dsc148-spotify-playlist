@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Game Changer",
+        "url": "https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3"
+    },
+    {
+      "album": {
         "name": "Friends Again",
         "url": "https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 155133,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ"

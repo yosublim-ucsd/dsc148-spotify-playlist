@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Isab\u00e8l Usher",
+  "description": "De nieuwste Nederlandse pop! Cover: jet van der steen",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -549,6 +549,32 @@
     },
     {
       "album": {
+        "name": "Alles Op Gevoel",
+        "url": "https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169444,
+      "name": "Alles Op Gevoel",
+      "url": "https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY"
+    },
+    {
+      "album": {
         "name": "Alles Vergeven",
         "url": "https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg"
       },
@@ -762,7 +788,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 173392,
       "name": "Als Je Niet Opneemt",
       "url": "https://open.spotify.com/track/0McDOKwHK9U7p7B1b1Swb6"
@@ -2876,6 +2902,24 @@
       "duration_ms": 178105,
       "name": "Geef Me Dan Iets",
       "url": "https://open.spotify.com/track/5RtzKPMq4NIlLFmpgafBQA"
+    },
+    {
+      "album": {
+        "name": "Geef Me Over",
+        "url": "https://open.spotify.com/album/2oYQVqtgq7tP7fjRgiFBNj"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190819,
+      "name": "Geef Me Over",
+      "url": "https://open.spotify.com/track/4aswIZFJRd9va6W0i7S0pO"
     },
     {
       "album": {
@@ -5483,6 +5527,24 @@
     },
     {
       "album": {
+        "name": "Niet Alleen",
+        "url": "https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Niet Alleen",
+      "url": "https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD"
+    },
+    {
+      "album": {
         "name": "Niet Breken",
         "url": "https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos"
       },
@@ -6566,6 +6628,24 @@
     {
       "album": {
         "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Slaaptekort",
+      "url": "https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC"
+    },
+    {
+      "album": {
+        "name": "Slaaptekort",
         "url": "https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3"
       },
       "artists": [
@@ -6666,7 +6746,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 204635,
       "name": "Sorry dat ik stoor",
       "url": "https://open.spotify.com/track/1otdNSbercygfjKDmtSNTZ"
@@ -7464,7 +7544,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 145167,
       "name": "Verlaten",
       "url": "https://open.spotify.com/track/4zlL8HgU3x8o8gDHcbMX2g"
@@ -7648,7 +7728,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 177707,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W"

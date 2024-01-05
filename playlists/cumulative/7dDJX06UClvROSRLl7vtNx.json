@@ -3531,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY"
+      },
+      "artists": [
+        {
+          "name": "aericsn",
+          "url": "https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH"
+        },
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135254,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb"
+    },
+    {
+      "album": {
         "name": "Stress You",
         "url": "https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,734 likes - 49 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,735 likes - 49 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 17 | [Let's Celebrate \(Sittin' on Top of the World\)](https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:19 |
 | 18 | [Life Goes On](https://open.spotify.com/track/5o89I5aJYHe4QgleBC7bNu) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:28 |
 | 19 | [When a Woman's in Love](https://open.spotify.com/track/7yNoOvTRXMiXEFqkdKdoQR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:52 |
-| 20 | [If You Don't Start Nothing](https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Luxury Soul 2018](https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L) | 2:37 |
+| 20 | [Get as Much Love as You Can](https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:21 |
 | 21 | [Children of the Night](https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 5:11 |
-| 22 | [Get as Much Love as You Can](https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:21 |
+| 22 | [If You Don't Start Nothing](https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Luxury Soul 2018](https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L) | 2:37 |
 | 23 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 |
-| 24 | [You Made Me Love You](https://open.spotify.com/track/1WiuikoGy1EuUx5SfjSdVZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:52 |
+| 24 | [ASAP \(As Soon as Possible\)](https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:18 |
 | 25 | [I Just Love the Man](https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:41 |
-| 26 | [ASAP \(As Soon as Possible\)](https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:18 |
+| 26 | [You Made Me Love You](https://open.spotify.com/track/1WiuikoGy1EuUx5SfjSdVZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:52 |
 | 27 | [Won't Let You Take It Back](https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:40 |
 | 28 | [Getting on with My Own Life](https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 5:37 |
 | 29 | [Your Love Controls Me](https://open.spotify.com/track/1vue6N2kcKmIkNAEKysBo1) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 48 | [Curious](https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:00 |
 | 49 | [The More I Get To Know You](https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y) | [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 4:31 |
 
-Snapshot ID: `Mjg0MDQ3MzksMDAwMDAwMDAzMmQyYTc5NWE2MTI2YzVkMGUwM2VkNGVhNjc4MGIzNg==`
+Snapshot ID: `Mjg0MDYxODQsMDAwMDAwMDBlYTFhNDIyZTNjYzU4Y2QzYTIwMmYwNmY5MmNkNmMwYg==`

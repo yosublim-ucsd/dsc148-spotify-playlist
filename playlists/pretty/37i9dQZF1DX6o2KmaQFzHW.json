@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 182174,
+  "num_followers": 182202,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTQ4MDVmZWM0YWE3YmQyNjQ1MzAyNTMwZjQ2ZGYzODY5Njc2NDYz",
+  "snapshot_id": "MCwyZmYyYWIzOTBlMGY2NWMyZmM0ZDA5OTdmNmQ1ZDJlMjZkZDBlMzY1",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:53",
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 161160,
-      "name": "Chacarera Del Rancho",
-      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
+      "duration_ms": 161160,
+      "name": "Chacarera Del Rancho",
+      "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "Cancion del Adios",
-      "url": "https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Yo Digo Lo Que Siento",
         "url": "https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 235386,
       "name": "La Cautiva",
       "url": "https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Cancion del Adios",
+      "url": "https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Los 3 del R\u00edo",
-        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
-        }
-      ],
-      "duration_ms": 256441,
-      "name": "Angelitos Negros",
-      "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
         "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 770851,
       "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
       "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Los 3 del R\u00edo",
+        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
+      },
+      "artists": [
+        {
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
+        }
+      ],
+      "duration_ms": 256441,
+      "name": "Angelitos Negros",
+      "url": "https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U"
     },
     {
       "added_at": "2023-09-07 20:59:53",

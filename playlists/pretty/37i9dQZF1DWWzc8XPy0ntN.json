@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123769,
+  "num_followers": 123773,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh",
+  "snapshot_id": "MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -267,18 +267,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Maelstrom",
+        "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "Catatonique",
+          "url": "https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 342017,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
     },
     {
       "added_at": "2023-08-15 18:28:16",
@@ -303,38 +307,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Maelstrom",
-        "url": "https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI"
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
       "artists": [
         {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "Catatonique",
-          "url": "https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q"
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
         }
       ],
-      "duration_ms": 342017,
-      "name": "Maelstrom",
-      "url": "https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Feel Like Honey",
-        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
-      },
-      "artists": [
-        {
-          "name": "Future Feelings",
-          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
-        }
-      ],
-      "duration_ms": 236130,
-      "name": "Feel Like Honey - Radio Edit",
-      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -351,6 +335,22 @@
       "duration_ms": 398629,
       "name": "Individuality Riddim",
       "url": "https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Feel Like Honey",
+        "url": "https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI"
+      },
+      "artists": [
+        {
+          "name": "Future Feelings",
+          "url": "https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH"
+        }
+      ],
+      "duration_ms": 236130,
+      "name": "Feel Like Honey - Radio Edit",
+      "url": "https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -401,42 +401,6 @@
       "url": "https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Koro Kemboro",
-        "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
-      },
-      "artists": [
-        {
-          "name": "Miki Gonzalez",
-          "url": "https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 303197,
-      "name": "Koro Kemboro",
-      "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
-    },
-    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Land III",
@@ -459,6 +423,42 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Koro Kemboro",
+        "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
+      },
+      "artists": [
+        {
+          "name": "Miki Gonzalez",
+          "url": "https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 303197,
+      "name": "Koro Kemboro",
+      "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Night in Tijuana",
         "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 170909,
       "name": "Dancehall, Audubon Ballroom",
       "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+    },
+    {
+      "added_at": "2023-03-22 17:47:26",
+      "album": {
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+      },
+      "artists": [
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -491,22 +507,6 @@
       "duration_ms": 311693,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
-    },
-    {
-      "added_at": "2023-03-22 17:47:26",
-      "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
-      },
-      "artists": [
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Mala Hierba",
         "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
       },
@@ -667,26 +683,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Si Mami",
-        "url": "https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps"
-      },
-      "artists": [
-        {
-          "name": "Michael Fortvne",
-          "url": "https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "Si Mami",
-      "url": "https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -703,22 +699,6 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G"
     },
     {
       "added_at": "2023-02-28 03:45:00",
@@ -859,6 +839,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 265125,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Love is Dancing",
         "url": "https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8"
       },
@@ -875,18 +871,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O"
+        "name": "Desire Path",
+        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
       },
       "artists": [
         {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+        },
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 265125,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58"
+      "duration_ms": 215462,
+      "name": "Cuerpo Que Flota",
+      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -911,22 +911,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Desire Path",
-        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
+        "name": "La Alarma",
+        "url": "https://open.spotify.com/album/0h1YHsNifxwrNA0dDf4S2E"
       },
       "artists": [
         {
-          "name": "Lila Tirando a Violeta",
-          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
+          "name": "Mijo",
+          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
         },
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Eddie Mercury",
+          "url": "https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8"
         }
       ],
-      "duration_ms": 215462,
-      "name": "Cuerpo Que Flota",
-      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+      "duration_ms": 391750,
+      "name": "La Alarma - Radio Club Edit",
+      "url": "https://open.spotify.com/track/7MxnluHCTdx5SjJpTcSRZj"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

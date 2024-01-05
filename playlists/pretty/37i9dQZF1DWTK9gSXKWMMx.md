@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,825 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,855 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 56 | [Someone To Watch Over Me](https://open.spotify.com/track/4RZP3Vkqd7OaMFcJV4NwAM) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Green's Blues](https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V) | 4:18 |
 | 57 | [Chris' Blues](https://open.spotify.com/track/10jhOfCNVBAsuuiTmhipzq) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:35 |
 
-Snapshot ID: `MCw4OTgyMzQ5NmI1MzUzZjI1MTgwNTNkODRmOTU4YzUzNzk0ZjU0Y2Q2`
+Snapshot ID: `MCwyN2RiMGMzMDA3NTYwOTYzNjg4OWExNmU4MzZhZTI4MTdlOTc1ZDFh`

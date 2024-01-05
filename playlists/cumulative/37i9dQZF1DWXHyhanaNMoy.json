@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Alessio",
+  "description": "Motion & good vibes! Cover: ValsBezig",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 166060,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/3RB7BHWMR3lzKzpxV0HLeL"
@@ -8602,6 +8602,24 @@
       "duration_ms": 158813,
       "name": "La vie de r\u00eave",
       "url": "https://open.spotify.com/track/5joUzFnW2GLrktOQpIswU6"
+    },
+    {
+      "album": {
+        "name": "Laat",
+        "url": "https://open.spotify.com/album/2DWJCCUl66SbxdndoJYc7V"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Laat",
+      "url": "https://open.spotify.com/track/2uZOGsbpfLwCHgBBKycpZx"
     },
     {
       "album": {

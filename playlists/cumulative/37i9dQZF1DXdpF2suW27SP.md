@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Slow J entra na zona.
+> Eva Rapdiva entra na zona.
 
-431 songs - 23 hr 7 min
+432 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Moncler](https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5V9MRkH3TQlZJKtHJl00kV) | 3:40 | 2022-07-21 | 2022-09-09 |
 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 | 2022-07-16 | 2022-12-09 |
 | [Moshpit](https://open.spotify.com/track/7rBbdHOQOtLnk7eVNJPdqN) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Ligação Tokyo](https://open.spotify.com/album/00abp5gJEOtKqu7E3m5HpQ) | 2:31 | 2023-11-10 | 2023-12-15 |
-| [Movie](https://open.spotify.com/track/22G3mC1W48tMkkqFimC9c3) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [SDK](https://open.spotify.com/artist/6AxRl5OaLwIFsol7iVJeaW) | [Movie](https://open.spotify.com/album/64HMsj1Zu2EHC7IfCURb9Y) | 2:03 | 2023-12-22 |  |
+| [Movie](https://open.spotify.com/track/22G3mC1W48tMkkqFimC9c3) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [SDK](https://open.spotify.com/artist/6AxRl5OaLwIFsol7iVJeaW) | [Movie](https://open.spotify.com/album/64HMsj1Zu2EHC7IfCURb9Y) | 2:03 | 2023-12-22 | 2024-01-05 |
 | [Movie](https://open.spotify.com/track/49Qou0fp5AIyYxiIXbB1I8) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [SDK](https://open.spotify.com/artist/6hQpZrmcUI9Yb9PITngE67) | [Movie](https://open.spotify.com/album/2CRsdNdX8XJmpHEaz9A3IK) | 2:03 | 2023-12-15 | 2023-12-24 |
 | [Moving Crazy](https://open.spotify.com/track/4cMEM20KHRFOxbaXqXgk1d) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB), [Vlone975](https://open.spotify.com/artist/6sIjMCMxg5ZxZLH02pqIJt), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [In Love With This](https://open.spotify.com/album/2V2tB6WfURVBccFxaLUtMw) | 2:53 | 2022-07-21 | 2022-08-19 |
 | [Moçambique](https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:20 | 2023-12-08 |  |
@@ -286,6 +286,7 @@
 | [Nu Sta](https://open.spotify.com/track/41n9aagcBXCwwzIn9OUyH9) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Sureno Beatzz](https://open.spotify.com/artist/0QATVY5ZWpWIkDANDDXcnq) | [Nu Sta](https://open.spotify.com/album/2Z43E5ys44xB53CmF605zA) | 4:49 | 2023-06-15 | 2023-07-14 |
 | [Nu Ta Camba Na Opp Block](https://open.spotify.com/track/6Fxjfyh1nE9So39sT8suXX) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [Nu Ta Camba Na Opp Block](https://open.spotify.com/album/3KrAGYhOmGbTr6aEHqk0cK) | 3:20 | 2022-08-18 | 2022-09-23 |
 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 | 2022-08-01 | 2022-09-23 |
+| [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 | 2024-01-05 |  |
 | [Não](https://open.spotify.com/track/3BoOl2GNbhf9an8wsRHhF0) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Não](https://open.spotify.com/album/1d2c3KSL2HHoiIatAeMSEZ) | 3:30 | 2023-02-17 | 2023-03-10 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-16 | 2022-10-01 |
 | [Não Me Faz Bem](https://open.spotify.com/track/1tw2m0vEMvqbXrUU4EQ7f2) | [Wavy](https://open.spotify.com/artist/6DGmebMhwunFzbWodIcMsW), [Shugga](https://open.spotify.com/artist/3KYDOgpMzH5TdB1NoVDywK), [Fábio S](https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU) | [Não Me Faz Bem](https://open.spotify.com/album/0vHSJYrRzXNSQ37LcnPwDr) | 2:56 | 2023-06-08 | 2023-06-30 |

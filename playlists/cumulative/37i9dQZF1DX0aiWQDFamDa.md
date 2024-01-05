@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-298 songs - 1 day 0 hr 12 min
+299 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [I'll Never Smile Again](https://open.spotify.com/track/4KdBR604ZOeCZvY8rA3i2N) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Sentimental Journey](https://open.spotify.com/album/39obEXynFOmw6sFXI4qhVl) | 2:59 | 2022-05-18 | 2022-08-27 |
 | [I'm A Fool To Want You](https://open.spotify.com/track/6tHYmn2CeK7I34u9F6Y7IL) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Dream Of You](https://open.spotify.com/album/3SnxfdE15llplL5YMxQhGY) | 4:07 | 2022-05-18 | 2022-08-27 |
 | [I'm Gonna Laugh You Right Out Of My Life](https://open.spotify.com/track/2rSVktwe87akiljBLsl0IC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 3:18 | 2022-05-18 | 2022-08-27 |
-| [I'm Okay](https://open.spotify.com/track/44ugYcT4elLHdwItplCeln) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Tony Tixier](https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Guardians of the Heart Machine](https://open.spotify.com/album/0XJ08jnqwmTt8qWDs100Ut) | 7:40 | 2022-06-29 |  |
+| [I'm Okay](https://open.spotify.com/track/44ugYcT4elLHdwItplCeln) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Tony Tixier](https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Guardians of the Heart Machine](https://open.spotify.com/album/0XJ08jnqwmTt8qWDs100Ut) | 7:40 | 2022-06-29 | 2024-01-05 |
 | [I'm Okay](https://open.spotify.com/track/66KgFcSf7nCRrKO7zjPvUV) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Tony Tixier](https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Guardians of the Heart Machine](https://open.spotify.com/album/42Bf0gsyJAsJs3s8ia5Yzh) | 7:40 | 2022-05-18 | 2022-07-28 |
 | [I'm Through With Love](https://open.spotify.com/track/3UxUBKNHAsvjfRKABuii1Z) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:57 | 2022-05-18 | 2022-09-23 |
 | [I've Been Here Before](https://open.spotify.com/track/63SOzbKOXqU78IQxqJzO7a) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 13:10 | 2022-05-18 | 2022-07-29 |
@@ -265,6 +265,7 @@
 | [The Thrill Is Gone \- Vocal Version](https://open.spotify.com/track/0kKQreifydSOeqZzHkNW67) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:51 | 2022-05-18 | 2022-08-27 |
 | [The Way of the Winds](https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-02-23 |  |
 | [The Wind In The Night](https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:02 | 2022-05-18 | 2023-12-24 |
+| [The Wind In The Night](https://open.spotify.com/track/6GTSgyjdnJIehgiQu38qhL) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK) | 5:02 | 2024-01-04 |  |
 | [The Winter of My Discontent](https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Beloved of the Sky](https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ) | 7:20 | 2022-05-18 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 | 2022-05-18 | 2022-08-27 |
 | [There'll Be Other Times](https://open.spotify.com/track/13CZCdBlWMmulnz3VV2yjv) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 2: His Muse](https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo) | 6:08 | 2023-03-09 | 2023-04-14 |

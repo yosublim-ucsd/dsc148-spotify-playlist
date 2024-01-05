@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NjkwMywxNDc4ZTkzMTYzZTgyOWY5N2M4NjlkN2NhMmUyNTRjOWI2ZjU5ZWQ5",
+  "snapshot_id": "NjkyMyxjYWVjYjIyOGQyYjkzYTg1ZGQ3YmQwMjlkMzlmMTg3OTJlODAyY2Uz",
   "tracks": [
     {
       "added_at": "2023-12-29 15:33:48",
@@ -343,22 +343,6 @@
       "duration_ms": 204014,
       "name": "Cast Iron Skillet",
       "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
-    },
-    {
-      "added_at": "2024-01-04 01:32:46",
-      "album": {
-        "name": "Show Yourself",
-        "url": "https://open.spotify.com/album/36GvXjbpm7YKV3w4odK6u6"
-      },
-      "artists": [
-        {
-          "name": "Dean Suzuki",
-          "url": "https://open.spotify.com/artist/70140N6W3u9zZd40hfp8J5"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "Show Yourself",
-      "url": "https://open.spotify.com/track/18yoLoaIOeR2k7SFAhd5Pk"
     },
     {
       "added_at": "2023-12-29 15:46:28",
@@ -877,6 +861,22 @@
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
+      "added_at": "2024-01-05 00:04:50",
+      "album": {
+        "name": "Ain't Like Me",
+        "url": "https://open.spotify.com/album/2Hy47JrUhjOmezBIrpAXMF"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Ain't Like Me",
+      "url": "https://open.spotify.com/track/7hwOvz2bw8Id4ymKBta2JJ"
+    },
+    {
       "added_at": "2023-07-20 21:34:14",
       "album": {
         "name": "Innervisions",
@@ -1199,6 +1199,102 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2024-01-04 14:13:06",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/6DglCLZs5nqndYYjfAJ1Me"
+      },
+      "artists": [
+        {
+          "name": "MAXN",
+          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
+        }
+      ],
+      "duration_ms": 272173,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/707NYb26XutDGTooaeXMpt"
+    },
+    {
+      "added_at": "2023-12-30 15:08:36",
+      "album": {
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Wax Poetic",
+      "url": "https://open.spotify.com/track/6iWmvLjxADxbgdTNR95Yba"
+    },
+    {
+      "added_at": "2023-12-25 15:40:03",
+      "album": {
+        "name": "Kill For You",
+        "url": "https://open.spotify.com/album/5qAJkzutqWCoFPfJv5dr1r"
+      },
+      "artists": [
+        {
+          "name": "NEA EINI",
+          "url": "https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Kill For You",
+      "url": "https://open.spotify.com/track/5RjqGGgHBZXycoyFrVGHQI"
+    },
+    {
+      "added_at": "2023-12-15 13:28:21",
+      "album": {
+        "name": "Mom I'm a Popstar!",
+        "url": "https://open.spotify.com/album/6pZqVaSJQADnbmSugBnXif"
+      },
+      "artists": [
+        {
+          "name": "Anderson Hao",
+          "url": "https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "silverlinings2",
+      "url": "https://open.spotify.com/track/2gcXqU3ftfDY4s4ui7x1gC"
+    },
+    {
+      "added_at": "2023-12-29 15:14:27",
+      "album": {
+        "name": "Impulse Control",
+        "url": "https://open.spotify.com/album/289AYm3U9ZCZm5uM7sL2Wj"
+      },
+      "artists": [
+        {
+          "name": "SENTO",
+          "url": "https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Impulse Control",
+      "url": "https://open.spotify.com/track/5h36BSK4FJN1ca8p75Bi8n"
+    },
+    {
+      "added_at": "2024-01-04 14:51:56",
+      "album": {
+        "name": "Eleventh Hour",
+        "url": "https://open.spotify.com/album/5n4pHsBMsLoViRXFGXtAb2"
+      },
+      "artists": [
+        {
+          "name": "NIMBU",
+          "url": "https://open.spotify.com/artist/0zxSkCL93iTmy1UCNDdHG4"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "Eleventh Hour",
+      "url": "https://open.spotify.com/track/76u0TkiRQbd4Tn8gK7YZGs"
     },
     {
       "added_at": "2022-07-26 20:08:16",
@@ -2521,70 +2617,6 @@
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
     },
     {
-      "added_at": "2023-12-30 15:08:36",
-      "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Wax Poetic",
-      "url": "https://open.spotify.com/track/6iWmvLjxADxbgdTNR95Yba"
-    },
-    {
-      "added_at": "2023-12-25 15:40:03",
-      "album": {
-        "name": "Kill For You",
-        "url": "https://open.spotify.com/album/5qAJkzutqWCoFPfJv5dr1r"
-      },
-      "artists": [
-        {
-          "name": "NEA EINI",
-          "url": "https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Kill For You",
-      "url": "https://open.spotify.com/track/5RjqGGgHBZXycoyFrVGHQI"
-    },
-    {
-      "added_at": "2023-12-15 13:28:21",
-      "album": {
-        "name": "Mom I'm a Popstar!",
-        "url": "https://open.spotify.com/album/6pZqVaSJQADnbmSugBnXif"
-      },
-      "artists": [
-        {
-          "name": "Anderson Hao",
-          "url": "https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "silverlinings2",
-      "url": "https://open.spotify.com/track/2gcXqU3ftfDY4s4ui7x1gC"
-    },
-    {
-      "added_at": "2023-12-29 15:14:27",
-      "album": {
-        "name": "Impulse Control",
-        "url": "https://open.spotify.com/album/289AYm3U9ZCZm5uM7sL2Wj"
-      },
-      "artists": [
-        {
-          "name": "SENTO",
-          "url": "https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Impulse Control",
-      "url": "https://open.spotify.com/track/5h36BSK4FJN1ca8p75Bi8n"
-    },
-    {
       "added_at": "2024-01-01 19:31:24",
       "album": {
         "name": "Follow Me",
@@ -2713,6 +2745,62 @@
       "url": "https://open.spotify.com/track/589HRqKn6hxdTjVyC8lVJB"
     },
     {
+      "added_at": "2024-01-05 00:03:19",
+      "album": {
+        "name": "into the blackhole",
+        "url": "https://open.spotify.com/album/6LlKO61OUeroUHZIBxM5gu"
+      },
+      "artists": [
+        {
+          "name": "HOAX",
+          "url": "https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh"
+        }
+      ],
+      "duration_ms": 197508,
+      "name": "into the blackhole",
+      "url": "https://open.spotify.com/track/62dIc92wJsmNNEiMYTmDjG"
+    },
+    {
+      "added_at": "2024-01-05 00:04:27",
+      "album": {
+        "name": "Summer Is Gone",
+        "url": "https://open.spotify.com/album/6JcXvpblPCpKbFCvW6ztaT"
+      },
+      "artists": [
+        {
+          "name": "Analine",
+          "url": "https://open.spotify.com/artist/448pBKNLFue6Fzceczlp4w"
+        },
+        {
+          "name": "Leagan",
+          "url": "https://open.spotify.com/artist/4xFaG8nmQ0drbpd2SC7Cge"
+        }
+      ],
+      "duration_ms": 253658,
+      "name": "Summer Is Gone",
+      "url": "https://open.spotify.com/track/74kh8ClAEu4aqr3ibvURxb"
+    },
+    {
+      "added_at": "2024-01-05 00:05:12",
+      "album": {
+        "name": "Anything You Need",
+        "url": "https://open.spotify.com/album/3DpkwCMFjK7m5vsZtZNczQ"
+      },
+      "artists": [
+        {
+          "name": "Enveak",
+          "url": "https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS"
+        },
+        {
+          "name": "STVRKO",
+          "url": "https://open.spotify.com/artist/3enFRwEnYnhKlLlSjAeFQN"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Anything You Need",
+      "url": "https://open.spotify.com/track/1aZl5fwUgjEbXAcK879VL0"
+    },
+    {
       "added_at": "2023-12-29 18:02:13",
       "album": {
         "name": "I Need Help",
@@ -2769,38 +2857,6 @@
       "url": "https://open.spotify.com/track/0tFYw23ZdowOMjqbPdQzls"
     },
     {
-      "added_at": "2023-12-28 15:31:11",
-      "album": {
-        "name": "I Wish You Woulda Chose Me",
-        "url": "https://open.spotify.com/album/5uwsCv4B5fHwY0A0q6uzFR"
-      },
-      "artists": [
-        {
-          "name": "Staci",
-          "url": "https://open.spotify.com/artist/4Oi2E5Pg7DafnuISxGbyvo"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "I Wish You Woulda Chose Me",
-      "url": "https://open.spotify.com/track/3y5Guem3SUJhGmLfLY4YGl"
-    },
-    {
-      "added_at": "2023-12-28 00:30:41",
-      "album": {
-        "name": "Oak Tree",
-        "url": "https://open.spotify.com/album/4XQJLSdUk4dDtrtxMN42VY"
-      },
-      "artists": [
-        {
-          "name": "Hieros Gamos",
-          "url": "https://open.spotify.com/artist/5Oors7sxVBhBHKVXfBRd1J"
-        }
-      ],
-      "duration_ms": 409699,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0MJahZptuCBfLX5DVrL682"
-    },
-    {
       "added_at": "2023-12-22 00:03:36",
       "album": {
         "name": "Girl, I Know A Guy",
@@ -2851,22 +2907,6 @@
       "duration_ms": 220007,
       "name": "Dulce De Leche",
       "url": "https://open.spotify.com/track/7npX4vsXeMhUCtsuuImWkQ"
-    },
-    {
-      "added_at": "2023-12-21 22:31:11",
-      "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/6gYrQQRTylSFZi2D65hw0W"
-      },
-      "artists": [
-        {
-          "name": "Arielle Diba",
-          "url": "https://open.spotify.com/artist/1wjwAZ5HV4p4G9atYKqbMG"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "The Immigrant",
-      "url": "https://open.spotify.com/track/0R9x7lSWhQd95K8duI7sha"
     },
     {
       "added_at": "2023-12-31 17:32:08",
@@ -2973,6 +3013,42 @@
       "url": "https://open.spotify.com/track/1XJgYuaWBGWEDYMCtNen4M"
     },
     {
+      "added_at": "2024-01-04 01:32:46",
+      "album": {
+        "name": "Show Yourself",
+        "url": "https://open.spotify.com/album/36GvXjbpm7YKV3w4odK6u6"
+      },
+      "artists": [
+        {
+          "name": "Dean Suzuki",
+          "url": "https://open.spotify.com/artist/70140N6W3u9zZd40hfp8J5"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/18yoLoaIOeR2k7SFAhd5Pk"
+    },
+    {
+      "added_at": "2024-01-04 03:34:05",
+      "album": {
+        "name": "GATEWAY DRUG",
+        "url": "https://open.spotify.com/album/5DOWI4rFHBVYHFHsfiyIzJ"
+      },
+      "artists": [
+        {
+          "name": "Tariq Gardner & the Evening Star",
+          "url": "https://open.spotify.com/artist/2XALigW40uQEpGYttnAMGr"
+        },
+        {
+          "name": "Cole.Thefirst",
+          "url": "https://open.spotify.com/artist/4V01r1HRvqzs0vlGT6llgd"
+        }
+      ],
+      "duration_ms": 343381,
+      "name": "LIVING FOR THE LOVE",
+      "url": "https://open.spotify.com/track/57ZfxwA7OVKLe8V3dr08VR"
+    },
+    {
       "added_at": "2024-01-02 15:31:58",
       "album": {
         "name": "CALMA (Remix)",
@@ -2999,6 +3075,26 @@
       "duration_ms": 248347,
       "name": "CALMA - Remix",
       "url": "https://open.spotify.com/track/0FvF4XO36AwEyc2zCVCjyo"
+    },
+    {
+      "added_at": "2024-01-04 19:31:26",
+      "album": {
+        "name": "Aniuska",
+        "url": "https://open.spotify.com/album/6aRfaCwAdF6IDNadCG8W4c"
+      },
+      "artists": [
+        {
+          "name": "JAP24",
+          "url": "https://open.spotify.com/artist/6vtD7dItxfa1qv6ZSFe5An"
+        },
+        {
+          "name": "AKIRA Music",
+          "url": "https://open.spotify.com/artist/7b835jobyEoXIAHfXtyqfr"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Uup 870",
+      "url": "https://open.spotify.com/track/5zQnfHKlnFok9MvDFb9VT3"
     },
     {
       "added_at": "2023-12-22 00:01:24",

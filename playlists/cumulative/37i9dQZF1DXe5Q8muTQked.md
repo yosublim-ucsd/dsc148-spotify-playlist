@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-670 songs - 1 day 17 hr 12 min
+671 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Imagine](https://open.spotify.com/track/4xVtiYLS2q1r6bY1Wio7Tu) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Imagine](https://open.spotify.com/album/3GLIXA3lo0L8S5LBfX7UzX) | 3:35 | 2021-10-20 | 2022-07-29 |
 | [In Bloom](https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 4:00 | 2022-06-10 |  |
 | [In My Life](https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX) | 2:34 | 2021-10-20 | 2022-07-29 |
+| [In My Life](https://open.spotify.com/track/3XE3fDJVA9vMjycWghQQ3W) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Yesterday](https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye) | 2:34 | 2023-10-23 |  |
 | [In My Life](https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7) | 2:34 | 2022-06-10 | 2023-06-11 |
 | [In My Life](https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/5eAqisChf22yDfAABxciv1) | 2:34 | 2023-02-24 | 2023-12-14 |
 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 | 2021-10-20 |  |
@@ -382,7 +383,7 @@
 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 | 2022-04-29 | 2022-05-10 |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2021-10-20 |  |
 | [Let's Dance](https://open.spotify.com/track/3jha8ASOaMT5lKZf7hOygG) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration Of Vincent](https://open.spotify.com/album/5oJTHEiBg0Ti5YXwY2Ft7H) | 5:00 | 2022-06-10 | 2022-07-26 |
-| [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 | 2022-06-10 |  |
+| [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 | 2022-06-10 | 2024-01-05 |
 | [Like a Rolling Stone](https://open.spotify.com/track/3Bf9nJGn3UQmHv8Ngx3f8S) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Polyhymnia](https://open.spotify.com/album/58Atsdlqdy8UWU9aSVjORj) | 6:35 | 2021-10-20 | 2022-07-29 |
 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 | 2021-10-20 | 2022-07-29 |
 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 | 2021-10-20 |  |

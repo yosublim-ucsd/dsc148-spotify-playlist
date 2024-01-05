@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Katelyn Tarver
 
-4,456 songs - 9 day 5 hr 32 min
+4,457 songs - 9 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1531,6 +1531,7 @@
 | [GONE](https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [GONZO](https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw) | 2:46 | 2022-06-24 | 2022-07-09 |
 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-01-13 | 2023-01-28 |
 | [Gone Away](https://open.spotify.com/track/5y8EtFGaKa9Nn8LGGL4wFD) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Gone Away](https://open.spotify.com/album/14R3wGT7xu5FoFRhf5jZyo) | 3:48 | 2022-02-25 | 2022-03-12 |
+| [gone for good](https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [gone for good](https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509) | 2:53 | 2023-12-29 |  |
 | [Gone Girl](https://open.spotify.com/track/2VUXv03kwwet6EXIFn9ykA) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Gone Girl](https://open.spotify.com/album/3Dso0eUbQmuZFgLX5rN2sd) | 2:32 | 2023-10-27 | 2023-11-07 |
 | [Gone Girl](https://open.spotify.com/track/7DVExWnUrXWfG2BoPSVuIV) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [A Means To An End](https://open.spotify.com/album/4PNJUaEtXtEDNgg7a7YOko) | 2:18 | 2022-11-18 | 2022-12-10 |
 | [Gone to Bed](https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3) | 2:56 | 2023-09-29 | 2023-10-14 |

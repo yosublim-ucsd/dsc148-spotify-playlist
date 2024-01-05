@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,758 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,833 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Llega la Noche](https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana La Vuelta](https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE) | 3:14 |
 | 85 | [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 |
 
-Snapshot ID: `MCw4M2Y5ZDBmZGFlNDA5MzY4N2FhMDhmMmE2Nzc1OGRmOTRlMzRjOTg3`
+Snapshot ID: `MCwzYzQ0ZjZiYzY0ZDIyZDliZTgwZTcxYjk1MmJjNzg0NDBiZGY5NzI3`

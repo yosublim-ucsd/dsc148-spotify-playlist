@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Anaïs MVA
+> La pop française annonce la couleur\. Photo : DAYSY
 
-108 songs - 5 hr 22 min
+110 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Des Trésors](https://open.spotify.com/track/3La4lre4zcgSmP8ZtSZWAL) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/0EcdCP79FGAUF30sPIvgI6) | 3:22 | 2023-07-27 | 2023-09-08 |
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-11-16 |  |
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |
+| [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 | 2024-01-04 |  |
 | [encore + triste](https://open.spotify.com/track/2ppsKRsn8QJAjL5xr17Rcn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Chansons \(+\) tristes](https://open.spotify.com/album/1lGhHAusdvuwsG81xS7khE) | 2:55 | 2023-07-27 |  |
 | [Envie de toi](https://open.spotify.com/track/1zbEXE5iszVEJbalOERHTp) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Envie de toi](https://open.spotify.com/album/3ZvaIqyBibuSGTINRkeUvM) | 3:00 | 2023-09-28 | 2023-11-25 |
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2023-07-27 | 2023-09-08 |
@@ -46,6 +47,7 @@
 | [Fête des années 70](https://open.spotify.com/track/2C8FoGkNZ59r0e4tkVTby5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Fête des années 70](https://open.spotify.com/album/2Joa0NEZ7HkFyTwjITLmZh) | 2:21 | 2023-11-09 |  |
 | [Heureux](https://open.spotify.com/track/6g5rAr2XNdeTHz7XtSCb8l) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU) | 2:50 | 2023-11-30 |  |
 | [Hold Up \(à l'eau de rose\)](https://open.spotify.com/track/6a0Ad99CVzcR9FS9XJr9VP) | [Sara Saphir](https://open.spotify.com/artist/64WmkM3KtYsEfK2niBa4Jl) | [Pansements](https://open.spotify.com/album/09p6CCTiy6jIdGDgyFSnTB) | 3:10 | 2023-07-27 | 2023-08-25 |
+| [Hollywood game](https://open.spotify.com/track/08lrGHWmLDdGyQvFBlwqxF) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Hollywood game](https://open.spotify.com/album/5IQZFOZDSqX80qcLUaRNRY) | 3:12 | 2024-01-04 |  |
 | [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 | 2023-12-08 |
 | [Idiot](https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau) | [SAM](https://open.spotify.com/artist/7c5GqUF44K4Hmx77zhALdR), [Allen B](https://open.spotify.com/artist/4IMbOxi9R1vkvUZqPClKt8) | [Idiot](https://open.spotify.com/album/7w44o7QHPANWTfn8qa66Cs) | 2:56 | 2023-09-21 | 2023-12-15 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-07-27 | 2023-10-06 |
@@ -72,7 +74,7 @@
 | [Meilleur](https://open.spotify.com/track/1uWAA7bT9eqw0Na9iExWSK) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Meilleur](https://open.spotify.com/album/03Wh09RLnT9UXIsKt140iV) | 2:32 | 2023-11-30 |  |
 | [Mercredi](https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:51 | 2023-10-19 |  |
 | [Mexico](https://open.spotify.com/track/0eNAdxp91MiBmI7sHPsJJG) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mexico](https://open.spotify.com/album/6pVxwt4I2528nKeP5MHq0I) | 3:07 | 2023-07-27 | 2023-10-13 |
-| [Mission](https://open.spotify.com/track/04wLbifT6G1tAzBRqMAC7d) | [Ambre Sls](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [Mission](https://open.spotify.com/album/4pITFt5Q4CnPjlcb1VLBtd) | 3:03 | 2023-10-12 |  |
+| [Mission](https://open.spotify.com/track/04wLbifT6G1tAzBRqMAC7d) | [Ambre Sls](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [Mission](https://open.spotify.com/album/4pITFt5Q4CnPjlcb1VLBtd) | 3:03 | 2023-10-12 | 2024-01-05 |
 | [Même en enfer](https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est qui ?](https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha) | 2:45 | 2023-07-27 | 2023-10-13 |
 | [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 | 2023-11-09 | 2023-12-22 |
 | [Oh ma vie](https://open.spotify.com/track/6SLMAJI9fGwK3oQC32pWNB) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Oh ma vie](https://open.spotify.com/album/2OvbOMc6jBk55fvhnJI42u) | 3:18 | 2023-07-27 | 2023-10-13 |
@@ -84,7 +86,7 @@
 | [Pensées violentes](https://open.spotify.com/track/7LZeI9vSZQCOVQHGsblPNi) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Pensées violentes](https://open.spotify.com/album/0m67K9xL80XNzIc4jtlBgB) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-07-27 | 2023-11-17 |
 | [Pleurer de joie](https://open.spotify.com/track/4lZqzNfv2xx0DJSchmyci8) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Pleurer de joie](https://open.spotify.com/album/4oY57RnsySHT43Zvtf6Em2) | 2:45 | 2023-07-27 | 2023-09-15 |
-| [Pluie Violette](https://open.spotify.com/track/6lu9B5zAGzdwly5UfY7BFD) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Pluie Violette](https://open.spotify.com/album/1FvgPkOyVI2RPQYME5P1Ho) | 3:36 | 2023-09-14 |  |
+| [Pluie Violette](https://open.spotify.com/track/6lu9B5zAGzdwly5UfY7BFD) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Pluie Violette](https://open.spotify.com/album/1FvgPkOyVI2RPQYME5P1Ho) | 3:36 | 2023-09-14 | 2024-01-05 |
 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 | 2023-09-28 |  |
 | [Plus de sens](https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:29 | 2023-07-27 |  |
 | [Populaire](https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Populaire](https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE) | 3:21 | 2023-09-21 |  |

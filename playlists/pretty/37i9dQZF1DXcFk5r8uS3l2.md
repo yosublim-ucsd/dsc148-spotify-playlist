@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: ZZ Ward
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Danielle Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,358 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,430 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All The Way From America](https://open.spotify.com/track/6JWQ0fdstDeqtBzuUOrdFC) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Way From America](https://open.spotify.com/album/3tbtc5K4J1vsGnVGaLFg8I) | 4:19 |
-| 2 | [Where the Black Flowers Grow](https://open.spotify.com/track/3vcQxSbPdsfrPX1xCLhea7) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Where the Black Flowers Grow](https://open.spotify.com/album/5szG872MpEekiCpIAPNzzD) | 4:17 |
-| 3 | [Underestimate Me](https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Underestimate Me](https://open.spotify.com/album/6NlxnHXuCl2pJK5uxhlQPM) | 3:08 |
-| 4 | [The Mend](https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine \(Dirty Deluxe\)](https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr) | 3:37 |
-| 5 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
-| 6 | [Baby's Long Gone](https://open.spotify.com/track/708qzIZOYtob9OMFsxaDhI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Baby's Long Gone](https://open.spotify.com/album/5Y9vR6neUQGJsCG64yqxFn) | 3:16 |
-| 7 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
-| 8 | [I Drink Alone](https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Drink Alone](https://open.spotify.com/album/2qD3wp0RGuqCDJCJYH5OTi) | 3:46 |
-| 9 | [Make Love](https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Make Love](https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u) | 3:47 |
+| 1 | [Love On My Brain](https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Love On My Brain](https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer) | 4:33 |
+| 2 | [All The Way From America](https://open.spotify.com/track/6JWQ0fdstDeqtBzuUOrdFC) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Way From America](https://open.spotify.com/album/3tbtc5K4J1vsGnVGaLFg8I) | 4:19 |
+| 3 | [Where the Black Flowers Grow](https://open.spotify.com/track/3vcQxSbPdsfrPX1xCLhea7) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Where the Black Flowers Grow](https://open.spotify.com/album/5szG872MpEekiCpIAPNzzD) | 4:17 |
+| 4 | [Underestimate Me](https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Underestimate Me](https://open.spotify.com/album/6NlxnHXuCl2pJK5uxhlQPM) | 3:08 |
+| 5 | [The Mend](https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine \(Dirty Deluxe\)](https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr) | 3:37 |
+| 6 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
+| 7 | [Baby's Long Gone](https://open.spotify.com/track/708qzIZOYtob9OMFsxaDhI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Baby's Long Gone](https://open.spotify.com/album/5Y9vR6neUQGJsCG64yqxFn) | 3:16 |
+| 8 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
+| 9 | [I Drink Alone](https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Drink Alone](https://open.spotify.com/album/2qD3wp0RGuqCDJCJYH5OTi) | 3:46 |
 | 10 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 |
 | 11 | [Hard to Believe](https://open.spotify.com/track/3IfNXZSR5nEnYmnu2zsVUJ) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 4:14 |
 | 12 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 |
 | 100 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 
-Snapshot ID: `MCw3MjI2NzdmZTc5OGRmMTM2NTI5NzMxZDQ4ZDIxZTQ5YTE3MzMyYzEx`
+Snapshot ID: `MCxlY2M0NDc3ODQ2NDAwNzg3MTE5Mzg5NmM0ZjdjZWE5MWFmMjIwNDJj`

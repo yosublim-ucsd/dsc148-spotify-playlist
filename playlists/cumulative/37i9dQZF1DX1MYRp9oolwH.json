@@ -3645,6 +3645,28 @@
     },
     {
       "album": {
+        "name": "Prema (From \"Joruga Hushaaruga Shikaaru Podhama\")",
+        "url": "https://open.spotify.com/album/7m9QrODsxMMXMXusQfYkrs"
+      },
+      "artists": [
+        {
+          "name": "Naga Vamshi",
+          "url": "https://open.spotify.com/artist/3aCf2BjucUTbsyTR6GcnVc"
+        },
+        {
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292477,
+      "name": "Prema (From \"Joruga Hushaaruga Shikaaru Podhama\")",
+      "url": "https://open.spotify.com/track/35gnkIq6ZHIviZCimfaWBN"
+    },
+    {
+      "album": {
         "name": "Prema Oh Ayudham [From \"Leo (Telugu)\"]",
         "url": "https://open.spotify.com/album/5gKy1rLXdS7TECWKj4x9po"
       },

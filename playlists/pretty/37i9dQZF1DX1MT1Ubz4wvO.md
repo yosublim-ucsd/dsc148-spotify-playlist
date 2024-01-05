@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Cerro Dublin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,273 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,284 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Mona China](https://open.spotify.com/track/7b1uE434y5wgdKmBIc86CJ) | [Hexagrams](https://open.spotify.com/artist/5VaIrmCpCIwTJDhqncsYGe) | [Afantasma Mis Deseos de Venganza](https://open.spotify.com/album/42iOYyLqvXLS9J8cTLUbQW) | 3:13 |
 | 50 | [DEJAME EN PAZ \(LA LA LA\)](https://open.spotify.com/track/2k9ObAyI5OcWL4ViSPaiQu) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [DÉJAME EN PAZ \(LA LA LA\)](https://open.spotify.com/album/5aBxyhBz0kBgluwA07PAXI) | 2:33 |
 
-Snapshot ID: `MCxhODQ3ZmRiYTE5MDdhMDAyOGU1YWMzOGMyOGVlZThjMGYwYjhlMGYy`
+Snapshot ID: `MCxjNTg4ZDhmOGE5ODYzZWMxYTA1YzY2ODAzMTcyYWE0MTAyMDk1NTQw`

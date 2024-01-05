@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Boslen",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -238,6 +238,28 @@
       "duration_ms": 204000,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5cl6xg32SlrQrcR7L4GFmn"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valentino",
+          "url": "https://open.spotify.com/artist/2z4N6crXOGXnSY8dd1OQgP"
+        },
+        {
+          "name": "Hundo",
+          "url": "https://open.spotify.com/artist/09mOEVjWNtwX3lcHqZewBW"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6G9AryFV1qXBmH3UC6d6Al"
     },
     {
       "album": {
@@ -2980,7 +3002,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Black For Green",
       "url": "https://open.spotify.com/track/10MHgsXUHZtBL6rBOWSr4S"
@@ -3136,7 +3158,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 207196,
       "name": "BLOODSHED",
       "url": "https://open.spotify.com/track/5hkd65KkFsy0NsJyOCtepD"
@@ -4442,7 +4464,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 166353,
       "name": "Chiengrat",
       "url": "https://open.spotify.com/track/0RdIxxFuZelZ9Vo2sAWZZ7"
@@ -7857,6 +7879,32 @@
     },
     {
       "album": {
+        "name": "For Anybody",
+        "url": "https://open.spotify.com/album/74PyecgpMmiMkuiHOEp9Hs"
+      },
+      "artists": [
+        {
+          "name": "XV",
+          "url": "https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9"
+        },
+        {
+          "name": "MIKE SUMMERS",
+          "url": "https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "For Anybody (with TOBi)",
+      "url": "https://open.spotify.com/track/0QPUZlehGYYulpIDeKbGSX"
+    },
+    {
+      "album": {
         "name": "For December",
         "url": "https://open.spotify.com/album/3KFI7FqkidDD2jQbDKEWkr"
       },
@@ -8500,6 +8548,32 @@
       "duration_ms": 140626,
       "name": "Gentleman's Sweep",
       "url": "https://open.spotify.com/track/3e6PTJYRmgMBASVVl2l9Gd"
+    },
+    {
+      "album": {
+        "name": "Get Drunk",
+        "url": "https://open.spotify.com/album/59Ib2wTfa41HM6SN6yBhgi"
+      },
+      "artists": [
+        {
+          "name": "Relly",
+          "url": "https://open.spotify.com/artist/4SrI1Jb6ZvvkybCdyXdmp3"
+        },
+        {
+          "name": "Shmurda61st",
+          "url": "https://open.spotify.com/artist/1X9pfYgyiDOKkbUyRfIhe8"
+        },
+        {
+          "name": "Homie61st",
+          "url": "https://open.spotify.com/artist/3o9qzT2pRFsmNLV2OCP0kC"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134802,
+      "name": "Get Drunk",
+      "url": "https://open.spotify.com/track/6Oje5CNIrxJ4oxbQxG5jOv"
     },
     {
       "album": {
@@ -10564,6 +10638,24 @@
       "duration_ms": 140800,
       "name": "Hurts Me",
       "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga"
+    },
+    {
+      "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/6evOexakq26myj2l6MKR0F"
+      },
+      "artists": [
+        {
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158681,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3PvLqigPq7VlCKYcD8OuwF"
     },
     {
       "album": {
@@ -14235,6 +14327,28 @@
     },
     {
       "album": {
+        "name": "Million Cash",
+        "url": "https://open.spotify.com/album/6lk6QEktC7WigyXE2aTaVr"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144059,
+      "name": "Million Cash",
+      "url": "https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J"
+    },
+    {
+      "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/2crfYfclM81HyaDRTCbtGZ"
       },
@@ -16846,6 +16960,28 @@
       "duration_ms": 171429,
       "name": "One In The Chamber",
       "url": "https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy"
+    },
+    {
+      "album": {
+        "name": "One in the Head",
+        "url": "https://open.spotify.com/album/1UMzfWguw6rRIgiZINI6Kl"
+      },
+      "artists": [
+        {
+          "name": "TherealKeesh",
+          "url": "https://open.spotify.com/artist/3KQAn4cvnOjPN6pq7L8zpg"
+        },
+        {
+          "name": "Ming Luanli",
+          "url": "https://open.spotify.com/artist/7FgAKPWSRArNuTNrSmueZe"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "One in the Head",
+      "url": "https://open.spotify.com/track/3Ep2qoHdraABjmBee3Fi21"
     },
     {
       "album": {
@@ -21014,7 +21150,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 148314,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz"
@@ -22012,7 +22148,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 150929,
       "name": "Sydanie's Interlude",
       "url": "https://open.spotify.com/track/2qKCqLhfrmT9E6JxIVp8Mx"
@@ -22816,7 +22952,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 140000,
       "name": "The Town",
       "url": "https://open.spotify.com/track/4dthkUfBWbKgRY2jHyBBUN"
@@ -25874,7 +26010,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 230709,
       "name": "You Broke My Heart",
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-341 songs - 21 hr 30 min
+342 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3pbOzSaFUF9BUfE8exEXKg) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/4Y7m2tcSdLbnw0KKolFZg3) | 3:29 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/09AWVPvdHm3nPt7xA1x1Xu) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 3:31 | 2021-12-24 |  |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-24 |  |
+| [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/track/0b6mSmQyQeZDdtnvjeMPvh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/album/3uulBIvr3d9zRVrSCoTcah) | 3:25 | 2023-12-15 |  |
 | [God Rest Ye Merry Gentlemen:We Three Kings Medley](https://open.spotify.com/track/6rJRpp670vz5J8b6kw0W3l) | [Timothy A Smith](https://open.spotify.com/artist/75afOlW3Pd5NeCTIg87bXE) | [Advent](https://open.spotify.com/album/6oUyaqpkVFo2nHjfq3lMBR) | 4:17 | 2021-12-24 | 2022-07-28 |
 | [God With Us \- Live](https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Christmas \- Live at Tyndale University](https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX) | 4:08 | 2021-12-24 | 2022-07-19 |
 | [Good King Wenceslas](https://open.spotify.com/track/4WM0DbMzh0oph7NMEYHgkg) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Good King Wenceslas](https://open.spotify.com/album/2O90tt21lbxx341mb2VnDy) | 3:43 | 2021-12-24 |  |
@@ -273,7 +274,7 @@
 | [Silent Night](https://open.spotify.com/track/2pG1HDAy394Fuq7KMuCpFf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Have Yourself A Merry Little Christmas / Silent Night](https://open.spotify.com/album/6RVLkAvG9rN7fcDYZYD5Pm) | 3:32 | 2021-12-24 | 2022-10-05 |
 | [Silent Night \(with Saviour King\) \- Live](https://open.spotify.com/track/1JqRuf1VFolpmDEBjeRLkF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/4jAmUwcMcth5Dc6FnxssVR) | 7:12 | 2021-12-24 | 2022-07-25 |
 | [Silent Night \- Live](https://open.spotify.com/track/2DfdmOmD8O70gT64e36RPI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Kristyn Getty](https://open.spotify.com/artist/70Rhe5rWMA8u4f6ptC1iMw) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:01 | 2021-12-24 | 2022-07-24 |
-| [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-12-15 |  |
+| [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-12-15 | 2024-01-05 |
 | [Someday At Christmas](https://open.spotify.com/track/608NGSBqPbbmKdser2Fp6B) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Someday At Christmas](https://open.spotify.com/album/4cu7ooyD4yOwE9zfgAtKXd) | 2:51 | 2021-12-24 | 2022-07-23 |
 | [Someone Like Me](https://open.spotify.com/track/5xp9busHkdxMlmlKObfH12) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Someone Like Me](https://open.spotify.com/album/0T4LAUwTj5aClzpGfJAqNc) | 3:38 | 2022-12-11 |  |
 | [Somewhere In Your Silent Night](https://open.spotify.com/track/6P1J2IE6TuDhBUEpuJyclv) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 3:55 | 2021-12-24 |  |

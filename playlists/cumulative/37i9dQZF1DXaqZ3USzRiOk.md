@@ -4,7 +4,7 @@
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-249 songs - 12 hr 52 min
+250 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Penas, Desengaños..\. y Amores](https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0) | 3:23 | 2021-12-29 |  |
 | [Zenaida Ingrata](https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq) | [Dueto America](https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO) | [La Gran Colección del 60 Aniversario CBS \- Dueto América](https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW) | 2:45 | 2021-12-29 |  |
 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 | 2021-12-29 |  |
-| [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/2SvmdNjEnZIg8ObqDuqRxA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4GQpRmGfSE3H6m49TTflwC) | 3:23 | 2023-06-16 |  |
+| [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/2SvmdNjEnZIg8ObqDuqRxA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4GQpRmGfSE3H6m49TTflwC) | 3:23 | 2023-06-16 | 2024-01-05 |
+| [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/3rC52DzXOSFLi6QtCHhruq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 3:23 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

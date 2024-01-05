@@ -2,9 +2,9 @@
 
 ### [BlueZA](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp?si=4Uvs9o\_ITnmwaSdVA7bV7w">Phiwo</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn?si=1QnfU6\-2RtqGH74\-GIkZNQ">Joya Mooi</a>
 
-115 songs - 6 hr 5 min
+116 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 |  |
 | [Decide](https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Decide](https://open.spotify.com/album/28qJotgVoss0htjx54Z33G) | 2:48 | 2023-12-14 |  |
 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 | 2023-10-12 |  |
+| [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 | 2024-01-04 |  |
 | [Down](https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw), [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [Tulipa](https://open.spotify.com/album/68I937NYViFxtNEAZyc6b9) | 3:11 | 2023-10-12 |  |
 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 |  |
 | [Duet \(feat\. Jillz\)](https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Jillz](https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 3:41 | 2023-11-16 |  |

@@ -4,14 +4,15 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
-113 songs - 6 hr 47 min
+116 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 | 2023-10-19 |  |
+| [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 | 2023-10-19 | 2024-01-05 |
 | [Accidents](https://open.spotify.com/track/3IiyRusvy9yOh2uuDsG1Ai) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Accidents](https://open.spotify.com/album/5gij4p2FSt40MgqYfnPJyV) | 3:41 | 2023-10-12 | 2023-10-14 |
 | [All Saints](https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [All Saints](https://open.spotify.com/album/6XHyKhBONAA6IH1KTZJHTw) | 4:04 | 2023-10-19 |  |
-| [Anxiety](https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Anxiety](https://open.spotify.com/album/2QRKR6Pm7MjSoDcLZuVdX2) | 3:26 | 2023-09-28 |  |
+| [Anxiety](https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Anxiety](https://open.spotify.com/album/2QRKR6Pm7MjSoDcLZuVdX2) | 3:26 | 2023-09-28 | 2024-01-05 |
+| [Attraction](https://open.spotify.com/track/6IiKWrISnOqKGno1gLI8y4) | [Baltimore](https://open.spotify.com/artist/77qVGV48opy3ixVRwna4mG) | [Reloaded](https://open.spotify.com/album/0z9vRcT5kRzD01k8116YoW) | 3:11 | 2024-01-04 |  |
 | [Autodrama](https://open.spotify.com/track/3uvsiUdJ40LfqYQaok6aEI) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [THIRST](https://open.spotify.com/album/1ihsnvwQh0l61TnWVJN5No) | 4:09 | 2023-10-26 | 2023-12-01 |
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 |  |
 | [Baise tout seul](https://open.spotify.com/track/02NcPv5dsj3fCDPyLDtdrc) | [Princesses Leya](https://open.spotify.com/artist/5YunN7uZjy9Tgvds1IKSVT) | [Big Bang Therapy](https://open.spotify.com/album/1suiY7lXk68pCXeJiXi9Yl) | 2:37 | 2023-10-20 | 2023-12-01 |
@@ -108,7 +109,7 @@
 | [The Clocks Are Bleeding](https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [The Clocks Are Bleeding](https://open.spotify.com/album/0ZgDrBXFnnUS4Hx6diFVWF) | 3:00 | 2023-12-14 |  |
 | [The Everything](https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH) | 3:41 | 2023-12-08 |  |
 | [The Final Round](https://open.spotify.com/track/0Fp7CgSfxiaRQflg0GJRTo) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [The Final Round](https://open.spotify.com/album/7ED0mR8FhScZEID6YUL6En) | 6:22 | 2023-11-23 | 2023-12-22 |
-| [The Light In The Dark](https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [The Light in The Dark](https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe) | 4:33 | 2023-09-28 |  |
+| [The Light In The Dark](https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [The Light in The Dark](https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe) | 4:33 | 2023-09-28 | 2024-01-05 |
 | [The One \- The One I'm Looking For](https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [The One \(The One I'm Looking For\)](https://open.spotify.com/album/2IA3ckn9YMHtWyidjvz58F) | 2:41 | 2023-11-09 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-23 |  |
 | [Time](https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Time](https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9) | 2:49 | 2023-10-05 |  |
@@ -116,10 +117,12 @@
 | [To The Stars](https://open.spotify.com/track/4u5jUGDL4LHtvVFVtluetG) | [Best Case Scenario](https://open.spotify.com/artist/10CEXZjoIpxVGSWyrmf3X0) | [To The Stars](https://open.spotify.com/album/5Dotk6Ql6EXKCtI7vw8yvP) | 4:21 | 2023-11-09 |  |
 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 | 2023-09-28 | 2023-11-10 |
 | [Us Blazing](https://open.spotify.com/track/2zbYpfHRqYn5HD4G5PySMt) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Strangers](https://open.spotify.com/album/5Ce8rKh0mR6CitOLVaJXmW) | 3:09 | 2023-09-28 | 2023-12-15 |
+| [Vale](https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz) | [Mad Rush](https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6) | [Vale](https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI) | 3:38 | 2024-01-04 |  |
 | [Velvet Moon](https://open.spotify.com/track/2dx6O9590PI61Wsthx1jp3) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Velvet Moon](https://open.spotify.com/album/7lbzoBCV4BsfWVkJpHz83R) | 2:40 | 2023-09-28 | 2023-10-20 |
 | [Vomit Candy](https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Vomit Candy](https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF) | 2:43 | 2023-12-08 |  |
 | [WELCOME TO AMERICA](https://open.spotify.com/track/3zgrOmeYSZsn3K6WKjr7ih) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [WELCOME TO AMERICA](https://open.spotify.com/album/50P9M5GO9hBM28cDDnMXcq) | 2:41 | 2023-09-28 | 2023-10-13 |
 | [What's Wrong With Me](https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc) | [Spin Twice](https://open.spotify.com/artist/4EIIaGs9qalNWfNNt1lo8d) | [Gravity](https://open.spotify.com/album/1uSQX0L4eOveqyskx0Sxf1) | 3:43 | 2023-09-28 |  |
+| [Winter Sun](https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja) | [Avalon Bloom](https://open.spotify.com/artist/6WJSI8lBDgepZLAXIqHgdh) | [Avalon Bloom](https://open.spotify.com/album/20EfjGnr8Ku5qTMjDZxmuW) | 3:43 | 2024-01-04 |  |
 | [Without Shepherd or Guiding Star \- Edit](https://open.spotify.com/track/0Mrj5rb5aa7ECXX8ATL9uD) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [Without Shepherd or Guiding Star \(Edit\)](https://open.spotify.com/album/6rIYyDZv0i2aawOFAFDqKV) | 3:20 | 2023-11-16 | 2023-12-15 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

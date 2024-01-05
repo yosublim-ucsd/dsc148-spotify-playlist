@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bhaskar, Alok
 
-204 songs - 11 hr 2 min
+205 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [All I Need](https://open.spotify.com/track/6HrQqk3rYUxF2YPiNM1Gym) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz) | [All I Need](https://open.spotify.com/album/48t5LHucjo2K8LoqIbJlzJ) | 4:09 | 2023-10-27 |  |
 | [ANTISSOCIAL](https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [O AMOR, O PERDÃO E A TECNOLOGIA IRÃO NOS LEVAR PARA OUTRO PLANETA](https://open.spotify.com/album/639QW9bvf08nR0dCWFpcTC) | 3:59 | 2023-07-28 | 2023-08-26 |
 | [Apache](https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Apache](https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi) | 2:36 | 2023-08-04 | 2023-11-11 |
-| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-06 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-12-29 |  |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-06 | 2024-01-05 |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-09-01 | 2023-12-09 |
 | [At the Party \- Radio Mix](https://open.spotify.com/track/0UrjoB5Pczv0hvXVu2ocyc) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Aaron Jackson](https://open.spotify.com/artist/5hKQVA377hopQ9HWPOseXF) | [At the Party \(Radio Mix\)](https://open.spotify.com/album/2mCJnMb7P50AKNaZuDEw0X) | 2:38 | 2023-07-21 | 2023-09-23 |
 | [Attenzione Pickpocket](https://open.spotify.com/track/0e0C6j7aNLYwSk0nJaWcy4) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Alija](https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV) | [Attenzione Pickpocket](https://open.spotify.com/album/4ryQvw5jS590UdAqrWPjOQ) | 2:21 | 2023-08-11 | 2023-10-30 |

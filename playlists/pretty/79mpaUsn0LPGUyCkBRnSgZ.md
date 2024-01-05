@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 326 songs - 20 hr 58 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 329 songs - 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,8 +331,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 321 | [easy](https://open.spotify.com/track/0wJvASZtBXXxNAfnmHd0Tr) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 5:41 |
 | 322 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 |
 | 323 | [Earth Worship Intro](https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 0:18 |
-| 324 | [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 |
-| 325 | [953](https://open.spotify.com/track/6TYqetg2GzbwdeDvLBZbZF) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 5:20 |
-| 326 | [Love / Lover / Friend](https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:01 |
+| 324 | [953](https://open.spotify.com/track/6TYqetg2GzbwdeDvLBZbZF) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 5:20 |
+| 325 | [Love / Lover / Friend](https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:01 |
+| 326 | [Buy Africa](https://open.spotify.com/track/6tmHvaDMluKUcSD1ncq2ta) | [Baloji](https://open.spotify.com/artist/5u45xl7D9HpJJvRo0joct8), [L'Orchestre De La Katuba](https://open.spotify.com/artist/3a6w0yNtD8R5ithA8vo44N), [Kuku](https://open.spotify.com/artist/0jsSBgwm0lKxe2zNfrSSoc) | [Red Hot + Fela](https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D) | 5:22 |
+| 327 | [On The Ground](https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Survival Sounds](https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB) | 3:38 |
+| 328 | [Sequence](https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99) | [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Not Real](https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ) | 3:13 |
+| 329 | [Patience](https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Patience](https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF) | 2:12 |
 
-Snapshot ID: `MTE3NSxjNmVjZTFlMjVlM2JhYTcwMmI5N2QxZTgwMTEwMjhhY2UyNzkxNmMx`
+Snapshot ID: `MTE4MCw4NWE1YThkMmNiNGFhYzVkMzM0N2NjYmNmOTAxOTExNmI1ZGRiNGFk`

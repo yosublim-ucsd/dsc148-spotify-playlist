@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 326091,
+  "num_followers": 326212,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTIzYmE3OTkzNTY0OGQ3Y2ZiMjY5NjlhMWZmNmY2M2M3ZTJlMGRi",
+  "snapshot_id": "MCxiMDY0ZTk5MjI2OWI0NGI5NDkyMGMyYTViMGM5MTk3Njc5NGY0MDk1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 204685,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 204685,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Third (Deluxe)",
-        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 264581,
-      "name": "Brooklyn Ballers",
-      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "o shit!",
         "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 136822,
       "name": "o shit!",
       "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Third (Deluxe)",
+        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 264581,
+      "name": "Brooklyn Ballers",
+      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
     },
     {
       "added_at": "2023-12-01 00:01:00",

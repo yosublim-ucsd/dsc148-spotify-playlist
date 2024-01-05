@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=GSlgMf5LQtiLl\-TGgrs1YA">Ebuka Songs</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=HHAOxpV0RDaz5tPsmjJQGQ">Anendlessoncean</a>
 
-403 songs - 1 day 10 hr 44 min
+404 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Gods Love](https://open.spotify.com/track/4CKeG9hcOwkqcWGDo104xI) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Gods Love](https://open.spotify.com/album/4Sh9MI3Q4ihCssCvd25e1o) | 3:16 | 2023-05-26 | 2023-06-23 |
 | [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2023-04-21 | 2023-06-09 |
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-23 | 2023-12-15 |
+| [Gratitude](https://open.spotify.com/track/0D9JNf7ntudlGuRUQW1bXp) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Gratitude](https://open.spotify.com/album/6WRCBHNfy0szRdmgrWbsv6) | 4:35 | 2024-01-05 |  |
 | [Great Jehovah](https://open.spotify.com/track/1kw7kPLQAXCSmtEUOmD3aA) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 5:58 | 2023-03-31 | 2023-06-23 |
 | [Greater](https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU) | 6:42 | 2023-03-14 | 2023-04-01 |
 | [Greenlight \(Official Audio\)](https://open.spotify.com/track/1Hl69y48VaTv2GbIJe1tFO) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Greenlight \(Official Audio\)](https://open.spotify.com/album/4Ssk3NrtkLvR2KCAHCOnp1) | 2:40 | 2023-08-25 | 2023-09-01 |
@@ -242,7 +243,7 @@
 | [Na Your Hand](https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Na Your Hand](https://open.spotify.com/album/0m1pNqZhVWVwJOWAoWP9mC) | 12:37 | 2023-05-05 | 2023-06-23 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2023-03-31 | 2023-05-19 |
 | [Nazarene](https://open.spotify.com/track/0Xgfoy0VTeCaR7jy8mzpQj) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:51 | 2023-12-31 | 2024-01-04 |
-| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2021-04-19 |  |
+| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2021-04-19 | 2024-01-05 |
 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Youth Choir](https://open.spotify.com/artist/4e1wKyDJhWiTS9zY8UH2kf) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 | 2020-06-05 | 2023-04-01 |
 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 | 2023-06-23 | 2023-12-15 |
 | [Ni Yesu](https://open.spotify.com/track/0iL8Y5RdgL51cPWfpUiGfH) | [Patrick Kubuya](https://open.spotify.com/artist/1n3TD9g1yQCWkmenZlHGU1) | [Anaweza](https://open.spotify.com/album/0UdxmxPxzBDTdHqOseJoso) | 6:54 | 2023-03-31 | 2023-06-09 |

@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-210 songs - 18 hr 32 min
+211 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2022-09-01 |  |
 | [Perhaps](https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:17 | 2022-05-13 | 2023-12-24 |
 | [Perhaps](https://open.spotify.com/track/1L4JlMb7e6bV20nHjxuVg9) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/6EcJ7bR7B5JWBxbl70eOo4) | 5:17 | 2022-05-13 | 2022-07-29 |
+| [Perhaps](https://open.spotify.com/track/34EOHzJsPe7P2r3QqsaBrE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK) | 5:17 | 2023-12-20 |  |
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-05-13 |  |
 | [Polka Dots And Moonbeams \- Remastered](https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(2001 RVG Edition\)](https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM) | 4:04 | 2022-05-13 |  |
 | [Pound For Pound](https://open.spotify.com/track/5CSlvf7HVrqXSxsJx2LhQj) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Made Possible](https://open.spotify.com/album/3OdNCMVkl8maOzvi7nNs1t) | 6:10 | 2022-05-13 | 2023-03-26 |
@@ -217,6 +218,6 @@
 | [You Go To My Head \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3g6t47lf7r5Y6M7XRkAhMh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 3:15 | 2023-08-23 |  |
 | [You Look Good To Me](https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 4:49 | 2022-08-17 |  |
 | [You Took Advantage Of Me \- Live](https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 10:12 | 2022-05-13 | 2022-10-08 |
-| [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 | 2022-05-13 |  |
+| [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 | 2022-05-13 | 2024-01-05 |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

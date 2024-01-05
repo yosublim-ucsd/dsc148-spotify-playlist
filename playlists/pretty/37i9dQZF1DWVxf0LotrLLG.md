@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Kim Loaiza
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,571 likes - 202 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,598 likes - 202 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Rositas](https://open.spotify.com/track/3M6Hgrfs2NQaIMs050UaZF) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:37 |
 | 202 | [Dubai](https://open.spotify.com/track/3PjBpkbEefSVJjD7zMiiLZ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:21 |
 
-Snapshot ID: `MCxhODRkNWNmNzc3NjE5ZjM5M2ViZDQxYjg1ZTQ4YzllNjZhZTA3MzI5`
+Snapshot ID: `MCxlZTk3MmFjM2RiMDIzMDRiYjg1MWJhOWZjMTljMTIyNzFkOGVlNzA4`

@@ -643,6 +643,42 @@
     },
     {
       "album": {
+        "name": "frosty haze",
+        "url": "https://open.spotify.com/album/5gLdHeQNfBmKrncIl6o76L"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130375,
+      "name": "frosty haze",
+      "url": "https://open.spotify.com/track/5C7f7HJ1RhwU9ou9JjvznH"
+    },
+    {
+      "album": {
+        "name": "gentle breath",
+        "url": "https://open.spotify.com/album/0K8gBog3uUZS4Ynv3qU9ER"
+      },
+      "artists": [
+        {
+          "name": "anton suede",
+          "url": "https://open.spotify.com/artist/7CVmC6cx5X5250x68y8AaN"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "gentle breath",
+      "url": "https://open.spotify.com/track/511fGyUV4I1zfaH77bsElF"
+    },
+    {
+      "album": {
         "name": "Cinemotional, Vol. 2",
         "url": "https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf"
       },
@@ -954,6 +990,24 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124411,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs"
     },
     {
       "album": {

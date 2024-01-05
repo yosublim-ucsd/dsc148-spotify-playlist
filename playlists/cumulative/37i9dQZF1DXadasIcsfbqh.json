@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Been There Before",
+        "url": "https://open.spotify.com/album/1FbR9HJ8MGKRb9ZyZMV9V9"
+      },
+      "artists": [
+        {
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212162,
+      "name": "Been There Before",
+      "url": "https://open.spotify.com/track/2s95urN3yvMr4BgSKItGKG"
+    },
+    {
+      "album": {
         "name": "Bets On Us",
         "url": "https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 184848,
       "name": "Favorite Color",
       "url": "https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 205626,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 205946,
       "name": "Home Sweet",
       "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"

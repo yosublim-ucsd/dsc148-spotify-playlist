@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future\. New artists on the horizon\. Cover: Zior Park.
+> Meet the future\. New artists on the horizon\. Cover: Yamê.
 
 1,176 songs - 2 day 17 hr 9 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,396 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,397 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 20 | [The Word Of Your Body \- Rise Cast Version](https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Word Of Your Body \(Rise Cast Version\)](https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw) | 2:54 |
 | 21 | [Those You've Known \- Rise Cast Version](https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I), [Ellie Desautels](https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 1:51 |
 
-Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDA2NTU2YzFkOGNjMDcwMTY4NzNjN2U1NzViZmIyZmExNg==`
+Snapshot ID: `Mjg0MDYxODMsMDAwMDAwMDBlNzdkNTMyYWViZjE0MzI1ZjE4YTYxM2M4NjQxY2Q4Mg==`

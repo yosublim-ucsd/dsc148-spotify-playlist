@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,941 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,947 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 18 | [El Querreque](https://open.spotify.com/track/0m393D1i8If36V9ADd9IUb) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8), [Lino Chavez](https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn) | [Veracruz Son y Huapango](https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD) | 2:58 |
 | 19 | [Popurrí Mexicano:](https://open.spotify.com/track/5pZWWNVotdSMynW3kTooSY) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Los Éxitos de Antonio Bribiesca Y su Guitarra Mexicana](https://open.spotify.com/album/4mYfjXYzxh6ihn53h7U6m3) | 4:21 |
 | 20 | [Adiós Mariquita Linda](https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [15 Éxitos Al Estilo Ranchero De Juan Torres](https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF) | 3:32 |
-| 21 | [Zopilote mojado](https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 3:16 |
-| 22 | [El toro viejo](https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Mañanitas](https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW) | 3:21 |
+| 21 | [El toro viejo](https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Mañanitas](https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW) | 3:21 |
+| 22 | [Zopilote mojado](https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 3:16 |
 | 23 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
 | 24 | [El Amanecer](https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 9:25 |
 | 25 | [Huapango 2](https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Jorge Cristian](https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS) | [Marimbas Y Regional Vol\. 1](https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI) | 1:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Virgen de la Macarena](https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:51 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCw5OWUxNTFjN2M0ODVmMDI3NDI0ODBkMmM2MzEyMDRmN2Y0ZDZlNDFm`
+Snapshot ID: `MCw3NzA0MmY4OTA2NjcxZGE1M2Y0YTliNzU0OTA4YjI5ZGZiNjQ0MTMy`

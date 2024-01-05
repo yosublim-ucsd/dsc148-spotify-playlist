@@ -3222,10 +3222,32 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 217371,
       "name": "Ripples - Ambient Rework",
       "url": "https://open.spotify.com/track/5eOS4q21Ykr0xXlj2SIol0"
+    },
+    {
+      "album": {
+        "name": "Remixes of a Lockdown",
+        "url": "https://open.spotify.com/album/6j119jGCBkVUiC7bobYn9C"
+      },
+      "artists": [
+        {
+          "name": "Pablo J. Garmon",
+          "url": "https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE"
+        },
+        {
+          "name": "Andrew Simpson",
+          "url": "https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "Ripples - Ambient Rework",
+      "url": "https://open.spotify.com/track/70BoDJMyp0sdDXao92dqAp"
     },
     {
       "album": {

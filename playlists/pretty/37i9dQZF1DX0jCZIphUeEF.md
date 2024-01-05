@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,841 likes - 87 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,865 likes - 87 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 16 | [Trumpets Are Back](https://open.spotify.com/track/6dm3dc3rvODxGrvHqPougj) | [Danny Serrano](https://open.spotify.com/artist/3kerdbIX1DaNMNBcgvKtDR) | [Mantra / Trumpets Are Back](https://open.spotify.com/album/0EXK1efujpKOoGUZMhEv7R) | 4:01 |
 | 17 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 18 | [If Only You Knew \(feat\. Joy Farrukh\)](https://open.spotify.com/track/1eVrJXGAisfB41oeubH3xK) | [Steve Lawler](https://open.spotify.com/artist/0NDuRCSLSH0Ii5An4U6HME), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Joy Farrukh](https://open.spotify.com/artist/6bYeMHJHXkOurzcYC2vkPC) | [If Only You Knew \(feat\. Joy Farrukh\)](https://open.spotify.com/album/4oLboNW38je1RoDqCKhR3n) | 2:47 |
-| 19 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 |
+| 19 | [Dance With Me](https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS) | 6:31 |
 | 20 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 |
 | 21 | [Vader](https://open.spotify.com/track/3JligMCYcd31OhGD93doZy) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Vader](https://open.spotify.com/album/6d4jmHcF77LQbSSTzbEX2j) | 3:31 |
 | 22 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 86 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 87 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MCwyNWQ5MWYyZjM5OTk1Mjk5YjYwZDg5MWUwYzM5NjcwNTAwZjVkZGQ0`
+Snapshot ID: `MCw1NDRkYzQyOWVmYTFiZDY0ZjM3YTRlNmM0YmJkZmJjOGM2OThjMGYz`

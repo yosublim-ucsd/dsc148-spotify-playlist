@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music. Cover: DOB\u00e9",
+  "description": "The best new electronic music. Cover: biskuwi, Fatum",
   "name": "Electronic Rising",
   "tracks": [
     {
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 228792,
       "name": "ASA",
       "url": "https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF"
@@ -5370,7 +5370,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 240000,
       "name": "Bell",
       "url": "https://open.spotify.com/track/42iMxUFc8IoedPBcQySzW9"
@@ -5410,7 +5410,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 288750,
       "name": "Bender",
       "url": "https://open.spotify.com/track/5j70j3HudSw1xkHfdtAcUj"
@@ -6308,6 +6308,24 @@
       "duration_ms": 260032,
       "name": "Body Breathe",
       "url": "https://open.spotify.com/track/7fYrNMgODWzlFAa18kYWtY"
+    },
+    {
+      "album": {
+        "name": "Body Control",
+        "url": "https://open.spotify.com/album/1FWQwkUm9Yr11Ul0Y8VxIf"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231874,
+      "name": "Body Control",
+      "url": "https://open.spotify.com/track/3RDQwNfUKBIrK057YI8wvz"
     },
     {
       "album": {
@@ -10399,6 +10417,24 @@
     },
     {
       "album": {
+        "name": "Coquin",
+        "url": "https://open.spotify.com/album/23HPAynmFJBr1PxwS37W03"
+      },
+      "artists": [
+        {
+          "name": "Fabian Krooss",
+          "url": "https://open.spotify.com/artist/4leH37QH7NYQAAGmeRPnZC"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333866,
+      "name": "Coquin",
+      "url": "https://open.spotify.com/track/0ySx2OkfXTc462wlSzIKmk"
+    },
+    {
+      "album": {
         "name": "CORE",
         "url": "https://open.spotify.com/album/1zSb8QsiCUw8tl7Jjxn7rw"
       },
@@ -13079,6 +13115,28 @@
     },
     {
       "album": {
+        "name": "Do You Want Some Acid? (Green Lake Project Remix)",
+        "url": "https://open.spotify.com/album/2etDDi0apLswu1Q11oN7Hq"
+      },
+      "artists": [
+        {
+          "name": "HOVR",
+          "url": "https://open.spotify.com/artist/3OKJ15Et50JhoX1zbf0Cdz"
+        },
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403507,
+      "name": "Do You Want Some Acid? - Green Lake Project Remix",
+      "url": "https://open.spotify.com/track/6HhhJeIDd2vsK0wMqXWPJo"
+    },
+    {
+      "album": {
         "name": "Kelch 1",
         "url": "https://open.spotify.com/album/3iZME47hOMybD42uHgYvdP"
       },
@@ -15074,7 +15132,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 186666,
       "name": "Emerald Skies",
       "url": "https://open.spotify.com/track/6D11LKlEYTF9URakCVjhvO"
@@ -16978,6 +17036,24 @@
       "duration_ms": 413230,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4mw5W12hU508IjqY0ZiXCw"
+    },
+    {
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/3e9p6kqSeq0POYUsBmBagp"
+      },
+      "artists": [
+        {
+          "name": "Naeiiv",
+          "url": "https://open.spotify.com/artist/2abcn9W6DWwhy0oHuYZ0VU"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441290,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0TunjQmJ51I0ZT6QZ1XDq9"
     },
     {
       "album": {
@@ -26205,6 +26281,28 @@
     },
     {
       "album": {
+        "name": "Into The Void EP",
+        "url": "https://open.spotify.com/album/4XSbhS3aPDDhEKm5Ra6zk0"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Night Talk",
+          "url": "https://open.spotify.com/artist/5qBuIjfPbG4jBVCeFnCpQN"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326767,
+      "name": "Into The Void",
+      "url": "https://open.spotify.com/track/3SzKuoyt5ILClsfwqMcaPM"
+    },
+    {
+      "album": {
         "name": "Introspect",
         "url": "https://open.spotify.com/album/5t9UzyAjtgdHNATS7omrED"
       },
@@ -34281,6 +34379,24 @@
     },
     {
       "album": {
+        "name": "Mystical",
+        "url": "https://open.spotify.com/album/6q6MK2P3I6eY8mqhjrWZSy"
+      },
+      "artists": [
+        {
+          "name": "Rolbac",
+          "url": "https://open.spotify.com/artist/5HfazbsZC06O4dycKstvWh"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Mystical",
+      "url": "https://open.spotify.com/track/00Ntcqch7d5kqfVhtRWzBF"
+    },
+    {
+      "album": {
         "name": "Wir sind Kinder",
         "url": "https://open.spotify.com/album/0e1e7E2TpSOtC2CSdSdauQ"
       },
@@ -36747,6 +36863,24 @@
     },
     {
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/6iGU92jo40FNf3zowljS4U"
+      },
+      "artists": [
+        {
+          "name": "Sven Tasnadi",
+          "url": "https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598032,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/53iNvf7bcE0gL5SBd6RiuB"
+    },
+    {
+      "album": {
         "name": "One Love (Nick Curly Remix [2023 Edit])",
         "url": "https://open.spotify.com/album/3lSVfXX7vj16HzbscmcetC"
       },
@@ -36766,7 +36900,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 228479,
       "name": "One Love - Nick Curly Remix [2023 Edit]",
       "url": "https://open.spotify.com/track/33kXRY2IXNhfxGlmUiECkp"
@@ -48815,6 +48949,28 @@
     },
     {
       "album": {
+        "name": "Termination (Radio-Edit)",
+        "url": "https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247802,
+      "name": "Termination - Radio-Edit",
+      "url": "https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb"
+    },
+    {
+      "album": {
         "name": "Love Modulator EP",
         "url": "https://open.spotify.com/album/4swzdTq3VhBEQR9HgPJqXm"
       },
@@ -53770,6 +53926,24 @@
       "duration_ms": 314545,
       "name": "Universe",
       "url": "https://open.spotify.com/track/571CwiLwYypPyDSSfbDl4k"
+    },
+    {
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/7BFaVhQGBmKujKRWS28ZRd"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6RXiGqIBXjuq5Sd1OiTxQh"
     },
     {
       "album": {

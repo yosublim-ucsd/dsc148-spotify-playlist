@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "birdies",
+        "url": "https://open.spotify.com/album/2k6Ommgt2VnJFEMRxhP6mh"
+      },
+      "artists": [
+        {
+          "name": "Flaminguez",
+          "url": "https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103374,
+      "name": "birdies",
+      "url": "https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO"
+    },
+    {
+      "album": {
         "name": "clear skies",
         "url": "https://open.spotify.com/album/5z1cpl3Hy1z9XPDkPZ1bBh"
       },

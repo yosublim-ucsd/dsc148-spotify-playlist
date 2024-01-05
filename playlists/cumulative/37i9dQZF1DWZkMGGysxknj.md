@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-276 songs - 15 hr 42 min
+277 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2021-07-16 |  |
 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2021-07-16 | 2023-05-17 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-07-16 |  |
+| [better on my own \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [better on my own \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i) | 3:48 | 2024-01-05 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-07-16 |  |
 | [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 | 2023-05-24 |
 | [Blinding Lights](https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:14 | 2021-07-16 | 2022-11-13 |
@@ -40,7 +41,7 @@
 | [Ciranda](https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [We Saw Blue](https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T) | 3:03 | 2021-07-16 |  |
 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 | 2021-07-16 |  |
 | [Clap For Them](https://open.spotify.com/track/4vJRj3g7OyxytClCk0FzAb) | [Galaxy Fingers](https://open.spotify.com/artist/6uyULpB0HuQu9Mb6mhzGEx) | [Clap For Them](https://open.spotify.com/album/7BZaLbZxBSCdZM80GSGvgl) | 3:21 | 2021-07-16 | 2022-07-29 |
-| [Clocks](https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT) | [Praia Grande](https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v) | [Covers](https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E) | 3:45 | 2021-07-16 |  |
+| [Clocks](https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT) | [Praia Grande](https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v) | [Covers](https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E) | 3:45 | 2021-07-16 | 2024-01-05 |
 | [Colourblind](https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:54 | 2021-07-16 | 2022-07-27 |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 |  |
 | [Complicated](https://open.spotify.com/track/7j6xAadMrhFIuZ7epyU5YT) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Complicated](https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc) | 3:30 | 2021-07-16 | 2022-07-29 |

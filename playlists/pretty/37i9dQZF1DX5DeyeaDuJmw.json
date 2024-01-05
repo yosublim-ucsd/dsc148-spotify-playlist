@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: AK4:20.",
-  "num_followers": 152450,
+  "num_followers": 152486,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzYzYTIwYmVkYjBhYTVjMDdhODg2MDAxMmE2OWIyMTEzMTQ0MjU3",
+  "snapshot_id": "MCxlZDNmNDM3MmJlYjhmMmQ4ZWRiZjkxOWUxYTE3MDdhNDYzYjQ0NjI3",
   "tracks": [
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2ZlrG0oMqhNUW4P7IbVUA7"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/7tNIS3BAd64vbGmaraU8hk"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 224267,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/2ZlrG0oMqhNUW4P7IbVUA7"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 201858,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/7tNIS3BAd64vbGmaraU8hk"
     },
     {
       "added_at": "2023-06-09 14:06:06",

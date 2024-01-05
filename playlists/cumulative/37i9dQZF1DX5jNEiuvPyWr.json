@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Djadja & Dinaz",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Khali",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -1393,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "crescendo",
+        "url": "https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd"
+      },
+      "artists": [
+        {
+          "name": "yuo",
+          "url": "https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc"
+        },
+        {
+          "name": "yung g",
+          "url": "https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173136,
+      "name": "crescendo",
+      "url": "https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr"
+    },
+    {
+      "album": {
         "name": "Associ\u00e9s",
         "url": "https://open.spotify.com/album/7cKu958VBrfEhv5UQLeY0v"
       },
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 120053,
       "name": "Ice",
       "url": "https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,901 likes - 183 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,899 likes - 183 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 90 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 | 91 | [I Don't Go To Funerals](https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 2:27 |
 | 92 | [I Dare You to Love](https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl \(Deluxe Edition\)](https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO) | 3:19 |
-| 93 | [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 |
+| 93 | [Friends Again](https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Game Changer](https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9) | 2:35 |
 | 94 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/34FxbXBm1QjQ44lUBL8Rn9) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/album/1v9u00mgkfhhRJm7yMSIdz) | 3:36 |
 | 95 | [Stone Blind Horses](https://open.spotify.com/track/40I4eAyq1EUUw5OZXxsGjC) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:45 |
 | 96 | [Everybody's Talkin'](https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Out of Sane](https://open.spotify.com/album/1UUgUFNRDCZlumiG2c2qXJ) | 3:31 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 182 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 183 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCwwNmU3Njg4YmZmOTJmNDFiZGYxMzMwNTgwNWQ5NTJmYWE5MWRlYWRm`
+Snapshot ID: `MCw5YWJlMjgxOWEzZTQ0MmU1YTU4NTVkYmEyOTFjZDg3YTBlZjU0YTFk`

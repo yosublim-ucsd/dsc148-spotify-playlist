@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ\">Anendlessocean</a> ",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA\">Sinmidele</a> ",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 293059,
       "name": "Accepted",
       "url": "https://open.spotify.com/track/4EJpqoRuDTU7m2gweSlKl2"
+    },
+    {
+      "album": {
+        "name": "after all these years",
+        "url": "https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268365,
+      "name": "After All These Years",
+      "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
     },
     {
       "album": {
@@ -427,6 +445,28 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/590H6SNlig14qTO5K3CIy4"
+      },
+      "artists": [
+        {
+          "name": "Temzeey Calebs",
+          "url": "https://open.spotify.com/artist/1a4lnXmvWj7R3HN8sfTUwN"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129802,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/0yxtQVuKDXqpZRhsQCS6sV"
+    },
+    {
+      "album": {
         "name": "Clear the Hold Up",
         "url": "https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0"
       },
@@ -580,6 +620,28 @@
       "duration_ms": 324572,
       "name": "Dansaki",
       "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
+    },
+    {
+      "album": {
+        "name": "Darling Jesus",
+        "url": "https://open.spotify.com/album/5Xeh4clJo0rM9WHRb7CGXy"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ossom",
+          "url": "https://open.spotify.com/artist/0TV9CRHK0mIwaqUNLDDg2W"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173221,
+      "name": "Darling Jesus",
+      "url": "https://open.spotify.com/track/7umCBlz9pHwRn8TGyhGXKN"
     },
     {
       "album": {
@@ -1881,6 +1943,42 @@
     },
     {
       "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/5XTB6jZUx1kvv33gsxFhym"
+      },
+      "artists": [
+        {
+          "name": "Samuel Okemiri",
+          "url": "https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132352,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/3b7hoD6OLI8GrbbFBzTAes"
+    },
+    {
+      "album": {
+        "name": "Kingdom Mission",
+        "url": "https://open.spotify.com/album/46hmWwofq4WLReMxBz5Ynw"
+      },
+      "artists": [
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97418,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw"
+    },
+    {
+      "album": {
         "name": "The One (Remix)",
         "url": "https://open.spotify.com/album/4otZyK17QTH5WdPW7DyyoU"
       },
@@ -2250,6 +2348,36 @@
       "duration_ms": 279066,
       "name": "You are Yahweh",
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/3O1maNVb2DhRZLDjsQpEQp"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Aeno",
+          "url": "https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh"
+        },
+        {
+          "name": "Cee Emtee",
+          "url": "https://open.spotify.com/artist/12mhfZhybTbrNzyxpZmDjE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/6US0rhvD5zq5U9EZE7tvmW"
     },
     {
       "album": {

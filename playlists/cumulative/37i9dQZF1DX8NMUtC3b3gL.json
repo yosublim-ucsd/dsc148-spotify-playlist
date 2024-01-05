@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "cycle of life",
+        "url": "https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r"
+      },
+      "artists": [
+        {
+          "name": "Cheeky Beez",
+          "url": "https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124109,
+      "name": "cycle of life",
+      "url": "https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH"
+    },
+    {
+      "album": {
         "name": "daydreamer",
         "url": "https://open.spotify.com/album/1GgCmTQ8Gar7oKEqrkZBVY"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 118576,
       "name": "Days Off",
       "url": "https://open.spotify.com/track/79D9IPtymm9jfec689Tlin"
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 135529,
       "name": "Dear Friends",
       "url": "https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU"
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 195682,
       "name": "Feels Like Tomorrow",
       "url": "https://open.spotify.com/track/63dG83UMhVKzOOGaxeivf7"
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 125806,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/0eUF2e0MbDLjn3q6oAozI3"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 112941,
       "name": "introspection",
       "url": "https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi"
@@ -4538,7 +4556,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 139354,
       "name": "Matcha Crumbs",
       "url": "https://open.spotify.com/track/0m3pLMVoCRIcyzmoRPeghN"
@@ -4604,6 +4622,24 @@
       "duration_ms": 154838,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6WhmXYh77rfG5KieYfx5ad"
+    },
+    {
+      "album": {
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/7gO57WSFQ0xoBH4XRrhSQ3"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/24EO0A4OgkJJMxd3MT5uvj"
     },
     {
       "album": {
@@ -6720,7 +6756,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 159175,
       "name": "So Unique",
       "url": "https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt"
@@ -7212,7 +7248,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 224634,
       "name": "summer haze",
       "url": "https://open.spotify.com/track/0aG9gVRYIzdHwMeUQcLm0v"
@@ -7393,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "sunny day dreaming",
+        "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174621,
+      "name": "sunny day dreaming",
+      "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
+    },
+    {
+      "album": {
         "name": "Sunrise Citi",
         "url": "https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM"
       },
@@ -7422,7 +7476,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 145822,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/1m7iXujJBtpKyK1Qm0EFGb"
@@ -7672,7 +7726,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 128500,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5juJ2wFnM0M34P0XOPQzQX"
@@ -7810,7 +7864,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 143414,
       "name": "that 90s low",
       "url": "https://open.spotify.com/track/1pzOWECKHnMy5UrKeJduNB"
@@ -7958,7 +8012,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 138301,
       "name": "Through the Streets",
       "url": "https://open.spotify.com/track/2f2QZvcV1qvgz8tiQ3xc6G"
@@ -8122,7 +8176,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 95384,
       "name": "Todos Santos",
       "url": "https://open.spotify.com/track/6N4eb103gL0UycNecc54HR"
@@ -8194,7 +8248,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 130000,
       "name": "Tram",
       "url": "https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys"
@@ -8356,7 +8410,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 138173,
       "name": "Vacation Days",
       "url": "https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB"
@@ -8374,7 +8428,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 98639,
       "name": "Vega",
       "url": "https://open.spotify.com/track/7vJoDXM7nAbcMonImsf7AU"

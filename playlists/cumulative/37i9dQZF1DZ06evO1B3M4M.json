@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 115906,
       "name": "Archer & Solomon Hike",
       "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
@@ -530,6 +530,24 @@
       "duration_ms": 89093,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/6GBTGVUSVIvvgWbm17kIGB"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102226,
+      "name": "Katniss",
+      "url": "https://open.spotify.com/track/0sDeDYPGIfM9tTk5GluErY"
     },
     {
       "album": {

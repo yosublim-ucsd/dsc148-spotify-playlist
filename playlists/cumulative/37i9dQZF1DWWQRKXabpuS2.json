@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Tezzakar Al Nesyan Part 2",
+        "url": "https://open.spotify.com/album/6Jyh9oJ155zJ6qSaLfvmRi"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321881,
+      "name": "Manho Habibak",
+      "url": "https://open.spotify.com/track/67WtP6ZDz6jnUMlS4cR5ih"
+    },
+    {
+      "album": {
         "name": "Mani Qader",
         "url": "https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY"
       },

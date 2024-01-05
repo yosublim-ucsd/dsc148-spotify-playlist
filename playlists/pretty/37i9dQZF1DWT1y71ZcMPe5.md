@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,350,865 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,350,955 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 |
 | 50 | [LOVE IS DEAD](https://open.spotify.com/track/1JKjNopsXwqteXUstbxOaK) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 3:44 |
 
-Snapshot ID: `MCw5ZmNiMTAzYjdjMjRhMTljZDhkMTU1N2FhNzNjMTk0OTc2NjRmZjQ0`
+Snapshot ID: `MCw0NGVmM2QwMmE0ZWMwZGY3N2VlNjAxNGNhZTY3ZDg1ZjgzMTQ0Njhl`

@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 89481,
+  "num_followers": 89515,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2UyNDFkYjc3NGUyYzg0NTY1MGQ2YWI5YzRiMDI5NDE2NGZjMDU1",
+  "snapshot_id": "MCw1MjIzNzE0ZWE1Y2FmMWM4NDJiZTE3YmZjMjExMzNiOGI5Y2M0Mjkx",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "If In Case You Feel The Same",
+        "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
+      },
+      "artists": [
+        {
+          "name": "Thad Cockrell",
+          "url": "https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM"
+        },
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 198026,
       "name": "Constellate",
       "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "If In Case You Feel The Same",
-        "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
-      },
-      "artists": [
-        {
-          "name": "Thad Cockrell",
-          "url": "https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM"
-        },
-        {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Esoterica",
-          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Wildwood Kin",
         "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -963,18 +947,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
       "artists": [
         {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+      "duration_ms": 239400,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -991,6 +975,22 @@
       "duration_ms": 183720,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dawned On Me",
-        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
-      },
-      "artists": [
-        {
-          "name": "Brewer",
-          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Dawned On Me",
-      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "This Is No Burial",
-        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
+        "name": "Dawned On Me",
+        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
       },
       "artists": [
         {
-          "name": "Andie Elise",
-          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
+          "name": "Brewer",
+          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
         }
       ],
-      "duration_ms": 234632,
-      "name": "This Is No Burial",
-      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
+      "duration_ms": 177633,
+      "name": "Dawned On Me",
+      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 172088,
       "name": "Power Over Me",
       "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "This Is No Burial",
+        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
+      },
+      "artists": [
+        {
+          "name": "Andie Elise",
+          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
+        }
+      ],
+      "duration_ms": 234632,
+      "name": "This Is No Burial",
+      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
     }
   ],
   "unique_name": "Good People Good Music",

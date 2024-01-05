@@ -4,7 +4,7 @@
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-86 songs - 3 hr 17 min
+89 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,8 @@
 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 | 2023-10-27 |  |
 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 | 2023-10-27 |  |
 | [frost](https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd) | [Griffin' Groove](https://open.spotify.com/artist/24NgW9lCc4H75rz6nrfpzD) | [frost](https://open.spotify.com/album/09z9j5sgQR4FjntLAgjqV0) | 2:40 | 2023-10-27 |  |
+| [frosty haze](https://open.spotify.com/track/5C7f7HJ1RhwU9ou9JjvznH) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [frosty haze](https://open.spotify.com/album/5gLdHeQNfBmKrncIl6o76L) | 2:10 | 2024-01-05 |  |
+| [gentle breath](https://open.spotify.com/track/511fGyUV4I1zfaH77bsElF) | [anton suede](https://open.spotify.com/artist/7CVmC6cx5X5250x68y8AaN) | [gentle breath](https://open.spotify.com/album/0K8gBog3uUZS4Ynv3qU9ER) | 2:21 | 2024-01-05 |  |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2023-10-27 | 2023-12-14 |
 | [Hidden In The Mist](https://open.spotify.com/track/3Zd5yGjs0Zavnc9Eekh6qc) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Dreamcatcher](https://open.spotify.com/album/3KTmEVClSrOaATXcocRUPP) | 1:53 | 2023-10-27 |  |
 | [High](https://open.spotify.com/track/3VSybG2nJeJ2NSi6j9ZknY) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [High](https://open.spotify.com/album/0GdMlmRTp1S3arrygvJeE8) | 2:46 | 2023-10-27 |  |
@@ -60,6 +62,7 @@
 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 | 2023-10-27 |  |
 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 | 2023-10-27 | 2023-11-18 |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-10-27 |  |
+| [Mirror](https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Mirror](https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta) | 2:04 | 2024-01-05 |  |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2023-10-27 |  |
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2023-10-27 |  |

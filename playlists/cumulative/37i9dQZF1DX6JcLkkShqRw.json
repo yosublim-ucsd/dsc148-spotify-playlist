@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 189216,
       "name": "Anti Rana",
       "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
@@ -3624,6 +3624,28 @@
       "duration_ms": 192678,
       "name": "Cascada",
       "url": "https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a"
+    },
+    {
+      "album": {
+        "name": "Cash Machine",
+        "url": "https://open.spotify.com/album/2ZFFub0qkcDEE4QPBQpXSE"
+      },
+      "artists": [
+        {
+          "name": "Too Yugan",
+          "url": "https://open.spotify.com/artist/3iotzjiikaWCmct3ibFbZk"
+        },
+        {
+          "name": "Babyhope",
+          "url": "https://open.spotify.com/artist/0kgPETNLSawOhgsCCVCBrP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165336,
+      "name": "Cash Machine",
+      "url": "https://open.spotify.com/track/2S8JTUgPdDhGtb5Ub8zOZ2"
     },
     {
       "album": {
@@ -6062,7 +6084,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
@@ -16694,6 +16716,24 @@
       "duration_ms": 149387,
       "name": "Pega\u00edta",
       "url": "https://open.spotify.com/track/27JyyG5uWm1Znhdhp4CN3R"
+    },
+    {
+      "album": {
+        "name": "PEINE DE ETE LAO",
+        "url": "https://open.spotify.com/album/5BmYb2XtFh53Jmae9x8j6B"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155144,
+      "name": "PEINE DE ETE LAO",
+      "url": "https://open.spotify.com/track/3qPmdcPp5yVnNjZ2hIlUE4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > songs voor je playlist!
 
-310 songs - 15 hr 38 min
+311 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-07-10 | 2023-07-19 |
 | [7K Op Je Feestje](https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Antybanty](https://open.spotify.com/artist/0gndIS0odhxIsyIfgDj9pK) | [7K op je feestje](https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex) | 2:10 | 2023-09-14 |  |
 | [Accepteer de Stress](https://open.spotify.com/track/7AQK0D7AsyoyCXXTDEsxh4) | [Milan Knol](https://open.spotify.com/artist/3QPrW2AxSYf8F6cSqPceLZ) | [Accepteer de Stress](https://open.spotify.com/album/71l4yEvhNQEEMVcX3R1cVQ) | 2:08 | 2023-07-13 | 2023-07-18 |
+| [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-04 |  |
 | [AH TXE TXE](https://open.spotify.com/track/44JaxgEdVdgEzTeIYsZrES) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713) | [AH TXE TXE](https://open.spotify.com/album/2NgTBl8RJMVLwbhGiPxCkD) | 2:22 | 2023-10-27 |  |
 | [AH TXE TXE](https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [AH TXE TXE](https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio) | 2:16 | 2023-11-16 |  |
 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 | 2023-11-09 |  |
@@ -268,7 +269,7 @@
 | [Speeltuin](https://open.spotify.com/track/0OLrsaRYP6n1OueEwhQxj8) | [Mylène & Rosanne](https://open.spotify.com/artist/6fslsblk3qBwTI1WN26ECv) | [Speeltuin](https://open.spotify.com/album/0xSVsCpBEBLp2k3g3Rqcxl) | 3:11 | 2023-09-14 | 2023-11-10 |
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-04-21 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-05-01 | 2023-06-13 |
-| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 | 2024-01-05 |
 | [Stray Nights](https://open.spotify.com/track/6HIQWdDMDI98njEeOylwkS) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR) | [Stray Nights](https://open.spotify.com/album/4RqrHlPCVPdgut66jBcT5O) | 2:17 | 2023-09-11 | 2023-11-01 |
 | [SUPARO \- SPEED UP](https://open.spotify.com/track/7sf9InBTBA24jMwMHpiq2K) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SUPARO \(SPEED UP\)](https://open.spotify.com/album/2rygY1Vjrl34eG7IJ9wJFa) | 1:58 | 2023-10-11 |  |
 | [Supernova](https://open.spotify.com/track/4o15ljBxxossYcAYOhjKpb) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Supernova](https://open.spotify.com/album/66q7bYDHdyVIvFvsrh6COm) | 2:37 | 2023-07-31 | 2023-10-03 |

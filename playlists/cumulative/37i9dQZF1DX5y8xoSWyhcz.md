@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,148 songs - 2 day 10 hr 55 min
+1,151 songs - 2 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,10 +324,10 @@
 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 | 2022-07-01 | 2023-07-01 |
 | [Feel Better](https://open.spotify.com/track/72xVzmQRgkGkeaaN7Yj226) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Feel Better](https://open.spotify.com/album/1yeaLtWLRXeAtj2Qm9L1Lw) | 2:24 | 2021-08-28 | 2021-10-30 |
 | [Field Day](https://open.spotify.com/track/1fWJzUz6vBcNeSw9eiEAXj) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Field Day](https://open.spotify.com/album/4lQIZfkUNenQ9GZtu3pqJR) | 3:20 | 2022-04-01 | 2022-06-04 |
-| [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 | 2022-09-02 |  |
+| [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 | 2022-09-02 | 2024-01-05 |
 | [Figure You Out](https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/2Rx6PnJtokpPlAF1WQQYhw) | 3:04 | 2022-08-26 | 2022-10-13 |
 | [Figure You Out](https://open.spotify.com/track/3qiNw9CAXs2jeH20usXMfI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Figure You Out](https://open.spotify.com/album/6u1QQpyOHv7AlMSmEOp43a) | 3:04 | 2022-10-28 | 2022-11-14 |
-| [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 | 2022-10-07 |  |
+| [Figure You Out](https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 3:04 | 2022-10-07 | 2024-01-05 |
 | [Fill The Spaces](https://open.spotify.com/track/2ddgzUXidxSXERP4LaLwtF) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Fill The Spaces](https://open.spotify.com/album/1mkuFIINl4DRvMaqsI1bGN) | 2:50 | 2022-02-18 | 2022-03-18 |
 | [Filth](https://open.spotify.com/track/6ynqLEZvcA4Wqv8B23IyYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Heavy Hitting Hurts My Head](https://open.spotify.com/album/787pfRNdf6yHmnQen8LaBo) | 3:53 | 2021-02-13 | 2021-04-17 |
 | [Fire for You](https://open.spotify.com/track/7MXMcK1xAEYzkfjKKwh6ry) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0yNnJlpbR9kNXB1fUUCuOz) | 3:51 | 2020-10-29\* | 2021-02-13 |
@@ -611,6 +611,7 @@
 | [Little Pieces](https://open.spotify.com/track/6CL2VtLYkdN5OKB8Di9zLq) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Little Pieces](https://open.spotify.com/album/5hWcZBLkzeBtfDQAJxTYCm) | 3:23 | 2023-01-13 |  |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-04-24 | 2021-06-19 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-05-05 | 2023-07-01 |
+| [living in the 90s](https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [living in the 90s](https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD) | 3:11 | 2024-01-05 |  |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-06-05 | 2022-02-05 |
 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 | 2022-11-11 |  |
 | [Lonely Bitch](https://open.spotify.com/track/0sAwbGaFnlxrxFgQfNzGJS) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Lonely Bitch](https://open.spotify.com/album/3WANp0KcO1P5kKWdTcYEM8) | 1:50 | 2021-02-13 | 2021-04-10 |
@@ -794,7 +795,7 @@
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-01-07 | 2022-03-15 |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2022-01-07 | 2022-05-07 |
 | [Pretty Blue Jeans & Me](https://open.spotify.com/track/5jgEDq4DihrSZV8u4igfIV) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Pretty Blue Jeans & Me](https://open.spotify.com/album/3lzJBYA6Yc7FcjJG1hf1vO) | 2:51 | 2021-10-02 | 2022-01-29 |
-| [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 | 2022-08-26 |  |
+| [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 | 2022-08-26 | 2024-01-05 |
 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 | 2023-12-09 |
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-11-04 | 2021-02-06 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 |  |
@@ -1098,6 +1099,7 @@
 | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Weather \(feat\. Spill Tab\)](https://open.spotify.com/album/6d0IKj81ve9Pj76Aw1wn6B) | 2:23 | 2021-07-04 | 2021-07-31 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-24 | 2021-07-31 |
 | [were you ever with me?](https://open.spotify.com/track/5gKgLgH5guzIIVDDeDvJI1) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:06 | 2021-10-23 | 2021-11-20 |
+| [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 | 2024-01-05 |  |
 | [What You Do To Me](https://open.spotify.com/track/755fpw1IGAFIZ0uqjMfTvc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Some Days](https://open.spotify.com/album/3IFCd1wLD6M7rCntUsltk2) | 4:14 | 2021-04-24 | 2021-07-17 |
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
 | [What's up](https://open.spotify.com/track/4PGZvQgg8Nd3lOl3L4Hdkb) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:52 | 2023-08-25 | 2023-10-25 |
@@ -1113,6 +1115,7 @@
 | [Whipped.](https://open.spotify.com/track/4LgyXimHKi1n8McwM0VxAT) | [Malcolm.](https://open.spotify.com/artist/2tKBSStIhOKU5GDrPEeVLS) | [Whipped.](https://open.spotify.com/album/6uPmf15p4mz89hb7m9OyFk) | 3:46 | 2021-03-27 | 2021-06-05 |
 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 | 2021-03-19 | 2021-04-10 |
 | [Who Are You?](https://open.spotify.com/track/2yWK6Ji4cZcxI9emAmG0Yj) | [Jade The Moon](https://open.spotify.com/artist/7hpbBkeMZRmBJiK3Vg8KYP) | [11:11 \(Deluxe\)](https://open.spotify.com/album/2ta3hXGI0CJYoIsP5O9nV8) | 3:03 | 2020-10-29\* | 2021-01-06 |
+| [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 | 2024-01-05 |  |
 | [Wish I Could Be Your Girl](https://open.spotify.com/track/0HKM1VLefFnpHhkqcMbrLL) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Wish I Could Be Your Girl](https://open.spotify.com/album/2KBuzBTOa5EKxOroLIKBtF) | 2:27 | 2020-11-07 | 2020-11-14 |
 | [Wish I Was Better](https://open.spotify.com/track/30uoDH5SsZa4Z0OuTPLbuD) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Things I Wanted To Tell You](https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0) | 2:20 | 2020-10-29\* | 2021-01-09 |
 | [Without You](https://open.spotify.com/track/5W6wyyh0bBWTIq0GWzUNDH) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Without You](https://open.spotify.com/album/1iawPVthq5v01HOhnTBR4E) | 2:54 | 2021-07-17 | 2021-08-28 |

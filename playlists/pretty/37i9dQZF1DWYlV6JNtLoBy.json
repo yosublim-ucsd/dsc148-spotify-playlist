@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4303,
+  "num_followers": 4308,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzg4ZjMzMmRjM2RjM2FlYWYzOGNlOWIzZjhjNGM5MjJhMWY0MmRj",
+  "snapshot_id": "MCw5OWNmOGJmOWQyZjhkYWRkNDNiYjc4Zjg3MTMwN2JlNjJhNmNlY2Vm",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 353720,
-      "name": "Nipe Macho",
-      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Safari: The Journey",
         "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Narudisha",
-        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
       },
       "artists": [
         {
-          "name": "Gloria Muliro",
-          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 269688,
-      "name": "Narudisha",
-      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
+      "duration_ms": 353720,
+      "name": "Nipe Macho",
+      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -675,6 +659,22 @@
       "duration_ms": 240204,
       "name": "I Believe (Island Medley) [So Long Bye Bye] (Radio Edit)",
       "url": "https://open.spotify.com/track/4AalHP2qaEp6QEjiOohKyb"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Narudisha",
+        "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
+      },
+      "artists": [
+        {
+          "name": "Gloria Muliro",
+          "url": "https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV"
+        }
+      ],
+      "duration_ms": 269688,
+      "name": "Narudisha",
+      "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Uniongoze Yesu, Vol.4",
-        "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
+        "name": "Trip of the Faith",
+        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
       },
       "artists": [
         {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
         }
       ],
-      "duration_ms": 490919,
-      "name": "Uniongoze Yesu",
-      "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
+      "duration_ms": 195789,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Trip of the Faith",
-        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+        "name": "Uniongoze Yesu, Vol.4",
+        "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
       },
       "artists": [
         {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
+      "duration_ms": 490919,
+      "name": "Uniongoze Yesu",
+      "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
     }
   ],
   "unique_name": "Sunday Service",

@@ -1757,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "Friday Nights (efan Remix)",
+        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Friday Nights (efan Remix)",
+      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
+    },
+    {
+      "album": {
         "name": "Gary Lineker",
         "url": "https://open.spotify.com/album/4QMOqeOSjkXAZGV3Ne3PS1"
       },
@@ -4190,7 +4212,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"

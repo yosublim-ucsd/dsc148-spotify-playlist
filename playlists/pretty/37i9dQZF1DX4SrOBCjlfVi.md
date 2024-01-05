@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, French Montana, and more\. Cover: Luh Tyler & Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,912 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,077 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [BBW](https://open.spotify.com/track/5e20iAgf7K4bjEm4ZQnu6c) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2 – Bonus Edition\)](https://open.spotify.com/album/77MPMfvHKrAaEIRSnT0Q6t) | 1:58 |
 | 36 | [Walk It Like I Talk It](https://open.spotify.com/track/20VKdzExG8ShH8Wr1p8STH) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Walk It Like I Talk It](https://open.spotify.com/album/2HrB202HvOk0PTsds7fAf5) | 2:08 |
 | 37 | [Jealous Ass Bitch](https://open.spotify.com/track/6k9g8At55mymrYreujzg7E) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Jealous Ass Bitch](https://open.spotify.com/album/2xP93aYArN1U0RxKUFoqXn) | 3:43 |
-| 38 | [WASSUP](https://open.spotify.com/track/5H8dCCZTwe3nVhT8tgrAqe) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [WASSUP](https://open.spotify.com/album/6hqRTmF257vwALyEZ22AJA) | 3:14 |
+| 38 | [WASSUP](https://open.spotify.com/track/5H8dCCZTwe3nVhT8tgrAqe) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [WASSUP](https://open.spotify.com/album/6hqRTmF257vwALyEZ22AJA) | 3:12 |
 | 39 | [MY SUB PT 6](https://open.spotify.com/track/0tYkrGVoiyCqaMrARlR9i7) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Garfield Bright of Shai](https://open.spotify.com/artist/3AoYWe8Lisn0jWYK0k9Ylk) | [Regardless It's Still Timeless](https://open.spotify.com/album/5xcO9uhQS9DeIYcl4a5bOm) | 3:46 |
 | 40 | [Alchemy of Bankrolls](https://open.spotify.com/track/6Wf48tkte0tKN8CgMaZTRu) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [The Great Wall](https://open.spotify.com/album/7rcrGK56M9Kkb4N7VtyKob) | 2:21 |
 | 41 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Run Run Run](https://open.spotify.com/track/7xZQ2WQA69cz2rP02guiPE) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [SEXT8PE](https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp) | 3:00 |
 | 51 | [CUZO](https://open.spotify.com/track/02rJN0lnBwbqmMRGIeCT0n) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [CUZO](https://open.spotify.com/album/3t77qWZMmpTcGFvo6ubaM0) | 3:25 |
 
-Snapshot ID: `MCwwOTk2ZDc4YjhiNWQ5N2FkYjU4ZGE0YzBlMDVmM2U2ODRiY2I2ZWI1`
+Snapshot ID: `MCxjNDg3ZDNhMzY0ZDY3ZmYzNWYyM2Q1OGVlNzE3MjZhOGZlZGI4N2Rl`

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 369302,
+  "num_followers": 369613,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTljNDMwNjFlZWY4OTI4YjIyZjYwNDI5ZTk5Yzc0MWIzMjRiMjFh",
+  "snapshot_id": "MCwwNDAyMDNlYzFiNmRhYWU3MDUyZWQ5NzYxMzY2ZDIwODJiMzk0MTZm",
   "tracks": [
     {
       "added_at": "2024-01-03 08:57:31",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-03 08:57:31",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
-      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
-    },
-    {
-      "added_at": "2024-01-03 08:57:31",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 203840,
       "name": "Plus bleu que tes yeux",
       "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
+    },
+    {
+      "added_at": "2024-01-03 08:57:31",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
+      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
     },
     {
       "added_at": "2024-01-03 08:57:31",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-01-03 08:57:31",
       "album": {
-        "name": "Deux",
-        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Juste quelqu'un de bien",
-      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
-    },
-    {
-      "added_at": "2024-01-03 08:57:31",
-      "album": {
         "name": "Miss Kitt To You",
         "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 167866,
       "name": "Je Cherche Un Homme",
       "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
+    },
+    {
+      "added_at": "2024-01-03 08:57:31",
+      "album": {
+        "name": "Deux",
+        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Juste quelqu'un de bien",
+      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
     },
     {
       "added_at": "2024-01-03 08:57:31",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-01-03 08:57:31",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
-    },
-    {
-      "added_at": "2024-01-03 08:57:31",
-      "album": {
         "name": "Le Temps D'un Jazz",
         "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 233653,
       "name": "Le Temps D'Un Jazz",
       "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+    },
+    {
+      "added_at": "2024-01-03 08:57:31",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2024-01-03 08:57:31",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-03 08:57:31",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 374243,
-      "name": "Le Mal de Vivre",
-      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
-    },
-    {
-      "added_at": "2024-01-03 08:57:31",
-      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 247292,
       "name": "Je voudrais me divertir",
       "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
+    },
+    {
+      "added_at": "2024-01-03 08:57:31",
+      "album": {
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 374243,
+      "name": "Le Mal de Vivre",
+      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
     },
     {
       "added_at": "2024-01-03 08:57:31",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2024-01-03 08:57:31",
       "album": {
-        "name": "Chante Vian et Higelin",
-        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
+        "name": "Dans la peau",
+        "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
       },
       "artists": [
         {
-          "name": "Jacques Higelin",
-          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
-        },
-        {
-          "name": "Brigitte Fontaine",
-          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
         }
       ],
-      "duration_ms": 141306,
-      "name": "La Grippe",
-      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
+      "duration_ms": 132280,
+      "name": "Brigitte dit vrai",
+      "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
     },
     {
       "added_at": "2024-01-03 08:57:31",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2024-01-03 08:57:31",
       "album": {
-        "name": "Dans la peau",
-        "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
+        "name": "Chante Vian et Higelin",
+        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
       },
       "artists": [
         {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Jacques Higelin",
+          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
+        },
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
         }
       ],
-      "duration_ms": 132280,
-      "name": "Brigitte dit vrai",
-      "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
+      "duration_ms": 141306,
+      "name": "La Grippe",
+      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
     },
     {
       "added_at": "2024-01-03 08:57:31",

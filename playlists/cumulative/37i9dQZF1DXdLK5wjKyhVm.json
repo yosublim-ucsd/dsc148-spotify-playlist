@@ -3757,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "lilac hues",
+        "url": "https://open.spotify.com/album/2nbROq5Bo1vlrNttd0CPYX"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166352,
+      "name": "lilac hues",
+      "url": "https://open.spotify.com/track/3BvhYWx13t0t1vVI1rGct9"
+    },
+    {
+      "album": {
         "name": "lite",
         "url": "https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ"
       },
@@ -6800,6 +6818,24 @@
       "duration_ms": 171529,
       "name": "Sunflower Plaza",
       "url": "https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW"
+    },
+    {
+      "album": {
+        "name": "sunny day dreaming",
+        "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174621,
+      "name": "sunny day dreaming",
+      "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-227 songs - 14 hr 43 min
+228 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Remembered Words](https://open.spotify.com/track/4QMRZjSDbbBYGLBxOsEPYU) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Remembered Words](https://open.spotify.com/album/0lCDKKzqoBzR0hrHYwLDzw) | 5:10 | 2022-04-26 |  |
 | [Respite](https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:43 | 2022-01-05 |  |
 | [Rest Peacefully, but I Wish You Were Here \- re:vibed](https://open.spotify.com/track/5e49HfBDvCNwvuLrVxSRst) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay \(re:vibed\)](https://open.spotify.com/album/516dr5V1gvzNIP9B44Zuaz) | 4:00 | 2022-12-06 | 2023-03-18 |
-| [Ripples \- Ambient Rework](https://open.spotify.com/track/5eOS4q21Ykr0xXlj2SIol0) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Andrew Simpson](https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU) | [Ripples \(Ambient Rework\)](https://open.spotify.com/album/4YjqtoSHa8ddrvL6nJzfxu) | 3:37 | 2023-01-30 |  |
+| [Ripples \- Ambient Rework](https://open.spotify.com/track/5eOS4q21Ykr0xXlj2SIol0) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Andrew Simpson](https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU) | [Ripples \(Ambient Rework\)](https://open.spotify.com/album/4YjqtoSHa8ddrvL6nJzfxu) | 3:37 | 2023-01-30 | 2024-01-05 |
+| [Ripples \- Ambient Rework](https://open.spotify.com/track/70BoDJMyp0sdDXao92dqAp) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Andrew Simpson](https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU) | [Remixes of a Lockdown](https://open.spotify.com/album/6j119jGCBkVUiC7bobYn9C) | 3:37 | 2023-04-27 |  |
 | [Ritornello \- Ed Carlsen Remix](https://open.spotify.com/track/0PDMv6hhBzCeKT5W0xuDtA) | [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Ritornello \(Ed Carlsen Remix\)](https://open.spotify.com/album/7AGTk1e4gJ1BrUdKoqqqvU) | 3:56 | 2022-04-26 |  |
 | [Rose in Abstract \- Portico Quartet Remix](https://open.spotify.com/track/31dlFrjryvgqkK0MOusg21) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx), [Morris Kliphuis](https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [The Wind \(Deluxe\)](https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj) | 5:01 | 2022-12-06 |  |
 | [Savanna](https://open.spotify.com/track/6blAbCFgzJTlkZzCh2Ry9b) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [Savanna](https://open.spotify.com/album/32riCpPTX2zNVIF61UhY3B) | 3:14 | 2022-08-05 |  |

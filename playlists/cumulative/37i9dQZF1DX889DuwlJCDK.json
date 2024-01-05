@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "BouAi",
+        "url": "https://open.spotify.com/album/3wj68MHlc1QXAlp9SXZzbw"
+      },
+      "artists": [
+        {
+          "name": "Bocchi",
+          "url": "https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274929,
+      "name": "BouAi",
+      "url": "https://open.spotify.com/track/1b3ohhtRULmRtJoSuFZGj9"
+    },
+    {
+      "album": {
         "name": "& Boys",
         "url": "https://open.spotify.com/album/7ggmoPLAxF87ltWZH4Lcm8"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 238466,
       "name": "DAY DREAM BEAT",
       "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
@@ -1359,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Ikki",
+        "url": "https://open.spotify.com/album/57QYSkgg5gqybUe1ZyKFlv"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193578,
+      "name": "Ikki",
+      "url": "https://open.spotify.com/track/0qvJGTLxTcwKAODkm3k6k0"
+    },
+    {
+      "album": {
         "name": "But Really",
         "url": "https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK"
       },
@@ -1514,7 +1550,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 204450,
       "name": "Kosansengen",
       "url": "https://open.spotify.com/track/1U1WUqhSHi35ZCYEtyH9c4"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 234750,
       "name": "MY FLIGHT",
       "url": "https://open.spotify.com/track/7L2eEhN4CkzFe1oXJCeVdF"
@@ -6768,7 +6804,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 247528,
       "name": "\u72ac\u3068\u30bf\u30d0\u30b3",
       "url": "https://open.spotify.com/track/0aoJ8iIBbJpVvL9MELSCdk"

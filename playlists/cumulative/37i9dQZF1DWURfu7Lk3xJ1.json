@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ"
+      },
+      "artists": [
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133359,
+      "name": "Across The Universe",
+      "url": "https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG"
+    },
+    {
+      "album": {
         "name": "adjustment",
         "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
       },
@@ -1456,6 +1474,24 @@
       "duration_ms": 108955,
       "name": "Clean Slate",
       "url": "https://open.spotify.com/track/5urgZcmytFXy08oKO1yR9L"
+    },
+    {
+      "album": {
+        "name": "Cleaning Trees",
+        "url": "https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ"
+      },
+      "artists": [
+        {
+          "name": "Stekt",
+          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146498,
+      "name": "Cleaning Trees",
+      "url": "https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh"
     },
     {
       "album": {

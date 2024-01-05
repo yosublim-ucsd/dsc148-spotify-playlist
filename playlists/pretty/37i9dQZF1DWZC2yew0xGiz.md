@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,817 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,816 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 15 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 16 | [Touch Me Tease Me](https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 3:52 |
 | 17 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 3:24 |
-| 18 | [Indo Smoke](https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK) | [Mista Grimm](https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:22 |
-| 19 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 |
+| 18 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 |
+| 19 | [Indo Smoke](https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK) | [Mista Grimm](https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:22 |
 | 20 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
 | 21 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
 | 22 | [Shame](https://open.spotify.com/track/1apzxNzMksJZtbDBKFIsdx) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [A Low Down Dirty Shame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wsZKe08Etc5Z1vE5fHN9M) | 4:14 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 39 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MCxmNDU0YWYyMjJjMzU3NzU3OWExMDhlMTNjYjdjM2VmZDc5NzAxYmQ1`
+Snapshot ID: `MCw4YzZmN2JlMTkwNDRjNDc0NzQ2YjA3M2QwOTRlMjM4OWZiNmUzZjJi`

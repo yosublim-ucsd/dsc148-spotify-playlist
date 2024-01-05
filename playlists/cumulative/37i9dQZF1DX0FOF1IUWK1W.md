@@ -2,9 +2,9 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Lauana Prado e os maiores hits do país\. O que tá bombando tá aqui.
+> MC PH e os maiores hits do país\. O que tá bombando tá aqui.
 
-326 songs - 16 hr 16 min
+327 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 | 2023-06-01 | 2023-06-30 |
 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 | 2023-06-22 | 2023-08-04 |
 | [Engana Dizendo Que Ama](https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:08 | 2023-06-01 | 2023-06-23 |
-| [Então Vai](https://open.spotify.com/track/5umLuCLbHMc0m1lWNru1UL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Coloca O Capacete](https://open.spotify.com/album/3BzQ4N413txzGk13Wxahsw) | 2:43 | 2023-12-21 |  |
+| [Então Vai](https://open.spotify.com/track/5umLuCLbHMc0m1lWNru1UL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Coloca O Capacete](https://open.spotify.com/album/3BzQ4N413txzGk13Wxahsw) | 2:43 | 2023-12-21 | 2024-01-05 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-17 | 2022-06-10 |
 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:58 | 2023-02-23 |  |
 | [ERRO PLANEJADO \- Ao Vivo](https://open.spotify.com/track/0sjhY8nPIm6cPOQfyUPmJe) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [ERRO PLANEJADO \(Ao Vivo\)](https://open.spotify.com/album/0jetp5tmpbqH3gqlGYJvUL) | 2:34 | 2022-04-21 | 2022-09-30 |
@@ -308,6 +308,7 @@
 | [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 | 2022-05-12 | 2023-02-18 |
 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 | 2022-12-30 | 2023-03-18 |
 | [Toma Toma Vapo Vapo](https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Toma Toma Vapo Vapo](https://open.spotify.com/album/4rRER0lWzXFbuYFvxQBEen) | 2:36 | 2022-01-17 | 2022-05-13 |
+| [Torce o Olho \- Ao Vivo](https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Torce o Olho \(Ao Vivo\)](https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy) | 2:47 | 2024-01-04 |  |
 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 | 2023-02-10 | 2023-11-10 |
 | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS) | [Trava na Pose, Chama no Zoom, Dá um Close \(feat\. Mc Rennan\)](https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ) | 3:34 | 2022-01-17 | 2022-01-21 |
 | [Tu Tava Na Revoada \- Ao Vivo](https://open.spotify.com/track/5etfNcFAD9M8uibXpYMxfQ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tu Tava Na Revoada \(Ao Vivo\)](https://open.spotify.com/album/6KiQVCd1SfxKtrJ4yF9wH4) | 2:36 | 2022-07-14 | 2022-11-25 |

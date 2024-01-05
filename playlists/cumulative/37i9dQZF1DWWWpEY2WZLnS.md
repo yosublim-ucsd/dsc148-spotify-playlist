@@ -2,9 +2,9 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Donaty
+> Los éxitos del Dembow\. Portada: Jey One y Donaty
 
-324 songs - 16 hr 19 min
+325 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Lokisla](https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Lokisla](https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ) | 4:24 | 2023-02-09 | 2023-08-04 |
 | [Lola](https://open.spotify.com/track/5roKfFHOmRVrwgQczq8XKL) | [Aleica](https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE), [Zunna](https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6), [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Lola](https://open.spotify.com/album/6GmeJiUw8He3doBKBXkCRT) | 2:21 | 2023-09-29 |  |
 | [LOS APARATOS](https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [LOS APARATOS](https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi) | 3:52 | 2022-08-08 | 2023-06-29 |
-| [Los Aparatos](https://open.spotify.com/track/4b6KA8SAIvDy9wT12Emzfc) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:52 | 2023-05-26 |  |
+| [Los Aparatos](https://open.spotify.com/track/4b6KA8SAIvDy9wT12Emzfc) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:52 | 2023-05-26 | 2024-01-05 |
 | [Los Bobo Son Mio](https://open.spotify.com/track/0CPwDsfPXKLigbah6wLCs7) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/0XZwEGuc5TfJ7cv0a8yWxm) | 2:11 | 2021-11-19 | 2022-03-18 |
 | [Los Bobo Son Mio](https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF) | 2:11 | 2022-03-18 | 2023-05-27 |
 | [Los Chingones](https://open.spotify.com/track/1vJ1Uh9A7v1OKGi96R0E8b) | [El Mega](https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT), [Dj Kass](https://open.spotify.com/artist/431Pb5EV8KsCBGTw96ZTQ4), [Eleven One](https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR) | [Los Chingones](https://open.spotify.com/album/1pjdpYJl4xIOlBkM3hRV1e) | 3:27 | 2022-04-15 | 2023-05-27 |
@@ -312,6 +312,7 @@
 | [TROLA](https://open.spotify.com/track/0JwgWnxbxmNA13dZaQJeZo) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [TROLA](https://open.spotify.com/album/01VU9xUNvh4ebcqZoKGgpA) | 1:55 | 2023-09-29 | 2023-12-08 |
 | [Tukuntazo](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 | 2021-11-19 | 2023-08-04 |
 | [Tuky Tuky](https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tuky Tuky](https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia) | 2:14 | 2023-09-29 |  |
+| [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 | 2024-01-04 |  |
 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 | 2023-05-26 | 2023-12-14 |
 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 | 2023-02-09 | 2023-08-04 |
 | [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Yo Gotti",
-  "num_followers": 513551,
+  "num_followers": 513641,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODRhZjE0MjIxNGYyMjNlODhjYWJhZWI2MmRhN2NlMzQ2MDUwZTMw",
+  "snapshot_id": "MCw5ZTMzOWU4Njc1ZTk5NWM3MjgzMGY0ODQ5NTUwZjYxOThjMGFhNzZm",
   "tracks": [
     {
       "added_at": "2023-12-01 19:22:27",
@@ -683,30 +683,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Survival Of The Fittest",
-        "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
-      },
-      "artists": [
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "Webbie",
-          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
-        },
-        {
-          "name": "Foxx",
-          "url": "https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",
-      "url": "https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -723,6 +699,22 @@
       "duration_ms": 255413,
       "name": "Shawty (feat. T Pain)",
       "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Half On a Sack",
+      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -767,22 +759,6 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
-        "name": "Most Known Unknown (Explicit)",
-        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Half On a Sack",
-      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
@@ -815,26 +791,6 @@
       "duration_ms": 205120,
       "name": "Knuck If You Buck (feat. Lil' Scrappy)",
       "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
-    },
-    {
-      "added_at": "2023-12-01 19:22:27",
-      "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
     },
     {
       "added_at": "2023-12-01 19:22:27",
@@ -915,6 +871,26 @@
     {
       "added_at": "2023-12-01 19:22:27",
       "album": {
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
         "name": "Crazyndalazdayz",
         "url": "https://open.spotify.com/album/7c2vgd6qltoG2fAGZN2Bpz"
       },
@@ -935,6 +911,26 @@
       "duration_ms": 118933,
       "name": "Slob On My Nob (feat. Project Pat)",
       "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
+    },
+    {
+      "added_at": "2023-12-01 19:22:27",
+      "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
     },
     {
       "added_at": "2023-12-01 19:22:27",

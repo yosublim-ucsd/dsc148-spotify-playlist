@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,018 likes - 186 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,047 likes - 186 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 185 | [Incubations](https://open.spotify.com/track/5SMg4DyfRiY4wflodaMOFH) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Roland Mercier](https://open.spotify.com/album/7FTZ7ArfpJM4DNOkvqPf7q) | 3:09 |
 | 186 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 |
 
-Snapshot ID: `MCw1MDI5MGRiYzI3ZTAwYjI5MTZkZmM4N2VlN2RkZGQxMWNlMjZjZDJm`
+Snapshot ID: `MCwwMDgyMTE4MjJlZDY5MzQ2OGQzNjE3YTFmMWYyY2M0YWU1ODdiMDU4`

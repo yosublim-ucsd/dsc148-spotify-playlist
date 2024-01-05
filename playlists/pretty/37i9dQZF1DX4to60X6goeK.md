@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard into 2024 with the Bou takeover 🔥 \#NYE2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,749 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,802 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 61 | [Sinking VIP](https://open.spotify.com/track/2kHzxgPwktkyKSk2xlGmNX) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Sinking VIP](https://open.spotify.com/album/1DPqM4UsdMwjykm3QWkryy) | 5:45 |
 | 62 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
 
-Snapshot ID: `MCwxYjRlYzZlOTU2Y2FjMjc3OGQ4MzdmNmE2YzI5ZDU3MzE0ZjdmY2I0`
+Snapshot ID: `MCwwYjc4MzUxZTQxM2M3NjAwYWFlYTIyZmExMzJiMzBlMWYyZTIxNjMx`

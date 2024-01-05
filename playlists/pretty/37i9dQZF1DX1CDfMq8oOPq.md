@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Karol Conka, Tasha & Tracie
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,863 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,960 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 42 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
 | 43 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 44 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
-| 45 | [O Meu Brilho](https://open.spotify.com/track/6Q83cKZSTnQuiA9ZAyw9cy) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [O Meu Brilho](https://open.spotify.com/album/5JaPDZ1i5fKNLPBxnMUNwA) | 2:47 |
-| 46 | [Taradona \(feat\. Laura Sette\)](https://open.spotify.com/track/7oncvH2IpI6eFPQ11MVl4c) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc) | [Piquezin do WC](https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV) | 2:14 |
+| 45 | [Taradona \(feat\. Laura Sette\)](https://open.spotify.com/track/7oncvH2IpI6eFPQ11MVl4c) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc) | [Piquezin do WC](https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV) | 2:14 |
+| 46 | [O Meu Brilho](https://open.spotify.com/track/6Q83cKZSTnQuiA9ZAyw9cy) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO) | [O Meu Brilho](https://open.spotify.com/album/5JaPDZ1i5fKNLPBxnMUNwA) | 2:47 |
 | 47 | [Owens](https://open.spotify.com/track/16yrHiZiZPsNlWVAHE94pT) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [BIG CA$H](https://open.spotify.com/album/1XVJWUfSwdUuOicmgjYd1m) | 2:24 |
 | 48 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 49 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw1OWQwYTFkM2M4ZWNhZDkyY2YzNTlkZjAzNmEzMWNiY2FmYzAxNWYx`
+Snapshot ID: `MCw4NDRhMGIyNGY3MmQyMzdlNTYxNzQwNDBkZGJlMWQ3ZTIxNTdhMTg0`

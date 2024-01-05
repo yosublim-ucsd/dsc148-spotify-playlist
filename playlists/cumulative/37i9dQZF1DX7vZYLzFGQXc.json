@@ -935,6 +935,32 @@
     },
     {
       "album": {
+        "name": "All I Want for Christmas 2",
+        "url": "https://open.spotify.com/album/2yR88ptPciW8syYEAGWXFz"
+      },
+      "artists": [
+        {
+          "name": "Rosy Barbie",
+          "url": "https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT"
+        },
+        {
+          "name": "DAMINI",
+          "url": "https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167671,
+      "name": "All I Want for Christmas 2 (feat. DAMINI & SINCE)",
+      "url": "https://open.spotify.com/track/1A5qB3kbOHhL5BiI9EOgkv"
+    },
+    {
+      "album": {
         "name": "All My Friends Kill Me",
         "url": "https://open.spotify.com/album/12oTig0EoVdptk5abXIcJ9"
       },
@@ -2517,6 +2543,28 @@
     },
     {
       "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5Q0hd1CyniwbSz5dPUCpQK"
+      },
+      "artists": [
+        {
+          "name": "Tia",
+          "url": "https://open.spotify.com/artist/5JYckt6cBD2B7EXn6kE4gR"
+        },
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209701,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/1xwe99Xdw6AbNtBLCePb7p"
+    },
+    {
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/1PCcJS4r0vUXuKweBNgbdT"
       },
@@ -3284,6 +3332,28 @@
       "duration_ms": 140250,
       "name": "Chill & Relax",
       "url": "https://open.spotify.com/track/1zN0PGhAKRs3I7ghIVqjuD"
+    },
+    {
+      "album": {
+        "name": "christmas recipe",
+        "url": "https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "16",
+          "url": "https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "christmas recipe (feat. 16)",
+      "url": "https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq"
     },
     {
       "album": {
@@ -8168,7 +8238,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 235499,
       "name": "herb",
       "url": "https://open.spotify.com/track/2EoWwyVrh40Ucl1sMlTEAG"
@@ -8262,7 +8332,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 235681,
       "name": "Hiding In The Rain",
       "url": "https://open.spotify.com/track/1tQV5KDBx5B1lml1VEQJM7"
@@ -10073,6 +10143,24 @@
     },
     {
       "album": {
+        "name": "It Couldn\u2019t Be Better",
+        "url": "https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "It Couldn\u2019t Be Better",
+      "url": "https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI"
+    },
+    {
+      "album": {
         "name": "It Is Love",
         "url": "https://open.spotify.com/album/3q8SOrhoo4oN3DGASRkNYv"
       },
@@ -11728,7 +11816,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 185217,
       "name": "Love visible",
       "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
@@ -13808,7 +13896,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 202400,
       "name": "Not Sleep",
       "url": "https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD"
@@ -16660,7 +16748,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 201125,
       "name": "shootamoviewithu",
       "url": "https://open.spotify.com/track/3sP256v3klKnTETcRXuIwq"
@@ -19360,6 +19448,24 @@
       "duration_ms": 190967,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw"
+    },
+    {
+      "album": {
+        "name": "To my beloved",
+        "url": "https://open.spotify.com/album/78rka42gpnzA9XjfGrbuAT"
+      },
+      "artists": [
+        {
+          "name": "Ricoe",
+          "url": "https://open.spotify.com/artist/3bLLqmYWxBBvvNejd0djsU"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232580,
+      "name": "To my beloved",
+      "url": "https://open.spotify.com/track/1DcQbrxxxSwhD94jBTPVWh"
     },
     {
       "album": {
@@ -22350,7 +22456,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 223285,
       "name": "\ub098\uc05c \uc544\uc774 BAD KID",
       "url": "https://open.spotify.com/track/1yisKydtVcbzmFQyvE7pde"
@@ -23382,6 +23488,28 @@
       "duration_ms": 177500,
       "name": "\ud488",
       "url": "https://open.spotify.com/track/3jylDNmrfXP8pVZmJxcIqt"
+    },
+    {
+      "album": {
+        "name": "\ud574\ubb34 Wave on the sea (feat. \ubc15\ub2e4\uc6b8)",
+        "url": "https://open.spotify.com/album/7ep78d3iBbSYFb9vlvvn7t"
+      },
+      "artists": [
+        {
+          "name": "PITTA",
+          "url": "https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI"
+        },
+        {
+          "name": "\ubc15\ub2e4\uc6b8",
+          "url": "https://open.spotify.com/artist/2nHQE7gMrZ6yyTTPhIsCd4"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262750,
+      "name": "\ud574\ubb34 Wave on the sea (feat. \ubc15\ub2e4\uc6b8)",
+      "url": "https://open.spotify.com/track/5qC95MhoHhn9c879EdjLut"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc"

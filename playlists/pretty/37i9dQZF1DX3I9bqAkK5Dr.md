@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,565 likes - 76 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,579 likes - 76 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 46 | [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 |
 | 47 | [Kshaminchu](https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kshaminchu](https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz) | 2:19 |
 | 48 | [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 |
-| 49 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 |
-| 50 | [Kalavara Paduthunnane](https://open.spotify.com/track/6NeNZwY4LyLfvV3whZgPsT) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Kalavara paduthunnane](https://open.spotify.com/album/0MdXOA8p3Utqvm1GaMo7jb) | 3:32 |
+| 49 | [Karuna](https://open.spotify.com/track/5nzBrLJixlLLmTMFQnYscF) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/1IbXWKQyr5fx7VjTrHZll6) | 3:14 |
+| 50 | [Kalavara Paduthunnane](https://open.spotify.com/track/3ajG59Qf84UkDIzorXicp7) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Kalavara paduthunnane](https://open.spotify.com/album/3kF8q8l1xquaIPoFjB7dLL) | 3:32 |
 | 51 | [Nee Mayalle](https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nee Mayalle](https://open.spotify.com/album/2wqQzZ8OoBGrkO560T65UR) | 4:20 |
 | 52 | [Harini](https://open.spotify.com/track/0Ay0o0e6n75gg7GyvdmnBI) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/3SJtaDClZXTAX3teBnln3M) | 3:56 |
 | 53 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 |
-| 54 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 |
+| 54 | [Kaalam Karigee Vela](https://open.spotify.com/track/4H4xbEw7snbrhkyZx73xPN) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/62nW8JpmhiafjI7PveQ2dp) | 3:05 |
 | 55 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 |
 | 56 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 |
 | 57 | [Chilipi Ga](https://open.spotify.com/track/3O4y18Hpe3xMCrZPXGw57n) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Harshavardhan Reddy](https://open.spotify.com/artist/732gQZFV5HqIwx7LGFnJjQ) | [Nachinavadu](https://open.spotify.com/album/3GHdDuRboogBcfpDCwrtOy) | 3:21 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 75 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 76 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxiNGVmYWRmZjI0ZTI5NDAwY2QxNGQyNGMyNDkzZGMyM2U3OWRkODY5`
+Snapshot ID: `MCxkZmRjMTNlZTA5MmQxMTBjZGMzZWI5NjgwNDMzZTAyYmI2YmUxNTEy`

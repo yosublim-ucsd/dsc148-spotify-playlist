@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12023,
+  "num_followers": 12029,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjZjMDk1YmFjODNhZGZiNTlkNzJmYTJhYmQwNDE2ZDhiN2RjZWJh",
+  "snapshot_id": "MCw2YzUyZDJhYWU0ZjQ2YjY3MDM1M2ZjZjdmMTZmOTM3OTRhNjNhYmJm",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Parce qu'on vient de loin",
-        "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
-      },
-      "artists": [
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        }
-      ],
-      "duration_ms": 232932,
-      "name": "Parce qu'on vient de loin",
-      "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Fly Or Die",
         "url": "https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
-        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
+        "name": "Parce qu'on vient de loin",
+        "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
       "artists": [
         {
-          "name": "Trag\u00e9die",
-          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
         }
       ],
-      "duration_ms": 216493,
-      "name": "Sexy pour moi! - Mix 2",
-      "url": "https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX"
+      "duration_ms": 232932,
+      "name": "Parce qu'on vient de loin",
+      "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1015,6 +999,22 @@
       "duration_ms": 214560,
       "name": "Dragostea Din Tei - Original Romanian Version",
       "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
+        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
+      },
+      "artists": [
+        {
+          "name": "Trag\u00e9die",
+          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "Sexy pour moi! - Mix 2",
+      "url": "https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX"
     },
     {
       "added_at": "2020-10-27 12:12:52",

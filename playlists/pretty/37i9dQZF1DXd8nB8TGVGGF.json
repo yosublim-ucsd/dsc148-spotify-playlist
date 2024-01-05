@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 32674,
+  "num_followers": 32767,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2EyNDdjZDUyMzZmYWI4Y2MxMzE5N2ExOTE4MDk2MTU5YmVjZDlh",
+  "snapshot_id": "MCwyOTMyY2RjYzk2MzdhNmY4ZDAwMDRhNGU4ZjFiYTQ0M2JhYzcxY2E4",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Let's Work Together",
-        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
       },
       "artists": [
         {
-          "name": "Wilbert Harrison",
-          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -599,6 +583,22 @@
       "duration_ms": 164080,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Let's Work Together",
+        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Grits Ain't Groceries",
-        "url": "https://open.spotify.com/album/17RGtwjrKiOPFR02ccaaGG"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 402600,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/0Ni4KPzSzbooiyE2AD4emq"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Official Blues Band Bootleg Album (Remastered)",
         "url": "https://open.spotify.com/album/2VzkgbYZHG3rOTSJQxzlRO"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 234393,
       "name": "Talk To Me Baby - Remastered",
       "url": "https://open.spotify.com/track/3xbfli5MdImWymShGOOMlC"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Grits Ain't Groceries",
+        "url": "https://open.spotify.com/album/17RGtwjrKiOPFR02ccaaGG"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 402600,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/0Ni4KPzSzbooiyE2AD4emq"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Door To Door",
-        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Searchin' For A Woman",
-      "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
+      "duration_ms": 191266,
+      "name": "Like It This Way",
+      "url": "https://open.spotify.com/track/1lq2ADWqMMsEqfLeGAyKCf"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+        "name": "Door To Door",
+        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Like It This Way",
-      "url": "https://open.spotify.com/track/1lq2ADWqMMsEqfLeGAyKCf"
+      "duration_ms": 182493,
+      "name": "Searchin' For A Woman",
+      "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Shiver 'N Shake",
-      "url": "https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Checkin' It Out",
         "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 196666,
       "name": "Don't Stay Out All Night",
       "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Shiver 'N Shake",
+      "url": "https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Hi-Heel Sneakers",
-        "url": "https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe"
-      },
-      "artists": [
-        {
-          "name": "Tommy Tucker",
-          "url": "https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Hard Luck Blues",
-      "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
         "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 257000,
       "name": "Goin' to Chicago",
       "url": "https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Hi-Heel Sneakers",
+        "url": "https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tucker",
+          "url": "https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Hard Luck Blues",
+      "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
     },
     {
       "added_at": "2023-01-27 16:34:16",

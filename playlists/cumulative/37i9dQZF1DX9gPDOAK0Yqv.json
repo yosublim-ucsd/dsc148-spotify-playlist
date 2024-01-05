@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -1025,6 +1025,32 @@
     },
     {
       "album": {
+        "name": "Coming Home (feat. John Martin) [Vintage Culture Remix]",
+        "url": "https://open.spotify.com/album/7HOrMf3DQGW4vlXqCzJFCM"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286904,
+      "name": "Coming Home (feat. John Martin) - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4LnZ6LNxX2HfKetwEEpyU3"
+    },
+    {
+      "album": {
         "name": "Concorde",
         "url": "https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK"
       },
@@ -1302,7 +1328,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
@@ -1603,6 +1629,32 @@
     },
     {
       "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236975,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
+    },
+    {
+      "album": {
         "name": "Dreamcast",
         "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
       },
@@ -1614,7 +1666,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
@@ -1794,6 +1846,28 @@
       "duration_ms": 261290,
       "name": "Electric",
       "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/2idIHWrMg12xpE1w7MmQIl"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        },
+        {
+          "name": "Monophase (IT)",
+          "url": "https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361973,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/69m4eWAyqBzb28krXW0QBK"
     },
     {
       "album": {
@@ -2590,7 +2664,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Gravity - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20"
@@ -3686,7 +3760,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 360242,
       "name": "Landa",
       "url": "https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo"
@@ -3920,7 +3994,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 225134,
       "name": "Listen",
       "url": "https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF"
@@ -4228,7 +4302,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
@@ -5044,7 +5118,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 446280,
       "name": "Oxygen Levels Low",
       "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
@@ -5066,7 +5140,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 272255,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG"
@@ -5124,7 +5198,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
@@ -5182,7 +5256,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
@@ -5798,7 +5872,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 230909,
       "name": "Robotic Arms",
       "url": "https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H"
@@ -6863,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "Termination (Radio-Edit)",
+        "url": "https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247802,
+      "name": "Termination - Radio-Edit",
+      "url": "https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb"
+    },
+    {
+      "album": {
         "name": "Thade",
         "url": "https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT"
       },
@@ -7048,7 +7144,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 371903,
       "name": "The Mirage",
       "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
@@ -7772,6 +7868,36 @@
       "duration_ms": 357514,
       "name": "Under Water",
       "url": "https://open.spotify.com/track/3ZEQt1VMyvTTQgkamnFEgy"
+    },
+    {
+      "album": {
+        "name": "Under Your Spine",
+        "url": "https://open.spotify.com/album/6njDdUYRQNZKArxJiVlr6F"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Khainz",
+          "url": "https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX"
+        },
+        {
+          "name": "HEREON",
+          "url": "https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr"
+        },
+        {
+          "name": "Elodie Gervaise",
+          "url": "https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201657,
+      "name": "Under Your Spine",
+      "url": "https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-318 songs - 23 hr 47 min
+319 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [I Know I Dream](https://open.spotify.com/track/5gxP36qKyLouu3TfhDIIZa) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream: The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ) | 5:38 | 2022-11-15 | 2023-08-11 |
 | [I Loves You, Porgy](https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg) | 6:06 | 2022-02-18 | 2022-07-29 |
 | [I Loves You, Porgy](https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7) | 6:06 | 2022-07-28 | 2023-12-23 |
+| [I Loves You, Porgy](https://open.spotify.com/track/5JuynDUgSFwGcMwI6NLJMj) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/2n0R187nSftqJQX2TinKrb) | 6:06 | 2024-01-05 |  |
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 |  |
 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-06-21 |  |
 | [I Walk A Little Faster](https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS) | [María Esteban Quintet](https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY), [María Esteban](https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [Rai Paz](https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk), [Xavi Castillo](https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp), [Santi Colomer](https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa) | [Voces Veladas, Vol.2\-Un Homenaje a Letristas e Intérpretes de Jazz](https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe) | 5:17 | 2022-08-10 |  |
@@ -252,7 +253,7 @@
 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 | 2021-12-17 | 2023-02-16 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |
 | [Sway](https://open.spotify.com/track/4ubyfFKXBVBFZD145I6XPX) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 6:12 | 2021-12-17 | 2023-08-11 |
-| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 |  |
+| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 | 2024-01-05 |
 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 | 2021-12-17 |  |
 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 | 2021-12-17 | 2022-02-19 |
 | [Tenderly](https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [The Uptown Shuffle](https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A) | 10:18 | 2021-12-17 |  |

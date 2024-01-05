@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Sophie Ellis\-Bextor
 
-752 songs - 1 day 13 hr 57 min
+754 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bad Energy](https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [The Character](https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx) | 2:22 | 2022-07-29 | 2022-10-22 |
 | [Bad For My Health](https://open.spotify.com/track/7m0qnyh7iNzZhVjKIjRrEE) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad for My Health](https://open.spotify.com/album/1MvX6YKRXyhayUOEEqlvyI) | 2:34 | 2022-05-13 | 2022-06-04 |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2023-02-18 |
-| [BAD POSITION](https://open.spotify.com/track/053RPxRYGZXuoPleZEwbfd) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BAD POSITION](https://open.spotify.com/album/0vKib6orNSh7ke5dUK88Aa) | 3:17 | 2023-10-13 |  |
+| [BAD POSITION](https://open.spotify.com/track/053RPxRYGZXuoPleZEwbfd) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BAD POSITION](https://open.spotify.com/album/0vKib6orNSh7ke5dUK88Aa) | 3:17 | 2023-10-13 | 2024-01-05 |
 | [BAD POSITION](https://open.spotify.com/track/13slL7BOVQZY4MVncvQK9Q) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:17 | 2023-10-13 | 2023-10-20 |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-06-04 |
 | [Barbie Doll](https://open.spotify.com/track/5aKlUXjfgFUpJfWNvXH2IW) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Barbie Doll](https://open.spotify.com/album/4PHqoOCjJKy3FuFxskhDAc) | 2:05 | 2023-08-18 | 2023-10-07 |
@@ -319,6 +319,7 @@
 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 | 2022-06-24 | 2022-09-03 |
 | [Honestly](https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Honestly](https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm) | 2:57 | 2023-01-13 | 2023-06-10 |
 | [Honey](https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:26 | 2023-10-13 | 2023-10-21 |
+| [Hooked](https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Hooked](https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8) | 2:26 | 2024-01-05 |  |
 | [Hooked \(Hot Stuff\)](https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Hooked \(Hot Stuff\)](https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq) | 2:51 | 2023-01-20 | 2023-05-20 |
 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 | 2023-08-11 |  |
 | [Hot Crush Lover](https://open.spotify.com/track/0J0ba8kZZw6r4SItlHKGlU) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/3WAh5TuJY4ywrAtbKOupK5) | 3:13 | 2022-04-08 | 2022-05-07 |
@@ -410,7 +411,7 @@
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-10-20 |  |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 | 2022-07-09 |
 | [Light Of My Life](https://open.spotify.com/track/4FXo9YwwZMXyl1lzZUg5js) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Light Of My Life](https://open.spotify.com/album/2IMYa5ygz6GiEoN6nbVkVU) | 3:04 | 2022-06-24 | 2022-07-23 |
-| [Lighter](https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Lighter](https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX) | 2:46 | 2023-10-20 |  |
+| [Lighter](https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Lighter](https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX) | 2:46 | 2023-10-20 | 2024-01-05 |
 | [Lightning](https://open.spotify.com/track/4aguR8nLIlmF6WCOlCArhT) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:57 | 2022-03-18 | 2022-07-30 |
 | [Like A Saviour](https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Like A Saviour](https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb) | 3:40 | 2023-02-03 | 2023-03-11 |
 | [Like Me](https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Like Me](https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU) | 1:58 | 2022-02-15 |  |
@@ -747,6 +748,7 @@
 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 | 2023-04-14 | 2023-08-12 |
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 | 2022-09-24 |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2023-09-01 | 2023-10-07 |
+| [Yes](https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Jaw Drop](https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V) | 2:26 | 2024-01-05 |  |
 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 |  |
 | [You Better Mean It](https://open.spotify.com/track/0bUhuy0kJtK5P9yOqaJIOy) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [You Better Mean It](https://open.spotify.com/album/0vsJlTPrEDe626pmZqVSfq) | 3:20 | 2022-10-28 | 2022-12-24 |
 | [You Don't Really Wanna](https://open.spotify.com/track/0QtR4FagFVAyZaTATVmwE5) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [You Don't Really Wanna](https://open.spotify.com/album/4PjKjGtm0lTEHrbQpRmXER) | 2:07 | 2022-04-15 | 2022-06-25 |

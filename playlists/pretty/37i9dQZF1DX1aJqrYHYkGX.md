@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,446 likes - 82 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,539 likes - 82 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 81 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 82 | [Autumn Moon Lullaby](https://open.spotify.com/track/69lpodHfolka37x6CQpKwC) | [Tri Nguyen](https://open.spotify.com/artist/5svAezhgWghJK0KaFgcf0J) | [Consonnances](https://open.spotify.com/album/0BMAjP8zHnDpxi8xyUkSsZ) | 4:04 |
 
-Snapshot ID: `MCw0YzBmYmUwNWZmZjQxZGQ3ZDhlZjRmMjVjODcwMDIxMzgyNDQ4ZDBj`
+Snapshot ID: `MCw1NGQwNjQ4MWQ4NWNiMjExYmY4ZDM1OWZiODBhNWExNDZlYzhmNTJk`

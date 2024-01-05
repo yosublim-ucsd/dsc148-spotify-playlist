@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 823840,
+  "num_followers": 823903,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg1YTcxNmU0ZmE4ZTJlYWI3YmI2ODgyYzE5ZjRjOTBjMjFiNzVj",
+  "snapshot_id": "MCxiMGFmY2U4MTQ2NDExNTdkYzI0ZDg0MzMzM2NlY2FhZDYxOWVhMmU2",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Amor Falsificado",
-        "url": "https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 206804,
-      "name": "Amor Falsificado",
-      "url": "https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Amor Falsificado",
+        "url": "https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 206804,
+      "name": "Amor Falsificado",
+      "url": "https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -607,30 +607,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7s2MXOVpIWBNcfnHGCDh3v"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Vou Zuar",
-          "url": "https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD"
-        }
-      ],
-      "duration_ms": 415915,
-      "name": "Pot-Pourri: Tempo de Aprender / Energia Surreal / N\u00e3o Pedi Pra Me Apaixonar / Deixa Acontecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/03PztApOdNGJ1Cn9kDKRNr"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Som No Talo",
         "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
       },
@@ -679,6 +655,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Festa das Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
@@ -699,18 +691,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+        "name": "Churrasquinho Menos \u00c9 Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7s2MXOVpIWBNcfnHGCDh3v"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Vou Zuar",
+          "url": "https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD"
         }
       ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
+      "duration_ms": 415915,
+      "name": "Pot-Pourri: Tempo de Aprender / Energia Surreal / N\u00e3o Pedi Pra Me Apaixonar / Deixa Acontecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/03PztApOdNGJ1Cn9kDKRNr"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -771,6 +771,42 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
+        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+      },
+      "artists": [
+        {
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Cilada",
+      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Safad\u00e3o Amplificado",
+        "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 155341,
+      "name": "Ele \u00c9 Ele, Eu Sou Eu",
+      "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Na Press\u00e3o",
         "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
       },
@@ -803,22 +839,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
-        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
-      },
-      "artists": [
-        {
-          "name": "Molejo",
-          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Cilada",
-      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Diferente dos Iguais",
         "url": "https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 153409,
       "name": "Arranh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Safad\u00e3o Amplificado",
-        "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 155341,
-      "name": "Ele \u00c9 Ele, Eu Sou Eu",
-      "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
-      },
-      "artists": [
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        }
-      ],
-      "duration_ms": 342622,
-      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 342622,
+      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Ws Sem Limites (De Luxe)",
-        "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "Passatempo",
-      "url": "https://open.spotify.com/track/3Mb45IlghhbP7WteEQldz0"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Baby Me Atende",
         "url": "https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 225671,
       "name": "Baby Me Atende",
       "url": "https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Ws Sem Limites (De Luxe)",
+        "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "Passatempo",
+      "url": "https://open.spotify.com/track/3Mb45IlghhbP7WteEQldz0"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1791,18 +1791,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) (ao Vivo)",
-        "url": "https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP"
+        "name": "Nunca Vai Ser N\u00f3s",
+        "url": "https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 179099,
-      "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
+      "duration_ms": 172693,
+      "name": "Nunca Vai Ser N\u00f3s",
+      "url": "https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q"
     },
     {
       "added_at": "2023-11-17 03:01:00",

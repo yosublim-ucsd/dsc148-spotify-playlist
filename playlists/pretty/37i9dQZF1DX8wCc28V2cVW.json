@@ -1,12 +1,12 @@
 {
   "description": "Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song. \u6700\u65b0\u4f5c\u300eFFXVI\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 184343,
+  "num_followers": 184392,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMzYTczNGRmNzY3OWRmOGNkOTJkOWIwMGFmYTFhZTBiNWExMTUw",
+  "snapshot_id": "MCwyYTA1ZDI0NzlmM2YxMjY4ZWVkODYzOTJjZjExNDQ2ZGU5ZmI3MGY5",
   "tracks": [
     {
       "added_at": "2023-12-21 17:01:01",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
         }
       ],
-      "duration_ms": 284240,
-      "name": "Besaid",
-      "url": "https://open.spotify.com/track/6Q4nNB7exf30TTt2SdhPAb"
+      "duration_ms": 281266,
+      "name": "Wandering",
+      "url": "https://open.spotify.com/track/4UkgouHQ4ctD2l2nFZuH1N"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
         }
       ],
-      "duration_ms": 281266,
-      "name": "Wandering",
-      "url": "https://open.spotify.com/track/4UkgouHQ4ctD2l2nFZuH1N"
+      "duration_ms": 284240,
+      "name": "Besaid",
+      "url": "https://open.spotify.com/track/6Q4nNB7exf30TTt2SdhPAb"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
+        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
       },
       "artists": [
         {
-          "name": "\u897f\u6728\u5eb7\u667a",
-          "url": "https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt"
+          "name": "SQUARE ENIX MUSIC",
+          "url": "https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi"
         }
       ],
-      "duration_ms": 121933,
-      "name": "FFVII REMAKE: \u30e9\u30a4\u30d6\u30e9\u30ea\u30d5\u30ed\u30a2 (Corporate Archives)",
-      "url": "https://open.spotify.com/track/5cfIk2N6PoGnUhgzgioRNf"
+      "duration_ms": 66133,
+      "name": "\u300cTerra's Theme - arrange -\u300d from FINAL FANTASY VI",
+      "url": "https://open.spotify.com/track/2dqMiJqXTF890G3RtPftjq"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u897f\u6728\u5eb7\u667a",
+          "url": "https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt"
+        }
+      ],
+      "duration_ms": 121933,
+      "name": "FFVII REMAKE: \u30e9\u30a4\u30d6\u30e9\u30ea\u30d5\u30ed\u30a2 (Corporate Archives)",
+      "url": "https://open.spotify.com/track/5cfIk2N6PoGnUhgzgioRNf"
+    },
+    {
+      "added_at": "2023-12-21 17:01:01",
+      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30101/2\u3011)",
         "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 260959,
       "name": "Noel's Theme - Final Journey -",
       "url": "https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM"
-    },
-    {
-      "added_at": "2023-12-21 17:01:01",
-      "album": {
-        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
-        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
-      },
-      "artists": [
-        {
-          "name": "SQUARE ENIX MUSIC",
-          "url": "https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi"
-        }
-      ],
-      "duration_ms": 66133,
-      "name": "\u300cTerra's Theme - arrange -\u300d from FINAL FANTASY VI",
-      "url": "https://open.spotify.com/track/2dqMiJqXTF890G3RtPftjq"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "\u30bc\u30ed",
-        "url": "https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU"
+        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
       },
       "artists": [
         {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+          "name": "\u4e0a\u677e\u7bc4\u5eb7",
+          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
         }
       ],
-      "duration_ms": 415360,
-      "name": "\u30bc\u30ed",
-      "url": "https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ"
+      "duration_ms": 147360,
+      "name": "Peaceful Village",
+      "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
     },
     {
       "added_at": "2023-12-21 17:01:01",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-12-21 17:01:01",
       "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
+        "name": "\u30bc\u30ed",
+        "url": "https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU"
       },
       "artists": [
         {
-          "name": "\u4e0a\u677e\u7bc4\u5eb7",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
         }
       ],
-      "duration_ms": 147360,
-      "name": "Peaceful Village",
-      "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
+      "duration_ms": 415360,
+      "name": "\u30bc\u30ed",
+      "url": "https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ"
     },
     {
       "added_at": "2023-12-21 17:01:01",

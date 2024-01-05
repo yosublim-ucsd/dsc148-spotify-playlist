@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "All You Fly Skinners",
+        "url": "https://open.spotify.com/album/0mRHtTCfcUfgNufupjH7A0"
+      },
+      "artists": [
+        {
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388786,
+      "name": "All You Fly Skinners",
+      "url": "https://open.spotify.com/track/2uDEfIo9QNMusG3BUgJ1jA"
+    },
+    {
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL"
       },
@@ -858,7 +876,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 138853,
       "name": "Are You With Me - Christmas Mix",
       "url": "https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 196636,
       "name": "Christmas Days",
       "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
@@ -11699,6 +11717,28 @@
     },
     {
       "album": {
+        "name": "Overpowered",
+        "url": "https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bubblin' B",
+          "url": "https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Overpowered",
+      "url": "https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt"
+    },
+    {
+      "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/2aBzd1YNkkCrQANSAYFbPa"
       },
@@ -12381,6 +12421,28 @@
     },
     {
       "album": {
+        "name": "Realize (AVAION Remix)",
+        "url": "https://open.spotify.com/album/6c1MJUNdL7oYjL0fNPu7LF"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Realize - AVAION Remix",
+      "url": "https://open.spotify.com/track/7bPIEeCQndO4jNhjfNqxy1"
+    },
+    {
+      "album": {
         "name": "Realize (How Christmas Could Have Been)",
         "url": "https://open.spotify.com/album/5bzMW3HUYaKHFW6jdKKXx3"
       },
@@ -12392,7 +12454,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 170219,
       "name": "Realize - How Christmas Could Have Been",
       "url": "https://open.spotify.com/track/1clHoMvM7JyATDQNoBWJOS"

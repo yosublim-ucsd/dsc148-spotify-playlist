@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-539 songs - 1 day 8 hr 0 min
+540 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2023-10-27 |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
 | [Aproximación](https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Aproximación](https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho) | 3:15 | 2023-08-18 |  |
+| [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 | 2024-01-04 |  |
 | [Ariel](https://open.spotify.com/track/53cZ2u5osTGHMIkDtSx7KV) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Ariel](https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya) | 4:00 | 2023-08-04 | 2023-10-06 |
 | [Ariel](https://open.spotify.com/track/4SFBLZPnrpIJJN5CDuJIKF) | [Tripulación de Osos](https://open.spotify.com/artist/3HpM2k1tJNzverenUeTj0l) | [Ariel](https://open.spotify.com/album/3Gi0izlniY0VMiR5Kybldn) | 3:32 | 2022-07-01 | 2022-07-27 |
 | [Astros](https://open.spotify.com/track/6jt1P2x8sjmh4oqABT6Qni) | [Lenguas Vivas](https://open.spotify.com/artist/5HyHc3I5ZThbCB1BWckosT) | [Astros](https://open.spotify.com/album/1RlCfBba89NET7V2tyvory) | 2:54 | 2022-07-01 | 2022-07-08 |
@@ -321,7 +322,7 @@
 | [Mi Vida Como Vacaciones](https://open.spotify.com/track/5ellJjhwC4gNOYRZGGt8vp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Vintage Futurista](https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq) | 3:47 | 2022-07-15 | 2023-06-10 |
 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 | 2022-07-01 | 2022-08-12 |
 | [Mientras Puedas](https://open.spotify.com/track/0KXSC27yO8M77WxGV4JC8l) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh) | [Mientras Puedas](https://open.spotify.com/album/0R2ApWvhBPLSn7vYOE3Gtf) | 4:11 | 2022-07-01 | 2022-07-24 |
-| [Mil Derrotas](https://open.spotify.com/track/1KWWN0v4gnwkSkLlSIJQze) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 4:07 | 2023-11-10 |  |
+| [Mil Derrotas](https://open.spotify.com/track/1KWWN0v4gnwkSkLlSIJQze) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/4WmNsvvJMQC0Dnhnpu5Zzv) | 4:07 | 2023-11-10 | 2024-01-05 |
 | [Mil Derrotas](https://open.spotify.com/track/2adnmrCoDBRmnKx9RuugN5) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 4:07 | 2022-06-03 | 2022-07-29 |
 | [Mil Veces Maldito](https://open.spotify.com/track/45c5MqhQOlxOs3k9lsNhAL) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Mil Veces Maldito](https://open.spotify.com/album/7M79nU1NV1QDi2XqgIk3LN) | 3:45 | 2022-06-03 | 2022-07-28 |
 | [Millionaire](https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Wandering Rebel](https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4) | 2:52 | 2023-06-02 | 2023-10-06 |

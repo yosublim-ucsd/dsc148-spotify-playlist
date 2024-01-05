@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Djadja & Dinaz
+> Le meilleur du rap français version cloud\. Photo : Khali
 
-324 songs - 16 hr 7 min
+325 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [COMPTER](https://open.spotify.com/track/0U2vjRDorfKwjoTFcr9BBP) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan) | [COMPTER](https://open.spotify.com/album/2ryLFyVpC5O6NPvfJy6P0S) | 3:52 | 2023-03-02 | 2023-05-12 |
 | [COOOOL](https://open.spotify.com/track/4nhqACNPqh3MA6kwZO3BEK) | [Nallas](https://open.spotify.com/artist/5p3YfFowJftLjDnkny1ILZ) | [COOOOL](https://open.spotify.com/album/1qZ5Be3r7fNWH2SWfplHl2) | 3:26 | 2023-06-08 | 2023-07-07 |
 | [COUPÉ](https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [COUPÉ](https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY) | 2:58 | 2022-10-20 | 2022-12-16 |
+| [crescendo](https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr) | [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [crescendo](https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd) | 2:53 | 2024-01-04 |  |
 | [D'une vie à l'autre](https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Dezef](https://open.spotify.com/artist/6MAtTUpkhJRcdgGRQUotX1) | [Associés](https://open.spotify.com/album/7cKu958VBrfEhv5UQLeY0v) | 3:06 | 2023-06-29 | 2023-08-25 |
 | [Dans le sang](https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv) | [CHATNOIR](https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV), [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [Dans le sang](https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU) | 3:43 | 2023-07-06 | 2023-10-06 |
 | [DEHORS ENCORE](https://open.spotify.com/track/40pUBt8WFhqUQKshH3a8zi) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [DEHORS ENCORE](https://open.spotify.com/album/4CeJxEXiwDSwumhsHDeK8O) | 1:58 | 2023-09-07 | 2023-10-13 |
@@ -139,7 +140,7 @@
 | [HUMAIN](https://open.spotify.com/track/79cnH6HnZT0dJ3muUl6VgZ) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7Hb4JKkGuZNwUQJviSMSsN) | 3:16 | 2023-10-05 | 2023-11-10 |
 | [IBIZA](https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn) | [Lapostroz](https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj) | [IBIZA](https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF) | 2:32 | 2023-10-12 |  |
 | [ICE](https://open.spotify.com/track/0OiIPkNx4U8iwGflifS1Hi) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/2Nfsw4UTBPhXl7iPkqQRlJ) | 2:20 | 2023-09-07 | 2023-11-24 |
-| [Ice](https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [3motional b!tch](https://open.spotify.com/album/0NTbynNDrYNbBBvGJSYgHq) | 2:00 | 2023-11-23 |  |
+| [Ice](https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [3motional b!tch](https://open.spotify.com/album/0NTbynNDrYNbBBvGJSYgHq) | 2:00 | 2023-11-23 | 2024-01-05 |
 | [Ice](https://open.spotify.com/track/6voLrF6LT0p8ptDqAjaGKN) | [TRIPLEGO](https://open.spotify.com/artist/6cDxDe1MWGgUcNVVdxhCN2) | [Ice](https://open.spotify.com/album/3944ZTzAv3KanHuif2iIwc) | 3:58 | 2022-07-14 | 2022-08-12 |
 | [Ici\-bas](https://open.spotify.com/track/6AwuAiYCqeSWzbk4Vzcr3J) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc), [FRAMAL](https://open.spotify.com/artist/392Bnlp5PrDQZgtr3OSG9T) | [SZR 2001](https://open.spotify.com/album/0rk3WWubPvymeQeb3R8n7s) | 2:47 | 2022-07-14 | 2022-10-28 |
 | [IDÉALEMENT](https://open.spotify.com/track/5fAfsSObe2skdyhzbX7hjJ) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:01 | 2022-07-14 | 2022-09-23 |

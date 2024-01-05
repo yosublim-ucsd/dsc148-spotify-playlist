@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen",
+  "description": "Les hits dancehall du moment. Photo : Bamby",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -3103,6 +3103,32 @@
     },
     {
       "album": {
+        "name": "James Bond (With Harley)",
+        "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "James Bond (With Harley)",
+      "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
+    },
+    {
+      "album": {
         "name": "James Bond (King Doudou Remix)",
         "url": "https://open.spotify.com/album/1FzOPp8T1jWUNceqSqu6EC"
       },
@@ -3122,7 +3148,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 186448,
       "name": "James Bond - King Doudou Remix",
       "url": "https://open.spotify.com/track/5dVVnvIl96krM2WYcq0FGJ"
@@ -3776,6 +3802,24 @@
       "duration_ms": 186533,
       "name": "Lov'la",
       "url": "https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ"
+    },
+    {
+      "album": {
+        "name": "LumSum",
+        "url": "https://open.spotify.com/album/7iANuyu5V1UXLG7pRyvWdM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146235,
+      "name": "LumSum",
+      "url": "https://open.spotify.com/track/22bgXkhzcJ3gqqhQw838Cx"
     },
     {
       "album": {
@@ -6516,7 +6560,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 161612,
       "name": "Tous Les Ken",
       "url": "https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE"

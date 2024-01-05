@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 358218,
+  "num_followers": 358334,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ4OTNjZDYyMjMzMWJhYWYyYmNmMjk3M2QyZjRlM2U3Mzg5MTE4",
+  "snapshot_id": "MCxkMDY2MDRlNTkwZWYyMGU0YjA4MTQyN2EyOTE3YjczNmUzMGQ5MmU3",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Love, Lies & Therapy",
         "url": "https://open.spotify.com/album/0SbjYvhuq1ItBiZzkrNmYQ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 244040,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/2yhpa4tgc5SeM6ErBm26fK"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE"
-      },
-      "artists": [
-        {
-          "name": "No Resolve",
-          "url": "https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp"
-        }
-      ],
-      "duration_ms": 156340,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Awaken the Fire",
         "url": "https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 241920,
       "name": "Dirty Diana",
       "url": "https://open.spotify.com/track/2fKkgRY3RtqsTg2TB33qeW"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE"
+      },
+      "artists": [
+        {
+          "name": "No Resolve",
+          "url": "https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp"
+        }
+      ],
+      "duration_ms": 156340,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "The Premonition",
-        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
-      },
-      "artists": [
-        {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 248333,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "The Premonition",
+        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
+      },
+      "artists": [
+        {
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
-      },
-      "artists": [
-        {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
-        }
-      ],
-      "duration_ms": 210639,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Rattlesnake!",
         "url": "https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200240,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/34ccBqL3xNaCzPxr0UqoEw"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "duration_ms": 210639,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
     },
     {
       "added_at": "2023-08-23 14:56:37",

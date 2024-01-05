@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Jimin
 
-2,743 songs - 6 day 16 hr 15 min
+2,744 songs - 6 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2312,7 +2312,7 @@
 | [ざわわ](https://open.spotify.com/track/1UPBDO5ZltFzGSD9iKM47x) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [ざわわ](https://open.spotify.com/album/2cRRB7OgLQOBZIJQXfix1w) | 3:16 | 2023-12-10 | 2024-01-01 |
 | [しゅげーハイ!!!](https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [しゅげーハイ!!!](https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5) | 3:24 | 2023-07-09 | 2023-07-17 |
 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 | 2023-10-29 | 2023-11-13 |
-| [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-31 |  |
+| [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-31 | 2024-01-05 |
 | [ずっと](https://open.spotify.com/track/49JLGVj2xrkrJhpLZL24s2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 4:14 | 2023-06-04 | 2023-06-12 |
 | [ただ いま](https://open.spotify.com/track/2vfYo7BN2GvsJh83NpprIx) | [HIROBA](https://open.spotify.com/artist/2U0L6kjA28sfPtOpKtuH3Q), [Ai Hashimoto](https://open.spotify.com/artist/2DZVuKlWpZ0dHBLqqCP2gl) | [HIROBA](https://open.spotify.com/album/5s0belplxdkwtyTQkBoR4t) | 6:29 | 2023-02-19 | 2023-02-27 |
 | [ただそれだけ](https://open.spotify.com/track/36SIW9lTd7Aa4oStAC9y1E) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [恋愛至上主義](https://open.spotify.com/album/3wd2Js2vgvDwTRgDVWtrgr) | 3:12 | 2023-06-18 | 2023-06-26 |
@@ -2521,6 +2521,7 @@
 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-28 | 2023-06-19 |
 | [光を浴びて](https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光を浴びて](https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt) | 3:45 | 2023-10-01 | 2023-10-09 |
 | [光線](https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [光線](https://open.spotify.com/album/05rp9bgAR4fXTNYrhSBvg0) | 3:09 | 2023-08-27 | 2023-09-11 |
+| [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 |  |
 | [前夜](https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [余白にいたら、](https://open.spotify.com/album/7FRSMhZwqwmU1kmmqyljCW) | 2:49 | 2023-03-12 | 2023-03-27 |
 | [勿体無い](https://open.spotify.com/track/3GQJb7NMVZ8yBRpap7N3TJ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [勿体無い](https://open.spotify.com/album/7eBRbpcDWdzLYpCShTY9Xb) | 3:35 | 2023-03-12 | 2023-03-20 |
 | [勿忘草](https://open.spotify.com/track/7y6snjAYUv3hYPTEiAcOp4) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [勿忘草](https://open.spotify.com/album/6Auq1xX3GbhFZ2CXGtyLZ1) | 4:02 | 2023-08-06 | 2023-08-14 |

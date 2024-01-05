@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-256 songs - 15 hr 7 min
+257 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Family Bible](https://open.spotify.com/track/4jIbcHdc0U1hjZohhv8A3z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:48 | 2022-07-22 | 2023-02-25 |
 | [First Time For Everything](https://open.spotify.com/track/1QEVprItEJhN82f6fW97HO) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [First Time For Everything](https://open.spotify.com/album/5yads6bxD4yYPPbTX5561M) | 4:03 | 2023-09-29 |  |
 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 | 2022-04-29 |  |
-| [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 |  |
+| [Friends Again](https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Game Changer](https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9) | 2:35 | 2023-11-17 |  |
+| [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 | 2024-01-05 |
 | [Get Me To The Stage On Time](https://open.spotify.com/track/7ltmPNSZmQmykswz99rK2y) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Get Me To The Stage On Time](https://open.spotify.com/album/5V3Wn9hlMLqhQGkSDRL62T) | 3:21 | 2023-10-27 |  |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-10-15 |  |
 | [Girls Night Out](https://open.spotify.com/track/3EoGwCrxAQ8V0jGgsrHBvq) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:04 | 2023-11-10 |  |

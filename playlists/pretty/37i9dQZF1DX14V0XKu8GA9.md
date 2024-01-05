@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,406 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,499 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 21 | [Gangsta Funktion \- Remix](https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Gangsta Funktion \(Remix\)](https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd) | 2:05 |
 | 22 | [Bag Shit](https://open.spotify.com/track/7lcxEhRo4U7tbpI3H86F4X) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Bag Shit](https://open.spotify.com/album/3xw3koYUfnfJVKECVSsZM4) | 3:31 |
 | 23 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
-| 24 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
-| 25 | [Clean Up Nice](https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 1:48 |
+| 24 | [Clean Up Nice](https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 1:48 |
+| 25 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
 | 26 | [Go Fast](https://open.spotify.com/track/7470xmX5xRYZavxgzRTdGB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hip\-Hop at Fifty: OHGEESY](https://open.spotify.com/album/4TS0EcfW0LJKlhrFQcxgfx) | 2:32 |
 | 27 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
 | 28 | [I want That Too](https://open.spotify.com/track/6niHVmTHxY4G48DagVvttQ) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [I want That Too](https://open.spotify.com/album/3iyuNlRu044W5VDbTcy4xn) | 4:21 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 30 | [Ww3](https://open.spotify.com/track/40fS9HNRLevyJewxseOioF) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:36 |
 | 31 | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Chunks](https://open.spotify.com/artist/43EFGDxwTeEgR2qzw9i8Re) | [John Gotti \(feat\. Chunks\)](https://open.spotify.com/album/4YK1V7pLeQ1Kd28Zkm45Vh) | 3:16 |
 | 32 | [Stop Cry'n](https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Stop Cry'n](https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q) | 2:20 |
-| 33 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
-| 34 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 33 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 34 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 35 | [Antidote](https://open.spotify.com/track/1qPkCtml7Mvu9d95MaKv5k) | [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq), [Lil M3D](https://open.spotify.com/artist/41BOfVP6FBA8WQJhSVAWeS) | [Antidote](https://open.spotify.com/album/0McJojbjClX3WgUrmcxOUe) | 2:40 |
 | 36 | [Too Late](https://open.spotify.com/track/2As5tC03TNPCufeYzEK57H) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 2:17 |
 | 37 | [Back Into It](https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Back Into It](https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX) | 3:18 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 46 | [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 |
 | 47 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 48 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
-| 49 | [Wish You Really Would](https://open.spotify.com/track/3eT8T9tw6FFx0aRSkCqpHA) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Wish You Really Would](https://open.spotify.com/album/6EwcXxrSza1I9VGl0pxGtN) | 2:35 |
-| 50 | [Bienvenidos](https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Bienvenidos](https://open.spotify.com/album/0flYjj312P4iOOuriLc37g) | 2:34 |
+| 49 | [Bienvenidos](https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Bienvenidos](https://open.spotify.com/album/0flYjj312P4iOOuriLc37g) | 2:34 |
+| 50 | [Wish You Really Would](https://open.spotify.com/track/3eT8T9tw6FFx0aRSkCqpHA) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Wish You Really Would](https://open.spotify.com/album/6EwcXxrSza1I9VGl0pxGtN) | 2:35 |
 
-Snapshot ID: `MCxiZWFkMDAxMTVhZDk5NzE3OGY0Zjc1NTViNWQzOWQ3NDQwNjFjYWFj`
+Snapshot ID: `MCxhNmQ2ZjU3NTg5ZWQ5ZmM2YzI0ZTUwZjM5MjVjYjU0NzQzNTQ1ODk4`

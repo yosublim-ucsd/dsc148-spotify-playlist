@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 25658,
+  "num_followers": 25686,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjZhZjViZTJjODEwOGY2NDViNzA0ZTRjNmM3NDViODY4MDE4ZTNk",
+  "snapshot_id": "MCw3YjNhYjYxY2M4OGI3YjM4N2U5NjkzYTRlMzQ3OWM4MWQ0ODc0Mjgx",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Stessa spiaggia stesso mare",
-        "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
-      },
-      "artists": [
-        {
-          "name": "Piero Focaccia",
-          "url": "https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Stessa spiaggia stesso mare",
-      "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Stessa spiaggia stesso mare",
+        "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
+      },
+      "artists": [
+        {
+          "name": "Piero Focaccia",
+          "url": "https://open.spotify.com/artist/0lJodOFdgKJsP8TWJlhVjK"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Stessa spiaggia stesso mare",
+      "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -607,18 +607,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "I Miei Successi",
-        "url": "https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw"
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
       "artists": [
         {
-          "name": "Fred Bongusto",
-          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
         }
       ],
-      "duration_ms": 182415,
-      "name": "Il Mare Quest'Estate",
-      "url": "https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ"
+      "duration_ms": 151720,
+      "name": "Guarda come dondolo",
+      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -639,6 +643,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "I Miei Successi",
+        "url": "https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "duration_ms": 182415,
+      "name": "Il Mare Quest'Estate",
+      "url": "https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 137893,
       "name": "Sei come una lucertola",
       "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Guarda come dondolo",
-      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
     },
     {
       "added_at": "2023-06-05 07:42:38",

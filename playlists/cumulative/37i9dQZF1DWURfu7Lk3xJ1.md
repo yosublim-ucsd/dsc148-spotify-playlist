@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-458 songs - 17 hr 50 min
+460 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Traveler's Tale](https://open.spotify.com/track/6OlwqIETcGv6KgZMCSluiE) | [Slately](https://open.spotify.com/artist/0yzlX4pZCOYJkrfnZX6y7B), [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [A Traveler's Tale](https://open.spotify.com/album/62FZf8ieNKxxwD7tNHPtok) | 2:08 | 2022-09-09 | 2023-08-30 |
 | [A Walk On The Clouds](https://open.spotify.com/track/2TVa4Wq9d1Sd6H3Z08POh1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [marbre](https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7) | [A Walk On The Clouds](https://open.spotify.com/album/7E3zCzTMqoSPdhuZhDWe05) | 2:37 | 2023-01-20 | 2023-08-30 |
 | [Above The Dawn](https://open.spotify.com/track/6rWGV0cd18BTZFulnHaohW) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Above The Dawn](https://open.spotify.com/album/7ysKBjlrsj7ks6jLrp8hL9) | 3:21 | 2022-10-28 | 2022-11-19 |
+| [Across The Universe](https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Across The Universe](https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ) | 2:13 | 2024-01-05 |  |
 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 | 2023-09-08 |  |
 | [Adventures](https://open.spotify.com/track/3ojfcXHfFejB250MRUszjZ) | [VNPR](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV) | [Adventures](https://open.spotify.com/album/52lvTZfvvLUp4aTFuGzxKr) | 2:03 | 2022-09-09 | 2022-10-14 |
 | [after after hours](https://open.spotify.com/track/4dD5fQxc6WalPeAsp6QI9U) | [Dondie](https://open.spotify.com/artist/519dbDArl4MXSfg1TS8DL0) | [after after hours](https://open.spotify.com/album/535u5q9sbWr0JMDezlDG2n) | 2:09 | 2022-09-09 | 2022-10-29 |
@@ -81,6 +82,7 @@
 | [Chill Turtle](https://open.spotify.com/track/2bp49pgYTYELlhNFxAqZcP) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Chill Turtle](https://open.spotify.com/album/7DwfLnlVYblzdwcNEH0xL2) | 2:36 | 2022-09-09 | 2022-09-30 |
 | [Chpn Was Here](https://open.spotify.com/track/5d9rhmfOxV9OynydiHFqXh) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Over and Through The Blue](https://open.spotify.com/album/2bFx3MelG038G7lM2g98kW) | 2:21 | 2022-09-09 | 2022-09-30 |
 | [Clean Slate](https://open.spotify.com/track/5urgZcmytFXy08oKO1yR9L) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Clean Slate](https://open.spotify.com/album/1bpgevCYR7SlrW6xx68r4v) | 1:48 | 2022-09-09 | 2022-12-09 |
+| [Cleaning Trees](https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Cleaning Trees](https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ) | 2:26 | 2024-01-05 |  |
 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 | 2022-09-09 | 2023-08-30 |
 | [Clear sky](https://open.spotify.com/track/29JeO29PvNVtPSJY9T74N1) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Steps](https://open.spotify.com/album/6PJkn9eU7pm1gvJp55bj8A) | 2:01 | 2022-09-09 |  |
 | [Cloud Escape](https://open.spotify.com/track/0D4nqKYXBzybzSeiAeZbMv) | [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Cloud Escape](https://open.spotify.com/album/6KzJfYsvotNT8LFkRasDYw) | 2:29 | 2022-11-11 | 2022-11-19 |

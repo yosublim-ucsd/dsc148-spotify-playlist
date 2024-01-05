@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Roseline Layo
+> African dance party music from Paris to Abidjan\. Photo : DJ KEROZEN
 
-166 songs - 9 hr 38 min
+167 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Allumez](https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Allumez](https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN) | 4:55 | 2023-07-06 | 2023-12-15 |
 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 | 2023-01-12 |  |
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 | 2023-09-29 |
+| [Arc de triomphe](https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [PUISSANCE 10](https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg) | 3:25 | 2024-01-04 |  |
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
@@ -98,7 +99,7 @@
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |
 | [Kulumba](https://open.spotify.com/track/2uOe8oN4r5gcNp7mQ75JHH) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Kulumba](https://open.spotify.com/album/1haafvY6Ua0ukUI5RFUw1s) | 3:27 | 2022-01-21 | 2022-08-26 |
 | [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 |  |
-| [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 |  |
+| [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 | 2024-01-05 |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
 | [La danse du margouillat](https://open.spotify.com/track/682HQjRRQTRDAeXenihal6) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [La danse du margouillat](https://open.spotify.com/album/009GqMufyiPuZwwSzYiWA3) | 3:33 | 2023-11-30 |  |

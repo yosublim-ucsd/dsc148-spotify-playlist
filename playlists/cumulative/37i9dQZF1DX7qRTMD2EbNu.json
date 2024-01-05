@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ?si=RutQE7cQQKqMjXVs9PD_YA\"> Joey B</a>  ",
+  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM?si=e_R9TELjSLSY-IeNENn_Dw\"> O'Kenneth</a>  ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 171267,
       "name": "11 Six",
       "url": "https://open.spotify.com/track/4hxU3WcVzv5uiUt0r9TXeg"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 195170,
       "name": "Abele",
       "url": "https://open.spotify.com/track/3eZCsT8Wj5oSFSOJ4HUBvz"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 106478,
       "name": "ACID GUNZX",
       "url": "https://open.spotify.com/track/7y5SctTQOey8IjkAlN5ATr"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 182621,
       "name": "ACTIVE",
       "url": "https://open.spotify.com/track/4P0NCS7lV5u4fOvIuXxVI0"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 171423,
       "name": "Akata Krakye",
       "url": "https://open.spotify.com/track/23S5BZg2WkhxBc08XNVb1u"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 188576,
       "name": "BarCode 9",
       "url": "https://open.spotify.com/track/1nL0u9ct9D4C8YhmyV4g5W"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 167205,
       "name": "Benzo",
       "url": "https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 174618,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/69ejQMP0zgomw1bolTsdrJ"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 154000,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/7iZOXGM1m8KuUsGwmuVXGa"
@@ -2485,6 +2485,28 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "album": {
         "name": "FEATURES",
         "url": "https://open.spotify.com/album/3Ns2QcqBKv6IbenFmPP0Bi"
       },
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 131908,
       "name": "FEATURES",
       "url": "https://open.spotify.com/track/20KFpjdNFUpEMHmnMgLbjs"
@@ -2606,7 +2628,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 161666,
       "name": "Fine",
       "url": "https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9"
@@ -2624,7 +2646,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 118531,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/0tVYiZ24VNX1qkneRl9R5C"
@@ -2766,7 +2788,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 173245,
       "name": "Focus On Me",
       "url": "https://open.spotify.com/track/3gQxTu5e5K9btGajeTy5iv"
@@ -2904,7 +2926,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 195606,
       "name": "Friday Special",
       "url": "https://open.spotify.com/track/5zrtzQYr8fuobaY09lij70"
@@ -3432,7 +3454,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 191900,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/1G1hUcZlML9GoHubfVFdiW"
@@ -3761,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "KABUTEY FLOW",
+        "url": "https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137183,
+      "name": "KABUTEY FLOW",
+      "url": "https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY"
+    },
+    {
+      "album": {
         "name": "Kai Me",
         "url": "https://open.spotify.com/album/2ATGjmkksfDn9WY1VJ9MX5"
       },
@@ -3772,7 +3812,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 148116,
       "name": "Kai Me",
       "url": "https://open.spotify.com/track/0rJa955M9QtlA6tNOSBDzy"
@@ -3986,7 +4026,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 205083,
       "name": "Kusuu",
       "url": "https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf"
@@ -4004,7 +4044,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 206051,
       "name": "Kwaku Ananse",
       "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
@@ -4356,7 +4396,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 249213,
       "name": "LONELY (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
@@ -4608,7 +4648,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 194935,
       "name": "Mass Murder",
       "url": "https://open.spotify.com/track/2G4nKBQR7c8Ci301HH2dO1"
@@ -4644,7 +4684,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 164133,
       "name": "Mbesiafo (Women)",
       "url": "https://open.spotify.com/track/76hd0dnQvZuXfvoDLnzOGD"
@@ -4844,7 +4884,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 160888,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/68kLBc1qUai4uAkO6tbKkW"
@@ -4986,7 +5026,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 147200,
       "name": "Ninja Gaiden Flow",
       "url": "https://open.spotify.com/track/2vsWbKaOyWEU8Fc0gIbq3n"
@@ -5914,7 +5954,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 209673,
       "name": "Power",
       "url": "https://open.spotify.com/track/6E6SVPcYjEZ9OIpJta0TAn"
@@ -6301,6 +6341,36 @@
     },
     {
       "album": {
+        "name": "Sa Me",
+        "url": "https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Sa Me",
+      "url": "https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR"
+    },
+    {
+      "album": {
         "name": "Since I Was 8",
         "url": "https://open.spotify.com/album/0jBzSMFX5qtr1V1UJobi0c"
       },
@@ -6338,7 +6408,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 140632,
       "name": "Sake Of Money Pt 2",
       "url": "https://open.spotify.com/track/59QZ7yUyXrENUrjaOwUkvp"
@@ -6528,7 +6598,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 198243,
       "name": "Sika Aba Fie",
       "url": "https://open.spotify.com/track/49funs5AE0mA3ojLUm6OhG"
@@ -6806,7 +6876,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 229541,
       "name": "Space Roof",
       "url": "https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X"
@@ -6902,7 +6972,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 133714,
       "name": "Steady Raging",
       "url": "https://open.spotify.com/track/3PAY5N7jcGGfgtZY6RrBfc"
@@ -7002,7 +7072,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 299369,
       "name": "Suffer II",
       "url": "https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV"
@@ -7148,7 +7218,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 158093,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1mobKOhEY1vmPH7LW6BnPm"
@@ -7738,7 +7808,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 243134,
       "name": "WEST AFRICA TIME",
       "url": "https://open.spotify.com/track/2sj4rMabpUWzy6xATdkM0u"
@@ -7874,7 +7944,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 161250,
       "name": "Worldwide Runners",
       "url": "https://open.spotify.com/track/6nefJxjy3rglXZXYjYrmas"
@@ -7912,10 +7982,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 230000,
       "name": "Wossop",
       "url": "https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL"
+    },
+    {
+      "album": {
+        "name": "EZIOKWU (UNCUT)",
+        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
       "album": {

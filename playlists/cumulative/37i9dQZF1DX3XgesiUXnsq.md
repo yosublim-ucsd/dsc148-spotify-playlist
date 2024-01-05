@@ -2,7 +2,7 @@
 
 ### [Raw & Uncut](https://open.spotify.com/playlist/37i9dQZF1DX3XgesiUXnsq)
 
-> Damn son, where'd ya find this? Cover: 50 Cent
+> Damn son, where'd ya find this? Cover: The Game, Big Hit
 
 598 songs - 1 day 9 hr 23 min
 

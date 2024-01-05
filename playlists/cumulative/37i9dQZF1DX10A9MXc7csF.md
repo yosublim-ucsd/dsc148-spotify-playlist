@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: ERRE & Dariell Cano
 
-643 songs - 1 day 9 hr 18 min
+644 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 | 2022-06-03 | 2022-09-09 |
 | [AJUA](https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [AJUA](https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27) | 2:29 | 2023-02-24 | 2023-05-27 |
 | [Al Mirar Su Rostro](https://open.spotify.com/track/3cJFPzd2Crf1LKNL60Ms2C) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Estoy Ilusionado](https://open.spotify.com/album/3rtTwDzziHswWKw0ozgEY7) | 2:27 | 2023-05-26 | 2023-06-24 |
+| [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 | 2024-01-04 |  |
 | [Algo Bien](https://open.spotify.com/track/315eNKS2P0FPjd4TlmnoFO) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Algo Bien](https://open.spotify.com/album/1wHn57myq1O3YA2X5E4xnN) | 3:30 | 2022-08-12 | 2022-09-09 |
 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 | 2022-05-14 | 2022-09-09 |
 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 | 2023-11-24 |  |
@@ -57,7 +58,7 @@
 | [ANTISOCIAL](https://open.spotify.com/track/6wQicwzQVpPM3RZgaWHb2i) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [ANTISOCIAL](https://open.spotify.com/album/1eJvDMeFVkSWdg0iZCsmGI) | 3:12 | 2023-04-21 | 2023-08-23 |
 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 | 2022-06-03 | 2022-09-09 |
 | [Aquí Andamos](https://open.spotify.com/track/0HbCHoZoSADtxnpyRJ7KiA) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Aquí Andamos](https://open.spotify.com/album/1OATR6NJtd5JsJm94eFH0M) | 1:38 | 2023-12-15 |  |
-| [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 | 2023-11-10 |  |
+| [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 | 2023-11-10 | 2024-01-05 |
 | [Aquí No Se Espanten](https://open.spotify.com/track/68aNWmJxy1nlAhxclCg53F) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Thomas Perez](https://open.spotify.com/artist/2EdC50BoBfEMqEFUncN9F4) | [Aquí No Se Espanten](https://open.spotify.com/album/6BczdtPtn0MIwchBO5Zttb) | 3:48 | 2023-05-26 | 2023-07-23 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 | 2023-11-11 |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-05-14 | 2022-08-27 |

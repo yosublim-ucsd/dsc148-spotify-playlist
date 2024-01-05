@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
 
-186 songs - 18 hr 49 min
+187 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2018-09-24 |  |
 | [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 | 2023-05-06 |
 | [Silapha](https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c) | [Zodwa Twecu](https://open.spotify.com/artist/1iFGoRhMvpam8PfZ00epet) | [Andijiki](https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF) | 5:49 | 2023-05-05 | 2023-06-09 |
+| [Simbona Ngothando Lwakhe \- Medley 5](https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Simbona Ngothando Lwakhe \(Medley 5\)](https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji) | 5:42 | 2024-01-05 |  |
 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 | 2022-09-22 |  |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-16 | 2023-07-07 |
 | [Surely Goodness](https://open.spotify.com/track/6EuTx7OqOebUZcEGZfE1d7) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Surely Goodness](https://open.spotify.com/album/2YThyI33V5DNVVYLOSQQqA) | 7:28 | 2022-04-14 | 2023-06-16 |

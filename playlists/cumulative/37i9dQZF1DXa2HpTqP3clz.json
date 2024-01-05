@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Bad For You",
+        "url": "https://open.spotify.com/album/4Ciw110gdWtwcleY7KQMRI"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185022,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/56QIi1ES8speRvNHIHaHHl"
+    },
+    {
+      "album": {
         "name": "I Could Get Used to This",
         "url": "https://open.spotify.com/album/6BZugxwnCajSLG9uPbIwjW"
       },
@@ -4942,7 +4960,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 143929,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/6Ve06auIooixlCcp145XKp"

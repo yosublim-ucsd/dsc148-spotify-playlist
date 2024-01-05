@@ -2,7 +2,7 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: Shay x Niska
+> Photo: Jul
 
 66 songs - 3 hr 18 min
 

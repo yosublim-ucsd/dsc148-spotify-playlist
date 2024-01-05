@@ -3735,6 +3735,28 @@
     },
     {
       "album": {
+        "name": "Bucket of F's",
+        "url": "https://open.spotify.com/album/6AmXGSTkNnKoBBblTQyd0t"
+      },
+      "artists": [
+        {
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290725,
+      "name": "Bucket of F's",
+      "url": "https://open.spotify.com/track/5yBdcdmA0RuzMC4uu2a8Xt"
+    },
+    {
+      "album": {
         "name": "Bummel",
         "url": "https://open.spotify.com/album/7ELOiPFO3wzxm7B82XnvSG"
       },
@@ -3768,6 +3790,24 @@
       "duration_ms": 439188,
       "name": "Burden",
       "url": "https://open.spotify.com/track/5xB8B2YnZE6VxIxYsKP1JI"
+    },
+    {
+      "album": {
+        "name": "Butane Dream",
+        "url": "https://open.spotify.com/album/4j4cj0hU0m4xXMnWmyEiP1"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167146,
+      "name": "Butane Dream",
+      "url": "https://open.spotify.com/track/3otrs2M0c4B8jk1nofRfkR"
     },
     {
       "album": {
@@ -4758,7 +4798,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 227613,
       "name": "Cosmic Changes",
       "url": "https://open.spotify.com/track/6dD48wXYlHT5sX11wHr4eO"
@@ -6466,7 +6506,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 168000,
       "name": "Dynamics",
       "url": "https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug"
@@ -11240,7 +11280,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 159820,
       "name": "JERICHO",
       "url": "https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV"
@@ -11840,7 +11880,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 381525,
       "name": "Lady Tambourine",
       "url": "https://open.spotify.com/track/14rGX5Y9cBz9W63q49Qf9T"
@@ -12156,7 +12196,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 434896,
       "name": "Libera Me",
       "url": "https://open.spotify.com/track/0sPKdhJuJke18NRP4rlFbE"
@@ -12894,7 +12934,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 358200,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/2K59Q3yLuv3XspKIMMXMFc"
@@ -15437,6 +15477,28 @@
     },
     {
       "album": {
+        "name": "O.D.",
+        "url": "https://open.spotify.com/album/2bfTuPw8Po9DK2khRZvvPX"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "Zaire Darden",
+          "url": "https://open.spotify.com/artist/7pmxvCvhXe9kSw3upjDZqn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618441,
+      "name": "O.D.",
+      "url": "https://open.spotify.com/track/2vUZLxMxd99KvyGkFQIRbQ"
+    },
+    {
+      "album": {
         "name": "Oahoo",
         "url": "https://open.spotify.com/album/7MIDBznMAeL0vvk00Jhrem"
       },
@@ -16570,6 +16632,24 @@
       "duration_ms": 88016,
       "name": "Peace Please",
       "url": "https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC"
+    },
+    {
+      "album": {
+        "name": "Pebble Dance",
+        "url": "https://open.spotify.com/album/6LHnBhoFxIQcAwcMrqCfaI"
+      },
+      "artists": [
+        {
+          "name": "John Surman",
+          "url": "https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378746,
+      "name": "Pebble Dance",
+      "url": "https://open.spotify.com/track/5QkUBSQaFMH6BmmvojOBTQ"
     },
     {
       "album": {
@@ -19886,6 +19966,28 @@
       "duration_ms": 182361,
       "name": "Sombra Bajo El Limero",
       "url": "https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao"
+    },
+    {
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/7FdbMdngKRwDKTQBcvDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Joey Calveiro",
+          "url": "https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Sombras",
+      "url": "https://open.spotify.com/track/0grgt5IGw4oSRBKkpvoBwH"
     },
     {
       "album": {
@@ -26626,6 +26728,24 @@
       "duration_ms": 250000,
       "name": "\u8a69\u7684\u306a\u30e0\u30fc\u30f3\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/5euhfTFoPaetjdsaownelz"
+    },
+    {
+      "album": {
+        "name": "\u98db\u3070\u3057\u305f\u3063\u3057\u3087",
+        "url": "https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u98db\u3070\u3057\u305f\u3063\u3057\u3087",
+      "url": "https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s"

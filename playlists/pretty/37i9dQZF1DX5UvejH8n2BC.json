@@ -1,12 +1,12 @@
 {
   "description": "Female artists of Philadelphia International Records which is especially known for Philly Soul. Cover: The Jones Girls:\n",
-  "num_followers": 37697,
+  "num_followers": 37757,
   "original_name": "Women of Philly Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmZmNGFjMmIwYmQ2OGY5MTQwY2FlYzc2OTcxMWQ1MDQ3OWNmOGRk",
+  "snapshot_id": "MCw4ZGQ2NGVkYWJmMzhmMjJiYjNjNTg4MDI3NDAxYmYwMThhZjI1NWUw",
   "tracks": [
     {
       "added_at": "2022-03-03 11:43:39",
@@ -439,8 +439,8 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 263920,
-      "name": "No One Can Love You More",
-      "url": "https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2"
+      "duration_ms": 242733,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -519,8 +519,8 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 242733,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
+      "duration_ms": 263920,
+      "name": "No One Can Love You More",
+      "url": "https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2"
     }
   ],
   "unique_name": "Women of Philly Soul",

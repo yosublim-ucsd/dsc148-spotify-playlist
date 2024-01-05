@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-463 songs - 1 day 3 hr 44 min
+466 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 | 2023-10-13 |
 | [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-12 |  |
+| [All That's Left Is A Song](https://open.spotify.com/track/5TDRgPEY4sMWQsMuR6Yj6K) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [All That's Left Is A Song](https://open.spotify.com/album/2FBgIfyayKTGoQijjiKW0N) | 2:45 | 2024-01-05 |  |
 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 | 2022-05-17 | 2023-03-31 |
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-05-31 | 2022-09-07 |
 | [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 |  |
@@ -122,7 +123,7 @@
 | [Fines Doubled](https://open.spotify.com/track/3QUbBo74iaNkC0eqLzVqiA) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 2:24 | 2022-05-17 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-10 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
-| [Fleeting Paradise](https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Fleeting Paradise](https://open.spotify.com/album/4KnT3EREBlineOIem4782z) | 3:13 | 2023-01-19 |  |
+| [Fleeting Paradise](https://open.spotify.com/track/2ZmHciaD6uCP3AAqZtzgvF) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Fleeting Paradise](https://open.spotify.com/album/4KnT3EREBlineOIem4782z) | 3:13 | 2023-01-19 | 2024-01-05 |
 | [Flights](https://open.spotify.com/track/6EIBuuTj0F4Jta3PRxW5iT) | [The Vanguard Trio](https://open.spotify.com/artist/7fzpXWzhf95kuCoXrJuhoy) | [Flights](https://open.spotify.com/album/256ODCiMAugaR3gDisuCCW) | 3:33 | 2023-12-08 |  |
 | [Flying Over](https://open.spotify.com/track/6AbMGa9QQdqIKfcmSJhhTx) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Flying Over](https://open.spotify.com/album/27xdgaWX1Hs9bJlZawlXZw) | 2:58 | 2023-09-22 |  |
 | [Food is the dream](https://open.spotify.com/track/0w0fqaQcl9OFquSsm7Gjqm) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Food is the dream](https://open.spotify.com/album/5yzCocNQq9wnxBlQ6YFcOq) | 2:21 | 2023-08-10 |  |
@@ -384,13 +385,14 @@
 | [The Foolish Heart](https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [The Foolish Heart](https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt) | 3:03 | 2023-12-08 |  |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 | 2023-11-18 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-05-17 |  |
+| [The Light Over Chesapeake Bay](https://open.spotify.com/track/5ZU9TV5L4zo40G6VdXbLOQ) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Light Over Chesapeake Bay](https://open.spotify.com/album/0MBfcISYuV95heHB1Jkcgw) | 3:26 | 2024-01-05 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-05-17 | 2023-05-26 |
 | [The More I See You](https://open.spotify.com/track/4pBClgKkrfAOJuvIn59nlL) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [The More I See You](https://open.spotify.com/album/7G3KKQGJOvw0SyJu4cIQ0Y) | 4:01 | 2022-08-29 |  |
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2022-05-17 |  |
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |
 | [The Night We Called It A Day](https://open.spotify.com/track/6ltEJhAuJ2ofBl63qbHVN0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Night We Called It A Day](https://open.spotify.com/album/6l6Z60Wy6MTZtbrBrJT5Cw) | 3:32 | 2022-10-06 | 2023-06-16 |
 | [The Only One Was Me](https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [The Only One Was Me](https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W) | 4:17 | 2023-08-10 |  |
-| [The Party's Over](https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [The Party's Over](https://open.spotify.com/album/5uMRjgzJg7elvCKNdjsm3n) | 2:50 | 2023-02-23 |  |
+| [The Party's Over](https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [The Party's Over](https://open.spotify.com/album/5uMRjgzJg7elvCKNdjsm3n) | 2:50 | 2023-02-23 | 2024-01-05 |
 | [The surf shirt](https://open.spotify.com/track/4J2kmDH5fJLInAO34TQq93) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The surf shirt](https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r) | 3:04 | 2023-09-29 |  |
 | [The Touch of Your Lips](https://open.spotify.com/track/0jXJ9u642pUSnPNchzYadK) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Under A Bridge and Dreaming](https://open.spotify.com/album/0ak7vmwVnS5VKDUqLYtUWB) | 2:36 | 2022-10-27 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
@@ -433,6 +435,7 @@
 | [Went Another Way](https://open.spotify.com/track/6ytZNOW8k2wQ8kdFLZPzsC) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Went Another Way](https://open.spotify.com/album/7dEl9BJgn3IJ5TSfwuxA0l) | 2:43 | 2023-03-30 |  |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 |  |
 | [What A Lovely Day](https://open.spotify.com/track/3D1jCXLmt2EMpNUjYS3pl8) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [What A Lovely Day](https://open.spotify.com/album/4TGAXUUwK6xyVqLjVl7oTG) | 3:12 | 2023-08-10 |  |
+| [What about us?](https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [What about us?](https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ) | 2:49 | 2024-01-05 |  |
 | [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-10 |  |
 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 | 2023-08-10 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2022-05-17 |  |

@@ -708,6 +708,32 @@
     {
       "album": {
         "name": "Back Around",
+        "url": "https://open.spotify.com/album/3Fv8MqBRe02B5SYssYucaL"
+      },
+      "artists": [
+        {
+          "name": "AZ tronaut",
+          "url": "https://open.spotify.com/artist/5O7NMHlC7wQqJHcvU5tznT"
+        },
+        {
+          "name": "Madshifta",
+          "url": "https://open.spotify.com/artist/29joYwMagQUJ4UmKaeqca9"
+        },
+        {
+          "name": "Dirty Workz",
+          "url": "https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "Back Around",
+      "url": "https://open.spotify.com/track/2bQRk8KtUSsR87dV1DqGRu"
+    },
+    {
+      "album": {
+        "name": "Back Around",
         "url": "https://open.spotify.com/album/25jiNkt38alvh8N5bcOgIq"
       },
       "artists": [
@@ -1228,6 +1254,32 @@
       "duration_ms": 167687,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5Oz55aVuZ3KbKMeHOhePdx"
+    },
+    {
+      "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/7jrYuLDEAuEE7unJhAlXta"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Bounce Inc.",
+          "url": "https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189926,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/5oAyw9c4VvHaEdiAfLQobC"
     },
     {
       "album": {
@@ -5814,7 +5866,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 204387,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
@@ -9792,7 +9844,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 180480,
       "name": "Pistols",
       "url": "https://open.spotify.com/track/7pzEtKjXo6OAGFTEcIfQPq"

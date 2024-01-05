@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,241 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,321 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 16 | [Zero Chances \- Ao Vivo](https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Zero Chances \(Ao Vivo\)](https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9) | 3:38 |
 | 17 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 | 18 | [BENÇA](https://open.spotify.com/track/3GFF2ybvzJWteFci21mC1W) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:44 |
-| 19 | [CORRA](https://open.spotify.com/track/660jt1ifpZZJK6j4g9GX0Q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
-| 20 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/0KVsFLoEwauzCM6A7jxXPp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:57 |
+| 19 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/0KVsFLoEwauzCM6A7jxXPp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:57 |
+| 20 | [CORRA](https://open.spotify.com/track/660jt1ifpZZJK6j4g9GX0Q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
 | 21 | [valeu a batalha](https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:17 |
 | 22 | [Não Me Liga Mais](https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:36 |
 | 23 | [Sintoniza](https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Nós](https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:13 |
 | 50 | [LADRÃO](https://open.spotify.com/track/1SoVbAACWECOhsVZY4M1Jb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:22 |
 
-Snapshot ID: `Mjg0MDQ3NDAsMDAwMDAwMDBiMjUxOWNkYTMxYjA5Mzc0MGUxZmNmZjE2ZDM4YmE0Mw==`
+Snapshot ID: `Mjg0MDYxODMsMDAwMDAwMDA1ZTRjYmQwMWM2NzM3YmUzNjRmOGRlZWNhYzg0NmJmNg==`

@@ -4181,6 +4181,28 @@
     },
     {
       "album": {
+        "name": "GANTZ",
+        "url": "https://open.spotify.com/album/3s5lXRGczkXMJf7yluVank"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        },
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210369,
+      "name": "GANTZ",
+      "url": "https://open.spotify.com/track/3GmvmgJMpwEQk2xjHLgKJV"
+    },
+    {
+      "album": {
         "name": "GANTZ (feat. EK)",
         "url": "https://open.spotify.com/album/3LiojQxWIZGce2OhlDp91a"
       },
@@ -4196,7 +4218,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 210369,
       "name": "GANTZ (feat. EK)",
       "url": "https://open.spotify.com/track/2NEYKsbrZn7K2eTsdyFU9L"

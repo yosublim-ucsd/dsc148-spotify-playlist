@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: ZZ Ward",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Danielle Nicole",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "album": {
         "name": "Lover's Game",
         "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
       },
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 227937,
       "name": "Make Love",
       "url": "https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp"

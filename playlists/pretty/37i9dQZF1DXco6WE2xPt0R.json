@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 109561,
+  "num_followers": 109655,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDBiZDk1Yjc1MTc0MjQzMzlmNGI1YjE0ZDAyMWJmODE4NzI2MWM1",
+  "snapshot_id": "MCw5ZjU1YjFkNWQ4OTdlNjA5Njc2M2I0ZjI2OTg0ZTYzOWI5MDgzOWQ2",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "N\u00fc Moon",
         "url": "https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 185983,
       "name": "Blu Moon",
       "url": "https://open.spotify.com/track/3FajiZIT42FPDBs2xhwhql"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 229879,
-      "name": "Summer in November",
-      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Thought U Knew",
         "url": "https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 222588,
       "name": "Right Back In It",
       "url": "https://open.spotify.com/track/03y3sE8OXK9PecrdjnX6dB"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Summer in November",
+      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/3ynGv03Sdz2FIWxsLPhVJ3"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/7DPXIv3DSRxRB7N75HMrH8"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Right Time (feat. Reggie Becton)",
-        "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
-      },
-      "artists": [
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Right Time (feat. Reggie Becton)",
+        "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "GODDESS REIGN",
         "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
     },
     {
       "added_at": "2023-11-10 03:01:00",

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Prisoners (Live)",
+        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Anything I Say to You Now (Live)",
+      "url": "https://open.spotify.com/track/55UIfce4XNbIQzsRUCD17N"
+    },
+    {
+      "album": {
         "name": "Ashes & Fire",
         "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 239103,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/58D6qBdHSRzRklrlyH81H8"
@@ -329,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182524,
+      "name": "Be Wrong",
+      "url": "https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6"
+    },
+    {
+      "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4"
       },
@@ -392,9 +428,27 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "date_added": "2024-01-03",
+      "date_added": "2024-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Blizzard in the Room",
+      "url": "https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ"
+    },
+    {
+      "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
       "duration_ms": 179026,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/6QdnBJU53sUlhFX4SjaD7I"
@@ -664,7 +718,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 221812,
       "name": "Dirty Rain - Live at Carnegie Hall, May 14. 2022",
       "url": "https://open.spotify.com/track/5U9Ad4qSnKkgoRbPZoAzjZ"
@@ -862,7 +916,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
@@ -1384,7 +1438,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 234426,
       "name": "I See Monsters",
       "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
@@ -2194,7 +2248,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 249485,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
@@ -2324,6 +2378,24 @@
       "duration_ms": 157826,
       "name": "Shine Through the Dark",
       "url": "https://open.spotify.com/track/2EcmwoX8991c6taoaUqyz4"
+    },
+    {
+      "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176557,
+      "name": "Shinin' through the Dark",
+      "url": "https://open.spotify.com/track/3uvqaNcznMbmvaw2zOuJ4n"
     },
     {
       "album": {
@@ -2468,6 +2540,24 @@
       "duration_ms": 137133,
       "name": "Somethings Missing",
       "url": "https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv"
+    },
+    {
+      "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207971,
+      "name": "Speeding Car",
+      "url": "https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1"
     },
     {
       "album": {
@@ -2680,7 +2770,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
@@ -2831,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Prisoners (Live)",
+        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "To Be With You (Live)",
+      "url": "https://open.spotify.com/track/7G0mtQvZD2kIRV2kI3mD3p"
+    },
+    {
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -2864,6 +2972,24 @@
       "duration_ms": 184671,
       "name": "To Be Young (Is to Be Sad, Is to Be High)",
       "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
+    },
+    {
+      "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204939,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/0On3jM7uFiphkDSQpjbJM9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-480 songs - 18 hr 29 min
+481 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Big Wave Surfing](https://open.spotify.com/track/2UoP5BNB4tOW6BchOLMgbu) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Big Wave Surfing](https://open.spotify.com/album/5UGRz4ydUaly6KyHea5J8U) | 2:21 | 2021-12-07 | 2022-09-09 |
 | [bird bath](https://open.spotify.com/track/5gQS58bvi4xhWM26hMskkV) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [bird bath](https://open.spotify.com/album/3FZCSBJ8gXOv4mxuLSIUCS) | 1:41 | 2023-11-17 |  |
 | [Birdie Nest](https://open.spotify.com/track/3udESAvwu3koYQ2Exoaqq5) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Birdie Nest](https://open.spotify.com/album/0dMdJZ9VH0eRLxn4o68MmA) | 2:06 | 2023-01-13 | 2023-09-29 |
+| [birdies](https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [birdies](https://open.spotify.com/album/2k6Ommgt2VnJFEMRxhP6mh) | 1:43 | 2024-01-05 |  |
 | [Birdlife](https://open.spotify.com/track/5U8kA1RQpLCfsbeAcFrXys) | [Kotsaku](https://open.spotify.com/artist/28tOzncpNDbM8j0dewexfs) | [clear skies](https://open.spotify.com/album/5z1cpl3Hy1z9XPDkPZ1bBh) | 1:51 | 2021-12-07 |  |
 | [Birds of Paradise](https://open.spotify.com/track/6XzpOu0XRCXLut73JrToxx) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Birds of Paradise](https://open.spotify.com/album/6mcgTMhAfZP8GZMYPZOmrz) | 2:19 | 2023-09-22 |  |
 | [Birdzz](https://open.spotify.com/track/2Gx8lwfbGrY2vXbh6PZ3MB) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [Swimm](https://open.spotify.com/album/6DOAMKot1lhBT9uNK6xqwf) | 2:44 | 2021-12-07 | 2022-09-30 |

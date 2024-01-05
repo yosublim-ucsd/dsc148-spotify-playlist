@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Redferrin",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Niko Moon",
   "name": "Wild Country",
   "tracks": [
     {
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 205186,
       "name": "Die A Redneck",
       "url": "https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ"
@@ -2928,6 +2928,24 @@
       "duration_ms": 157431,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh"
+    },
+    {
+      "album": {
+        "name": "Good With Me",
+        "url": "https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Good With Me",
+      "url": "https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ"
     },
     {
       "album": {

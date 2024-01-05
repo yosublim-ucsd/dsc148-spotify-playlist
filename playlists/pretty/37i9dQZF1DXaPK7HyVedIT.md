@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bhaskar, Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,989 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,186 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 42 | [Preacher](https://open.spotify.com/track/3I1bYmKfG8ncIdNGsQmZok) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Outflux](https://open.spotify.com/artist/1aZrHGcyFNnEEE79aRU4jT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Preacher](https://open.spotify.com/album/0OiCQxj9JxilgP7HVIuBjk) | 2:55 |
 | 43 | [SAY LESS](https://open.spotify.com/track/7nm0fPyOJOxyq71XsRCed4) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [SAY LESS](https://open.spotify.com/album/1jPuotzVv5gjTNwkAUuph3) | 2:40 |
 | 44 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 |
-| 45 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
+| 45 | [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 |
 | 46 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
 | 47 | [Everything I Got](https://open.spotify.com/track/4eCRXUDUw9LDzH7v32kKjT) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Everything I Got](https://open.spotify.com/album/6XGsbOf23jgqWqyFxSvV8C) | 5:11 |
 | 48 | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 75 | [Desire \(with Sam Smith\) \- Alok Remix](https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Desire \(with Sam Smith\) \[Alok Remix\]](https://open.spotify.com/album/46I5OWuJfe8XtaRaofQbv4) | 2:56 |
 | 76 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 |
 
-Snapshot ID: `MCxjYjk2ZTgxYmJiNjk2OTJiMTJmOTIzODYzYTM3Y2NhN2RiNDY5MDcy`
+Snapshot ID: `MCw0ZDIyMWM1ZWM2YWRiZTcxYTkwZTQzYTUwNjk2MjkyZWVkZTZlNzMw`

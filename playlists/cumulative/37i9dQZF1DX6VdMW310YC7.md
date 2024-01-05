@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,552 songs - 4 day 10 hr 53 min
+1,553 songs - 4 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Hold Me Tonight](https://open.spotify.com/track/6qaMFbqEYYZWl7GAQPqyaS) | [BYNON](https://open.spotify.com/artist/033DxVOVQqNlUy6yEI03ar) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:32 | 2020-03-16 | 2022-04-19 |
 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 | 2022-04-29 | 2022-12-29 |
 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 | 2023-03-10 |  |
+| [Holding Me Back](https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back](https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7) | 4:25 | 2024-01-05 |  |
 | [Hollow](https://open.spotify.com/track/2F6F3bQ0CWUnv5xje1RTLK) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hollow](https://open.spotify.com/album/64N1sXGEZNQZI7nefF1fwi) | 4:05 | 2022-09-30 | 2022-10-13 |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2021-08-20 | 2022-02-14 |
 | [Hologram](https://open.spotify.com/track/210bt3QeLgxfbcSKikEeNT) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Hologram](https://open.spotify.com/album/278Wc6KOqM1juXvUi6fwpt) | 4:26 | 2023-03-10 | 2023-03-23 |
@@ -630,7 +631,7 @@
 | [Hymne \- Martin Roth Remix](https://open.spotify.com/track/5CyCy83VtRMCso7DBYJVaP) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Hymne \(Martin Roth Remix\)](https://open.spotify.com/album/40H8sz4ROG83NxD5G6osIk) | 3:32 | 2020-05-22 | 2020-07-03 |
 | [Hypnotised](https://open.spotify.com/track/1SGVOqchDwrBehJIOnGuyT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:06 | 2020-05-18 | 2020-07-03 |
 | [I / Y](https://open.spotify.com/track/1L5VP9PWCU5dRzl1bvlFkJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [I / Y](https://open.spotify.com/album/6GVcEJeCqKapHt55s3aju9) | 5:54 | 2020-02-29\* | 2020-03-16 |
-| [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-21 |  |
+| [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-21 | 2024-01-05 |
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-12-04 | 2023-09-09 |
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |

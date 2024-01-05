@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: The Beatles
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo
 
-110 songs - 6 hr 42 min
+112 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Assunto Nós Dois](https://open.spotify.com/track/1YjxRhcSs3W3lglTFJQbeg) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6) | [Assunto Nós Dois](https://open.spotify.com/album/45EnE3sSlQMHqtBPpsQNln) | 2:57 | 2023-07-21 |  |
 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 | 2023-07-21 |  |
 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 | 2023-07-21 |  |
-| [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-08-25 |  |
+| [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 | 2024-01-05 |  |
+| [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-08-25 | 2024-01-05 |
 | [Blue](https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t) | 4:09 | 2023-07-21 | 2023-11-05 |
 | [Blue](https://open.spotify.com/track/3frGdSsiPLEe5Hk9UeG3Q4) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/4ChzaBU01MnxVWNF7ATXJ7) | 4:09 | 2023-11-03 |  |
 | [Buquê de Rimas](https://open.spotify.com/track/3YV3rFEs55ie3idd3tVlfb) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Buquê de Rimas](https://open.spotify.com/album/7e3V41aO2OtnBQuRRuIVZ6) | 2:56 | 2023-07-21 |  |
@@ -46,6 +47,7 @@
 | [Eu Deixo](https://open.spotify.com/track/4kysCKNjDUK1WrSDdfzW2X) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Eu Deixo](https://open.spotify.com/album/00gv0XAlY69dAePHdTNisw) | 4:14 | 2023-07-21 | 2023-09-09 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2023-07-21 |  |
 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 | 2023-07-21 |  |
+| [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 | 2024-01-05 |  |
 | [I Can't Live Without Your Love](https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig) | [Dan Torres](https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd) | [I Can't Live Without Your Love](https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B) | 3:34 | 2023-07-21 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-07-21 |  |
 | [Incondicional \- Ao Vivo](https://open.spotify.com/track/0LLYWHqp4AgGnx4B2krt9x) | [Suhai](https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR) | [Ao Vivo](https://open.spotify.com/album/5RYNUFoIu5TrAGccBTzn8Z) | 2:59 | 2023-09-01 | 2023-11-18 |
@@ -86,7 +88,7 @@
 | [Quem Me Dera](https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Invernia](https://open.spotify.com/album/6aICwiB8bpY0ZA409IIfdx) | 3:30 | 2023-09-15 |  |
 | [Quero Te Levar](https://open.spotify.com/track/5HNSzyOYeKko9LiIJvVGaQ) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/22CxgpaTDyzRSzdeQq1jQc) | 2:59 | 2023-07-21 | 2023-12-15 |
 | [Quero Te Levar](https://open.spotify.com/track/5yBvVZR9fRKUQxfe6cg83b) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/6sFQsoONnVuvaf1ZKFl6kw) | 2:59 | 2023-12-08 |  |
-| [Quimera](https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Estradas Dentro](https://open.spotify.com/album/2HS046T4uwxsytXEKHMXTt) | 3:43 | 2023-09-15 |  |
+| [Quimera](https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Estradas Dentro](https://open.spotify.com/album/2HS046T4uwxsytXEKHMXTt) | 3:43 | 2023-09-15 | 2024-01-05 |
 | [Rainha Do Luar \- Acoustic](https://open.spotify.com/track/4TeG3MuhkWvYV0iBRkMvOF) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Rainha Do Luar \(Acoustic\)](https://open.spotify.com/album/52Kl1OzGWBtNE9nCho2Uqn) | 2:54 | 2023-09-01 | 2023-11-18 |
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 |  |
 | [Rua do Gasômetro](https://open.spotify.com/track/2IYnSM1Qdc5AKRoIUbAMaz) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Rua do Gasômetro](https://open.spotify.com/album/1uINhoxHdGsJeMREnGk4Px) | 3:39 | 2023-12-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 33159,
+  "num_followers": 33208,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWE0ZWY4ZWViYWE3MTNlYmNjZGUzMjdmYjYwMDdhNzk1N2YyZDA1",
+  "snapshot_id": "MCw1MTE4NGNlZGI0YmY5NGU1ZmJiZDM2Yjk3NzY4MDlkYzg2OWZhMDQx",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -403,22 +403,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -451,22 +451,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
       "artists": [
         {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1256,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 169325,
-      "name": "Wegun Is My DJ",
-      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
+      "duration_ms": 174445,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/1ePCvZmnZKBLaDrYf8r4kQ"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 174445,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/1ePCvZmnZKBLaDrYf8r4kQ"
+      "duration_ms": 169325,
+      "name": "Wegun Is My DJ",
+      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 223681,
+      "name": "Me Like Yuh (K) (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "\u59b3\u5728\u54ea\u88e1 (WYA) Remix",
         "url": "https://open.spotify.com/album/7gxJr2sZru2NyUT7fNtbU4"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 249832,
       "name": "\u59b3\u5728\u54ea\u88e1 (WYA) Remix (Feat. pH-1, Lexie Liu, \u00d8ZI, Masiwei)",
       "url": "https://open.spotify.com/track/07dT7SCgoq9ntHReX3bbqQ"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 223681,
-      "name": "Me Like Yuh (K) (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209633,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
-      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 223059,
       "name": "All The Way Up (K)",
       "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209633,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
+      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
     },
     {
       "added_at": "2023-11-27 14:05:19",

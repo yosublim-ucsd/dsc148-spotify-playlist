@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Jambino\(잠비노\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-659 songs - 1 day 11 hr 49 min
+660 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Day or Night](https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 3:34 | 2022-04-01 | 2022-07-02 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2022-07-28 |
-| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 |  |
+| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 | 2024-01-05 |
 | [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 | 2022-04-01 | 2023-09-16 |
 | [DIE FOR YOU](https://open.spotify.com/track/1LyFyW3IJLiBROvsRfTY1l) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:46 | 2022-04-01 | 2022-05-28 |
 | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC) | [SGBOYZ \(Jay Park, Don Mills, Loco, Nucksal\)](https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw) | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL) | 4:16 | 2022-04-01 | 2022-07-29 |
@@ -580,6 +580,7 @@
 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-04-01 | 2022-07-09 |
 | [Thug Luv](https://open.spotify.com/track/07MJ1hpRNKqlvKspPKHOuo) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Meeruu](https://open.spotify.com/artist/41GmbBOU7YVAIjhtj0KKMQ) | [SKANDALOUZ](https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn) | 2:27 | 2022-05-11 | 2022-07-28 |
 | [Thursday Brown](https://open.spotify.com/track/6z8xmqi3uPfzo1qCuEbTII) | [Legit Goons](https://open.spotify.com/artist/4HwHRZI8xz6Zy9vOksqw7R) | [Family Sitcom](https://open.spotify.com/album/62BUY2uTamG4A0bP8fdoSG) | 3:55 | 2022-07-24 | 2022-07-29 |
+| [Tic Tac?](https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Tic Tac?](https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos) | 2:15 | 2024-01-05 |  |
 | [Tiffany Cartier](https://open.spotify.com/track/1T5xZOx03EqBlU4WcjJFpU) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:21 | 2022-06-09 | 2022-06-26 |
 | [Till I Live](https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Till I Live](https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH) | 4:28 | 2023-10-27 |  |
 | [TIPSY](https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:20 | 2023-03-22 | 2023-06-04 |

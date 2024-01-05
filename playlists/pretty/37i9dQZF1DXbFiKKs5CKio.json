@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 53872,
+  "num_followers": 53939,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODRkNjgzMTgzZWNjNzIxMDZiMWQ1ZDQ1ZGJlODYzM2YyMDhmNWRk",
+  "snapshot_id": "MCw1OWUwZjYwOGI4MDJkYzhmMjk5ZWM3NjU0MWM3ODczYmVkNzY5YjMx",
   "tracks": [
     {
       "added_at": "2023-12-22 11:58:21",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/1PkBieopr9ZNx0LCVCFH4h"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 173677,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "Entre Mem\u00f3rias Tristes",
-        "url": "https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf"
-      },
-      "artists": [
-        {
-          "name": "C.I.D",
-          "url": "https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl"
-        }
-      ],
-      "duration_ms": 317059,
-      "name": "Entre Mem\u00f3rias Tristes",
-      "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
         "name": "\u00cdndigo (Te Venero)",
         "url": "https://open.spotify.com/album/31GNuBi7EX93NbUToTnnlQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 194137,
       "name": "\u00cdndigo (Te Venero)",
       "url": "https://open.spotify.com/track/3AV0jc5PIqCHIjxeGsojhO"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
+        "name": "Entre Mem\u00f3rias Tristes",
+        "url": "https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf"
+      },
+      "artists": [
+        {
+          "name": "C.I.D",
+          "url": "https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl"
+        }
+      ],
+      "duration_ms": 317059,
+      "name": "Entre Mem\u00f3rias Tristes",
+      "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
+        "name": "P\u00f4r Do Sol",
+        "url": "https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS"
+      },
+      "artists": [
+        {
+          "name": "Carol Olly",
+          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "P\u00f4r Do Sol",
+      "url": "https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt"
+    },
+    {
+      "added_at": "2023-12-22 11:58:21",
+      "album": {
         "name": "Perfeita Demais",
         "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
       },
@@ -859,22 +879,22 @@
     {
       "added_at": "2023-12-22 11:58:21",
       "album": {
-        "name": "P\u00f4r Do Sol",
-        "url": "https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS"
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho"
       },
       "artists": [
         {
-          "name": "Carol Olly",
-          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
+          "name": "Will Bone",
+          "url": "https://open.spotify.com/artist/1JWOHNiAEKiQrqNBqCdmga"
         },
         {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
         }
       ],
-      "duration_ms": 151730,
-      "name": "P\u00f4r Do Sol",
-      "url": "https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt"
+      "duration_ms": 230363,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc"
     },
     {
       "added_at": "2023-12-22 11:58:21",
@@ -895,26 +915,6 @@
       "duration_ms": 212571,
       "name": "Canela e hortel\u00e3",
       "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2023-12-22 11:58:21",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho"
-      },
-      "artists": [
-        {
-          "name": "Will Bone",
-          "url": "https://open.spotify.com/artist/1JWOHNiAEKiQrqNBqCdmga"
-        },
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 230363,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc"
     },
     {
       "added_at": "2023-12-22 11:58:21",

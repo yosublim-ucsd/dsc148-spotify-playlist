@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,508 likes - 60 songs - 3 hr 19 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,506 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 14 | [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 |
 | 15 | [Go Get Her](https://open.spotify.com/track/1V9vDStzw6C7pXSsIrzER2) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:15 |
 | 16 | [A Little Devil](https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [A Little Devil / Tiny Wooden Box](https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls) | 3:51 |
-| 17 | [Farm Life](https://open.spotify.com/track/1AnyVJtf7dbqvLfQ9ysFza) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Farm Life](https://open.spotify.com/album/0SxGOkzhiAzDR2wVVq0mkM) | 3:54 |
+| 17 | [Farm Life](https://open.spotify.com/track/1AnyVJtf7dbqvLfQ9ysFza) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/0SxGOkzhiAzDR2wVVq0mkM) | 3:54 |
 | 18 | [Taylor Swift](https://open.spotify.com/track/0ymAJvTIbJraEti1rK6KiL) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [New Money](https://open.spotify.com/album/6PgLrRwR0H7vgqHhuS5TMc) | 3:21 |
 | 19 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 |
 | 20 | [Where I Wanna Be](https://open.spotify.com/track/6mUUQr215s23jThLTzuLm7) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Where I Wanna Be](https://open.spotify.com/album/0nsgPm8ByoomqRM1uxTC6q) | 2:50 |

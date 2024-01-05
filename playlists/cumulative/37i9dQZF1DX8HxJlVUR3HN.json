@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 185360,
       "name": "700m\u00b2",
       "url": "https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d"
@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 206519,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO"
+    },
+    {
+      "album": {
+        "name": "Reloaded",
+        "url": "https://open.spotify.com/album/0z9vRcT5kRzD01k8116YoW"
+      },
+      "artists": [
+        {
+          "name": "Baltimore",
+          "url": "https://open.spotify.com/artist/77qVGV48opy3ixVRwna4mG"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Attraction",
+      "url": "https://open.spotify.com/track/6IiKWrISnOqKGno1gLI8y4"
     },
     {
       "album": {
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 273142,
       "name": "The Light In The Dark",
       "url": "https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC"
@@ -1961,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Vale",
+        "url": "https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI"
+      },
+      "artists": [
+        {
+          "name": "Mad Rush",
+          "url": "https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Vale",
+      "url": "https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz"
+    },
+    {
+      "album": {
         "name": "Velvet Moon",
         "url": "https://open.spotify.com/album/7lbzoBCV4BsfWVkJpHz83R"
       },
@@ -2030,6 +2066,24 @@
       "duration_ms": 223124,
       "name": "What's Wrong With Me",
       "url": "https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc"
+    },
+    {
+      "album": {
+        "name": "Avalon Bloom",
+        "url": "https://open.spotify.com/album/20EfjGnr8Ku5qTMjDZxmuW"
+      },
+      "artists": [
+        {
+          "name": "Avalon Bloom",
+          "url": "https://open.spotify.com/artist/6WJSI8lBDgepZLAXIqHgdh"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "Winter Sun",
+      "url": "https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja"
     },
     {
       "album": {

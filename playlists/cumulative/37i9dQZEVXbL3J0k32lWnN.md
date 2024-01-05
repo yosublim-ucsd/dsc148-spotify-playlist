@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,337 songs - 2 day 21 hr 53 min
+1,338 songs - 2 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Hayati](https://open.spotify.com/track/4UUKiUdhfRnYGWXa1R3MwW) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Hayati](https://open.spotify.com/album/4FBuUiBa1M7RRyAieCueA7) | 2:42 | 2021-07-18 | 2021-07-31 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-03-27\* | 2021-08-10 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-09 |
+| [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2024-01-04 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-03 | 2022-06-19 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-17 | 2023-04-20 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 | 2023-03-04 |
@@ -694,7 +695,7 @@
 | [KOLO](https://open.spotify.com/track/2u6I8SJ3t0oLHH8gpwh3tX) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INGEN ROSER UDEN TORNE](https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN) | 2:54 | 2022-06-04 | 2022-06-12 |
 | [Kom Bar Du](https://open.spotify.com/track/4VE2HaNhSHLeggdk8O0pq8) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Kom Bar Du](https://open.spotify.com/album/2HvSgszkJ5oSGyVUYCEmXt) | 2:16 | 2023-11-03 | 2023-11-06 |
 | [KOMFORTABELT](https://open.spotify.com/track/3LbIf7PslxDzCtm9vP96oT) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KOMFORTABELT](https://open.spotify.com/album/1SkYW8fY21r5KwLFkxjPmK) | 2:06 | 2021-08-29 | 2022-01-08 |
-| [Kompliceret \(feat\. Sivas\)](https://open.spotify.com/track/1qxDqokn60CBm91c3zD4Io) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:13 | 2024-01-03 |  |
+| [Kompliceret \(feat\. Sivas\)](https://open.spotify.com/track/1qxDqokn60CBm91c3zD4Io) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:13 | 2024-01-03 | 2024-01-05 |
 | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/track/3r9OFjS4faHR2h8ZjZqQZV) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/album/0QGxDExBFtpCMaaOiHk2Ec) | 3:21 | 2022-05-30 | 2022-06-05 |
 | [Kompromis](https://open.spotify.com/track/21buRwKEiznywpwdGp5jLL) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Kompromis](https://open.spotify.com/album/16CgqUDytyW5GhKkTqNRKN) | 3:06 | 2022-07-30 | 2022-09-02 |
 | [Kongespil \- Tinka og Kongespillet](https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Midt I En Drøm Eller Noget Der Ligner](https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb) | 2:50 | 2021-11-23 | 2023-12-30 |

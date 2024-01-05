@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86250,
+  "num_followers": 86268,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2EzMmZmZDQ0ZTIzYWYxMTM1MmUwYmY1NTQ1ODk4MzE0MGY2OGRi",
+  "snapshot_id": "MCwyZjMxM2QyZTQyMDdkMzI2NGJmOWRjN2Q3YmI0OTliYTVhMGRkZmM3",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
+        "name": "Recaer",
+        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "El Mar",
+      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 197334,
       "name": "Perro Come Perro",
       "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Recaer",
-        "url": "https://open.spotify.com/album/5sRXzUvy7eUEUFpxnL1i2Z"
-      },
-      "artists": [
-        {
-          "name": "Distimia Agoraf\u00f3bica",
-          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
-        }
-      ],
-      "duration_ms": 181668,
-      "name": "El Mar",
-      "url": "https://open.spotify.com/track/77ffP2sNki7kJcv5iDi7ZG"
     },
     {
       "added_at": "2023-10-07 00:35:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,240 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,243 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Salsero](https://open.spotify.com/track/2oAlelTgCCe6wIgUHOWM6E) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Dayme Beats](https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW), [Leykan](https://open.spotify.com/artist/0RiYU88aiUZxDSs4CYA5XK), [Dyanko](https://open.spotify.com/artist/59kazNVxBCjwUig0vKDX9R) | [Salsero](https://open.spotify.com/album/6hgWDZZV6Nz5x34yps6HkD) | 3:45 |
 | 49 | [Lluvia de Suerte](https://open.spotify.com/track/5gRHDAR94sWuZxnZoQKarE) | [Jotabarrioz](https://open.spotify.com/artist/5IhomfuVzQaE29lfaBFFYF) | [Lluvia de Suerte](https://open.spotify.com/album/0z3aGUApgZGSSFJBWLydos) | 3:26 |
 
-Snapshot ID: `MCwyZjAwZDZmZDllNjA2MDk5MWQyOGM3MzU3N2EzOWI3MmI0ZmExMzdh`
+Snapshot ID: `MCw1NGU5ZDcxZTk2YWExOTQ3MzBjYmEyZTMzZDIzMGU4MTI5ZGY2NGQy`
