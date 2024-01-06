@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,348 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,371 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 10 | [i saw a flying saucer](https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI), [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i saw a flying saucer](https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp) | 2:49 |
 | 11 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
 | 12 | [Cheerleader](https://open.spotify.com/track/25cnulf8xul2rIfLxKLyre) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Cheerleader](https://open.spotify.com/album/459oCp5mTlqwSpFDKrdtAg) | 3:21 |
-| 13 | [Spinning](https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Spinning](https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv) | 3:34 |
+| 13 | [Spinning](https://open.spotify.com/track/6MTxftPAssBVTyGFJ4KB1l) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:34 |
 | 14 | [Drive All Night](https://open.spotify.com/track/7wRbH2GlXe9dZQBdhWzkco) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [Drive All Night](https://open.spotify.com/album/2eKgVsjsHyuKupvTRHTrfT) | 2:59 |
 | 15 | [Toad Mode](https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Toad Mode](https://open.spotify.com/album/4iQqn0QFI7IK77RL4hfljo) | 3:17 |
 | 16 | [Drive Baby](https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Drive Baby](https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [High School Gym](https://open.spotify.com/track/087RIqgZWehk36IdWeAmxe) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Rainbow Wheel of Death](https://open.spotify.com/album/5HSwTNvgYwVtmma4mnTRXL) | 4:10 |
 | 100 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 
-Snapshot ID: `MCxhNjk4Nzg0YmRhNjdjNDYxMDgzMjE5YmQzNzE0NDY4M2RmOTZkNzAz`
+Snapshot ID: `MCw5MjQ5NzBlZDMwMTllYmMzYzE1ZDJlNDEzNWEyMjc4ZGQ2ZDBkMWI4`

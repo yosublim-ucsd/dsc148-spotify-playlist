@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 135396,
+  "num_followers": 135425,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDg1ZWZiY2FkM2ExODFhMWMwMmIxM2Q0MzBlMjU2ZjBjNzA1Nzkx",
+  "snapshot_id": "MCw1ZDRhODlmNDYwMjI0MGYwNjVmYjk3ZDY4YWNhMWIyZDkxM2JmOTcy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -91,6 +91,22 @@
       "duration_ms": 269294,
       "name": "Illumination",
       "url": "https://open.spotify.com/track/5KyhsJIdx0okcY0OjfrfvL"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Seconds and Circles",
+        "url": "https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        }
+      ],
+      "duration_ms": 223624,
+      "name": "Seconds and Circles",
+      "url": "https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1795,34 +1811,6 @@
       "duration_ms": 177157,
       "name": "But Not for Me",
       "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
-    },
-    {
-      "added_at": "2023-05-08 13:12:08",
-      "album": {
-        "name": "Brighter Sun",
-        "url": "https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Robertson",
-          "url": "https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po"
-        },
-        {
-          "name": "Danny Fischer",
-          "url": "https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni"
-        }
-      ],
-      "duration_ms": 246677,
-      "name": "Brighter Sun",
-      "url": "https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ"
     },
     {
       "added_at": "2023-04-21 04:01:00",

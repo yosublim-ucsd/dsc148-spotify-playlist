@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZiYjdhZjBhZGMzMThlYWJhZTY2YTE2MmM3MzQ4Y2NlZWIwYjJh",
+  "snapshot_id": "MCxmM2Y1YWFiMmM3YjU4YjMyNjUyOTVkZWQ1ZTU2ZGYwOTMwYmMwNmEz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "InnerSpeaker",
         "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 225653,
       "name": "She Said",
       "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hello Operator",
-      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Sundown Syndrome / Remember Me",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 261040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 212600,
       "name": "Toe Cutter - Thumb Buster",
       "url": "https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Sundown Syndrome / Remember Me",
-        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 261040,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Badillac",
-        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
-      },
-      "artists": [
-        {
-          "name": "Together Pangea",
-          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Sick Shit",
-      "url": "https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Good Bad Not Evil",
         "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Badillac",
+        "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
+      },
+      "artists": [
+        {
+          "name": "Together Pangea",
+          "url": "https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Sick Shit",
+      "url": "https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Abysmal Thoughts",
-        "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Blood Under My Belt",
-      "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Badillac",
         "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 147880,
       "name": "Badillac",
       "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Abysmal Thoughts",
+        "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Blood Under My Belt",
+      "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
     },
     {
       "added_at": "2021-04-09 06:19:31",

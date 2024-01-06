@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,019 songs - 2 day 9 hr 35 min
+1,020 songs - 2 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Estrella](https://open.spotify.com/track/2NxWFEYOxwBCYtp5lEPbs6) | [Emilio Romero](https://open.spotify.com/artist/1EhEcfLBOBTPLBuQbINxF9) | [Estrella](https://open.spotify.com/album/2hlVRUUVAg7mJVtWyTBx9v) | 3:38 | 2023-08-07 | 2023-08-20 |
 | [Exit](https://open.spotify.com/track/66jvPrhrBjUeaz7hvg20vE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:55 | 2021-11-28 | 2021-11-30 |
 | [Explícito](https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:15 | 2021-03-27\* | 2021-07-04 |
+| [EXÓTICA](https://open.spotify.com/track/6EURkzSJVUaHiroDWZ99Gn) | [Reijy](https://open.spotify.com/artist/6794EDtkcLQ065dXVaOIIC), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw) | [EXÓTICA](https://open.spotify.com/album/3sKbXioVYyFLIOxT0cuYZD) | 2:50 | 2024-01-05 |  |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-12 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-20 |
 | [Fallé](https://open.spotify.com/track/17QNUQmXh2ellzag2ECjN5) | [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Kaih](https://open.spotify.com/artist/3sGeO2VChykSevMMCoArDV), [Focking Rafita](https://open.spotify.com/artist/31ZeHgT3blkmKIIz8b2ZNM) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 4:04 | 2021-12-11 | 2021-12-12 |
@@ -626,7 +627,7 @@
 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 | 2021-03-27\* | 2021-07-04 |
 | [No Te Valore](https://open.spotify.com/track/5V2qD1MaHauZscxgOAyvUW) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q) | [Bajo 0°](https://open.spotify.com/album/3AqFa07ABa2gmVvJico0GR) | 4:05 | 2022-06-22 | 2022-06-30 |
 | [No vuelvas mas](https://open.spotify.com/track/11NoDSITPImGX0uVgiNJAx) | [DiZitro](https://open.spotify.com/artist/2eN74UnZPEVx6KU7xUXJr3) | [No vuelvas mas](https://open.spotify.com/album/65sRxE2fin4uXXTpeMF5oN) | 2:07 | 2022-08-07 | 2022-08-12 |
-| [Noche de gala](https://open.spotify.com/track/0mMsceNQlCGM9F400l5FOd) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Johnny Jey B](https://open.spotify.com/artist/3g5oHgO5sO7uzkz67EZbzO) | [Smile Riddim](https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj) | 3:31 | 2023-04-17 |  |
+| [Noche de gala](https://open.spotify.com/track/0mMsceNQlCGM9F400l5FOd) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Johnny Jey B](https://open.spotify.com/artist/3g5oHgO5sO7uzkz67EZbzO) | [Smile Riddim](https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj) | 3:31 | 2023-04-17 | 2024-01-06 |
 | [Noche de Perreo](https://open.spotify.com/track/1fqWQzieotsSQISAQPVntq) | [The Wavy Kid](https://open.spotify.com/artist/0pIevbAW3igXa5rZhnw1j7) | [Noche de Perreo](https://open.spotify.com/album/0abbjlxj8IgBBKo6HyuRMR) | 2:22 | 2022-08-27 | 2022-10-16 |
 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 | 2022-05-21 | 2022-09-29 |
 | [Normal](https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:51 | 2022-09-15 |  |

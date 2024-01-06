@@ -14310,10 +14310,6 @@
       },
       "artists": [
         {
-          "name": "Francisco Javier Lobo Escudero",
-          "url": "https://open.spotify.com/artist/0XumUIQjxNfJ6euBIlD9Lm"
-        },
-        {
           "name": "Javier Escudero",
           "url": "https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N"
         }
@@ -17363,6 +17359,24 @@
     },
     {
       "album": {
+        "name": "Waltzing You To Sleep",
+        "url": "https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130625,
+      "name": "Of Great Expectations",
+      "url": "https://open.spotify.com/track/28oYKWMMq2OGJgzRTef8sA"
+    },
+    {
+      "album": {
         "name": "Close To Maman",
         "url": "https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH"
       },
@@ -17446,7 +17460,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 130625,
       "name": "Of Great Expectations",
       "url": "https://open.spotify.com/track/4uEjFNaD5Rncs4SK1AYnbl"

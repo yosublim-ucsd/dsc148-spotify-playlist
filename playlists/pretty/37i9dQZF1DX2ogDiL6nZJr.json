@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 672392,
+  "num_followers": 672575,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjg1MjJkM2MwMGVmODYyOWZiZWY5M2E4OWNlMzA1OGEyY2MzMWRj",
+  "snapshot_id": "MCwwYjMxMGI3ODUzMGQ5OTAwM2E5MGMwZGY2YWE2MTBjOTMwZmE4OWRi",
   "tracks": [
     {
       "added_at": "2023-11-21 11:44:08",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
       },
       "artists": [
         {
-          "name": "Balthazar",
-          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Balthazar",
+          "url": "https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ"
         }
       ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP"
+      "duration_ms": 205680,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 265410,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 252080,
       "name": "Permanent Way",
       "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 265410,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Is It?",
+        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 315040,
+      "name": "Days Of Lantana",
+      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "All That You Are",
-      "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "postcard from Berlin",
         "url": "https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 194092,
       "name": "grapejuice",
       "url": "https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "All That You Are",
+      "url": "https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Brave New Woman",
-        "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
-      },
-      "artists": [
-        {
-          "name": "Leslie Clio",
-          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Comment Allez-Vous?",
-      "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 264045,
       "name": "Spark",
       "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Brave New Woman",
+        "url": "https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1"
+      },
+      "artists": [
+        {
+          "name": "Leslie Clio",
+          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Comment Allez-Vous?",
+      "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
         "name": "Tenderfoot",
         "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 202000,
       "name": "My Guitar is too Loud",
       "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
-        "name": "GPS (w/ Felly)",
-        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 168316,
-      "name": "GPS (w/ Felly)",
-      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Future Perfect, Present Tense",
-        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Isn't Ever A Day",
-      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
-    },
-    {
-      "added_at": "2023-11-21 11:44:08",
-      "album": {
         "name": "Le temps se fuit",
         "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+        "name": "Future Perfect, Present Tense",
+        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii"
+      "duration_ms": 284653,
+      "name": "Isn't Ever A Day",
+      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-11-21 11:44:08",
       "album": {
-        "name": "Old Bone / Trust No Man",
-        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
       "artists": [
         {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 187120,
-      "name": "Old Bone",
-      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
+      "duration_ms": 198306,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii"
     },
     {
       "added_at": "2023-11-21 11:44:08",
@@ -1571,6 +1555,22 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2023-11-21 11:44:08",
+      "album": {
+        "name": "Old Bone / Trust No Man",
+        "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Old Bone",
+      "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
     },
     {
       "added_at": "2023-11-21 11:44:08",

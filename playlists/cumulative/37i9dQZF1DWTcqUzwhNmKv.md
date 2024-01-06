@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Architects on top of the biggest Metal playlist.
+> Silent Planet on top of the biggest Metal playlist.
 
-575 songs - 1 day 14 hr 34 min
+577 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-08-12 | 2022-10-01 |
 | [Cut Me Open](https://open.spotify.com/track/0XrjH7Y2BBPCV58EnrcUPS) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Cut Me Open](https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV) | 2:49 | 2023-10-27 |  |
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-20 | 2022-07-08 |
+| [Cyanide](https://open.spotify.com/track/0lqnTPAsozxC6XQgoV7k7N) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 3:44 | 2024-01-05 |  |
 | [Cyberhex](https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Cyberhex](https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA) | 4:35 | 2022-03-11 | 2022-04-15 |
 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 | 2021-12-20 | 2022-04-22 |
 | [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-11-18 | 2023-01-14 |
@@ -113,7 +114,7 @@
 | [Dark Void](https://open.spotify.com/track/76DODhl0vwR4CpWKexVF4U) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:52 | 2023-08-25 |  |
 | [Dark Waves](https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v) | 3:42 | 2023-02-17 | 2023-07-29 |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 | 2022-06-24 |
-| [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-20 |  |
+| [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-20 | 2024-01-06 |
 | [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 | 2022-06-07 |
 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 | 2021-12-20 | 2022-05-13 |
 | [Dead Reckoning](https://open.spotify.com/track/4X91JzJfMO32JiyRe62Alv) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2), [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dead Reckoning](https://open.spotify.com/album/1b5aY62FMsQFQWzxVW7tcE) | 3:26 | 2023-01-20 | 2023-07-01 |
@@ -274,6 +275,7 @@
 | [Kagutsuchi](https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Rashomon](https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2) | 7:34 | 2022-05-06 | 2022-06-17 |
 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 | 2022-06-24 | 2022-09-17 |
 | [Killshot](https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Killshot](https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC) | 2:32 | 2023-11-17 |  |
+| [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 |  |
 | [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-28 | 2023-05-27 |
 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-30 | 2023-10-19 |
 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 | 2023-10-13 |  |
@@ -407,7 +409,7 @@
 | [Sickle and Peace](https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Sickle and Peace](https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ) | 6:17 | 2021-12-20 | 2022-01-21 |
 | [Sign Of Life](https://open.spotify.com/track/5MCUpUfWI7r0v931vSiWul) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World \(Deluxe Edition\)](https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy) | 3:40 | 2023-09-08 |  |
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 | 2022-12-03 |
-| [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 | 2023-12-01 |  |
+| [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 | 2023-12-01 | 2024-01-06 |
 | [Silver Lining](https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [...So Unknown](https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce) | 3:55 | 2023-04-14 | 2023-06-10 |
 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 | 2022-08-12 | 2023-05-20 |
 | [Sing to the Grave](https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Sing to the Grave](https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o) | 2:39 | 2023-01-27 | 2023-04-01 |

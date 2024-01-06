@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/19PqlRWtr5p3l4wCIPWWf8"
+      },
+      "artists": [
+        {
+          "name": "nanobii",
+          "url": "https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151770,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/6j4aQyFmFXFJP88bNCL6w8"
+    },
+    {
+      "album": {
         "name": "All I Wanted",
         "url": "https://open.spotify.com/album/7FCiKLYYweE3cvqzh7C4ny"
       },

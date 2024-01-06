@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,004 songs - 2 day 4 hr 51 min
+1,005 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Afro Beat](https://open.spotify.com/track/1lfErXcHIp6Ail8bFuONMF) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/44FAquiBnYU5AnSXSsz4No) | 3:12 | 2023-07-12 | 2023-11-08 |
 | [Afro Beat](https://open.spotify.com/track/37GSp3Uj1DKHUrhv6EtYN8) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/2bVvBJGAS9pPUrF6h6Geoc) | 3:12 | 2023-11-07 |  |
 | [Aha\-Aha](https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Aha\-Aha](https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U) | 2:12 | 2022-05-20 | 2023-05-19 |
+| [ahogy öregszünk](https://open.spotify.com/track/2mK7viQsQ73aM9GOGqRO9D) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [egy se sláger](https://open.spotify.com/album/6KZup8nFMEx9i243gabPQV) | 3:30 | 2024-01-05 |  |
 | [aight](https://open.spotify.com/track/6aBPkT8tZnZZ6ILg67OuAh) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [aight](https://open.spotify.com/album/1C7pFblVVUtJ3fXFrpmscx) | 2:06 | 2021-04-18 | 2021-07-01 |
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2021-07-01 | 2021-11-10 |
 | [Ajándék](https://open.spotify.com/track/0a0zPUrwviAua4IhhaYUsP) | [Bereczki Zoltán](https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU), [Dóra Szinetár](https://open.spotify.com/artist/1eKpiP1plO0BqtwPCzzv0E) | [Duett Karácsony](https://open.spotify.com/album/6gwEBQlpdksPo5q8JzCnJg) | 4:28 | 2021-12-24 | 2023-12-27 |
@@ -339,7 +340,7 @@
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
 | [GUCCI](https://open.spotify.com/track/72uWCXxhwYjonmZ4FHHSlo) | [Kisé](https://open.spotify.com/artist/6zqr73J6gm3Son1vnWkbfK) | [GUCCI](https://open.spotify.com/album/0QP7ikbw1cO7bGJdQvMQh8) | 3:05 | 2022-07-02 | 2022-07-14 |
-| [Gurulgatok](https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Gurulgatok](https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F) | 2:27 | 2023-09-26 |  |
+| [Gurulgatok](https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Gurulgatok](https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F) | 2:27 | 2023-09-26 | 2024-01-06 |
 | [GUY RITCHIE](https://open.spotify.com/track/2dVc8oVlMldEWUIY4kMs6B) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 2:30 | 2022-09-03 | 2022-09-19 |
 | [Gyere be velem \(DUBAI GANG\)](https://open.spotify.com/track/4gcs66ZUuad1jhSQMB16w9) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Gyere be velem \(DUBAI GANG\)](https://open.spotify.com/album/6WPM7u53B56c8v8bTeEoc6) | 3:38 | 2021-10-18 | 2021-11-23 |
 | [Gyere Velem](https://open.spotify.com/track/10wMZu2Y9o55ylw6mRSiKB) | [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz), [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv) | [Gyere Velem](https://open.spotify.com/album/7lVPjtejDmQ4y7hm006ULK) | 3:20 | 2021-09-29 | 2022-05-31 |

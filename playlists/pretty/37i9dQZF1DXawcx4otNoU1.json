@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 505243,
+  "num_followers": 505316,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2M2NzczYmY2NWQ4YTMwZmUyOTQ5ZTUxNWY5YzQ1ZDQ0OTUwMDA1",
+  "snapshot_id": "MCxjM2Y3YTg0NTBlN2RhYmI5ZGY1ZGU3NWE0Mjc5YmU0NWZiZWU1NzQy",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "When The Lights Go Down",
         "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 195173,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Tyler Shaw",
-        "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Love You Still (abcdefu romantic version)",
-      "url": "https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Tyler Shaw",
+        "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Love You Still (abcdefu romantic version)",
+      "url": "https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1"
     },
     {
       "added_at": "2023-03-06 12:13:00",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Full Circle : Sonic Book One",
-        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "All the Lost Souls",
@@ -1483,6 +1467,22 @@
       "duration_ms": 209680,
       "name": "1973 - Acoustic",
       "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Full Circle : Sonic Book One",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f"
     },
     {
+      "added_at": "2024-01-05 09:56:00",
+      "album": {
+        "name": "Honeymoon Fades",
+        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Honeymoon Fades",
+      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "One Call Away (Acoustic + Remixes)",
@@ -1699,6 +1715,22 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2024-01-05 09:56:00",
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 138453,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1831,22 +1863,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Echos",
-        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Once In a While (Acoustic)",
         "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
       },
@@ -1859,6 +1875,22 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1915,22 +1947,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Only Ticket Home",
-        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1943,6 +1959,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Only Ticket Home",
+        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2015,6 +2047,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Suburb Hero",
+        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
+      },
+      "artists": [
+        {
+          "name": "Endre Nordvik",
+          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
+        }
+      ],
+      "duration_ms": 227252,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -2035,22 +2083,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Suburb Hero",
-        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
-      },
-      "artists": [
-        {
-          "name": "Endre Nordvik",
-          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
-        }
-      ],
-      "duration_ms": 227252,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
@@ -2063,22 +2095,6 @@
       "duration_ms": 205583,
       "name": "For You - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2099,6 +2115,22 @@
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2203,22 +2235,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Eternally Even",
-        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 293413,
-      "name": "The World's Smiling Now",
-      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
@@ -2231,6 +2247,22 @@
       "duration_ms": 190104,
       "name": "Radio",
       "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Eternally Even",
+        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 293413,
+      "name": "The World's Smiling Now",
+      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2365,22 +2397,6 @@
       "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
       "added_at": "2023-04-21 12:01:04",
       "album": {
         "name": "Teach",
@@ -2395,6 +2411,22 @@
       "duration_ms": 175774,
       "name": "Teach",
       "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2495,38 +2527,6 @@
       "duration_ms": 149952,
       "name": "Bottles",
       "url": "https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Lightyears",
-        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
-      },
-      "artists": [
-        {
-          "name": "David Ryan Harris",
-          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
-        }
-      ],
-      "duration_ms": 250893,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
     }
   ],
   "unique_name": "Spooning",

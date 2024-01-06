@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 173203,
+  "num_followers": 173271,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzI5MzhlMDlhZjc3NmNiMzRlM2Y3MTZkODRmYjZlNGY2ZTk1NzY4",
+  "snapshot_id": "MCxjOWZjZjcxYjg5NWI5YzNjZmY2NzgzODIxOWM1M2VkMjkzYWU2ZDA4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Under Rug Swept",
-        "url": "https://open.spotify.com/album/0kKfmdca8GY7bDWFWtY801"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "Hands Clean",
-      "url": "https://open.spotify.com/track/2LVxvGhl2U5p2ql2ujc6vZ"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 207240,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/3nzL5CIQiCEt6jRt1AlQ9d"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Under Rug Swept",
+        "url": "https://open.spotify.com/album/0kKfmdca8GY7bDWFWtY801"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Hands Clean",
+      "url": "https://open.spotify.com/track/2LVxvGhl2U5p2ql2ujc6vZ"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Songs From An American Movie: Learning How To Smile",
-        "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Reveal",
         "url": "https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 236626,
       "name": "Imitation Of Life",
       "url": "https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Songs From An American Movie: Learning How To Smile",
+        "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
     },
     {
       "added_at": "2023-01-18 21:26:30",

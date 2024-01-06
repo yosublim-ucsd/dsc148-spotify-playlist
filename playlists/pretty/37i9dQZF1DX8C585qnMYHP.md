@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best Experimental music by independent artists and labels in 2023, with Maral on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,806 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,885 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Fascinating Rhythm Remix](https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6) | [Janon Panic Push](https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb) | [Fascinating Rhythm](https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu) | 3:23 |
 | 100 | [Don't Know What You Are Thinking](https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa) | [Serge Geyzel](https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy) | [As Fallen Leaves](https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3) | 4:59 |
 
-Snapshot ID: `MCw5NDA5YmJkYTgxM2YyYjNlNjI5ZDgwMzcyZjAzZTEzZmNiMjg0YTA3`
+Snapshot ID: `MCw2ZDRhMWMxYzAwYzk5ZjFhNjhiZmY3ZjQyMWQ1NmYyMWZlNjI1M2Zk`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 110750,
+  "num_followers": 110800,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWVlZDA4ZTU5MTgwNWUzMTBiMzA2MmIyZjEyNDhlMDg1NWE5N2I5",
+  "snapshot_id": "MCw0Y2U3MzBkMjIzYWFjNzEyZmU2YzkzMDczOWM4ODc2Mzg4NjFjZjI0",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 226125,
-      "name": "Y Com\u00f3 Te Olvido",
-      "url": "https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 233000,
       "name": "Otra Vida",
       "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Y Com\u00f3 Te Olvido",
+      "url": "https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Un Hombre Nuevo",
-        "url": "https://open.spotify.com/album/3bIJjK2zPTcPpi13Gnvs4Z"
-      },
-      "artists": [
-        {
-          "name": "La Estructura",
-          "url": "https://open.spotify.com/artist/3NKAZv5HQxhNZfDl3VIQpF"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "Contigo Safo",
-      "url": "https://open.spotify.com/track/63DlXPydg4aZqNQ4emXle1"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 244727,
       "name": "El Anticuado",
       "url": "https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Un Hombre Nuevo",
+        "url": "https://open.spotify.com/album/3bIJjK2zPTcPpi13Gnvs4Z"
+      },
+      "artists": [
+        {
+          "name": "La Estructura",
+          "url": "https://open.spotify.com/artist/3NKAZv5HQxhNZfDl3VIQpF"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Contigo Safo",
+      "url": "https://open.spotify.com/track/63DlXPydg4aZqNQ4emXle1"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Frijoles Con Panela",
-      "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 230880,
       "name": "Si Me Hubieras Oido",
       "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Frijoles Con Panela",
+      "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
     },
     {
       "added_at": "2022-05-25 16:50:02",

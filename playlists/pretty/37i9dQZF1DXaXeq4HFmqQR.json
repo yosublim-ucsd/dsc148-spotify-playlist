@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl",
+  "snapshot_id": "MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Keep Trying",
-        "url": "https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee"
-      },
-      "artists": [
-        {
-          "name": "Glo Herrera",
-          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
-        },
-        {
-          "name": "Solosiberia",
-          "url": "https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Keep Trying",
-      "url": "https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Qui\u00e9n me va a Cuidar",
         "url": "https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 202814,
       "name": "Qui\u00e9n me va a Cuidar",
       "url": "https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Keep Trying",
+        "url": "https://open.spotify.com/album/6pY6BetCFdtRiaIGN5v7Ee"
+      },
+      "artists": [
+        {
+          "name": "Glo Herrera",
+          "url": "https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57"
+        },
+        {
+          "name": "Solosiberia",
+          "url": "https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Keep Trying",
+      "url": "https://open.spotify.com/track/4dAb5SYXihtnPpKfZKuI1N"
     },
     {
       "added_at": "2023-11-29 12:15:00",

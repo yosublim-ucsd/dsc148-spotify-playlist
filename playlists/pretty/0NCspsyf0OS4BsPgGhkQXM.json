@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2050874,
+  "num_followers": 2050856,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQzODMsYjBhNzM2NWUyM2EzYzk1OGMxMTgyMjBjNjdkYzFhYjhmYjQxZDkwYQ==",
+  "snapshot_id": "MTQzODUsZDJjZmFlM2M1OGQ3MDcyNDc1NjU4M2EyY2M4MmJmMzFmNjcxM2RjYw==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -831,6 +831,26 @@
       "duration_ms": 187683,
       "name": "Bass In Yo Face",
       "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
+    },
+    {
+      "added_at": "2024-01-05 19:24:13",
+      "album": {
+        "name": "SOCAD\u00c3O",
+        "url": "https://open.spotify.com/album/6C2CXWT4GTpFoGI2qFNCFv"
+      },
+      "artists": [
+        {
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
+        },
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "duration_ms": 96947,
+      "name": "SOCAD\u00c3O",
+      "url": "https://open.spotify.com/track/4O5aR203HU1jp0z2o4ndID"
     },
     {
       "added_at": "2023-09-06 04:03:55",

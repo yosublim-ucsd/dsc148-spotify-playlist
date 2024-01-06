@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Nicki Nicole, Mesita, Emilia y Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,160 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,207 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [Aun Te Pienso](https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Aun Te Pienso](https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg) | 3:04 |
 | 8 | [Labios Prohibidos](https://open.spotify.com/track/3C8FTVfadUJBOXs4rBDb8B) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan) | [Labios Prohibidos](https://open.spotify.com/album/7ICJkLeqZ3hldbuXlGc6LC) | 3:02 |
 | 9 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 |
-| 10 | [Una más](https://open.spotify.com/track/1jhQ4a7ehYtN0XzHQ0ZTIF) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Una más](https://open.spotify.com/album/2lEaOHS4MmQfmIKDPKslPf) | 3:00 |
+| 10 | [Una más](https://open.spotify.com/track/1jhQ4a7ehYtN0XzHQ0ZTIF) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Una más](https://open.spotify.com/album/2lEaOHS4MmQfmIKDPKslPf) | 2:36 |
 | 11 | [DAHMER](https://open.spotify.com/track/75TUPR3KiMFeOZOzbL3hmo) | [Yo.Soy.Rey](https://open.spotify.com/artist/2ggzy2QfRRuHt3Slc398e9), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [DAHMER](https://open.spotify.com/album/01zIMriiZc9E9CBGrb1akb) | 2:54 |
-| 12 | [Tienen Que Bregar](https://open.spotify.com/track/0M4xwdMil2xJj26zUrOhxA) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Rsiete](https://open.spotify.com/artist/11AFqsz5YS7kc3h3jPoCJi) | [Tienen Que Bregar](https://open.spotify.com/album/5IVotOkf9N91Wfx2gNDuip) | 2:38 |
+| 12 | [Tienen Que Bregar](https://open.spotify.com/track/0M4xwdMil2xJj26zUrOhxA) | [Ñengo Flow](https://open.spotify.com/artist/2rM4AoD97GChAaXByC6nVa), [Rsiete](https://open.spotify.com/artist/11AFqsz5YS7kc3h3jPoCJi) | [Tienen Que Bregar](https://open.spotify.com/album/5IVotOkf9N91Wfx2gNDuip) | 2:38 |
 | 13 | [Ya Fue](https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Ya Fue](https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78) | 2:44 |
 | 14 | [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 |
 | 15 | [Apurale](https://open.spotify.com/track/2lWYj5CpdWXU91Tq3pU8CI) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Apurale](https://open.spotify.com/album/7LuDetAyvwOiDjbYq1KcRm) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Y la Perreo](https://open.spotify.com/track/0vgV44LbA1BiCRggiBk8bW) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Versatil Boy](https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM) | [Y la Perreo](https://open.spotify.com/album/3hyRkqqWY3XMPOw1Niyda3) | 2:36 |
 | 50 | [Wirinikini](https://open.spotify.com/track/32sbBPysflH2Os6I0DnLIY) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Wirinikini](https://open.spotify.com/album/6WUP7RWj2WrUo256AOh7W3) | 3:05 |
 
-Snapshot ID: `MCxiM2NjYjA4NzYxZWMzMzU4ZTRmYTJlNjVmM2YyMDAxNmQzZGVlODA1`
+Snapshot ID: `MCw2YTE4ZTJjOWMyNDY1YTY4MGVjNzQwOTkyMGIyYmVmMTY5ODE3Mzc0`

@@ -6227,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "c\u00e2u tr\u1ea3 l\u1eddi",
+        "url": "https://open.spotify.com/album/557GfajoFVObGtwXYgYzzK"
+      },
+      "artists": [
+        {
+          "name": "Jackie Luu",
+          "url": "https://open.spotify.com/artist/2ViWZKbmStC2IB2qCfhF3w"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243999,
+      "name": "c\u00e2u tr\u1ea3 l\u1eddi",
+      "url": "https://open.spotify.com/track/7LZ2wdYSmWFINfJ2QkVUJc"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t Gi\u1ea5c M\u01a1",
         "url": "https://open.spotify.com/album/399hoPyEOqUtIOTs56QXSV"
       },
@@ -17664,6 +17682,24 @@
       "duration_ms": 270724,
       "name": "Nhi",
       "url": "https://open.spotify.com/track/4Y9zO9HcVOPQ8rDHjmCQpX"
+    },
+    {
+      "album": {
+        "name": "Nh\u00e0 L\u00e0",
+        "url": "https://open.spotify.com/album/0ec0y0iEHDqeEsKNMXLNug"
+      },
+      "artists": [
+        {
+          "name": "Marr D",
+          "url": "https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308688,
+      "name": "Nh\u00e0 L\u00e0",
+      "url": "https://open.spotify.com/track/5AvRGexnnUw4pKc0yvWyuJ"
     },
     {
       "album": {

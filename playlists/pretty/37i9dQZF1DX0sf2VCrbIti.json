@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 2053,
+  "num_followers": 2055,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmJkMjdkZDhmNjEyZDNjNGFiOGUxZWUzMWIyM2JhNDUyMGEyN2I5",
+  "snapshot_id": "MCxmODM3ODY1MGY0MDMyZDYyOTEwOTI1NjkzM2Q3YjFlZDI1YjlmMTU5",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Victor Manuelle (3 CD Box Set)",
         "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 304640,
       "name": "Api\u00e1date de Mi",
       "url": "https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Billos Caracas Boys Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
         "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 257265,
       "name": "Me Enamoro de Ella",
       "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Ring, Ring Villancicos Navide\u00f1os Con Rondalla Y Coro Infantil Suarez",
-        "url": "https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19"
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
       },
       "artists": [
         {
-          "name": "Rondalla Y Coro Infantil Suarez",
-          "url": "https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q"
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
         }
       ],
-      "duration_ms": 183360,
-      "name": "5 Pa\u00b4 Las 12",
-      "url": "https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi"
+      "duration_ms": 192466,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Ring, Ring Villancicos Navide\u00f1os Con Rondalla Y Coro Infantil Suarez",
+        "url": "https://open.spotify.com/album/3F1y5I7WJzIlNpE6fr6Q19"
+      },
+      "artists": [
+        {
+          "name": "Rondalla Y Coro Infantil Suarez",
+          "url": "https://open.spotify.com/artist/49T57226vsQSeHWDLAdC6q"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "5 Pa\u00b4 Las 12",
+      "url": "https://open.spotify.com/track/5FmBAWbO9P6LL7BGzEhPGi"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "La Billo's y Los Melodicos de coleccion, vol.1",
         "url": "https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 157826,
       "name": "El Merecumbe",
       "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Viejo A\u00f1o",
-      "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Viejo A\u00f1o",
+      "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Billo 74",
         "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "La Maquina del Sabor '88",
-        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
-      },
-      "artists": [
-        {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Gaita Onomatop\u00e9yica",
-      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "El Poder de la M\u00fasica",
         "url": "https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 302333,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Venga un Abrazo",
+      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "La Maquina del Sabor '88",
+        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
+      },
+      "artists": [
+        {
+          "name": "Gran Coquivacoa",
+          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Gaita Onomatop\u00e9yica",
+      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -955,22 +971,6 @@
       "duration_ms": 367026,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Venga un Abrazo",
-      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
     },
     {
       "added_at": "2023-12-15 19:49:30",

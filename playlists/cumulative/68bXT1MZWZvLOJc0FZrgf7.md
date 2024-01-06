@@ -2,9 +2,9 @@
 
 ### [Dance For Days \| 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Francis Mercier, Mount Rouge, Coco
+> Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Benny Benassi
 
-533 songs - 1 day 3 hr 49 min
+534 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-03-31 |  |
 | [Feel Like Us Again](https://open.spotify.com/track/5Jl04J7RByYSqHipHI0EnN) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Feel Like Us Again](https://open.spotify.com/album/6geCWrKfZLPEExkdnIlQyG) | 3:08 | 2022-06-03 | 2022-11-05 |
 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 | 2023-04-28 | 2023-12-14 |
+| [Feel The Vibe](https://open.spotify.com/track/2iaVTieMIIck9PjuQCZm1k) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Feel The Vibe](https://open.spotify.com/album/7cP4EVH1E2pYg4pB48MW37) | 3:06 | 2024-01-05 |  |
 | [Feel Your Love](https://open.spotify.com/track/2iDAQCDTWraSqxQOYdqeh3) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Feel Your Love](https://open.spotify.com/album/1LiOpDCygTCfrafarphl1u) | 3:13 | 2023-03-31 | 2023-07-29 |
 | [feeling this bad \(v2\)](https://open.spotify.com/track/7BkRNswr9cvCJBArfJntb8) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [feeling this bad \(v2\)](https://open.spotify.com/album/6ptd8VJC3si1Bty9d0zV4F) | 2:59 | 2022-06-03 | 2022-10-29 |
 | [Feels Like Summer \- Paul Woolford Remix](https://open.spotify.com/track/1P8XfdJG2aryhpoPDDcs9n) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Feels Like Summer \(Paul Woolford Remix\)](https://open.spotify.com/album/6E2XYkFzGfTOr0AlTopBlR) | 3:26 | 2022-06-03 | 2022-10-29 |

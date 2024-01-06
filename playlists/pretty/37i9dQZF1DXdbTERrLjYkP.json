@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lili-Ann De Francesco",
-  "num_followers": 92537,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Devon Gabriella",
+  "num_followers": 92590,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTI4YzUxOTM4ZjQ3ZGI4ZWZiNzU0MTlkYWQ1M2IzNGVjMzZhNTE4",
+  "snapshot_id": "MCw2YTIzN2Y1YzI1MGZhNDNkNGFiNWNmY2EzNTEwYmUwOTg4YWI5OTg0",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "gone for good",
+        "url": "https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "gone for good",
+      "url": "https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz"
+    },
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 187839,
       "name": "guitar center",
       "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "gone for good",
-        "url": "https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 173503,
-      "name": "gone for good",
-      "url": "https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz"
     },
     {
       "added_at": "2024-01-05 05:00:00",

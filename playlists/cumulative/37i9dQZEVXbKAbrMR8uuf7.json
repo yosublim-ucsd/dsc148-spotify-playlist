@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
@@ -6514,6 +6514,24 @@
       "duration_ms": 203506,
       "name": "EL BARCO",
       "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+    },
+    {
+      "album": {
+        "name": "El Caballon",
+        "url": "https://open.spotify.com/album/33TSTx6sDGl8jHPiEYA4qK"
+      },
+      "artists": [
+        {
+          "name": "Jose Macias",
+          "url": "https://open.spotify.com/artist/4jx0jfBAhFQHlbCNsn4ITL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192256,
+      "name": "El Caballon",
+      "url": "https://open.spotify.com/track/58M9QeKKOXe8QEKx5VMMOL"
     },
     {
       "album": {
@@ -14320,7 +14338,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -14460,7 +14478,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 229276,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/02Rs1gB9idwpTtgcyciiuY"
@@ -15090,6 +15108,28 @@
       "duration_ms": 166875,
       "name": "Na Contigo",
       "url": "https://open.spotify.com/track/4cTudCF4ZCN7WHkSMbeBFT"
+    },
+    {
+      "album": {
+        "name": "Na Contigo",
+        "url": "https://open.spotify.com/album/6hFCiQTaIYDjUNSTzlYAT1"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Darmiko",
+          "url": "https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Na Contigo",
+      "url": "https://open.spotify.com/track/7hRqMwWqNIu6Z4cjdP92fB"
     },
     {
       "album": {
@@ -19542,6 +19582,24 @@
       "duration_ms": 173729,
       "name": "RoCKSTAR 2.0",
       "url": "https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr"
+    },
+    {
+      "album": {
+        "name": "ROJO",
+        "url": "https://open.spotify.com/album/6Dx6TPcunA9ilXqIqKYOjh"
+      },
+      "artists": [
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128976,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/68gFmVB5UqQPv0QRMibOGT"
     },
     {
       "album": {

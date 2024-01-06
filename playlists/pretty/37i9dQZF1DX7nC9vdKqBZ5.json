@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1531747,
+  "num_followers": 1532017,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzAwNTMzMmI2MjMzZWE0MzFiOTg3YjgzY2RhM2E1ZDQ2MTU2ZDU1",
+  "snapshot_id": "MCxiMTQxODk0MGNiYjA1ODFhNTNkNDllMWZmNzAzMzFiMjI5NWY1YTU2",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Ensaio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 198193,
       "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Ensaio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 219728,
+      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/18Gya3EEn3haiyfbGnkknk"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/4wv5kAIPTucM1bzkijtswa"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 219728,
-      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "S\u00f3 Posso Dizer",
-        "url": "https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 198765,
-      "name": "S\u00f3 Posso Dizer (S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 145304,
       "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "S\u00f3 Posso Dizer",
+        "url": "https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 198765,
+      "name": "S\u00f3 Posso Dizer (S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "\u00daltimo Romance",
         "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH"
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
       },
       "artists": [
         {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
         }
       ],
-      "duration_ms": 219611,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/5q4RQaVEcQXba0ldC6oS9s"
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 200658,
       "name": "Alto Mar - Sessions",
       "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/2mi7uRYUk8qaBvGWAuuIbH"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/5q4RQaVEcQXba0ldC6oS9s"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l"
-      },
-      "artists": [
-        {
-          "name": "Ariane Villa Lobos",
-          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
-        }
-      ],
-      "duration_ms": 206375,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
         "url": "https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 221865,
       "name": "Dif\u00edcil Acreditar - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l"
+      },
+      "artists": [
+        {
+          "name": "Ariane Villa Lobos",
+          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
+        }
+      ],
+      "duration_ms": 206375,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf"
     },
     {
       "added_at": "2023-10-13 03:00:00",

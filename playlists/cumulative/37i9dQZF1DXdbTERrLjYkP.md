@@ -2,7 +2,7 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Lili\-Ann De Francesco
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Devon Gabriella
 
 603 songs - 1 day 8 hr 2 min
 

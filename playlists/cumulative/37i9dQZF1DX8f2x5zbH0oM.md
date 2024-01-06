@@ -4,10 +4,11 @@
 
 > La playlist au\-delà des genres\. Photo : James Blake
 
-53 songs - 3 hr 15 min
+54 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [6 De La Mañana](https://open.spotify.com/track/6u2uAR3w98nDi2KBuH4oBo) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb), [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [6 De La Mañana](https://open.spotify.com/album/1giPJnE8jnkO7qwNmhX01Y) | 2:51 | 2024-01-05 |  |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2023-12-07 |  |
 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2023-12-22 |  |
 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 | 2023-12-07 |  |
@@ -15,7 +16,7 @@
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-12-07 |  |
 | [Bahwai](https://open.spotify.com/track/0hfSOgINLNsRHkASA31vY7) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:45 | 2023-12-07 |  |
 | [Balut](https://open.spotify.com/track/3yeVb5di44wD6CZ2sJromR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:25 | 2023-12-07 |  |
-| [Blood On My Nikes](https://open.spotify.com/track/3vhLVllWWp1452obmga9Nz) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Athian Akec](https://open.spotify.com/artist/5nY8oNdiih1IZVTgO272oU) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:37 | 2023-12-07 |  |
+| [Blood On My Nikes](https://open.spotify.com/track/3vhLVllWWp1452obmga9Nz) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Athian Akec](https://open.spotify.com/artist/5nY8oNdiih1IZVTgO272oU) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:37 | 2023-12-07 | 2024-01-06 |
 | [Blue World°](https://open.spotify.com/track/6iFyok0sAaZKSQxTr56iov) | [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Mikano](https://open.spotify.com/artist/5fjIyLqeIPjiMPFaCOMzJb) | [Blue World°](https://open.spotify.com/album/4xKV31VUrzGae0kWWb9Gob) | 2:50 | 2023-12-07 |  |
 | [Broke My Heart \(feat\. Mallrat & Jelani Blackman\)](https://open.spotify.com/track/0uup3xjHX0c7hY5h29o7j9) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Broke My Heart \(feat\. Mallrat & Jelani Blackman\)](https://open.spotify.com/album/1tPbgJGPfKz9O4QkaIxXdU) | 3:06 | 2023-12-07 |  |
 | [Femenine](https://open.spotify.com/track/3hPVr4qMFJqnObkzACLwQ2) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Femenine](https://open.spotify.com/album/7ASEiWsgFDmEPg0e9vaAVl) | 3:03 | 2023-12-07 |  |

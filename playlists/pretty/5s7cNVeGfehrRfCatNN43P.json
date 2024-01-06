@@ -1,36 +1,220 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10599,
+  "num_followers": 10598,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjY1MixlMWVlN2E0YTc3NDQxZjQ4MDMwMWYzOTk3NjE3YTY0YTY4NTYwNWM1",
+  "snapshot_id": "MjY1NCwwYjQxMGJhOTk3NDM5ZGY4NWUyNGYyMGY4YTgwYjc0Mzk5YTdiNjgx",
   "tracks": [
     {
-      "added_at": "2023-12-22 12:15:32",
+      "added_at": "2024-01-05 12:28:05",
       "album": {
-        "name": "Ken The EP",
-        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2vcXXGsr0YDoVQF43rRd43"
       },
       "artists": [
         {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Margaret Berger",
+          "url": "https://open.spotify.com/artist/4J8wx45aOWsfkQsEt7mVV2"
         }
       ],
-      "duration_ms": 175418,
-      "name": "I\u2019m Just Ken - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/1NlrxPK5C3cPi4oUmOUMhR"
+      "duration_ms": 186466,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6fuZWKUUB5poyjkK7AglEI"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/32yxU7eHcmvnqiZ8hXPGFS"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "duration_ms": 178540,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/0LnxiZOAney6adkGRTWFPj"
+      },
+      "artists": [
+        {
+          "name": "LEONI",
+          "url": "https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "SUPERNOVA",
+      "url": "https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "You're Mine",
+        "url": "https://open.spotify.com/album/6QomH55NL4EPHxlGFzNrvq"
+      },
+      "artists": [
+        {
+          "name": "Mileo",
+          "url": "https://open.spotify.com/artist/3vXCUcFuOPgSbDJiwUlf8D"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "You're Mine",
+      "url": "https://open.spotify.com/track/5U5jl34zqRd14eLErPRvJI"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "run away girl",
+        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 230552,
+      "name": "run away girl",
+      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Love & Dr. Martens",
+        "url": "https://open.spotify.com/album/2ZDjJHUCNuoi6bfAcfy7vr"
+      },
+      "artists": [
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "duration_ms": 149289,
+      "name": "LoveLove",
+      "url": "https://open.spotify.com/track/4RI3Jc0a4A0ITbe8XzHQi3"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "IDK How To Talk To Girls",
+        "url": "https://open.spotify.com/album/6AsWIrXIJHsprEatrjLdhR"
+      },
+      "artists": [
+        {
+          "name": "Beth McCarthy",
+          "url": "https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2"
+        }
+      ],
+      "duration_ms": 160861,
+      "name": "IDK How To Talk To Girls",
+      "url": "https://open.spotify.com/track/0p3aRTHUnbMApaSnlHrRy1"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Heart on Fire",
+        "url": "https://open.spotify.com/album/2tgzuSzIWB63dSfHld2Q7C"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/3NnXrlDHcpukBUiqP1VXCK"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/2wBfxwNUQ02dA7cF56wpYp"
+      },
+      "artists": [
+        {
+          "name": "Cherie Mwangi",
+          "url": "https://open.spotify.com/artist/2o6OtnKa7NG4f11tMcsq88"
+        }
+      ],
+      "duration_ms": 120756,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/6oaE5qapv2qscVfMRR0isT"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 175157,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Damdiggida",
+        "url": "https://open.spotify.com/album/0hUgd4d2fNZ1t7GctBDl9b"
+      },
+      "artists": [
+        {
+          "name": "KEiiNO",
+          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
+        }
+      ],
+      "duration_ms": 179129,
+      "name": "Damdiggida",
+      "url": "https://open.spotify.com/track/6fdDppUORNYprByoHlOXD0"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
+    },
+    {
+      "added_at": "2024-01-05 12:28:05",
+      "album": {
+        "name": "Hungry Heart",
+        "url": "https://open.spotify.com/album/2lKs76sqJci5CvDjEyOpQJ"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 140186,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

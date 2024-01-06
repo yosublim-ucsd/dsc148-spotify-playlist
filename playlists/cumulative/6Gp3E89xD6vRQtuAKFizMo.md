@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-259 songs - 12 hr 38 min
+260 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Vamos a Beber \- Sak Noel Remix](https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Vamos a Beber \(Sak Noel Remix\)](https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW) | 3:06 | 2023-01-13 | 2023-04-01 |
 | [Villainy \(feat\. Gold & Mikey Rotten\)](https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Dr\. Ozi](https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H), [Mikey Rotten](https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m) | [Villainy \(feat\. Gold & Mikey Rotten\)](https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06) | 2:43 | 2022-08-05 | 2023-01-14 |
 | [Voices](https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Voices](https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06) | 3:15 | 2023-03-10 | 2023-05-27 |
+| [Voyage](https://open.spotify.com/track/3jBi0KsSKZrV2NrxGul0P7) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [Never Sleep](https://open.spotify.com/artist/2Aq4LjvI5svvSjk8fv6BXT) | [Voyage](https://open.spotify.com/album/2BZcJK5BwZnVsQo0YtTvRL) | 3:08 | 2024-01-05 |  |
 | [Wait For Me](https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [echod](https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 2:49 | 2023-06-09 | 2023-12-14 |
 | [Wait For You \- Radio Edit](https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Wait For You](https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w) | 2:51 | 2022-09-19 | 2023-03-18 |
 | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu) | 3:42 | 2022-07-08 | 2023-04-09 |

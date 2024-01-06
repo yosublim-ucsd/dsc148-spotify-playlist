@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Adrianne Lenker, Still Woozy, Kevin Kaarl and more...  ",
+  "description": "New music from Youth Lagoon, Still Woozy, Kevin Kaarl and more...  Cover: Big Thief",
   "name": "Front Page Indie",
   "tracks": [
     {
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 251510,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 272695,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3znKpMRCzOloTYv0uGAs22"
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 279413,
       "name": "Bags - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/3ISKxnCGKc5B9zr9CTUB3v"
@@ -4045,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "album": {
         "name": "Deep Water",
         "url": "https://open.spotify.com/album/0JY6pBW05dvd3HINVnyIQQ"
       },
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 200261,
       "name": "Boy Scout",
       "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 206243,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/2otY9sgQ9MTGBOs96fJBtX"
@@ -8145,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "don't let me take my time",
+        "url": "https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in"
+      },
+      "artists": [
+        {
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "don't let me take my time",
+      "url": "https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq"
+    },
+    {
+      "album": {
         "name": "Don't Talk About It",
         "url": "https://open.spotify.com/album/2fKK14lYN56BHfK12Ex7oM"
       },
@@ -8174,7 +8210,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 190292,
       "name": "DON'T YOU THINK IT'D BE NICE ?",
       "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
@@ -8560,7 +8596,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
@@ -14784,7 +14820,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 230400,
       "name": "I Just Want To Wake Up With You",
       "url": "https://open.spotify.com/track/4VbxqW1m5lNy15fa6o22fO"
@@ -15110,7 +15146,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 279773,
       "name": "I Touch",
       "url": "https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV"
@@ -16668,7 +16704,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 219598,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
@@ -18184,7 +18220,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
@@ -18570,7 +18606,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
@@ -19490,7 +19526,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 388615,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc"
@@ -19928,7 +19964,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6"
@@ -24344,7 +24380,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
@@ -26402,7 +26438,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 134036,
       "name": "Sadie Hawkins Prom",
       "url": "https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h"
@@ -26424,7 +26460,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 217849,
       "name": "Safe House",
       "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
@@ -29132,7 +29168,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 362973,
       "name": "Stop Waiting",
       "url": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
@@ -29656,7 +29692,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 217293,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
@@ -30112,7 +30148,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 203516,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh"
@@ -30676,7 +30712,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 167293,
       "name": "The Deceiving",
       "url": "https://open.spotify.com/track/3GXVVxYAL6sTG8ICC6pD9R"
@@ -30810,7 +30846,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 242906,
       "name": "The Freedom to Fuck Off",
       "url": "https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K"
@@ -30922,7 +30958,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
@@ -31492,7 +31528,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
@@ -34894,7 +34930,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 214072,
       "name": "When You Want Me - noah's version",
       "url": "https://open.spotify.com/track/3hDmyFkwoZTFgwjlZw84In"

@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1845870,
+  "num_followers": 1846206,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTRjMjc0NjUzMmM5ZDM3YTc1ZmMwMzU0MmY1NjIwZTQwM2UzMDcy",
+  "snapshot_id": "MCw1MDg5YmMyNjQ5NjA4OTBjYTNmNTg3NmRiMjQxNmExYTRiM2Y2YmQz",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
       },
       "artists": [
         {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
+      "duration_ms": 189706,
+      "name": "Brackish",
+      "url": "https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 193200,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Brackish",
-      "url": "https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Animosity",
         "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
     },
     {
       "added_at": "2023-05-16 09:14:45",

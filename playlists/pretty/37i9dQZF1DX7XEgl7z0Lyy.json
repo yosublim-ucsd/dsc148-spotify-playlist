@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 270010,
+  "num_followers": 271277,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWNkOGU3NjU0MmE1ODM0MmM5ZGRhYjViNTE3MzY1ZDYzNDQwNmQ3",
+  "snapshot_id": "MCxhNmE3YjM2NjA2MWUyY2Y1ZTgwN2IzYTUyZDFlOGVlMWM1ZDI5ZDgy",
   "tracks": [
     {
       "added_at": "2023-12-28 18:33:26",
@@ -25,6 +25,42 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "digital heart",
+        "url": "https://open.spotify.com/album/6zEqiFRN9gaANjKiuHh2AG"
+      },
+      "artists": [
+        {
+          "name": "almogfx",
+          "url": "https://open.spotify.com/artist/099h113YJ299YZfyIEDncL"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "duration_ms": 108091,
+      "name": "digital heart",
+      "url": "https://open.spotify.com/track/27eH1rpWsmRqt2NW4vMXJW"
+    },
+    {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "KRUSHFUNK",
+        "url": "https://open.spotify.com/album/3lrR3UwDlWftcazfxRrBS7"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 82008,
+      "name": "LOOKIN FOR YA",
+      "url": "https://open.spotify.com/track/2dcdT5V0ZdxMABFjlWRnuJ"
+    },
+    {
       "added_at": "2023-12-27 17:38:14",
       "album": {
         "name": "I'm so crazy for youuu </3",
@@ -41,20 +77,40 @@
       "url": "https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg"
     },
     {
-      "added_at": "2023-12-08 13:44:00",
+      "added_at": "2024-01-05 15:43:22",
       "album": {
-        "name": "DOOR TO DUSK",
-        "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
+        "name": "LIGHTS OFF TONIGHT",
+        "url": "https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "VXJOKING",
+          "url": "https://open.spotify.com/artist/07LIt5dV6tfrBPJhRdB1lM"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
         }
       ],
-      "duration_ms": 142016,
-      "name": "DOOR TO DUSK",
-      "url": "https://open.spotify.com/track/0TGArkMCrtF5KaRT7ZvNHu"
+      "duration_ms": 90581,
+      "name": "LIGHTS OFF TONIGHT",
+      "url": "https://open.spotify.com/track/0Xsrwyt3rLpGCJb7IWB0NA"
+    },
+    {
+      "added_at": "2023-12-14 18:51:48",
+      "album": {
+        "name": "WHAT YOU WANT!",
+        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 122414,
+      "name": "WHAT YOU WANT!",
+      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
       "added_at": "2023-11-08 18:50:26",
@@ -71,6 +127,50 @@
       "duration_ms": 125769,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
+    },
+    {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "ODECORE CLUB MIX",
+        "url": "https://open.spotify.com/album/1GZ30wToQiw1pjUR9NibpI"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "ProdByAbnormal",
+          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
+        },
+        {
+          "name": "HR",
+          "url": "https://open.spotify.com/artist/38ZQrgYBsGB0Nx4iRu8KPL"
+        }
+      ],
+      "duration_ms": 89600,
+      "name": "BORDERLINE PERSONALITY DISORDER - CLUB MIX",
+      "url": "https://open.spotify.com/track/0q9nAzxAkkW2Pt4EfG5kSt"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -93,22 +193,6 @@
       "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
     },
     {
-      "added_at": "2023-12-14 18:51:48",
-      "album": {
-        "name": "WHAT YOU WANT!",
-        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 122414,
-      "name": "WHAT YOU WANT!",
-      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
-    },
-    {
       "added_at": "2023-11-20 18:28:40",
       "album": {
         "name": "F\u039bSHION (Slow + Speed Up Edit)",
@@ -123,6 +207,22 @@
       "duration_ms": 126102,
       "name": "F\u039bSHION - Speed Up",
       "url": "https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3"
+    },
+    {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/21ybrq6nSnZLmARNUkurgs"
+      },
+      "artists": [
+        {
+          "name": "Xdree",
+          "url": "https://open.spotify.com/artist/17Yti8tBhhUiZ7UlVXFBcT"
+        }
+      ],
+      "duration_ms": 116970,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7J80jpbKwYn9SM6kMT5W4n"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -149,20 +249,36 @@
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-12-08 13:44:00",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+        "name": "DOOR TO DUSK",
+        "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
       },
       "artists": [
         {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+      "duration_ms": 142016,
+      "name": "DOOR TO DUSK",
+      "url": "https://open.spotify.com/track/0TGArkMCrtF5KaRT7ZvNHu"
+    },
+    {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "feel the same",
+        "url": "https://open.spotify.com/album/6nOkaB0oVdfsSSoUI4a4mU"
+      },
+      "artists": [
+        {
+          "name": "cyberia",
+          "url": "https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE"
+        }
+      ],
+      "duration_ms": 123441,
+      "name": "feel the same",
+      "url": "https://open.spotify.com/track/0ujM0V6C7c6kaUoblQmPXR"
     },
     {
       "added_at": "2023-12-01 15:48:54",
@@ -179,6 +295,22 @@
       "duration_ms": 192000,
       "name": "Untitled #13 (Super Slowed)",
       "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
+    },
+    {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "arms up",
+        "url": "https://open.spotify.com/album/2DLskjVNI8EXZJMGY7k261"
+      },
+      "artists": [
+        {
+          "name": "Universe",
+          "url": "https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW"
+        }
+      ],
+      "duration_ms": 137443,
+      "name": "arms up",
+      "url": "https://open.spotify.com/track/30SoxxKeJJGsH5tJ3yOk8B"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -311,6 +443,30 @@
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
+      "added_at": "2024-01-05 15:43:22",
+      "album": {
+        "name": "Johnny Cage",
+        "url": "https://open.spotify.com/album/22SOaZwV8FOFpYHo0PNkRu"
+      },
+      "artists": [
+        {
+          "name": "Psycho Playa",
+          "url": "https://open.spotify.com/artist/6vgsydvkLbW9XUXBVa1hp3"
+        },
+        {
+          "name": "SH3TLVIZ",
+          "url": "https://open.spotify.com/artist/6cxRauJcPDwlZhQAXBSaTk"
+        },
+        {
+          "name": "Pxlsdead",
+          "url": "https://open.spotify.com/artist/0708QtKCLRZhe45dRbAoNK"
+        }
+      ],
+      "duration_ms": 117768,
+      "name": "Johnny Cage",
+      "url": "https://open.spotify.com/track/0iDWwH0Li2ivrcmF3oKs7s"
     },
     {
       "added_at": "2023-09-22 04:00:00",

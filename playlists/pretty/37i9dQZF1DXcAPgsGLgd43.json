@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3747,
+  "num_followers": 3756,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRlMmI0M2ViMWUyZjI4ZDg4ZjU3MmQ4NzI5NDBhYTY4OTI0ZmFi",
+  "snapshot_id": "MCwyYzM0ZWVmNWY5MzE3OTM2ODA5YzM0MzI4MWQ0NmQ2ZmE4OTBiNjM3",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 225116,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "T\u00f3cate",
         "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 190393,
       "name": "T\u00f3cate",
       "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 225116,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Ecua",
-      "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Canutito",
         "url": "https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 206962,
       "name": "Canutito",
       "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Ecua",
+      "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Esta Pegao",
-        "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
-      },
-      "artists": [
-        {
-          "name": "Carloh",
-          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Esta Pegao",
+        "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
+      },
+      "artists": [
+        {
+          "name": "Carloh",
+          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
     },
     {
       "added_at": "2024-01-05 05:00:00",

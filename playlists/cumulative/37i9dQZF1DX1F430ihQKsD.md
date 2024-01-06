@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Cédrik St\-Onge
+> Montréal’s music scene, front and centre\. Cover: Born At Midnite
 
-411 songs - 23 hr 46 min
+412 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Nice Try](https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Nice Try](https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV) | 3:22 | 2022-06-03 | 2022-07-02 |
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-29 | 2022-08-27 |
 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 | 2022-03-25 | 2022-07-23 |
-| [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-11 |  |
+| [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-11 | 2024-01-06 |
 | [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2023-04-21 |  |
 | [Nothing Less, Nothing More](https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Run up River](https://open.spotify.com/album/3HXVfCJIxqcphgtwxSMvtd) | 4:19 | 2022-03-25 | 2022-04-16 |
 | [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-09-15 | 2023-10-28 |
@@ -406,6 +406,7 @@
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 | 2022-05-28 |
 | [What It Is](https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [What It Is](https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym) | 1:58 | 2023-03-17 | 2023-08-26 |
 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 | 2023-01-27 | 2023-11-18 |
+| [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 | 2024-01-05 |  |
 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 | 2022-03-25 | 2023-02-18 |
 | [Without You](https://open.spotify.com/track/2XfmOPlZzdmSqw8IkkQ5e9) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Without You](https://open.spotify.com/album/2jCR4qFSK6U0tgDQP88CFK) | 2:54 | 2023-09-29 |  |
 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 | 2022-09-30 | 2023-11-18 |

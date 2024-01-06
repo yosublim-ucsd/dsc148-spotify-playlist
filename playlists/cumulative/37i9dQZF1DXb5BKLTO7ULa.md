@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: FLEMMING, Zoë Tauran en Ronnie Flex
 
-4,374 songs - 9 day 13 hr 33 min
+4,376 songs - 9 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2299,6 +2299,7 @@
 | [Lost You to a Boy](https://open.spotify.com/track/3msE1wzzC277wpbWfFSxMZ) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Lost You to a Boy](https://open.spotify.com/album/2iG9IAiMMswiP6Xd8NThV8) | 3:23 | 2023-05-04 | 2023-05-12 |
 | [Louis Vitty](https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Louis Vitty](https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O) | 3:38 | 2023-09-14 | 2023-09-22 |
 | [Love & Light](https://open.spotify.com/track/2tCW51NHWQmOCW2Yto4Web) | [Indian Askin](https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6) | [Love & Light](https://open.spotify.com/album/3ISa02QVkjbi6ybVOxTudV) | 3:06 | 2023-07-13 | 2023-07-21 |
+| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-01-05 |  |
 | [Love Actually \- Edit](https://open.spotify.com/track/1NSypq9r3pQwoEVcsH3MRa) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Love Actually](https://open.spotify.com/album/3JT8wATRJTZc5yhWIGVYPQ) | 3:38 | 2023-12-01 | 2023-12-09 |
 | [Love For Love](https://open.spotify.com/track/4nfXHdRAn7GOcW6LzHxMpZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Love For Love](https://open.spotify.com/album/7xlJk5LPhEPieZzRddkdOp) | 2:51 | 2023-03-30 | 2023-04-07 |
 | [Love For You](https://open.spotify.com/track/5wCnl79MrLUCNUtfHhAnXZ) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Love For You](https://open.spotify.com/album/5HFHP0MQDo666OXVUj3i4I) | 3:18 | 2023-03-17 | 2023-03-25 |
@@ -3335,6 +3336,7 @@
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-06-09 |
 | [Situatie](https://open.spotify.com/track/4RPDjZRczGVuBqdabZSQQT) | [FARAO](https://open.spotify.com/artist/5Ckvy2QqS5gUPOiPzCaXSm) | [Situatie](https://open.spotify.com/album/2S7A8fdg8qBHYt6RfNpcdE) | 2:08 | 2023-07-06 | 2023-07-14 |
 | [SKIMASKER](https://open.spotify.com/track/6tDKoG47o5zgTicoG3rd6P) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [SKIMASKER](https://open.spotify.com/album/62RdjvipugjSiyRS1TCd1f) | 2:51 | 2023-08-03 | 2023-08-11 |
+| [Skims](https://open.spotify.com/track/31yg6sxD3CKn5KfJxw9SUW) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Skims](https://open.spotify.com/album/7cbLBr6UAXKQ6QQmOQ4wVm) | 3:02 | 2024-01-05 |  |
 | [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:48 | 2023-12-01 | 2023-12-09 |
 | [Skinfade](https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [M1onTheBeat The Mixtape](https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL) | 2:02 | 2023-11-24 | 2023-12-02 |
 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 | 2023-08-24 | 2023-09-01 |

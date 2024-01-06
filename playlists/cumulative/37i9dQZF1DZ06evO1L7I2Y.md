@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 57 min
+35 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Respeito É Pra Quem Tem](https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Respeito É Pra Quem Tem](https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE) | 3:54 | 2023-12-30 |  |
 | [Rock Danger Brasil Grime Show \- Big Bllakk X N.I.N.A](https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [diniBoy](https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Rock Danger Brasil Grime Show \- Big Bllakk X N.I.N.A](https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5) | 5:52 | 2023-12-30 |  |
 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 | 2023-12-30 |  |
-| [Stephen King](https://open.spotify.com/track/6vM1FPqGxt1sQlI2ScEkfy) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2mKT9CA3s1pt9NMQNW7EV8) | 2:44 | 2023-12-30 |  |
+| [Stephen King](https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2SixEfADecvtERCCUXwQej) | 2:44 | 2024-01-05 |  |
+| [Stephen King](https://open.spotify.com/track/6vM1FPqGxt1sQlI2ScEkfy) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2mKT9CA3s1pt9NMQNW7EV8) | 2:44 | 2023-12-30 | 2024-01-06 |
 | [Stop Time](https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [40˚.40](https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2) | 2:39 | 2023-12-30 |  |
 | [Teve uma garota](https://open.spotify.com/track/1ObqgVJGDGfwnbyeeLax4K) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:48 | 2024-01-02 |  |
 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 | 2023-12-30 |  |

@@ -2,9 +2,9 @@
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: Drake
+> Chillout hip\-hop vibes\. Cover: Bas
 
-732 songs - 1 day 15 hr 24 min
+733 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Everything We Did](https://open.spotify.com/track/7jbc6jkT3r6POZgNIcypPZ) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Free Samples, Vol\. 2](https://open.spotify.com/album/1WCxL49gWJL2TxE2sPVhL8) | 3:31 | 2023-09-29 |  |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2023-11-17 |  |
 | [Expensive Pain](https://open.spotify.com/track/7eDkIDGKVe5B5RmTiEPiXJ) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:33 | 2021-10-01 | 2022-06-11 |
+| [Ezekiel's Wheel](https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Ezekiel's Wheel](https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M) | 3:55 | 2024-01-05 |  |
 | [F.W.M](https://open.spotify.com/track/33Ba6nE6xkamo3JdqCnzTy) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [F.W.M](https://open.spotify.com/album/5gTGx42YeUNsCndd3Pzu8K) | 2:09 | 2023-05-26 | 2023-06-10 |
 | [Face It](https://open.spotify.com/track/3k2siE5234rEIV52ltcIYY) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Face It](https://open.spotify.com/album/568W7PktRYaxj5xsVylE3s) | 3:53 | 2021-11-12 | 2022-04-16 |
 | [FACES \- but like the one the label made me do](https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FACES](https://open.spotify.com/album/2ud0Zdgl2DkKXFbdMN2Eef) | 1:57 | 2022-08-19 | 2023-01-06 |
@@ -361,7 +362,7 @@
 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 | 2023-04-28 | 2023-06-03 |
 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 | 2022-06-17 | 2022-11-19 |
 | [IT BE LIKE THAT](https://open.spotify.com/track/6eEdxS61Sc4ZbBRq2UgPN2) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 4:19 | 2022-12-16 | 2023-02-11 |
-| [IT IS WHAT IT IS](https://open.spotify.com/track/6SmmBWGRRoRJVpBNum6aOt) | [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [IT IS WHAT IT IS](https://open.spotify.com/album/7s4OS2EKUmmEgwqG0KGjIJ) | 2:24 | 2023-06-02 |  |
+| [IT IS WHAT IT IS](https://open.spotify.com/track/6SmmBWGRRoRJVpBNum6aOt) | [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [IT IS WHAT IT IS](https://open.spotify.com/album/7s4OS2EKUmmEgwqG0KGjIJ) | 2:24 | 2023-06-02 | 2024-01-06 |
 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 | 2022-04-29 | 2022-10-29 |
 | [Jerry Curl \(feat\. Larry June\)](https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Jerry Curl \(feat\. Larry June\)](https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb) | 3:14 | 2022-04-08 | 2022-12-10 |
 | [JET\-LAGGED \(feat\. Dessy Hinds\)](https://open.spotify.com/track/3eb0YWYjZve514IGnh14FJ) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Aaron Rose](https://open.spotify.com/artist/1IY0Lt7LmEXwWOrD4vpkxe), [Dessy Hinds](https://open.spotify.com/artist/6t1fFxQU1MsTjxteXhBNgl) | [JET\-LAGGED \(feat\. Dessy Hinds\)](https://open.spotify.com/album/200JG0yd1VQruQkuFK7tQV) | 2:12 | 2023-04-07 | 2023-05-27 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTk0OTMzY2VhYTI4NTliNTcwZTExM2RjMWUxNTlkNGZkOWQwN2Mw",
+  "snapshot_id": "MCxhZmI3NTJkNzM2M2U1ZGIxZjAzMTJkNTg2MDVmZTI0MmViOGMyMDMy",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "20 \u00c9xitos 20 Aniversario",
-        "url": "https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB"
-      },
-      "artists": [
-        {
-          "name": "Mu\u00f1equitas Elizabeth",
-          "url": "https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS"
-        }
-      ],
-      "duration_ms": 67120,
-      "name": "Tres Pecesitos",
-      "url": "https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Ralph's World",
         "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 169440,
       "name": "Drivin' in My Car",
       "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "20 \u00c9xitos 20 Aniversario",
+        "url": "https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1equitas Elizabeth",
+          "url": "https://open.spotify.com/artist/1SyPH4ZiGzMG2nBSdX0VwS"
+        }
+      ],
+      "duration_ms": 67120,
+      "name": "Tres Pecesitos",
+      "url": "https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Moey's Music Party",
-        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
-      },
-      "artists": [
-        {
-          "name": "Moey",
-          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
-        }
-      ],
-      "duration_ms": 129560,
-      "name": "I Always Sit When I Eat",
-      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "English Pitinglish",
         "url": "https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 93812,
       "name": "Snack Time (Juice and Cookies)",
       "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+      },
+      "artists": [
+        {
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+        }
+      ],
+      "duration_ms": 129560,
+      "name": "I Always Sit When I Eat",
+      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
+        "name": "Sesame Street: Getting Ready for School",
+        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
       "artists": [
         {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Gordon",
+          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
         }
       ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
+      "duration_ms": 103147,
+      "name": "Exercise Time",
+      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
     }
   ],
   "unique_name": "Daily Rutina",

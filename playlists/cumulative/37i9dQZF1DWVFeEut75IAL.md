@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-118 songs - 7 hr 22 min
+119 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Little Book of Hours: VI\. Singing Sun](https://open.spotify.com/track/3WXj9zWNL8X03WiC1muLZ6) | [Peter Sculthorpe](https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J), [Elena Riu](https://open.spotify.com/artist/2Jhg4utIpCsER3JKSUnF7F) | [Piano Icons for the 21st Century](https://open.spotify.com/album/22I1sZRP58rrFPBwQxK2JL) | 1:43 | 2021-11-15 | 2022-07-29 |
 | [Abendlied, Op\. 85 No\. 12 \(Arr\. Grosvenor\)](https://open.spotify.com/track/0nJzrxHup9vkQyc9Eg698s) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Schumann & Brahms](https://open.spotify.com/album/4BGkbzqf7R95Ce9lrSzflR) | 3:27 | 2023-03-17 |  |
 | [Adagio in D Minor, BWV 974: II\. Adagio](https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Bach: Concertos italiens](https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F) | 4:13 | 2021-11-15 | 2022-07-29 |
+| [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 | 2024-01-05 |  |
 | [An Idea](https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Zsófia Boros](https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c) | [En Otra Parte](https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW) | 2:38 | 2022-01-26 |  |
 | [An Unwelcome Friend \(Arr\. M\. Riesman & N\. Muhly for Solo Piano\)](https://open.spotify.com/track/4o7Cql3n8VEsFPk7uVcdYb) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Nicolas Horvath](https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB) | [Philip Glass: Glassworlds, Vol\. 4 – On Love](https://open.spotify.com/album/4zicFDbhTML35sgtkA6klb) | 4:16 | 2021-11-15 | 2022-07-29 |
 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/518hKWxnCK1L1fsYRl0OB5) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Sheku Kanneh\-Mason](https://open.spotify.com/album/59gnfcIkUBrYpXwsN5YWax) | 2:56 | 2021-11-15 |  |

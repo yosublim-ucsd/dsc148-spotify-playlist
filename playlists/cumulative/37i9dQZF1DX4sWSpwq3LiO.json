@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Adieux",
+        "url": "https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175492,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq"
+    },
+    {
+      "album": {
         "name": "Aegean Fantaisie",
         "url": "https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY"
       },

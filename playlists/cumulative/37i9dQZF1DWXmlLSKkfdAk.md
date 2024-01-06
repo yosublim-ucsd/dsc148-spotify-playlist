@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-320 songs - 19 hr 26 min
+321 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,8 @@
 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 | 2022-07-27 |  |
 | [We Can't Stop \(feat\. Bea Miller\)](https://open.spotify.com/track/2PVU8zHILp6jK4Q7W6rkz8) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Collaborations, Vol\. 2](https://open.spotify.com/album/7b6ysbFfaxitbyERtugMcy) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5dSiMAfH0yR7lFkhkeR9IA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 3:42 | 2021-11-12 | 2022-07-29 |
-| [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 3:42 | 2022-07-27 |  |
+| [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 3:42 | 2022-07-27 | 2024-01-06 |
+| [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/670QRS1t9T5bzDpOUT16UF) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb) | 3:42 | 2023-10-23 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-29 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3yL1vUNanfnmfi9QTkNmPf) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/2F6StwXLAAwdqRFD320lNE) | 5:25 | 2022-07-27 | 2022-07-29 |
 | [What Do You Mean / Where Are Ü Now \(Acoustic Mashup\) \[feat\. Kaya May\]](https://open.spotify.com/track/2p0SmPbFXRfJAU9EYqaNX4) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [What Do You Mean / Where Are Ü Now \(Acoustic Mashup\) \[feat\. Kaya May\]](https://open.spotify.com/album/3o9xQjnwRpbEfVDix0gpIa) | 3:36 | 2021-11-12 |  |

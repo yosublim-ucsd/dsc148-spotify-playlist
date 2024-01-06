@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- AUR
 
-653 songs - 1 day 11 hr 26 min
+656 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Haal Mera](https://open.spotify.com/track/1JCnY8ozMCff43ZAbCz3Pa) | [Abdullah Sajid Munir](https://open.spotify.com/artist/5TMJxcFV7qbMcahenIuLgv) | [Haal Mera](https://open.spotify.com/album/6AKXnb0ZfBbX3qH22ttQLa) | 2:48 | 2022-09-23 | 2023-01-11 |
 | [haaray](https://open.spotify.com/track/6HlvOvKDzPufgj9dhnlEkI) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [haaray](https://open.spotify.com/album/6LJG4mMK5Ahw94MrMvucx5) | 2:40 | 2023-06-09 |  |
 | [Haaye](https://open.spotify.com/track/4l8LmBbpkPSHqTPDyCWyKe) | [Numan Ahmed](https://open.spotify.com/artist/39PADEbNWbCf6hPIXu1BJz), [Majid Harris](https://open.spotify.com/artist/4ngRyxJ6ATsAax77HeAXA4) | [Haaye](https://open.spotify.com/album/0pZoyotOpwY1AuJAYs84kH) | 2:50 | 2023-05-19 | 2023-10-24 |
+| [Hai Qubool \(Dastakhat\)](https://open.spotify.com/track/5eRWQoC3Df2OmlZho4F7Y5) | [Adeel Ahmed](https://open.spotify.com/artist/4EggOBj94wNxaWXlKP2LaL) | [Hai Qubool \(Dastakhat\)](https://open.spotify.com/album/0Rjmymp1ocoIalgTtVntfb) | 2:22 | 2024-01-05 |  |
 | [Hamari](https://open.spotify.com/track/67xVBSXBy7QXDMafOKj5D2) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Hamari](https://open.spotify.com/album/6JcX3H3h6JC0naU0KEpVOM) | 5:05 | 2023-05-05 | 2023-06-10 |
 | [Hamari](https://open.spotify.com/track/6idIYsENl6JmD4is0NgNxG) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [TALISMAN](https://open.spotify.com/album/5qak9zAgqiUAWZcRE5z1ID) | 5:05 | 2023-11-29 | 2024-01-05 |
 | [Haneray](https://open.spotify.com/track/0mbZSWd409i0ZC2ZR7edUX) | [M U S T I](https://open.spotify.com/artist/3W5hmQOCGIdqChBmGlJ37X) | [Haneray](https://open.spotify.com/album/5iHxR12vK0aVVYb6jKqADd) | 2:49 | 2023-03-21 | 2023-05-06 |
@@ -281,6 +282,7 @@
 | [Jane Kahan](https://open.spotify.com/track/485iCfyFr7S4A9cCXc4aBB) | [Bakhtawar Ghaffar](https://open.spotify.com/artist/6x9brSsOB4jz5GOfThvp8p), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Jane Kahan](https://open.spotify.com/album/15YCbiBByTmTnKKFzRySjJ) | 3:25 | 2023-10-12 | 2023-11-11 |
 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 | 2023-07-01 | 2024-01-05 |
 | [Je Jun](https://open.spotify.com/track/7pRAk3IrK4JGFwp7KqZAot) | [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Tun Tun Shah](https://open.spotify.com/artist/5Bsdv5NacH5n4KuZxZ5Adh) | [Je Jun](https://open.spotify.com/album/5XYqCZ3fUWiR2ZKFDR8OqX) | 4:48 | 2022-10-26 | 2022-11-18 |
+| [Je Pata Hunda](https://open.spotify.com/track/4sv3qILxSdEtZUxXb9nu5d) | [Nimra Mehra](https://open.spotify.com/artist/54CllblgtvRRY3etlxRSq2) | [Je Pata Hunda](https://open.spotify.com/album/6eJTlkrbCTnJfoXJTdcLjc) | 2:50 | 2024-01-05 |  |
 | [Jee Le Zindagi](https://open.spotify.com/track/2dGLf1chjCx1pUltOtPxYd) | [Fazeel Khan](https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h) | [Jee Le Zindagi](https://open.spotify.com/album/7MMVHPBXzTcZIdnxbVhDH2) | 3:58 | 2022-08-27 | 2023-01-11 |
 | [Jee Raha](https://open.spotify.com/track/5OeXsh9vF0dTopMNsbIshJ) | [Abdul Mutaal](https://open.spotify.com/artist/2kG4yK5bsWlIrx57FdcU45) | [Jee Raha](https://open.spotify.com/album/5YeAkgGUtI1mT3SHv7K3Lb) | 4:21 | 2022-11-30 | 2023-01-11 |
 | [Jeena](https://open.spotify.com/track/5oPD9odR2lGRZaowzaFj3P) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Faisal Akhtar](https://open.spotify.com/artist/0b3YoxB1caYmzvFgoUXhPR) | [Jeena](https://open.spotify.com/album/5y4ttJAgZgZGFBQZNiBqPM) | 3:19 | 2023-03-21 | 2023-05-06 |
@@ -441,6 +443,7 @@
 | [Paharhon ke Paar](https://open.spotify.com/track/0JGaTpmvEXx6iif1ox08AK) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Paharhon ke Paar](https://open.spotify.com/album/0RpEGrXzezfhCUEmIwie6v) | 4:53 | 2023-03-21 | 2023-05-06 |
 | [Paharhon Mein](https://open.spotify.com/track/3NaJ0ZxYCbj5T6mkyJpuAe) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Paharhon Mein](https://open.spotify.com/album/22ISgT44pipHPaB5Jece5n) | 4:01 | 2023-01-25 | 2023-05-06 |
 | [Pal](https://open.spotify.com/track/3tI0Euz64BIr3kgDog50fD) | [Ushbah](https://open.spotify.com/artist/655QV8PO7Uw4h4a80ILziZ), [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR) | [Pal](https://open.spotify.com/album/2JuLq3eGmmx1C9vW1DWjxY) | 2:52 | 2022-10-26 | 2022-11-18 |
+| [Par Tum Aaey Nahi](https://open.spotify.com/track/6aPDRyhFFkH1t6fPBmuUOs) | [The Haider](https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr) | [Par Tum Aaey Nahi](https://open.spotify.com/album/5dXgjlBEAy2fqR4lnQzFik) | 2:35 | 2024-01-05 |  |
 | [Paranda](https://open.spotify.com/track/4tQKK5bMMijAIAgw4pVjco) | [M.ZHE](https://open.spotify.com/artist/3nXDbdPReqnEgsDUkEhWm7), [Aqeel Sarfraz](https://open.spotify.com/artist/6CW8UegtO5lusbdu1XPwmU), [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Paranda](https://open.spotify.com/album/2YI1bm0Zpxx8DSdh3CFRL0) | 2:50 | 2023-03-21 | 2023-05-06 |
 | [paraya](https://open.spotify.com/track/274zwziudqNmktxN4XidD8) | [Haider Omar](https://open.spotify.com/artist/3IMy2LO7SvsZRz9xwa309o) | [paraya](https://open.spotify.com/album/0QPe9vgRdwCUBUXkLqQwfg) | 3:25 | 2022-11-17 | 2022-12-01 |
 | [Parday !](https://open.spotify.com/track/6BHo4ppR8EIAbL4ZEMg3Sv) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday !](https://open.spotify.com/album/3RTbSVCCEM2iOgWRgVIrlJ) | 3:20 | 2023-02-21 | 2023-03-22 |

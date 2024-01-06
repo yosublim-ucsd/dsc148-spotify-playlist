@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-84 songs - 3 hr 34 min
+85 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Call Me Joker](https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 4:48 | 2023-02-01 | 2023-10-05 |
 | [Cana](https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 1:39 | 2023-02-01 |  |
 | [Clean Up](https://open.spotify.com/track/6dXQxlyj1fMPhX8i7LfP4d) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 1:41 | 2023-10-01 |  |
-| [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 | 2023-09-18 |  |
+| [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 | 2023-09-18 | 2024-01-06 |
 | [Dealing With Destruction](https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 1:54 | 2023-02-01 |  |
 | [Defeated Clown](https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:39 | 2023-02-01 | 2023-12-23 |
 | [Doomsday](https://open.spotify.com/track/4yEjlrGjXSB2zPV2gQJDkD) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 0:54 | 2023-02-01 | 2023-05-20 |
@@ -39,6 +39,7 @@
 | [Examining the Body](https://open.spotify.com/track/7CKQqNXkS280sMhwLNl4Qm) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Rutger Hoedemaekers](https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Trapped \(Original Television Series Soundtrack\)](https://open.spotify.com/album/1viQQOAKk8ZwUoCq5MPFdN) | 2:19 | 2023-02-01 | 2023-06-30 |
 | [For Petra \- Vocal Version](https://open.spotify.com/track/164WPXzLdWZ1q1D8CzD0gO) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [TÁR \(MUSIC FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK) | 1:11 | 2023-02-01 | 2023-06-15 |
 | [Frá](https://open.spotify.com/track/2x8UMSNqldUMSMYdqGIc8i) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 1:22 | 2023-02-01 |  |
+| [Fólk fær andlit](https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Fólk fær andlit](https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl) | 5:13 | 2024-01-05 |  |
 | [Gallery](https://open.spotify.com/track/0GvSIY2o7974HN53WZZDIi) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:23 | 2023-02-01 |  |
 | [Good Night, Day](https://open.spotify.com/track/787h8AtrxRqDaStvCwgZZI) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 3:58 | 2023-02-01 |  |
 | [Gulf Of Somalia](https://open.spotify.com/track/3NfNWSxgGqzmiRKmldWonA) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sicario: Day of the Soldado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12QFS9IPnlICbESBw96prr) | 2:15 | 2023-08-30 | 2023-12-14 |

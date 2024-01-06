@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Alan Walker, Putri Ariani, Peder Elias
 
-8,859 songs - 20 day 5 hr 26 min
+8,862 songs - 20 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1652,6 +1652,7 @@
 | [dance](https://open.spotify.com/track/5LydD1if5g27ED6dbzWl7w) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [dance](https://open.spotify.com/album/4xApFzYPLxIqildPk6RtDu) | 3:08 | 2023-03-09 | 2023-03-18 |
 | [Dance Again](https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Dance Again](https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti) | 3:11 | 2023-12-14 | 2023-12-30 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-06-09 | 2022-06-17 |
+| [DANCE ALONE](https://open.spotify.com/track/6PaszRh6LyQatt1of8AnV2) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [DANCE ALONE](https://open.spotify.com/album/5UfbsOL9Mp3eZ6TC4cjlkq) | 3:09 | 2024-01-04 |  |
 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 | 2023-11-30 | 2023-12-08 |
 | [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 | 2023-05-11 | 2023-05-19 |
 | [Dance Dance \(feat\. Alessandra\)](https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alessandra](https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c) | [Dance Dance \(feat\. Alessandra\)](https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN) | 2:31 | 2023-01-19 | 2023-01-27 |
@@ -4454,6 +4455,7 @@
 | [Love](https://open.spotify.com/track/1jHBDv0BfjsL89RrTcM0qZ) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Love This Side of Me \- EP](https://open.spotify.com/album/3WDwV2pzR5ztznUh2whBW2) | 3:34 | 2022-12-15 | 2022-12-24 |
 | [Love & Care](https://open.spotify.com/track/20DJydWFasUXuGiNRAPLNA) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau), [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Love & Care](https://open.spotify.com/album/1GQqMT6zPFX1AiFWSsZmyd) | 3:54 | 2022-09-22 | 2022-09-30 |
 | [LOVE & LUST](https://open.spotify.com/track/0wpWfzQvmr3WNpS0hiZg6a) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [LOVE & LUST](https://open.spotify.com/album/7jgkqj8tg2NnEHNvDaNZbf) | 2:08 | 2023-08-24 | 2023-09-01 |
+| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-01-04 |  |
 | [Love Affair \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/3kKNLD9mE0l3hK2MIQ8FkN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Love Affair](https://open.spotify.com/album/0NM7anLn4eTJZe2OBeCLWH) | 2:33 | 2022-06-02 | 2022-06-10 |
 | [Love Again](https://open.spotify.com/track/7rbqMRs6SSrbTyTjFPvUwx) | [Doppelgangerz](https://open.spotify.com/artist/283bzgqvIOHd11NkNu9AQF), [Lockshire](https://open.spotify.com/artist/4OPRsHjovZjm2VbK3CI8fg) | [Love Again](https://open.spotify.com/album/6bmMhNuPm3s8z1wMxrrW92) | 2:24 | 2023-08-03 | 2023-08-11 |
 | [Love Again](https://open.spotify.com/track/0OG97KzIh6nZ3Onu16qfly) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Ocean](https://open.spotify.com/album/7Ku4TJBcSkmixGcODe1xhu) | 2:45 | 2022-09-22 | 2022-09-30 |
@@ -7439,6 +7441,7 @@
 | [The Way It Was Before](https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [The Way It Was Before](https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN) | 3:00 | 2022-01-28 | 2022-02-04 |
 | [the way that we started \(taylor\)](https://open.spotify.com/track/36AWmLYL4tMTfZseHQHoVl) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [the way that we started \(taylor\)](https://open.spotify.com/album/4epDMTI9SL9TRfiuDpbwFO) | 3:24 | 2022-12-15 | 2022-12-24 |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-20 | 2023-07-28 |
+| [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 | 2024-01-04 |  |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-10 | 2022-11-18 |
 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 | 2023-01-26 | 2023-02-03 |
 | [THE WAY YOU MOVE](https://open.spotify.com/track/2WwsWsNt6PuHVwF5k26uer) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [THE WAY YOU MOVE](https://open.spotify.com/album/1dsBzmkvr8KzWGyrxiAlzk) | 3:41 | 2023-12-07 | 2023-12-15 |

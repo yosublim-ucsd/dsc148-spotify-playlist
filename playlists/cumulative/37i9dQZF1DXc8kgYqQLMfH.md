@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,106 songs - 1 day 17 hr 50 min
+1,108 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Comfortable](https://open.spotify.com/track/4tReGzA7E6SRrqmWhUbnvu) | [Red Lekk](https://open.spotify.com/artist/5luaCdQ4VxA8NcuLTu5Y89) | [Comfortable](https://open.spotify.com/album/43y8tCWXbrSwXjqglWt0Yt) | 2:18 | 2022-12-09 |  |
 | [Composure](https://open.spotify.com/track/7hCe1hmwNJX9eSbsAPU4kF) | [Node Park](https://open.spotify.com/artist/3BHFkHYwu4ZxfghindI4WO) | [Composure](https://open.spotify.com/album/4Uqz908hYJevgGm2Q0PhKp) | 2:30 | 2023-01-20 |  |
 | [Concrete](https://open.spotify.com/track/1RzoLQJAzGjqpzUDZFuhUV) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:15 | 2021-11-10 | 2022-06-10 |
-| [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 | 2022-10-01 |  |
+| [Confident strut](https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Confident strut](https://open.spotify.com/album/6fEKV9ocCQdawVJNj8wTkQ) | 2:11 | 2022-10-01 | 2024-01-06 |
 | [console](https://open.spotify.com/track/3d5i2qbIYsLe8EyhTdq54z) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [console](https://open.spotify.com/album/62YLiYuFn2KLRKf2k9CkDw) | 3:38 | 2022-11-25 | 2023-03-18 |
 | [Consult](https://open.spotify.com/track/6XzmE9jEekd5iNZDTBprtT) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Moontape 11](https://open.spotify.com/album/14b9TLtatIrTul5Tjixt8N) | 1:46 | 2022-06-17 | 2023-09-22 |
 | [Contact Tracing \- Devon Rea Rework](https://open.spotify.com/track/3IMlBlvMvOi6dJB005fwgx) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Contact Tracing \(Devon Rea Rework\)](https://open.spotify.com/album/3FcwYBHXuITH2AzJUHxhjF) | 2:24 | 2022-10-28 | 2023-04-28 |
@@ -200,6 +200,7 @@
 | [Cotton Cloud](https://open.spotify.com/track/0MF8Kt0jkvQAyGHumTc7CF) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Cotton Cloud](https://open.spotify.com/album/7jWSbj1bC222IlvFNTnosl) | 1:44 | 2023-02-17 |  |
 | [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 |  |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
+| [Cozy](https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Cozy](https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5) | 2:28 | 2024-01-05 |  |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-12-08 |  |
 | [Cozy Snow Day](https://open.spotify.com/track/29VMXBsPGYwjTgZpCy2i0d) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Cozy Snow Day](https://open.spotify.com/album/5X2TCtMfK0Ms10pH2a8wJM) | 2:03 | 2022-12-09 |  |
 | [Cracks](https://open.spotify.com/track/3wx8UcizTr4xtjpBlRfL9r) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Cracks](https://open.spotify.com/album/1Go5kxxnG2vqF09gVhXdWj) | 2:58 | 2022-02-18 |  |
@@ -210,6 +211,7 @@
 | [crispy snacks](https://open.spotify.com/track/7lYOXFgCFNd5rvBkU2LZQZ) | [cudlz](https://open.spotify.com/artist/4heHOS8ybxsPh3TBtw9gf0) | [crispy snacks](https://open.spotify.com/album/4nvHX1HwzfGFXQxSXVeGMA) | 2:21 | 2021-11-10 | 2022-11-12 |
 | [crocodileteeth](https://open.spotify.com/track/5Rp86RZTmqiyE78JNt0wWg) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [crocodileteeth](https://open.spotify.com/album/0Uw8xYaT9ITRYcXFTIdRrY) | 2:36 | 2021-11-10 | 2022-07-22 |
 | [Cronian](https://open.spotify.com/track/670HGntW6I4aveJDhz9rW6) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [Cronian](https://open.spotify.com/album/76RYMUIjQ1QIXqFiDPemxU) | 1:50 | 2023-01-20 | 2023-12-09 |
+| [Cronian](https://open.spotify.com/track/7oDzXhxqqTkQImJnsRtbof) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [Cronian](https://open.spotify.com/album/3kRD2lFooNdS3KdzGyK27F) | 1:50 | 2024-01-05 |  |
 | [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 | 2022-07-22 | 2023-04-28 |
 | [Cruising](https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG) | [Lghtr](https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM) | [Cruising](https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu) | 2:09 | 2023-09-29 |  |
 | [crystal clear](https://open.spotify.com/track/48dwboYJcg9uNoVwJDIN1d) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [crystal clear](https://open.spotify.com/album/0sObfdc3y54BswoKtUMtvS) | 2:04 | 2022-06-03 | 2023-09-22 |
@@ -697,7 +699,7 @@
 | [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 |  |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 | 2021-11-10 | 2022-10-15 |
-| [no breeze](https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [no breeze](https://open.spotify.com/album/0DdVswYFDxvGtMwiuExn8e) | 2:06 | 2022-10-28 |  |
+| [no breeze](https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [no breeze](https://open.spotify.com/album/0DdVswYFDxvGtMwiuExn8e) | 2:06 | 2022-10-28 | 2024-01-06 |
 | [No Feelings \- Instrumental](https://open.spotify.com/track/2KSO3sLE9m0VPw6A1MUYsc) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [No Feelings](https://open.spotify.com/album/4d6dCwHrT29HyMm814TO02) | 2:28 | 2022-06-24 | 2022-09-17 |
 | [No Fit](https://open.spotify.com/track/2i8fxnwJUyaIk2IYpgF4YO) | [Moody Bit](https://open.spotify.com/artist/7F90wIqOv8QEFM83OaIOWl) | [XYZ](https://open.spotify.com/album/7JaUHqa9wMR11LiFmXCGqe) | 1:28 | 2021-11-10 | 2022-06-03 |
 | [No More](https://open.spotify.com/track/19QV2tu1yq7Zj04E9uBjNo) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [No More](https://open.spotify.com/album/2CeZulROg6ShtnJhPFW687) | 2:35 | 2023-08-03 | 2023-10-13 |

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Jambino\(잠비노\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Dabin\(홍다빈\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-660 songs - 1 day 11 hr 51 min
+661 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 | 2022-07-24 |  |
 | [homesick](https://open.spotify.com/track/1lv4wAkmRwrfQ3oaKDoXqv) | [SANHA](https://open.spotify.com/artist/297dw08YGO0GSd6vOQ3eCO), [JJAX](https://open.spotify.com/artist/4lFWYe3BfUH22wUrAR8nzB) | [homesick](https://open.spotify.com/album/65KWlcE7BKuhhHmKhQJVSm) | 2:56 | 2022-05-28 | 2022-05-31 |
 | [Honey](https://open.spotify.com/track/6TxxgPdGN3NFYcFELXjeGD) | [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [DICE](https://open.spotify.com/album/3fFiQcWrFBXquCtmmgoNTo) | 2:28 | 2023-02-15 | 2023-02-25 |
-| [Hoopee \(Feat\. Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/0VebFVYxoeIHQPDg1MvSES) | [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [podo](https://open.spotify.com/album/3b26Thw21bgz0tyCAJ9IN2) | 2:45 | 2023-12-15 |  |
+| [Hoopee \(Feat\. Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/0VebFVYxoeIHQPDg1MvSES) | [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [podo](https://open.spotify.com/album/3b26Thw21bgz0tyCAJ9IN2) | 2:45 | 2023-12-15 | 2024-01-06 |
 | [Hotel Lobby \(Feat\. Verbal Jint\)](https://open.spotify.com/track/3yLDH4UmohTSuBmnBcqJqG) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 4:03 | 2022-04-01 | 2022-07-28 |
 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 | 2022-07-13 | 2022-07-25 |
 | [HOW U FEEL? \(feat\. Woo\)](https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3) | [HOLYDAY](https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HOLY](https://open.spotify.com/album/1odIOe9NrMNHlQg5l895Zc) | 2:52 | 2023-02-15 | 2023-02-25 |
@@ -270,6 +270,7 @@
 | [I don’t know a single thing \(Feat\. meenoi\)](https://open.spotify.com/track/0Y9C5yhzY7Pa1AqjUFrizq) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [I don’t know a single thing](https://open.spotify.com/album/0uEU48JdeuVxFZ5a4CUhuu) | 3:34 | 2023-09-15 | 2023-12-13 |
 | [I Got It](https://open.spotify.com/track/1DF4MS2kTltHPabcFMM6ZE) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Shininryu](https://open.spotify.com/album/2yXhRvdGX9y21B04xr44Vw) | 4:04 | 2022-04-21 | 2022-07-15 |
 | [I had a dream](https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:46 | 2022-04-21 | 2022-07-26 |
+| [I KNOW YOU LOVE ME \(Feat\. Skinny Brown\)](https://open.spotify.com/track/6RRxTalkP4ZI4oSqvI8ttW) | [Noisemasterminsu](https://open.spotify.com/artist/5aIhsY6GeoSPC2CAwuIYJ4), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [I KNOW YOU LOVE ME \(Feat\. Skinny Brown\)](https://open.spotify.com/album/2DVTijBdYYT8c5EARXNWln) | 2:53 | 2024-01-05 |  |
 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 | 2022-04-01 |  |
 | [I Love Your Dog](https://open.spotify.com/track/64NlxAIgOAzuEJg8v2jTIx) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [I Love Your Dog](https://open.spotify.com/album/4ZGFcvvu4Ox2RmlRvi3SVP) | 2:57 | 2022-05-31 | 2022-06-30 |
 | [I Told You I Like You](https://open.spotify.com/track/1xwhtsqSw267BHGQN7gFOP) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/0dIq5a5jOBt6Ha7ix8D8mD) | 2:47 | 2022-04-01 | 2022-07-29 |

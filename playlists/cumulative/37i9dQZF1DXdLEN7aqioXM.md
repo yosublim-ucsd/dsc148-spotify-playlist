@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-464 songs - 1 day 9 hr 6 min
+465 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Beta Girl Lost in Forever](https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Parallel Lines](https://open.spotify.com/album/7tsBX856UU0zaXCUTqEyLB) | 3:36 | 2022-04-01 | 2022-08-13 |
 | [Black To The Future](https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Avengers After Dark](https://open.spotify.com/album/1fnYuEIp9Vk5nbgDKcRfsi) | 4:52 | 2021-10-15 | 2022-05-28 |
 | [Blackout](https://open.spotify.com/track/7s59SzYLvJOM4j23J1dOs3) | [Axel Le Baron](https://open.spotify.com/artist/41uv2mafbkMfpRYMF4H5dO), [Arnaud Diaz](https://open.spotify.com/artist/6DW60YY7dGV5ZH4webX87F) | [Retrowave](https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu) | 4:12 | 2021-10-15 | 2022-04-21 |
-| [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 | 2021-10-15 |  |
+| [Blink of an Eye](https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [Lucy Daydream](https://open.spotify.com/artist/0RQEMnWcCrVW4vkPFbAVsg) | [Blink of an Eye](https://open.spotify.com/album/7lmlsXhQkWpaMvDYRyycZo) | 3:34 | 2021-10-15 | 2024-01-06 |
 | [Blitz](https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P) | [Sferro](https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P) | [Ornaments](https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm) | 4:27 | 2022-04-01 | 2023-10-24 |
 | [Blood Magic](https://open.spotify.com/track/37GD7jrPe7DubPim1i5kJI) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Corruptor](https://open.spotify.com/album/3p6hvxfVtP5u9jnp9Izqyh) | 3:34 | 2021-10-15 | 2023-10-24 |
 | [Breakthrough](https://open.spotify.com/track/4tNtBl6Y9TcInf3HNrOfJs) | [Electronic Gems](https://open.spotify.com/artist/311L9difAs5Rrx0R8XdX1v), [Unfound](https://open.spotify.com/artist/7u4YxeFiaq5WBD6izDeTry) | [Flux](https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO) | 4:48 | 2023-10-23 |  |
@@ -268,6 +268,7 @@
 | [Midnight Rush](https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk) | [Midnight Fury](https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF) | [Midnight Rush](https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u) | 3:47 | 2023-10-23 |  |
 | [Midnight Sun](https://open.spotify.com/track/7gXY6hi9SOoYDkLQwgVSs1) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [Lost At Midnight](https://open.spotify.com/album/2ipEAI9zGgsbf0CSkYBVS6) | 3:55 | 2022-04-01 | 2022-10-15 |
 | [Million Ways \(Gerd Janson Remix\)](https://open.spotify.com/track/4o6gyMI1lCRCVv7Pm67iKd) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Sad Cities \(The Remixes\)](https://open.spotify.com/album/5CkvOzrSaV33y1qSXmywUz) | 6:22 | 2022-04-01 | 2022-04-16 |
+| [Missense](https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Missense](https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u) | 3:27 | 2023-11-27 |  |
 | [Modern Fears \- Pilotpriest Come True Version](https://open.spotify.com/track/2OzZve272q1HaQPaGqoth4) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [Modern Fears \(Pilotpriest Come True Version\)](https://open.spotify.com/album/2sCAkn3RnGP50m66FERBxS) | 4:02 | 2022-04-01 | 2022-06-10 |
 | [Modern Touch](https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Machine Wired](https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4) | 4:03 | 2022-07-01 |  |
 | [Monsoon \- Æ7 Night Remix](https://open.spotify.com/track/2KLaeABcYhR1K37R7uj6Ji) | [Sebastian Weikum](https://open.spotify.com/artist/4xWupN4Z8DJwehAOfdS0CT), [Alexey Sonar](https://open.spotify.com/artist/3kylBPGbC27D97TR1JUwod), [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Monsoon](https://open.spotify.com/album/53x07LQf5NZUvR0UMRxsxh) | 3:30 | 2022-09-23 |  |

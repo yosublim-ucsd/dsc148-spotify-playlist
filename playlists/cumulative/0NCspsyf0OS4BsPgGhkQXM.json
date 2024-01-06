@@ -16773,6 +16773,28 @@
     },
     {
       "album": {
+        "name": "SOCAD\u00c3O",
+        "url": "https://open.spotify.com/album/6C2CXWT4GTpFoGI2qFNCFv"
+      },
+      "artists": [
+        {
+          "name": "CryJaxx",
+          "url": "https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9"
+        },
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96947,
+      "name": "SOCAD\u00c3O",
+      "url": "https://open.spotify.com/track/4O5aR203HU1jp0z2o4ndID"
+    },
+    {
+      "album": {
         "name": "Sold My Soul",
         "url": "https://open.spotify.com/album/3zGrGTP0vCSqIErxuyp6sJ"
       },

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYp5sAHdz27Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYp5sAHdz27Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYp5sAHdz27Y)
 
-### [Gym 2023](https://open.spotify.com/playlist/37i9dQZF1DWYp5sAHdz27Y)
+### [Gym 2024](https://open.spotify.com/playlist/37i9dQZF1DWYp5sAHdz27Y)
 
 > Con música el ejercico cuesta un poco menos.
 

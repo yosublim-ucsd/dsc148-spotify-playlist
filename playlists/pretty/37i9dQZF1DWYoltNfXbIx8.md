@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,330 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,362 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 46 | [Só por Você \- 2018 Remasterizado](https://open.spotify.com/track/0y1Uw9bsg7ToSgY1dWKHkX) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(2018 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:18 |
 | 47 | [No Brooklin](https://open.spotify.com/track/0VlvuqnBF8VRqT4iV1HekA) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:47 |
 | 48 | [Fim de Semana no Parque](https://open.spotify.com/track/6NKchtT70MibwEZfK2ksjl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 7:47 |
-| 49 | [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 |
+| 49 | [Matemática Na Prática](https://open.spotify.com/track/3DMQMn1xpkfBBOqlzziupj) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/3Enl5PklqXTyO1kRZzBfMI) | 4:31 |
 | 50 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
 | 51 | [Exército Do Rap](https://open.spotify.com/track/4utfUZHM35t2r7GEOqNa8S) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:00 |
 | 52 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MCwyY2RjNzBlZGYzNGVlNmRiYTJkN2Q3ZjA2NjA0Y2JiMWZlYmNkZDMw`
+Snapshot ID: `MCwwMzliYzg4ZTk2ZWE5ZjUzOTlhYTFjYjRiZmU0NDU5MzI2NmNjYmEx`

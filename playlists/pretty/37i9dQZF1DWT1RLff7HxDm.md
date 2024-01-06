@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,456 likes - 100 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,490 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 3 | [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 |
 | 4 | [No Good Woman \- Live](https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Blood Brothers: Live in Canada](https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A) | 5:18 |
 | 5 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
-| 6 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 |
-| 7 | [Rain \- Live At Red Rocks, 2023](https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Rain \(Live At Red Rocks, 2023\)](https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix) | 4:48 |
-| 8 | [Just Won’t Burn \- Live at the Beacon Theatre / 2022](https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 7:29 |
-| 9 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
-| 10 | [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 |
+| 6 | [Long Distance Woman \- Live\-Bonus Track](https://open.spotify.com/track/26RmrLz1hYNT6JUY0fsQn5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London \(Expanded Edition\)](https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7) | 6:56 |
+| 7 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 |
+| 8 | [Rain \- Live At Red Rocks, 2023](https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Rain \(Live At Red Rocks, 2023\)](https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix) | 4:48 |
+| 9 | [Just Won’t Burn \- Live at the Beacon Theatre / 2022](https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 7:29 |
+| 10 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
 | 11 | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky \(Live at the Marshall Studio\)](https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4) | 9:12 |
 | 12 | [Cotton Candy \- Live](https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Night In The City \(Live\)](https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb) | 4:20 |
 | 13 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `MCwyMDI2YTc2NTkyNmYwZGJlZDgyYWE3OTEwNjk1MTU0MThhOWUwZTQy`
+Snapshot ID: `MCxjNmU2MTc3OTI0MzBhMmZmZTYyNGMyZDJjOGQwNmZkOTFiMWUyY2Jm`

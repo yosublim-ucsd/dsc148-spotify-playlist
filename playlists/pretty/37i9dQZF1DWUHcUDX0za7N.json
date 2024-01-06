@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl?si=DYtt5ZR1QtKZElLkldjN8w\"> Phyno </a> and <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=qLthEox5Qse-kNLysa6h1Q\"> Burna Boy</a>",
-  "num_followers": 39962,
+  "num_followers": 40073,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzNhNzU5ZWJkZTg0NDA3YTMwYmUyNDkwZGY0OGMxNzJmOTI3YjQx",
+  "snapshot_id": "MCw4YzAxMWZkZGI1MzA3NzQ0Y2QwNTIyZmMwOTViYzk3OWYwYzczYmE2",
   "tracks": [
     {
       "added_at": "2024-01-05 00:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183529,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "SHUT IT DOWN",
-        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Chocobantis",
-          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SHUT IT DOWN",
-      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
-    },
-    {
-      "added_at": "2024-01-05 00:01:00",
-      "album": {
         "name": "Osapa London - Deluxe",
         "url": "https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 199680,
       "name": "LEAN!",
       "url": "https://open.spotify.com/track/0VSLiEDoFqM40mHGduBAWO"
+    },
+    {
+      "added_at": "2024-01-05 00:01:00",
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "added_at": "2024-01-05 00:01:00",

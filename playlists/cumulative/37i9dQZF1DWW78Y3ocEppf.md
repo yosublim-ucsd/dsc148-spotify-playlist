@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-581 songs - 1 day 6 hr 19 min
+582 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,8 +277,9 @@
 | [June 1st](https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE \(Anniversary Edition\)](https://open.spotify.com/album/1djR94Uyy0vjecCXfOdXng) | 1:51 | 2021-12-15 | 2022-05-15 |
 | [Just A Moment](https://open.spotify.com/track/0qsnxBh0zJgW0Y1s8rVCwS) | [Symphani Soto](https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just A Moment](https://open.spotify.com/album/0a78i0R1JUQlVVwrNCz3iE) | 3:22 | 2021-12-15 | 2022-05-17 |
 | [Just for Fun \(feat\. Haben\)](https://open.spotify.com/track/4mjFM3Pb4soPBv5vHMMNpk) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Haben](https://open.spotify.com/artist/7FvxQS4LNGyB64KOYBFbIH) | [Show Me Diamonds](https://open.spotify.com/album/6GPnDoRWbxnEGRMWZjhqoV) | 2:59 | 2022-11-11 | 2022-12-03 |
+| [Just Like Me](https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ) | 2:30 | 2023-07-28 |  |
 | [Just Like Me](https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like Me](https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n) | 2:30 | 2023-07-28 | 2023-12-24 |
-| [Karma](https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa) | 2:23 | 2023-06-09 |  |
+| [Karma](https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Take Control](https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa) | 2:23 | 2023-06-09 | 2024-01-06 |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-08-05 |  |
 | [kill for you](https://open.spotify.com/track/0FCX6zRbAERkYNg9FJ2Vo3) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [kill for you](https://open.spotify.com/album/6xon6un9ZsuGxFcbYdcX42) | 2:27 | 2022-03-25 | 2022-04-02 |
 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 | 2023-04-07 |  |

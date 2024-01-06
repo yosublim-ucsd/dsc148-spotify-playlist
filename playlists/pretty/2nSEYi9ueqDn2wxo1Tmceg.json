@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgzNiw1NTU3YmJhZTk4Zjk2ZWQyYmRjZTIyMmM2NzdmOTk0YTYyNjkzM2U0",
+  "snapshot_id": "MzgzNyxiYWMxMTI4MmNlMjUzNGRjZTRjMTlhMjg5MTdlZDVjMDJhZjFjNmUz",
   "tracks": [
+    {
+      "added_at": "2024-01-05 10:45:39",
+      "album": {
+        "name": "Please Come Back I Will Listen, I Will Behave, I Will Toe The Line",
+        "url": "https://open.spotify.com/album/6YVqgvnHv46K7XY5EJvdmg"
+      },
+      "artists": [
+        {
+          "name": "King Creosote",
+          "url": "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+        }
+      ],
+      "duration_ms": 250452,
+      "name": "Please Come Back I Will Listen, I Will Behave, I Will Toe The Line - Edit",
+      "url": "https://open.spotify.com/track/2p4E4YCEB2M1je05odoiQ6"
+    },
     {
       "added_at": "2024-01-03 14:43:27",
       "album": {

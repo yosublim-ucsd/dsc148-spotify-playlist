@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: The Jesus and Mary Chain
 
-516 songs - 1 day 9 hr 34 min
+517 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,8 @@
 | [Tired](https://open.spotify.com/track/4RmzqFbi61rwMfGlz2GWaC) | [photocopy](https://open.spotify.com/artist/60ThgTgoPYqN2u4JmDZlkD) | [Tired](https://open.spotify.com/album/30sEvaWqc5kIcCSR8lZEAX) | 3:52 | 2023-02-17 | 2023-08-12 |
 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 | 2022-08-13 | 2022-10-06 |
 | [Toni \- Jesu Interpolation](https://open.spotify.com/track/5P9MfXZKSYEWHRpfyXfBjf) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Jesu](https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP) | [Toni \(Jesu Interpolation\)](https://open.spotify.com/album/5LQDz86Isnpu3teDNkokXL) | 4:47 | 2023-06-16 | 2023-06-21 |
-| [Too True](https://open.spotify.com/track/2HuZ5zQwJIYRVHXt5D43OS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Too True](https://open.spotify.com/album/0HedQzOo9cFhW2LP0SoGhP) | 3:57 | 2023-11-27 |  |
+| [Too True](https://open.spotify.com/track/0klZoAPXy22LXfkYyk3Ago) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2023-11-27 |  |
+| [Too True](https://open.spotify.com/track/2HuZ5zQwJIYRVHXt5D43OS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Too True](https://open.spotify.com/album/0HedQzOo9cFhW2LP0SoGhP) | 3:57 | 2023-11-27 | 2024-01-06 |
 | [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 | 2022-12-15 | 2023-05-08 |
 | [Toxins and Smoke](https://open.spotify.com/track/5I9thmZdXFil80RahOaRm3) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi) | [Toxins and Smoke](https://open.spotify.com/album/7GYHsiuT0SB51WmTCsmhSc) | 5:12 | 2023-05-05 | 2023-07-22 |
 | [Tropics](https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Tropics](https://open.spotify.com/album/24kVxQ6OijMWrEutVDusaI) | 4:18 | 2022-12-12 | 2023-02-22 |

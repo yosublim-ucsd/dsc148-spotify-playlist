@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Noé Preszow
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,504 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,527 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 5 | [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 |
 | 6 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 |
 | 7 | [Un peu trop](https://open.spotify.com/track/3jiS0ETithGTKn2uGT6dbF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 2:34 |
-| 8 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 8 | [Akrapo 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Akrapo 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 |
 | 9 | [48H](https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Libre](https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy) | 2:59 |
-| 10 | [Akrapo 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Akrapo 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 |
+| 10 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 11 | [Paralysée](https://open.spotify.com/track/7uap8T8KBzq5J8XRVwVcrr) | [May Wells](https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM) | [Paralysée](https://open.spotify.com/album/2cSjoQWui54gfMvV0nNC1d) | 2:20 |
 | 12 | [Aller sans retour](https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Aller sans retour](https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN) | 2:56 |
 | 13 | [Le feu](https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le feu](https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA) | 3:51 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 31 | [Au suivant](https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Au suivant](https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7) | 3:19 |
 | 32 | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/album/67fxAS0referLXN4dJlKr3) | 2:57 |
 | 33 | [I Got U \(feat\. Niska\)](https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [I Got U \(feat\. Niska\)](https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR) | 3:22 |
-| 34 | [MAIN MOITE](https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [SALE ÉPOQUE](https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2) | 3:03 |
-| 35 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 |
-| 36 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 |
-| 37 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 |
+| 34 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 |
+| 35 | [MAIN MOITE](https://open.spotify.com/track/2b8wnmu5nhWbolp1RVWA86) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [SALE ÉPOQUE](https://open.spotify.com/album/5156pxycfavNl9oMoDNWL2) | 3:03 |
+| 36 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 |
+| 37 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 |
 | 38 | [Bectance](https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc) | [Mayo](https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Yoski 2](https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd) | 2:56 |
 | 39 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 |
 | 40 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Bougez](https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Que ta tête fleurisse toujours](https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u) | 3:17 |
 | 50 | [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 |
 
-Snapshot ID: `MCwxOWI4OWUzNDM2MTZjNmRhOTM5ODMyODEzMjJhODUxY2YwMWMxMzgy`
+Snapshot ID: `MCwyMjJjNWQ0ZjI0NTdkYzA2OTU2NjMzNWE0NGI0ZGZkNzE2MDAwMTFi`

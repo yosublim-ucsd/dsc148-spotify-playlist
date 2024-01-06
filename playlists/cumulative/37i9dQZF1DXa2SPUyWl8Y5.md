@@ -4,7 +4,7 @@
 
 > Focus with melodic techno and tech house.
 
-365 songs - 1 day 16 hr 6 min
+366 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bleeding Heart](https://open.spotify.com/track/19iSfXqouWsiUohcSOnl8L) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Bleeding Heart](https://open.spotify.com/album/3Dp6tr2tfxz1DspUKhD3te) | 8:21 | 2019-05-29 | 2019-07-05 |
 | [Blinding](https://open.spotify.com/track/4ssvsAI1LyxrpvMIsVRhrL) | [Raphael Mader](https://open.spotify.com/artist/5bHTqDmjxo8or1zMRPFaYM) | [The Blinding EP](https://open.spotify.com/album/12hELrT1GtiKKntEAcpc91) | 6:13 | 2022-04-15 | 2022-07-22 |
 | [Boavista \- Innellea Remix](https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 6:48 | 2022-04-04 | 2024-01-05 |
+| [Boavista \- Innellea's Arp Attachement](https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 6:48 | 2023-11-27 |  |
 | [Borealis](https://open.spotify.com/track/6W8T0RkhPgCNZXHvKDYB1V) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Borealis](https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW) | 2:32 | 2021-07-04 | 2023-11-16 |
 | [Breaking The Clouds](https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking The Clouds](https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R) | 8:41 | 2020-04-26 | 2022-11-18 |
 | [Breaking the Clouds](https://open.spotify.com/track/7ixzPzW6eNFwY3NK4b3tFV) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking the Clouds](https://open.spotify.com/album/0mmx0qlErLtzpePjmV8hgD) | 8:41 | 2022-09-30 | 2023-04-29 |
@@ -115,7 +116,7 @@
 | [Fade](https://open.spotify.com/track/5kcXp7FsyD3E5CXW33T30m) | [Sandeep Pai](https://open.spotify.com/artist/0new7vSddy67H3hfSG4o9U) | [Fade](https://open.spotify.com/album/60iicfhmRuMN1We8hRwVYX) | 4:11 | 2020-12-12 | 2022-07-02 |
 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 | 2019-05-28 | 2019-11-28 |
 | [Fader](https://open.spotify.com/track/0nXB7YWrra82OKeTa6PVWq) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU) | 6:13 | 2020-07-25 | 2022-11-20 |
-| [Fader](https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh) | 6:13 | 2022-09-30 |  |
+| [Fader](https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh) | 6:13 | 2022-09-30 | 2024-01-06 |
 | [Faith](https://open.spotify.com/track/4ycnTMhYe99RPxKgFDPw5p) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb) | [Faith](https://open.spotify.com/album/5KsK6bcTOtDlGqFUT2DBsH) | 8:04 | 2019-06-13 | 2022-04-21 |
 | [Falling](https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Falling](https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz) | 3:44 | 2023-11-14 |  |
 | [Fatima](https://open.spotify.com/track/4WGxYlJ6dggfVAmFutLLNx) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Fatima](https://open.spotify.com/album/6Gcz4LtoSEUbtm4CffQxI9) | 6:35 | 2019-06-24 | 2019-11-09 |

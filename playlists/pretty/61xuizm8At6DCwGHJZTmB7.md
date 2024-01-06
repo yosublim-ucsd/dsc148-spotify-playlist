@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 ### [Worship 2024](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Listen to the top Christian and worship hits of 2023 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
+> Praise His holy name! Listen to the top Christian and Worship hits of 2024 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,375 likes - 106 songs - 10 hr 4 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,392 likes - 106 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 105 | [Like Honey \- Live](https://open.spotify.com/track/6fx2RDzhFaiqRW3TVpskdk) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Sundown \(Live\)](https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT) | 5:44 |
 | 106 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 
-Snapshot ID: `NzQyMixkMWQxYmRkMDE4NGViYzFhMTFmYjFlNzc3MTNiOGVhYzkyMzRkNGJk`
+Snapshot ID: `NzQyNCw5NTI3OTAzNzg3NzUxOTVjYWUwYjUzMzYwYWQ1OWU5MjVkYjE1ZjIy`

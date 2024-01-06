@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: MiLES.",
-  "num_followers": 1390776,
+  "num_followers": 1390793,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNiODc1MWZlYTVjZmQzOGVmZDQzZDE4NjVkNTNiNDA4YTY2ZmJk",
+  "snapshot_id": "MCwxZmRiNzEwNTVhYzU2ZDFhYTFkYmE2MjFlNGM3ZTY3MjgwZjA0OTM0",
   "tracks": [
     {
       "added_at": "2023-12-22 06:56:54",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/2wTJZjPz6CXA7u6LIR3tHy"
     },
     {
-      "added_at": "2023-11-03 06:04:27",
-      "album": {
-        "name": "Hello, Everyday Changes",
-        "url": "https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/60yKLmHERaj5dSqHHc8HKh"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "The Glade",
@@ -879,6 +863,22 @@
       "duration_ms": 222456,
       "name": "The Glade",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
+    },
+    {
+      "added_at": "2023-11-03 06:04:27",
+      "album": {
+        "name": "Hello, Everyday Changes",
+        "url": "https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/60yKLmHERaj5dSqHHc8HKh"
     },
     {
       "added_at": "2023-09-01 04:16:58",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/6yEANV0C15jXJg2lsHf6F5"
     },
     {
-      "added_at": "2023-06-16 04:53:14",
-      "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "143",
-      "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
-    },
-    {
       "added_at": "2023-12-22 06:56:54",
       "album": {
         "name": "Diary Entry",
@@ -1047,6 +1031,22 @@
       "duration_ms": 180871,
       "name": "in the cool of the day",
       "url": "https://open.spotify.com/track/4D34sCvcCCugcknWUsOXJk"
+    },
+    {
+      "added_at": "2023-06-16 04:53:14",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "143",
+      "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/3hXRbjdYypplIQ7IW1ESAS"
     },
     {
+      "added_at": "2023-12-22 06:56:54",
+      "album": {
+        "name": "Lover, You Should\u2019ve Come Over",
+        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 361175,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "The Interludes",
@@ -1217,6 +1233,22 @@
       "url": "https://open.spotify.com/track/0jC4hSRcgcIN8qcfSN7Wkf"
     },
     {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "VIRGINIA CREEPER",
@@ -1231,22 +1263,6 @@
       "duration_ms": 172307,
       "name": "VIRGINIA CREEPER",
       "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
-    },
-    {
-      "added_at": "2023-10-20 05:49:35",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1269,20 +1285,36 @@
       "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2023-12-22 06:56:54",
       "album": {
-        "name": "As Days Go By",
-        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
+        "name": "ttuctmd",
+        "url": "https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u"
       },
       "artists": [
         {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
         }
       ],
-      "duration_ms": 222654,
-      "name": "As Days Go By",
-      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+      "duration_ms": 120461,
+      "name": "ttuctmd",
+      "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
+    },
+    {
+      "added_at": "2023-10-20 05:49:35",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1299,38 +1331,6 @@
       "duration_ms": 183716,
       "name": "Pixie Dust",
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2023-12-22 06:56:54",
-      "album": {
-        "name": "Lover, You Should\u2019ve Come Over",
-        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 361175,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
-    },
-    {
-      "added_at": "2023-12-22 06:56:54",
-      "album": {
-        "name": "ttuctmd",
-        "url": "https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 120461,
-      "name": "ttuctmd",
-      "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
     },
     {
       "added_at": "2023-09-01 04:16:58",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Man Down",
@@ -1431,6 +1415,22 @@
       "duration_ms": 117000,
       "name": "green house",
       "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
     },
     {
       "added_at": "2023-09-01 04:16:58",
@@ -1505,6 +1505,38 @@
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Again?",
@@ -1537,36 +1569,20 @@
       "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
+      "added_at": "2023-05-19 05:32:45",
       "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+        "name": "JOHN DOE",
+        "url": "https://open.spotify.com/album/39mQI5hnoY9fcJBOeQ6wpU"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
         }
       ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+      "duration_ms": 90275,
+      "name": "JOHN DOE",
+      "url": "https://open.spotify.com/track/5yjK7CVYLJwWzqywQPn8AD"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4wh9zdYIV6gn4ATOQAnyK6"
-    },
-    {
-      "added_at": "2023-05-19 05:32:45",
-      "album": {
-        "name": "JOHN DOE",
-        "url": "https://open.spotify.com/album/39mQI5hnoY9fcJBOeQ6wpU"
-      },
-      "artists": [
-        {
-          "name": "Kevin George",
-          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
-        }
-      ],
-      "duration_ms": 90275,
-      "name": "JOHN DOE",
-      "url": "https://open.spotify.com/track/5yjK7CVYLJwWzqywQPn8AD"
     },
     {
       "added_at": "2023-05-12 04:25:17",
@@ -1937,22 +1937,6 @@
       "url": "https://open.spotify.com/track/4VeI6MsMozpQkLmCI87Bbf"
     },
     {
-      "added_at": "2023-07-14 04:10:12",
-      "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
-      },
-      "artists": [
-        {
-          "name": "SIPHO.",
-          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "I Love Being Invisible",
@@ -1967,6 +1951,22 @@
       "duration_ms": 181227,
       "name": "I Love Being Invisible",
       "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
+    },
+    {
+      "added_at": "2023-07-14 04:10:12",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2145,26 +2145,6 @@
       "url": "https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 164825,
-      "name": "Unsettling (feat. Vory)",
-      "url": "https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh"
-    },
-    {
       "added_at": "2023-09-01 04:16:58",
       "album": {
         "name": "ULTRAVIOLET",
@@ -2183,6 +2163,26 @@
       "duration_ms": 132055,
       "name": "UR TURN",
       "url": "https://open.spotify.com/track/0dKWEbU5VxTcSOVvtReTGz"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 164825,
+      "name": "Unsettling (feat. Vory)",
+      "url": "https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh"
     },
     {
       "added_at": "2023-10-20 05:49:35",
@@ -2221,6 +2221,22 @@
       "url": "https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "BIG BOYS DON'T CRY",
+        "url": "https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "BIG BOYS DON'T CRY",
+      "url": "https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "For Sport",
@@ -2235,22 +2251,6 @@
       "duration_ms": 146120,
       "name": "For Sport",
       "url": "https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa"
-    },
-    {
-      "added_at": "2023-08-11 04:41:09",
-      "album": {
-        "name": "Like a Habit",
-        "url": "https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 166173,
-      "name": "Like a Habit",
-      "url": "https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2273,20 +2273,20 @@
       "url": "https://open.spotify.com/track/076OMje4i6IaJ6n9fp1aGZ"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-08-11 04:41:09",
       "album": {
-        "name": "BIG BOYS DON'T CRY",
-        "url": "https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL"
+        "name": "Like a Habit",
+        "url": "https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3"
       },
       "artists": [
         {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
         }
       ],
-      "duration_ms": 155151,
-      "name": "BIG BOYS DON'T CRY",
-      "url": "https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR"
+      "duration_ms": 166173,
+      "name": "Like a Habit",
+      "url": "https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL"
     },
     {
       "added_at": "2023-10-13 18:55:54",
@@ -2303,6 +2303,22 @@
       "duration_ms": 300071,
       "name": "Feel Like a Woman",
       "url": "https://open.spotify.com/track/1VySVhLm3ozkzop6dpn18L"
+    },
+    {
+      "added_at": "2023-12-22 06:56:54",
+      "album": {
+        "name": "Blue Days",
+        "url": "https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "duration_ms": 161834,
+      "name": "Blue Days",
+      "url": "https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2323,22 +2339,6 @@
       "duration_ms": 214738,
       "name": "One Night",
       "url": "https://open.spotify.com/track/15ZxSLwa0IAPbwz1R9i7RQ"
-    },
-    {
-      "added_at": "2023-12-22 06:56:54",
-      "album": {
-        "name": "Blue Days",
-        "url": "https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 161834,
-      "name": "Blue Days",
-      "url": "https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2509,22 +2509,6 @@
       "url": "https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp"
     },
     {
-      "added_at": "2023-10-20 05:49:35",
-      "album": {
-        "name": "Let's Get It On",
-        "url": "https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Hold My Hand",
@@ -2541,20 +2525,20 @@
       "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
     },
     {
-      "added_at": "2023-11-19 15:52:58",
+      "added_at": "2023-10-20 05:49:35",
       "album": {
-        "name": "Running In A Circle",
-        "url": "https://open.spotify.com/album/1ir1Q3x9UIYnrkyt9LkMYq"
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf"
       },
       "artists": [
         {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
         }
       ],
-      "duration_ms": 219057,
-      "name": "Running In A Circle",
-      "url": "https://open.spotify.com/track/2UEAjm1sDcJe9BMZaRr8x9"
+      "duration_ms": 201962,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2573,20 +2557,44 @@
       "url": "https://open.spotify.com/track/6IksI018PglNFPUL40pxit"
     },
     {
-      "added_at": "2023-10-13 18:55:54",
+      "added_at": "2023-11-19 15:52:58",
       "album": {
-        "name": "redemption",
-        "url": "https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6"
+        "name": "Running In A Circle",
+        "url": "https://open.spotify.com/album/1ir1Q3x9UIYnrkyt9LkMYq"
       },
       "artists": [
         {
-          "name": "BADMIND",
-          "url": "https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9"
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
         }
       ],
-      "duration_ms": 138000,
-      "name": "redemption",
-      "url": "https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr"
+      "duration_ms": 219057,
+      "name": "Running In A Circle",
+      "url": "https://open.spotify.com/track/2UEAjm1sDcJe9BMZaRr8x9"
+    },
+    {
+      "added_at": "2023-11-03 06:04:27",
+      "album": {
+        "name": "FWT",
+        "url": "https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1"
+      },
+      "artists": [
+        {
+          "name": "Icee Red",
+          "url": "https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "FWT",
+      "url": "https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd"
     }
   ],
   "unique_name": "Vanguard",

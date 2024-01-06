@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > SANTA au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,220,987 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,420 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [All for U \(Ameyatchi\)](https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Sergio Alejandro](https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX) | [All for U \(Ameyatchi\)](https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m) | 2:45 |
 | 50 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 
-Snapshot ID: `MCw2ODJhNGQ5YTM3NTkxOTEzMmRlZWQyNjU4Yjc2MmRjNzk5NTk3MzFk`
+Snapshot ID: `MCw5Mzk5NzA5NTMzZWYwNGM5NTIxNjNkNjhhYzRjMzRlOTg0MmY0ZjVl`

@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-249 songs - 20 hr 31 min
+250 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Nowhere](https://open.spotify.com/track/6JoZvUoYPSmqJ0CegHXpoG) | [Bruno Sanfilippo](https://open.spotify.com/artist/5F2LyonwBskQycxLnIMz94) | [Nowhere](https://open.spotify.com/album/6uUwz4it5yrKVms5SqGtxw) | 6:10 | 2022-01-07 | 2022-07-29 |
 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 | 2021-10-06 |  |
 | [One to Six](https://open.spotify.com/track/6dJnizBMzHGxpuBwEPfSRC) | [Uncivilized](https://open.spotify.com/artist/2ZqdWXLuVuGMVWfVeRX0gw) | [Garden](https://open.spotify.com/album/3hmdSJCfqDEzHUhStUWUBN) | 1:16 | 2021-10-06 | 2022-07-29 |
-| [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 | 2022-02-18 |  |
+| [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 | 2022-02-18 | 2024-01-06 |
 | [Ossicles](https://open.spotify.com/track/0eL6WnAXZf7q8HOAwcrJEI) | [Tangents](https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0) | [Timeslips & Chimeras](https://open.spotify.com/album/3so5da4nu96kLa2tndnJ0u) | 6:24 | 2021-10-06 | 2023-12-19 |
 | [Ossicles](https://open.spotify.com/track/5ATF0xpYsOzBkCm70cov8y) | [Tangents](https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0) | [Ossicles](https://open.spotify.com/album/5pSptlt1fYcEcTgWMeUBFj) | 6:24 | 2021-10-06 | 2022-07-29 |
 | [Overheard](https://open.spotify.com/track/0J1z9UlZERcqAqmW5m3yvh) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [Overheard](https://open.spotify.com/album/3eCtOeQKfGDwq6obk7Sf2I) | 4:46 | 2021-10-06 | 2022-07-29 |
@@ -195,6 +195,7 @@
 | [Sky Breaking, Clouds Falling](https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Kissing Rosy in the Rain](https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz) | 4:24 | 2021-10-06 |  |
 | [Smooch](https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 5:10 | 2023-01-07 | 2023-04-13 |
 | [Smooch](https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 5:10 | 2023-01-07 | 2023-01-29 |
+| [Solitude \- Theme](https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:05 | 2023-01-03 |  |
 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 | 2021-10-06 | 2022-08-19 |
 | [Spoken](https://open.spotify.com/track/1Fo7FIXNPw3Jn3WDcR8kdd) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/0gpM8qWaQCDOpOMxODdYWc) | 5:44 | 2021-10-06 |  |
 | [Spoken](https://open.spotify.com/track/4xGDICSoSOZ9MKJO9U4z0G) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/332BSu7hOIqumbIwo0Z8Qu) | 5:44 | 2021-10-06 | 2023-04-29 |

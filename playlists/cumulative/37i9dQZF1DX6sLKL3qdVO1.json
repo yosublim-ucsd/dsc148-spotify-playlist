@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Karol G en portada. ",
+  "description": "Shawty lo que necesitas es darle flow. Anitta y Peso Pluma en portada. ",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 167175,
       "name": "AGUARDIENTE",
       "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
@@ -804,6 +804,28 @@
       "duration_ms": 194293,
       "name": "Bellake",
       "url": "https://open.spotify.com/track/4QwryINbuIcR4zOiLnTheh"
+    },
+    {
+      "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "album": {
@@ -1338,7 +1360,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 139376,
       "name": "CARNET",
       "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
@@ -5189,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "Labios Prohibidos",
+        "url": "https://open.spotify.com/album/7ICJkLeqZ3hldbuXlGc6LC"
+      },
+      "artists": [
+        {
+          "name": "Super Yei",
+          "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182371,
+      "name": "Labios Prohibidos",
+      "url": "https://open.spotify.com/track/3C8FTVfadUJBOXs4rBDb8B"
+    },
+    {
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -7508,7 +7548,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 131413,
       "name": "OTRA VEZ",
       "url": "https://open.spotify.com/track/674LHLeZo1zNy1NECXyScY"
@@ -7530,7 +7570,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 207664,
       "name": "Otra Vibra",
       "url": "https://open.spotify.com/track/7aprD0hcQ0dr3efnJCrJI5"
@@ -7695,6 +7735,28 @@
     },
     {
       "album": {
+        "name": "PAISA",
+        "url": "https://open.spotify.com/album/61YsrCQ5VKMrz3W6MFgZ5U"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ch12",
+          "url": "https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "PAISA",
+      "url": "https://open.spotify.com/track/1BV8BIlbgRizmuUtTdjVhl"
+    },
+    {
+      "album": {
         "name": "Paleta",
         "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
       },
@@ -7810,7 +7872,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 208587,
       "name": "PARA SIEMPRE",
       "url": "https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M"
@@ -8498,6 +8560,28 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "album": {
+        "name": "Que no salga",
+        "url": "https://open.spotify.com/album/49VYtRUxWgwfDIiIyaR4It"
+      },
+      "artists": [
+        {
+          "name": "ADIONE",
+          "url": "https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209175,
+      "name": "Que no salga",
+      "url": "https://open.spotify.com/track/0FaH9kJBi2j3AeRX2kBpaf"
     },
     {
       "album": {
@@ -9916,6 +10000,32 @@
       "duration_ms": 161877,
       "name": "Ta Buena",
       "url": "https://open.spotify.com/track/3ABFUL12VDbwlvFvAwBnYd"
+    },
+    {
+      "album": {
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
     },
     {
       "album": {

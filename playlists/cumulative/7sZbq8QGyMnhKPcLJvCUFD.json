@@ -4899,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP"
       },
@@ -7658,7 +7676,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 230117,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/05Tj9EuuK3me0NBJsgcgd6"
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 248275,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk"
@@ -8108,6 +8126,28 @@
       "duration_ms": 145655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA"
     },
     {
       "album": {

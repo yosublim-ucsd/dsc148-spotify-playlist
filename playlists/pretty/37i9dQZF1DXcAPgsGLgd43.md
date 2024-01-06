@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,747 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,756 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 48 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 |
 | 49 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 |
 | 50 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 |
-| 51 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 |
-| 52 | [Tócate](https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Tócate](https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX) | 3:10 |
+| 51 | [Tócate](https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Tócate](https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX) | 3:10 |
+| 52 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 |
 | 53 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 |
 | 54 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 |
 | 55 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 59 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 |
 | 60 | [Quema Quema](https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau) | [Mister Pancho](https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe) | [Quema Quema](https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ) | 2:06 |
 | 61 | [Morena](https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Kuisitambó](https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK) | [Morena](https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht) | 2:48 |
-| 62 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 |
-| 63 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 |
+| 62 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 |
+| 63 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 |
 | 64 | [Dimini](https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Dimini](https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny) | 2:22 |
 | 65 | [Tuku Tu](https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Tuku Tu](https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1) | 2:20 |
 | 66 | [La Bulla](https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Many Malon](https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM) | [La Bulla](https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo) | 2:50 |
 | 67 | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J) | 3:18 |
 | 68 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
 | 69 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 |
-| 70 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 |
-| 71 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
+| 70 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
+| 71 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 |
 | 72 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
 | 73 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
 | 74 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 |
 | 75 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
 
-Snapshot ID: `MCw4MzRlMmI0M2ViMWUyZjI4ZDg4ZjU3MmQ4NzI5NDBhYTY4OTI0ZmFi`
+Snapshot ID: `MCwyYzM0ZWVmNWY5MzE3OTM2ODA5YzM0MzI4MWQ0NmQ2ZmE4OTBiNjM3`

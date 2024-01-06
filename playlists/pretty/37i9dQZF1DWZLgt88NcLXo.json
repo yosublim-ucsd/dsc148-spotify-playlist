@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 12001,
+  "num_followers": 12002,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
+  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
-      },
-      "artists": [
-        {
-          "name": "Maria Isabel Ferrer",
-          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
-        }
-      ],
-      "duration_ms": 136609,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 176058,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "duration_ms": 136609,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Strawberry Dreams",
-        "url": "https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "duration_ms": 155827,
-      "name": "Strawberry Dreams",
-      "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "E perto do anoitecer",
         "url": "https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 161287,
       "name": "E perto do anoitecer",
       "url": "https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "duration_ms": 155827,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A Sweet Portrait",
-        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
-      },
-      "artists": [
-        {
-          "name": "Adone Alleva",
-          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "A Sweet Portrait",
-      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 122449,
       "name": "The Summer House",
       "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "A Sweet Portrait",
+        "url": "https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl"
+      },
+      "artists": [
+        {
+          "name": "Adone Alleva",
+          "url": "https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "A Sweet Portrait",
+      "url": "https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1"
+      },
+      "artists": [
+        {
+          "name": "Anshul Karn",
+          "url": "https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR"
+        }
+      ],
+      "duration_ms": 136499,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Meyehualco",
         "url": "https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 127875,
       "name": "Antofagasta",
       "url": "https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1"
-      },
-      "artists": [
-        {
-          "name": "Anshul Karn",
-          "url": "https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR"
-        }
-      ],
-      "duration_ms": 136499,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Count On Me",
-        "url": "https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6"
+        "name": "Seven Hills of Rome",
+        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
       },
       "artists": [
         {
-          "name": "Peder Falk",
-          "url": "https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z"
+          "name": "Carol Maddox",
+          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
         }
       ],
-      "duration_ms": 189550,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8"
+      "duration_ms": 132281,
+      "name": "Seven Hills of Rome",
+      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Seven Hills of Rome",
-        "url": "https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1"
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6"
       },
       "artists": [
         {
-          "name": "Carol Maddox",
-          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
+          "name": "Peder Falk",
+          "url": "https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z"
         }
       ],
-      "duration_ms": 132281,
-      "name": "Seven Hills of Rome",
-      "url": "https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0"
+      "duration_ms": 189550,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Roland",
-          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Isla de Pascua",
-      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Reise um die Welt",
         "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 171853,
       "name": "Reise um die Welt",
       "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "Isla de Pascua",
+      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Path To The Mind",
-        "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Path To The Mind",
-      "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Chiapas",
         "url": "https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 185820,
       "name": "Chiapas",
       "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Path To The Mind",
+        "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Path To The Mind",
+      "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Canci\u00f3n A Solas",
+        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Canci\u00f3n A Solas",
+      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Cradle Song",
         "url": "https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 227588,
       "name": "Cradle Song",
       "url": "https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Canci\u00f3n A Solas",
-        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
-      },
-      "artists": [
-        {
-          "name": "Marta Fiscovich",
-          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Canci\u00f3n A Solas",
-      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 216850,
       "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
       "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "Solitaria",
-        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
-      },
-      "artists": [
-        {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Mirabella",
-        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
-      },
-      "artists": [
-        {
-          "name": "Oleks Rudenko",
-          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Mirabella",
-      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 150592,
       "name": "Pelotas",
       "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
+      },
+      "artists": [
+        {
+          "name": "Oleks Rudenko",
+          "url": "https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
-      },
-      "artists": [
-        {
-          "name": "Colin Reed",
-          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
-        }
-      ],
-      "duration_ms": 191308,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "El Antiguo Camino",
         "url": "https://open.spotify.com/album/092tdrmx3Ot8b75qGeZg0q"
       },
@@ -2247,22 +2231,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Assanhado (Arr. for Guitar by S\u00e9rgio Assad)",
-        "url": "https://open.spotify.com/album/0Ozz2x6Ibmduz6OBTQeogr"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
       },
       "artists": [
         {
-          "name": "Jacob Bittencourt",
-          "url": "https://open.spotify.com/artist/20GlgY0ecLeDxKcoLfwtKj"
-        },
-        {
-          "name": "Pl\u00ednio Fernandes",
-          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
         }
       ],
-      "duration_ms": 240767,
-      "name": "Assanhado (Arr. for Guitar by S\u00e9rgio Assad)",
-      "url": "https://open.spotify.com/track/4FARlXrPrKEeEM33ZPXMVG"
+      "duration_ms": 191308,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2299,6 +2279,26 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Assanhado (Arr. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/0Ozz2x6Ibmduz6OBTQeogr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Bittencourt",
+          "url": "https://open.spotify.com/artist/20GlgY0ecLeDxKcoLfwtKj"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "duration_ms": 240767,
+      "name": "Assanhado (Arr. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/4FARlXrPrKEeEM33ZPXMVG"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
       },
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "The Dreams We Share",
-        "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
-      },
-      "artists": [
-        {
-          "name": "Rafaela Moreno",
-          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "The Dreams We Share",
-      "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Objects In The Mirror",
         "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 170250,
       "name": "Objects In The Mirror",
       "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "The Dreams We Share",
+        "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "The Dreams We Share",
+      "url": "https://open.spotify.com/track/0Ov6sQ561WULCx9ixzMNzG"
     },
     {
       "added_at": "2023-09-15 09:04:35",

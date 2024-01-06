@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-318 songs - 18 hr 55 min
+319 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [能不能](https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb) | [吴映香](https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI) | [能不能](https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4) | 2:55 | 2022-11-22 |  |
 | [能不能有默契](https://open.spotify.com/track/3XPZJfYt8GQXoTh4CRghDL) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0), [吳東翰](https://open.spotify.com/artist/6BzI7B48EmLMoFilVaskIZ) | [能不能有默契](https://open.spotify.com/album/4VfTpEmnKbpLSuzTn6JWlw) | 3:54 | 2022-06-20 | 2022-07-08 |
 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 | 2022-06-27 |  |
+| [膽小鬼](https://open.spotify.com/track/1k4n9BzPRYsyx0fObF74Rk) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [梁詠琪gigi](https://open.spotify.com/album/6IoDtEh2LyrMTIoFyOtN3H) | 4:18 | 2024-01-01 |  |
 | [膽小鬼](https://open.spotify.com/track/5w4HRtuuF0pj70GGlePSET) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [梁詠琪gigi](https://open.spotify.com/album/3DJ9oBFFrxUiDgkgjSlpc7) | 4:18 | 2022-06-20 | 2022-07-22 |
 | [若你幸福](https://open.spotify.com/track/2v9CVwSRN0mOtIGVLBBE6a) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [若你幸福](https://open.spotify.com/album/3z1d8AuAoGXrqXqyrhvAOG) | 3:57 | 2022-06-13 | 2022-07-27 |
 | [藏不住的心跳\(《我只喜歡你》影視劇片頭曲\)](https://open.spotify.com/track/06lCOHWNcChv8OD1Eu3uu9) | [朱主愛](https://open.spotify.com/artist/2vL4i9Q9XBUFesjcAXKfKU) | [《我只喜歡你》影視原聲帶](https://open.spotify.com/album/3LDw6erSD3E4mzulS6wqWM) | 3:59 | 2022-06-06 | 2022-07-24 |
@@ -324,7 +325,7 @@
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
 | [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-07-04 |
-| [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2023-11-27 |  |
+| [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2023-11-27 | 2024-01-06 |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

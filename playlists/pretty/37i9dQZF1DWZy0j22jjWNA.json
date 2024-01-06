@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 89515,
+  "num_followers": 89546,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjIzNzE0ZWE1Y2FmMWM4NDJiZTE3YmZjMjExMzNiOGI5Y2M0Mjkx",
+  "snapshot_id": "MCxhM2UyNDFkYjc3NGUyYzg0NTY1MGQ2YWI5YzRiMDI5NDE2NGZjMDU1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 263372,
-      "name": "Take The World",
-      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Chrysaline",
         "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 263372,
+      "name": "Take The World",
+      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Souls",
         "url": "https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 204160,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Carrollton",
+        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
+      },
+      "artists": [
+        {
+          "name": "Carrollton",
+          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
+        }
+      ],
+      "duration_ms": 232683,
+      "name": "Not Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 233918,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Carrollton",
-        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
-      },
-      "artists": [
-        {
-          "name": "Carrollton",
-          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
-        }
-      ],
-      "duration_ms": 232683,
-      "name": "Not Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+        "name": "The Mountain (Live from 25in24)",
+        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
         }
       ],
-      "duration_ms": 480893,
-      "name": "Queen Songs/Human",
-      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
+      "duration_ms": 231375,
+      "name": "The Mountain (Live from 25in24)",
+      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Mountain (Live from 25in24)",
-        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
       },
       "artists": [
         {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 231375,
-      "name": "The Mountain (Live from 25in24)",
-      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
+      "duration_ms": 480893,
+      "name": "Queen Songs/Human",
+      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 268493,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Under Fire",
-        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Broken With You",
+        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
+      },
+      "artists": [
+        {
+          "name": "Nathan Sheridan",
+          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
+        }
+      ],
+      "duration_ms": 178796,
+      "name": "Starts With You And Me",
+      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Broken With You",
-        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Sheridan",
-          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
-        }
-      ],
-      "duration_ms": 178796,
-      "name": "Starts With You And Me",
-      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q"
-      },
-      "artists": [
-        {
-          "name": "Moda Spira",
-          "url": "https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a"
-        }
-      ],
-      "duration_ms": 219876,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 197445,
       "name": "Reciprocate",
       "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q"
+      },
+      "artists": [
+        {
+          "name": "Moda Spira",
+          "url": "https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a"
+        }
+      ],
+      "duration_ms": 219876,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
     },
     {
       "added_at": "2020-09-04 04:02:00",

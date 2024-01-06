@@ -2,7 +2,7 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Smooth joints\. Cover: Arlo Parks
+> Smooth joints\. Cover: Avenoir
 
 1,081 songs - 2 day 15 hr 28 min
 

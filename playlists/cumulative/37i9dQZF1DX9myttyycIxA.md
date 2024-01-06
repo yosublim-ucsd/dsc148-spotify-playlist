@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Wednesday
 
-1,126 songs - 2 day 16 hr 3 min
+1,127 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -915,7 +915,8 @@
 | [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 | 2022-05-19 | 2022-08-22 |
 | [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 | 2022-05-19 | 2022-10-01 |
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-29 | 2022-07-29 |
-| [Spinning](https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Spinning](https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv) | 3:34 | 2023-12-08 |  |
+| [Spinning](https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Spinning](https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv) | 3:34 | 2023-12-08 | 2024-01-06 |
+| [Spinning](https://open.spotify.com/track/6MTxftPAssBVTyGFJ4KB1l) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:34 | 2023-12-08 |  |
 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 | 2022-07-05 | 2022-10-15 |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2021-06-25 | 2022-04-11 |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-06-15 | 2023-12-09 |

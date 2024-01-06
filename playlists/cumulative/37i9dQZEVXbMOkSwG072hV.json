@@ -14672,7 +14672,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -29344,7 +29344,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 130671,
       "name": "Pepp@ 2",
       "url": "https://open.spotify.com/track/4Yrs6DDP7GRTZIj9oJ4SPS"
@@ -32120,7 +32120,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 92307,
       "name": "Rel\u00edquia do Mal",
       "url": "https://open.spotify.com/track/56xAutww30bHxWygJ01nUB"
@@ -33970,6 +33970,24 @@
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
+    },
+    {
+      "album": {
+        "name": "Conte\u00fado Adulto",
+        "url": "https://open.spotify.com/album/3CyyK7rwOGqLFu10LWQITV"
+      },
+      "artists": [
+        {
+          "name": "Breg\u00e3o du Valle",
+          "url": "https://open.spotify.com/artist/7qxSPHgd4lPNkrMLXrRlqp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115666,
+      "name": "Sequ\u00eancia do Mete",
+      "url": "https://open.spotify.com/track/5jVhJJGN1NchqHPMOHBLt0"
     },
     {
       "album": {
@@ -37926,7 +37944,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 193913,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/1XqpohNsprDGymtJ6uPD3g"
@@ -38516,6 +38534,32 @@
       "duration_ms": 168048,
       "name": "TREM MAIS CARO",
       "url": "https://open.spotify.com/track/6qu6s6uwdVdGewHpi6Cdo7"
+    },
+    {
+      "album": {
+        "name": "Treta do Dj Lorran",
+        "url": "https://open.spotify.com/album/2hDCgz0eQTdFl8FUGTxrRD"
+      },
+      "artists": [
+        {
+          "name": "DJ Lorran",
+          "url": "https://open.spotify.com/artist/0dxNyNS9ddNxtPFpws4xDj"
+        },
+        {
+          "name": "Mc Alef",
+          "url": "https://open.spotify.com/artist/7Lcc9jeOePGaK8Km0PMxwx"
+        },
+        {
+          "name": "MC Rose",
+          "url": "https://open.spotify.com/artist/5Vlnf4THwHOvW2NN8NIceM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "Treta do Dj Lorran",
+      "url": "https://open.spotify.com/track/1Kw8Z6tri1YKG1t98FhlFJ"
     },
     {
       "album": {
@@ -40102,8 +40146,8 @@
       },
       "artists": [
         {
-          "name": "DJ DIDI Dj Rayan Mc Fopi Mc Gw Mc Fabinho Osk",
-          "url": "https://open.spotify.com/artist/2owlQSd0WDr1RXLZZsyC2h"
+          "name": "DJ DIDI",
+          "url": "https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ"
         }
       ],
       "date_added": "2023-12-21",

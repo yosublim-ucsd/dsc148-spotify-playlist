@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 28848,
+  "num_followers": 28911,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTFhODQ3MWVjYmEwYWQxMDllOGQyZDlhNTBmNjczNDA4MGUwNjU1",
+  "snapshot_id": "MCxhNmMxYzk0M2E0OWJlMjU2ODY4ZmE3NzU1MTZhMzdiNWJlOGVlNTdj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Sneaky Link Shemix",
+        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 98795,
+      "name": "Sneaky Link Shemix",
+      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "SMD",
         "url": "https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 182146,
       "name": "LIT BITCH",
       "url": "https://open.spotify.com/track/6rXEeSswc5z1lpRcHcV6zc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Sneaky Link Shemix",
-        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 98795,
-      "name": "Sneaky Link Shemix",
-      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Nunnadet Shit",
+        "url": "https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "duration_ms": 214583,
+      "name": "Nunnadet Shit",
+      "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Still Da Baddest",
         "url": "https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 253053,
       "name": "Look Back At Me",
       "url": "https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Nunnadet Shit",
-        "url": "https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        }
-      ],
-      "duration_ms": 214583,
-      "name": "Nunnadet Shit",
-      "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lil Mont from the Ave",
-        "url": "https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X"
-      },
-      "artists": [
-        {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
-        }
-      ],
-      "duration_ms": 176338,
-      "name": "The Ave in You",
-      "url": "https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Who Don't Like Dollaz",
         "url": "https://open.spotify.com/album/23uhkVlRY5xibU4tWEYaxQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 193358,
       "name": "Blow a Check",
       "url": "https://open.spotify.com/track/3IKaK0z2lNVzX6gBH2ReDw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lil Mont from the Ave",
+        "url": "https://open.spotify.com/album/1cZLwwMVQDCEOErLWjJD6X"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 176338,
+      "name": "The Ave in You",
+      "url": "https://open.spotify.com/track/3AIx2mvrJJuCaea9ImEkr1"
     },
     {
       "added_at": "2022-10-01 16:00:00",

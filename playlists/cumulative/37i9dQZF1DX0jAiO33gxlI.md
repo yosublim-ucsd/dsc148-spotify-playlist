@@ -2,7 +2,7 @@
 
 ### [Presença Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX0jAiO33gxlI)
 
-> Os lançamentos e melhores sons do rap e trap nacionais\. Foto: BK
+> Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
 552 songs - 1 day 6 hr 3 min
 

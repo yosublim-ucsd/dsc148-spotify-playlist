@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,215 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,253 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 27 | [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 |
 | 28 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 |
 | 29 | [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 |
-| 30 | [Payaliya](https://open.spotify.com/track/2qTil4mK99qmmVhH7bIFW1) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/1zwPjsEUnYZTPzz7C5OOSs) | 4:10 |
+| 30 | [Payaliya](https://open.spotify.com/track/01PrstkiG8yl6Za84sYkmA) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/2pZbrfjNSECl6oTaYC8eZ3) | 4:10 |
 | 31 | [Baadal](https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Baadal](https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt) | 4:14 |
 | 32 | [Seher](https://open.spotify.com/track/6WcBchq24S1Gl7VyHqWKJz) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Seher](https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb) | 3:28 |
 | 33 | [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCw3Yzg5M2NiNTU0NGI0NDc1NTFiMmFlNzI3MWY5MWI4ZTI4NGI3YWI4`
+Snapshot ID: `MCxhNjEwMDFhZGNkOWY0MjUxMTc4ZWZkYjVkMmVkOTNhZjE3N2IzMjJm`

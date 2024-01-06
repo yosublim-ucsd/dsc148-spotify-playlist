@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,967 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,001 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 37 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 38 | [ジガトラ \- cadode Solo Ver.](https://open.spotify.com/track/1ltE1hsvuMreTFe1iYah6S) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [ジガトラ \(cadode Solo Ver.\)](https://open.spotify.com/album/6qja4ikjhL96h4FJXVZOyw) | 3:17 |
 | 39 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
-| 40 | [生きるってなんだよ](https://open.spotify.com/track/6DCEStYSd9lfZ9M3Bkjj2l) | [朝ノ瑠璃](https://open.spotify.com/artist/584gKp2bM8dnPO7AyJ17Vc) | [生きるってなんだよ](https://open.spotify.com/album/7CRmjkc9j2Whe39gfZshic) | 4:01 |
+| 40 | [Ikirutte Nandayo](https://open.spotify.com/track/5xU2mVayYydjX17DKHV7wM) | [朝ノ瑠璃](https://open.spotify.com/artist/584gKp2bM8dnPO7AyJ17Vc) | [Ikirutte Nandayo](https://open.spotify.com/album/6N4BRJlgivqei5kUkUK19q) | 4:01 |
 | 41 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 42 | [春に涙](https://open.spotify.com/track/7xZdNUzmUCCpRY7lr24gVI) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [春に涙](https://open.spotify.com/album/5LVfBVPbFg4lEAxzWr5flj) | 2:48 |
 | 43 | [Moonthief](https://open.spotify.com/track/5VpeLvjayWlwt2VwkgKTKj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Moonthief](https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 |
 | 50 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 |
 
-Snapshot ID: `MCxkZTg3ZDQ2OWNhZjc3NTI4NjUzMmM0MTU2YzhhMzU2MDQ1NGM1ZmEy`
+Snapshot ID: `MCw3Zjc3N2M2ZmQ2YmVkYTc2NmZlYWFjYjE4YmNhMjM3NmJkZjcwOGQz`

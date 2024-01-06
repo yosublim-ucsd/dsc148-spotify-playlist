@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Oscar Maydon & Tyga",
-  "num_followers": 28151,
+  "num_followers": 28157,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmYyNjJjZThjZjI3MTk2YzNhYjQ0ODRjNjg5NjI5NmExMTRkMGNj",
+  "snapshot_id": "MCw1NDBhOTQwZjlmZjdlZjcyMjM0MDBjNTY2MWI1ODVjYmU3MGEzNzJl",
   "tracks": [
     {
       "added_at": "2023-12-22 19:39:55",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-12-22 19:39:55",
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/47qwD2S4QZc1LVWBDxUZdN"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf"
-    },
-    {
-      "added_at": "2023-12-22 19:39:55",
-      "album": {
         "name": "Rockport Espacial 2",
         "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 222831,
       "name": "Corrido Espacial",
       "url": "https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P"
+    },
+    {
+      "added_at": "2023-12-22 19:39:55",
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/47qwD2S4QZc1LVWBDxUZdN"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf"
     },
     {
       "added_at": "2023-12-22 19:39:55",

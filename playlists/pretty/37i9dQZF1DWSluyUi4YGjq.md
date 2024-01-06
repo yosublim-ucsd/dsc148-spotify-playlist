@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: The Jesus and Mary Chain
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,102 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,186 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 23 | [Immerse](https://open.spotify.com/track/3JOfu8e1R0P2EDEnsYWfOv) | [Seventh Dose](https://open.spotify.com/artist/4mEuEaZY0Med2WBAfZvjyP) | [Immerse](https://open.spotify.com/album/1Y8Sm4Rjn6u65JdG1HYh0M) | 4:08 |
 | 24 | [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 |
 | 25 | [Haunt You Still](https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Haunt You Still](https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H) | 4:02 |
-| 26 | [Too True](https://open.spotify.com/track/2HuZ5zQwJIYRVHXt5D43OS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Too True](https://open.spotify.com/album/0HedQzOo9cFhW2LP0SoGhP) | 3:57 |
+| 26 | [Too True](https://open.spotify.com/track/0klZoAPXy22LXfkYyk3Ago) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 |
 | 27 | [Into Deluxe](https://open.spotify.com/track/5vRyNyDeLsbgwVKfrROZmw) | [llawgne](https://open.spotify.com/artist/2ygwnXevLOOOIK91pF0VIB) | [Into Deluxe](https://open.spotify.com/album/0zkUkt7NZfAiwy548px7dz) | 4:16 |
 | 28 | [grit/wither](https://open.spotify.com/track/1M3RuRadk9tD0zeumNA2v2) | [velora](https://open.spotify.com/artist/1vwoujcmAbnNhouYzfEQ95) | [demonstration](https://open.spotify.com/album/2XDMF86uMdN0xr8o09Lktq) | 4:22 |
 | 29 | [season](https://open.spotify.com/track/0tyZQfY6yHmfLsoOdJc8bd) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [season/everblue](https://open.spotify.com/album/1tpA5j4ugBgRdiv0QHeDbj) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 |
 | 100 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCwyY2Q4MjNjYWRkYTA2NTI3Yjc2MjhiZTE4ODIyMzA5MjRmY2RjMmI0`
+Snapshot ID: `MCxhOTE5NTM1N2E1MzNiOWY5OTg2ZTVhYTE4ZjhhNDZjNjAzM2Q1MDRi`

@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/7eGiHsarofeJYs4V51ahQf"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/030xRmQe8IOwWqf25TVHly"
+    },
+    {
+      "album": {
         "name": "Blue Sky Moon",
         "url": "https://open.spotify.com/album/1Un7VebKIR6iEcFnvS2Rky"
       },

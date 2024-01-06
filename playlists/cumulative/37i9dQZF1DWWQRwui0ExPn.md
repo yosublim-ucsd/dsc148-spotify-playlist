@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,405 songs - 10 day 2 hr 43 min
+6,406 songs - 10 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [Cheap Motel](https://open.spotify.com/track/3mi6jfYzvW5cy7Fsgn2bAL) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Cheap Motel](https://open.spotify.com/album/0WBvkg0rMwz5eAROSFN546) | 2:08 | 2022-07-08 | 2022-10-21 |
 | [Check Check](https://open.spotify.com/track/4MCdrBtirCinBjGA5XMm7D) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Check Check](https://open.spotify.com/album/2RY2CmoZWtdFiRHfc7HJCN) | 2:02 | 2022-09-30 | 2023-01-13 |
 | [Checkerboard](https://open.spotify.com/track/6UFJpwhc4KMLUCawLuckeL) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Checkerboard](https://open.spotify.com/album/154HpMrM9cb4Valot9bfKK) | 2:30 | 2023-06-20 | 2023-09-29 |
+| [checkerboard floor](https://open.spotify.com/track/1dlAqOioxENQZ0cO4LKaSU) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [checkerboard floor](https://open.spotify.com/album/7GX0Du2j0aP3m6MCa3Q3YW) | 2:32 | 2024-01-05 |  |
 | [Checkmate](https://open.spotify.com/track/53n8qtPXMUauNSQCVfOAeK) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [Backyard](https://open.spotify.com/album/25UPRJuNvK0YpgwpYnQvYL) | 2:48 | 2023-05-31 | 2023-10-06 |
 | [Cheers Frank](https://open.spotify.com/track/2kYjiwLO8zAsdK4vTtqKTd) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Cheers Frank](https://open.spotify.com/album/2mMODbMw9zOTZuZ6QP2EZe) | 2:10 | 2021-11-05 | 2022-05-27 |
 | [Cheese](https://open.spotify.com/track/2kaBoFFpL7y1y9SEIXzD65) | [Delicious Chrischuzz](https://open.spotify.com/artist/7mg4oIXqpd9Y8qHSGlZ0M2) | [KEATS 12](https://open.spotify.com/album/7429nyLHqxDCBptiyKPuEt) | 2:23 | 2023-01-20 | 2023-04-06 |
@@ -5721,7 +5722,7 @@
 | [TM beat up](https://open.spotify.com/track/0Cc5ZPHV98CUThrItOTr6c) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [TM beat up](https://open.spotify.com/album/3HPF3rMLSn5f08nIY0cKFT) | 2:39 | 2022-11-11 | 2023-04-28 |
 | [to a cloudy sky](https://open.spotify.com/track/2xKXY9ciynng6mdmUJrh5P) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [perspective](https://open.spotify.com/album/2ClhqXQ2dCHH83xusNbdeI) | 2:45 | 2023-12-15 |  |
 | [to be free](https://open.spotify.com/track/1ncwoDTX8vvervcqmmIaT9) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Magnole](https://open.spotify.com/artist/5Sxf6pGNW0sp28hqv1tc6a) | [to be free](https://open.spotify.com/album/79kSJAjjEzrEuZ96VNgUFs) | 1:49 | 2023-03-24 | 2023-10-20 |
-| [To Be Honest](https://open.spotify.com/track/28I04TZda8fyLCICihRij9) | [Valeu Irmao](https://open.spotify.com/artist/593de5y1o4gIflKTrMtxb4) | [To Be Honest](https://open.spotify.com/album/4bzkCz4bXcoKYi28B0Hwt0) | 2:18 | 2024-01-05 |  |
+| [To Be Honest](https://open.spotify.com/track/28I04TZda8fyLCICihRij9) | [Valeu Irmao](https://open.spotify.com/artist/593de5y1o4gIflKTrMtxb4) | [To Be Honest](https://open.spotify.com/album/4bzkCz4bXcoKYi28B0Hwt0) | 2:18 | 2024-01-05 | 2024-01-06 |
 | [To the Shore](https://open.spotify.com/track/2i7YT78gYhOoBOHNhMligd) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv), [Mika Novo](https://open.spotify.com/artist/4zJzLRWgL9CiQIw7HIjTz7) | [Ocean Thoughts](https://open.spotify.com/album/6sL83JFJ0qQQ1gDgnxmq2d) | 2:03 | 2022-08-19 | 2022-11-25 |
 | [Toada](https://open.spotify.com/track/0wRBLhXKcxODx9734qcZ9h) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Boranda](https://open.spotify.com/album/78zZ4BLZVCszy6iRBCKk9F) | 1:36 | 2022-02-14 | 2022-07-22 |
 | [Toady Encore](https://open.spotify.com/track/2gko20FmesKImBqwvVdgh1) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Toady Encore](https://open.spotify.com/album/724z4tSlQug9WKkVxQkLAw) | 1:59 | 2022-12-02 |  |

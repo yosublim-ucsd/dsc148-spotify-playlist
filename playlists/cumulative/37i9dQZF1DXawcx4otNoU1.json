@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon Fades",
+        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "Honeymoon Fades",
+      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
+    },
+    {
+      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
       },
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 211826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
@@ -3460,6 +3478,24 @@
       "duration_ms": 171807,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD"
+    },
+    {
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138453,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
     },
     {
       "album": {
@@ -4676,7 +4712,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 250893,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"

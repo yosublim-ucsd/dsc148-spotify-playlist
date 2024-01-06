@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=\_7dt1SNIR5WmWQxNj\-173w"> نوال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,977 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,100 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 25 | [Matsebnesh](https://open.spotify.com/track/1muU8T58fu3YB4XQPt1w2w) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [Matsebnesh](https://open.spotify.com/album/0IfF9NBbNIJfhSGh2BrMJd) | 2:45 |
 | 26 | [يابا](https://open.spotify.com/track/4r0M1VNNIVxvo6oesvU7xS) | [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [يابا](https://open.spotify.com/album/14DrGHCWoNoa3GeuvHco41) | 2:57 |
 | 27 | [انسي يأسك](https://open.spotify.com/track/67ELl3i4PFwL2Yc53ANsvE) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [انسي يأسك](https://open.spotify.com/album/5Y9UEFxBi8Yye2e5OvpAWn) | 3:01 |
-| 28 | [Bkam](https://open.spotify.com/track/4OgtLrSm7HbhwH9EVGCz4O) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 1:53 |
+| 28 | [Bkam](https://open.spotify.com/track/6NxEW5BYo3SKFW6kxO9rBq) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 1:53 |
 | 29 | [Salma Ya Salama](https://open.spotify.com/track/6iwHluwxrl5TU2cCin91ei) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [Salma Ya Salama](https://open.spotify.com/album/1XLmptOA8vXdP1PxnnlQwA) | 2:58 |
 | 30 | [Rooh](https://open.spotify.com/track/2qfg2K2fX4VDaWOcl2tEFh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Rooh](https://open.spotify.com/album/7gQvelMzNHp52llxlr1g4T) | 2:37 |
 | 31 | [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Kol Youm](https://open.spotify.com/track/3IGIcmSEULycb9jwx6iUhX) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kol Youm](https://open.spotify.com/album/5F0Rcxjd3TOBcu059YbTS3) | 2:48 |
 | 75 | [Mnamel](https://open.spotify.com/track/1DKPneXBsDu5ea9W01LOZm) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [L Nor \(2\-3\)](https://open.spotify.com/album/0SYxXFWltccqziLMvruS5E) | 2:27 |
 
-Snapshot ID: `MCxkZDViMmE0YzM4YjZjOWM2MjBiMTZlNDdkZDZjZjU4ZDAxM2E1ZDIx`
+Snapshot ID: `MCxmODdlMGFiYjUxMGIzMjY3ZmYxOGQ4NDI1MGM3YWE4OGM0NWI4Y2Uy`

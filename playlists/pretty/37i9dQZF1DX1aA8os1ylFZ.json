@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241898,
+  "num_followers": 241943,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM5Y2E0NzQ0YjgxMzAxY2ZkZjRmMWQ5MmMxMzVlYzg0YzliYTVj",
+  "snapshot_id": "MCwzOGM0N2M5ZDAyZWFjNDFhMmM4ZjUyYzU3OTJkMTVmMjU2OGZmMmU0",
   "tracks": [
     {
       "added_at": "2023-12-28 23:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "New Type (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 142857,
       "name": "Emotionally Unavailable",
       "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Fierce",
-        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "1+1",
         "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 172739,
       "name": "1+1",
       "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Fierce",
+        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Love On Film",
-        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 123825,
-      "name": "Love On Film",
-      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Do They Know",
         "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 122400,
       "name": "Do They Know",
       "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Love On Film",
+        "url": "https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 123825,
+      "name": "Love On Film",
+      "url": "https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0"
     },
     {
       "added_at": "2023-12-28 23:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-12-28 23:00:00",
       "album": {
-        "name": "Whatever I Guess?",
-        "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
-      },
-      "artists": [
-        {
-          "name": "Ashia Vu",
-          "url": "https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4"
-        }
-      ],
-      "duration_ms": 213383,
-      "name": "Whatever I Guess?",
-      "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
-    },
-    {
-      "added_at": "2023-12-28 23:00:00",
-      "album": {
         "name": "Flexible",
         "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 141176,
       "name": "Flexible",
       "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
+    },
+    {
+      "added_at": "2023-12-28 23:00:00",
+      "album": {
+        "name": "Whatever I Guess?",
+        "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
+      },
+      "artists": [
+        {
+          "name": "Ashia Vu",
+          "url": "https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4"
+        }
+      ],
+      "duration_ms": 213383,
+      "name": "Whatever I Guess?",
+      "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
     },
     {
       "added_at": "2023-12-28 23:00:00",

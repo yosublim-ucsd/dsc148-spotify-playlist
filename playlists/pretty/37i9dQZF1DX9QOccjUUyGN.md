@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,657 likes - 79 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,655 likes - 79 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 78 | [A Fonte](https://open.spotify.com/track/1m6u5l7PdEjNA7B6eSJSEB) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Bubbajay](https://open.spotify.com/artist/7fctsXmbgy715CE6TEafJq) | [A Fonte](https://open.spotify.com/album/3FtMnxO2hM0LxEQE4Jfc7h) | 3:45 |
 | 79 | [Astro](https://open.spotify.com/track/7bGQqqMTRVNPrz6gcV188l) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Astro](https://open.spotify.com/album/0xNKCiPPIuZcEiofGqBph2) | 3:30 |
 
-Snapshot ID: `MCxiOGVmYjMzZGU4NDhmNjZlYTMwYWVlYmNhMDFlYWY5N2VkYmRmZDJj`
+Snapshot ID: `MCwzNWE5NjRiMjFlNjU3YzlkNDk5YzI1MTlmNjgzN2UxZDYxZGVjYWMx`

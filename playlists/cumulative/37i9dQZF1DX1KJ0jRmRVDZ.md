@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-955 songs - 2 day 6 hr 26 min
+956 songs - 2 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-14 |
 | [Identity](https://open.spotify.com/track/5MiihS6toSrDlwen3p6Slp) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Identity](https://open.spotify.com/album/3WmF5fA11eq8wIjoj7Hmk0) | 2:41 | 2022-10-06 | 2022-10-19 |
 | [Igniter](https://open.spotify.com/track/2ft4oa972vArdrTKYdU6sd) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Starpeggio](https://open.spotify.com/album/4P0fK06vdodkHhWHdmY7ar) | 3:12 | 2023-12-12 |  |
+| [Ikirutte Nandayo](https://open.spotify.com/track/5xU2mVayYydjX17DKHV7wM) | [朝ノ瑠璃](https://open.spotify.com/artist/584gKp2bM8dnPO7AyJ17Vc) | [Ikirutte Nandayo](https://open.spotify.com/album/6N4BRJlgivqei5kUkUK19q) | 4:01 | 2024-01-04 |  |
 | [IMAGINARY LIKE THE JUSTICE](https://open.spotify.com/track/6cvjT8OfKJTTReE5DmNNlE) | [SymaG](https://open.spotify.com/artist/0Dju1ubNsfRe3jTH9RgJDh) | [G7](https://open.spotify.com/album/4YRAe1VOnILXlL0F2r5aSS) | 4:26 | 2023-03-16 | 2023-04-19 |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-08 | 2023-03-10 |
 | [INAZMA](https://open.spotify.com/track/3POLsjox8STfaKN7p1no44) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [INAZMA](https://open.spotify.com/album/6ahRrIWu33oElg0xP5Umsb) | 3:31 | 2022-06-13 | 2022-07-10 |
@@ -848,7 +849,7 @@
 | [猫被り](https://open.spotify.com/track/3ZzcCGmLtedAge5b1eWZZ0) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [猫被り](https://open.spotify.com/album/3nk5STrK5pfQrB2oy2TbkV) | 3:02 | 2022-06-09 | 2022-07-25 |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-17 |  |
 | [甘やかな毒 \- feat\. EMA](https://open.spotify.com/track/2mQ0PT8ssxO2tyKzTBRgxN) | [Goat](https://open.spotify.com/artist/4mfb1N5wHaJn88xVYvHq8H), [EMA](https://open.spotify.com/artist/23rpDPnKdY96j4smcpPTJT) | [甘やかな毒 \(feat\. EMA\)](https://open.spotify.com/album/2wDhn1gtxadLTmv1uWpEUz) | 2:45 | 2022-06-09 | 2022-06-14 |
-| [生きるってなんだよ](https://open.spotify.com/track/6DCEStYSd9lfZ9M3Bkjj2l) | [朝ノ瑠璃](https://open.spotify.com/artist/584gKp2bM8dnPO7AyJ17Vc) | [生きるってなんだよ](https://open.spotify.com/album/7CRmjkc9j2Whe39gfZshic) | 4:01 | 2024-01-04 |  |
+| [生きるってなんだよ](https://open.spotify.com/track/6DCEStYSd9lfZ9M3Bkjj2l) | [朝ノ瑠璃](https://open.spotify.com/artist/584gKp2bM8dnPO7AyJ17Vc) | [生きるってなんだよ](https://open.spotify.com/album/7CRmjkc9j2Whe39gfZshic) | 4:01 | 2024-01-04 | 2024-01-06 |
 | [生きるよすが](https://open.spotify.com/track/1SLtDIhXQG2ud0AXrb2fn8) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [生きるよすが](https://open.spotify.com/album/3jZ6QhG9rcrPxxMxJbBNko) | 4:04 | 2022-06-09 | 2022-07-11 |
 | [生命謳歌](https://open.spotify.com/track/4ds7UtHjZaDOqrNfDvEAFu) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [贅沢](https://open.spotify.com/album/4veTaGfANaofpm4qHiNnah) | 3:09 | 2023-04-25 | 2023-04-27 |
 | [生存](https://open.spotify.com/track/6nUFA6RjYu2i7um1C4Mx9V) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [生存](https://open.spotify.com/album/6oSDIdniGff9ECq3dMsL3q) | 3:05 | 2023-05-16 | 2023-06-21 |

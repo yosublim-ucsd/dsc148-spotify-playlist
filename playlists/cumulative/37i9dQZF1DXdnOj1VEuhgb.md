@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Jeff Redd
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Cashflow x Batuflex
 
-252 songs - 11 hr 1 min
+253 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [İNAN BANA](https://open.spotify.com/track/4cjnDLZtFqhXry4Srvtk6O) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [İNAN BANA](https://open.spotify.com/album/4EafW8VnE8XtGOSnxD5PXX) | 3:03 | 2023-01-26 | 2023-02-24 |
 | [İNATLA](https://open.spotify.com/track/5d1eOk5l7IRRLcvupApHi1) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [İNATLA](https://open.spotify.com/album/0pcQvIDHmRlWxi7JUg2vxr) | 2:09 | 2023-01-10 | 2023-03-03 |
 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 | 2023-03-16 | 2023-08-11 |
+| [İstanbul](https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İstanbul](https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA) | 2:52 | 2024-01-05 |  |
 | [İSTEMEM](https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [İSTEMEM](https://open.spotify.com/album/3CUU4TFr7UowburX1Au22f) | 3:18 | 2023-01-10 | 2023-03-31 |
 | [İstesem De Söyleyemem](https://open.spotify.com/track/3QfP0wvvCK5e6GMffySlEX) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [İstesem De Söyleyemem](https://open.spotify.com/album/0ucrFTImSmbXuJbnbWZftP) | 3:34 | 2023-11-16 | 2023-12-14 |
 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Tiësto & FAST BOY, Shubh, Jhené Aiko, Zeina and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,931 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,987 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 21 | [Greatest](https://open.spotify.com/track/2ZDDMKwqNWvcKm1psF82v6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Greatest](https://open.spotify.com/album/4gj2alDJCtP0ZeefbmbAD2) | 2:23 |
 | 22 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 23 | [Feel The Vibe](https://open.spotify.com/track/2iaVTieMIIck9PjuQCZm1k) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Feel The Vibe](https://open.spotify.com/album/7cP4EVH1E2pYg4pB48MW37) | 3:06 |
-| 24 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
+| 24 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 25 | [Hotta](https://open.spotify.com/track/5nRbUg6RP7LjGx9gDAxPOO) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Dancehall Riddim: Rush](https://open.spotify.com/album/0fLKkhsA6XpMtCoW5QZyOA) | 3:25 |
 | 26 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 |
 | 27 | [Skims](https://open.spotify.com/track/31yg6sxD3CKn5KfJxw9SUW) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Skims](https://open.spotify.com/album/7cbLBr6UAXKQ6QQmOQ4wVm) | 3:02 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 37 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 |
 | 38 | [Casa Techno](https://open.spotify.com/track/3aCZ2vtwqEsUfj6W9TMWPs) | [Hypermorph](https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Snnr](https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc) | [Casa Techno](https://open.spotify.com/album/76AkxXrNVDZLrDB9dVSdqS) | 1:53 |
 | 39 | [Yes](https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Jaw Drop](https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V) | 2:26 |
-| 40 | [Lahore](https://open.spotify.com/track/7tpY21UpVbTTu2II0AH3Vo) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT) | [Lahore](https://open.spotify.com/album/7GYjH2KRlovUp4ThLjKKw4) | 3:13 |
+| 40 | [Lahore](https://open.spotify.com/track/7tpY21UpVbTTu2II0AH3Vo) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Lahore](https://open.spotify.com/album/7GYjH2KRlovUp4ThLjKKw4) | 3:13 |
 | 41 | [SMILE!](https://open.spotify.com/track/2SADJnqon4ae3E2MRlD5e6) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5) | [SMILE!](https://open.spotify.com/album/2c0zJeXBAC0aTkjTe6IrCX) | 1:58 |
 | 42 | [Ain't Misbehavin'](https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Ain't Misbehavin'](https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0) | 2:26 |
 | 43 | [Let It Rain](https://open.spotify.com/track/4jhpCdf2OuDiZyZQIfU0Hd) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Let It Rain](https://open.spotify.com/album/279HES16QiO6hRHsnrhAYC) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
 | 75 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 
-Snapshot ID: `MCw0ZmYwYTgyODE4MjRkYWViMzg3MGQyZjBmNzZhZjhkM2VhMjQwZWUw`
+Snapshot ID: `MCxlYTg3YmFkMWQzOTI3OWJkYmNiYjJkY2M0YzQ1OTVlYTI2NTBiN2Jj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: LEE CHANHYUK
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,815 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,940 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Loved](https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Loved](https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq) | 2:36 |
 | 50 | [Do It](https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Do It](https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB) | 3:09 |
 
-Snapshot ID: `MCwzNWNjZmYxNWRkNTU2MzQyYzQ2NzJjZDQxMDkzMThiNTI1MzFmYWZl`
+Snapshot ID: `MCw2YjU0Yzc2ZDVlMmNjZDc0MjkzMTkwZWIxYzNiNzgxYzM4MDNiNjU4`

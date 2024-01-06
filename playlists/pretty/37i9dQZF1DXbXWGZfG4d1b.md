@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,225 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,236 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 38 | [5A](https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Comprensión1](https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut) | 2:25 |
 | 39 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 |
 | 40 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 |
-| 41 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
-| 42 | [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 |
+| 41 | [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 |
+| 42 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
 | 43 | [Aproximación](https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Aproximación](https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho) | 3:15 |
 | 44 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 |
 | 45 | [Corriendo](https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Corriendo](https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb) | 2:39 |
 | 46 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 |
-| 47 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
-| 48 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
-| 49 | [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 |
+| 47 | [Arariyo](https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Arariyo](https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP) | 4:30 |
+| 48 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
+| 49 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
 | 50 | [Pajarito](https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [FRANCHI](https://open.spotify.com/artist/77xtGvM91PQToxdNiBFxom) | [Pajarito](https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU) | 3:42 |
 | 51 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 |
 | 52 | [Nadie va a decidir por vos](https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 3:41 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 58 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 |
 | 59 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 |
 | 60 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 |
-| 61 | [Julia](https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [atrás de los árboles](https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh) | 2:26 |
-| 62 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 |
+| 61 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 |
+| 62 | [Julia](https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [atrás de los árboles](https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh) | 2:26 |
 | 63 | [Ceremonia](https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld) | [Pretoria](https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5) | [Ceremonia](https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J) | 3:14 |
 | 64 | [Espejo](https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Espejo](https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U) | 4:15 |
 | 65 | [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 |
-| 66 | [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 |
-| 67 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
+| 66 | [Habladurías](https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Habladurías](https://open.spotify.com/album/2mPMj1gsZUH85grueUV75W) | 3:09 |
+| 67 | [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 |
 | 68 | [Anclado](https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Anclado](https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt) | 4:24 |
 | 69 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 |
 | 70 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 74 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 |
 | 75 | [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 |
 
-Snapshot ID: `MCwxNTgzODljNTc5MGNiZjc0NTUyODBhZDgyMjI1YmIyZGJlZWQ3MDcz`
+Snapshot ID: `MCw0Y2Y5ZmQyMTBkNzU2ZTc0ZGMzZGQ4MDkyMmFiZTQ5ZWY2ODNiYThh`

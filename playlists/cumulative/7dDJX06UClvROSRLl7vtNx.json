@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1eyHgzBpAmJeJkzsjaEwvT"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/76STLPfFzQgvGnLtIlEoLP"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3pTP6gdMWrJBOPwFZEr5Sa"
       },
@@ -3488,6 +3506,28 @@
       "duration_ms": 133333,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2MgAhjcBonrPzFM7hmjvz5"
+    },
+    {
+      "album": {
+        "name": "Someone Else\u2019s Love",
+        "url": "https://open.spotify.com/album/4t1fOSQ2fIx31fhb6sjKlX"
+      },
+      "artists": [
+        {
+          "name": "Vowed",
+          "url": "https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY"
+        },
+        {
+          "name": "DAV5",
+          "url": "https://open.spotify.com/artist/47dPr2uiIrwKz4ALQ6ejWG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154214,
+      "name": "Someone Else's Love",
+      "url": "https://open.spotify.com/track/7185SlFIvEKtNH8A8OcWLz"
     },
     {
       "album": {

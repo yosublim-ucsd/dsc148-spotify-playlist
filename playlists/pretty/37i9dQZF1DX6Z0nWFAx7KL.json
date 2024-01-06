@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47282,
+  "num_followers": 47287,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2ZlZmVhZjNhY2UxZWYxMjJkZjRkODBmMWZhYTFkYjMzOWZmNDEy",
+  "snapshot_id": "MCxmZWY5ZWVlYTFjNjYyNDM2OTVjY2RkNTc1ZmZlMzZlYWQ4MTcxZDRm",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 158031,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Thousand Lullabies",
         "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 129573,
       "name": "Thousand Lullabies",
       "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        },
-        {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -615,6 +595,26 @@
       "duration_ms": 148522,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Never Give Up On You",
         "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 216538,
       "name": "Never Give Up On You",
       "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Rest of My Life",
+        "url": "https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        }
+      ],
+      "duration_ms": 139010,
+      "name": "Rest of My Life",
+      "url": "https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 166991,
       "name": "Like The River",
       "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Rest of My Life",
-        "url": "https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
-        }
-      ],
-      "duration_ms": 139010,
-      "name": "Rest of My Life",
-      "url": "https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Don't Hide",
+        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        },
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Don't Hide",
+      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1543,22 +1563,6 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     }
   ],
   "unique_name": "Dance Chill",

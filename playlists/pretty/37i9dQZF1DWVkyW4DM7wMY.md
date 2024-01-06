@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,284 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,290 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 40 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 |
 | 41 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 |
 | 42 | [Minutes](https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09) | [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI), [Yuzko](https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG) | [Minutes](https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC) | 3:32 |
-| 43 | [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Original Tkay](https://open.spotify.com/artist/4tDcoeTePAFYlj1H7BhIC1) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 |
+| 43 | [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Tkay](https://open.spotify.com/artist/6fyyG0bifPLZIjIEKjidhs) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 |
 | 44 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
 | 45 | [Slow Wine](https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 2:04 |
 | 46 | [Quick Fix](https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Quick Fix](https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Chaser 2.0](https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Chaser 2.0](https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz) | 3:00 |
 | 70 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 |
 
-Snapshot ID: `MCwxMjdlMTY4ZDM5MjY4MmE4ZjlhNTIyMjM1MjMzYjhlZTM4Njc3YWMx`
+Snapshot ID: `MCxkM2ViMWM5OTVmNWUxNzcxMzA2OTdhMGI1ZDI2YmRiY2NmNTU4M2U2`

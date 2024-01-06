@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,499 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,531 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 20 | [Cowboy Killer](https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:22 |
 | 21 | [Gangsta Funktion \- Remix](https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Gangsta Funktion \(Remix\)](https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd) | 2:05 |
 | 22 | [Bag Shit](https://open.spotify.com/track/7lcxEhRo4U7tbpI3H86F4X) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Bag Shit](https://open.spotify.com/album/3xw3koYUfnfJVKECVSsZM4) | 3:31 |
-| 23 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
-| 24 | [Clean Up Nice](https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 1:48 |
+| 23 | [Clean Up Nice](https://open.spotify.com/track/34R8hnhxAdXVe1A4JURsC5) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 1:48 |
+| 24 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
 | 25 | [Need That](https://open.spotify.com/track/6Mlt51MMwu5wg0f11BynCE) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Need That](https://open.spotify.com/album/1fbUmxGfHJQhvr2Va02YaW) | 2:30 |
 | 26 | [Go Fast](https://open.spotify.com/track/7470xmX5xRYZavxgzRTdGB) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hip\-Hop at Fifty: OHGEESY](https://open.spotify.com/album/4TS0EcfW0LJKlhrFQcxgfx) | 2:32 |
 | 27 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Bienvenidos](https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Bienvenidos](https://open.spotify.com/album/0flYjj312P4iOOuriLc37g) | 2:34 |
 | 50 | [Wish You Really Would](https://open.spotify.com/track/3eT8T9tw6FFx0aRSkCqpHA) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Wish You Really Would](https://open.spotify.com/album/6EwcXxrSza1I9VGl0pxGtN) | 2:35 |
 
-Snapshot ID: `MCxhNmQ2ZjU3NTg5ZWQ5ZmM2YzI0ZTUwZjM5MjVjYjU0NzQzNTQ1ODk4`
+Snapshot ID: `MCxiZWFkMDAxMTVhZDk5NzE3OGY0Zjc1NTViNWQzOWQ3NDQwNjFjYWFj`

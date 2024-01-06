@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-159 songs - 8 hr 31 min
+160 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 | 2023-03-28 |  |
 | [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 | 2023-03-28 | 2023-11-24 |
 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 | 2023-07-24 |  |
+| [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 |  |
 | [Ankhon Ka Kasoor](https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Ankhon Ka Kasoor](https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq) | 2:22 | 2023-05-09 | 2023-09-28 |
 | [Antidote](https://open.spotify.com/track/6VJIHzVA2VwW33fgTD0VXe) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [Antidote](https://open.spotify.com/album/2X9avJaTZEJ5uz8AKTubYp) | 3:01 | 2023-09-13 | 2023-10-07 |
 | [Aukaat](https://open.spotify.com/track/72pIrr3yu9g19s7gXZKYE6) | [Saksham Sharma](https://open.spotify.com/artist/2SjpavcMXJENAUDUrC5o43), [Apoorav](https://open.spotify.com/artist/2K2ToeghcuRJIA51gwegDT), [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6) | [Aukaat](https://open.spotify.com/album/16kXtvyn9yBOxFxn2M1SFO) | 3:45 | 2023-06-12 | 2023-07-12 |
@@ -77,7 +78,7 @@
 | [Haryana Zone](https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II) | [Oye Amti](https://open.spotify.com/artist/1aYZzT07CepkQFWaQDECss) | [Haryana Zone](https://open.spotify.com/album/4tz7GSeVevhfjXSddHw4J3) | 3:03 | 2023-04-14 | 2023-09-28 |
 | [Haryane Aale](https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 5](https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR) | 2:52 | 2023-11-22 |  |
 | [Headshot](https://open.spotify.com/track/4dlDoH3H44W5X0y8lG99mX) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Headshot](https://open.spotify.com/album/237fwmNkFmLaypCScLiRN8) | 2:27 | 2023-08-30 | 2023-09-09 |
-| [HHH \- Hip Hop Haryana](https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [HHH \- Hip Hop Haryana](https://open.spotify.com/album/6WWxMRqdGFcjpWPewmYm0L) | 6:16 | 2023-03-28 |  |
+| [HHH \- Hip Hop Haryana](https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [HHH \- Hip Hop Haryana](https://open.spotify.com/album/6WWxMRqdGFcjpWPewmYm0L) | 6:16 | 2023-03-28 | 2024-01-06 |
 | [Hollywood](https://open.spotify.com/track/1mGTLPsrLmDqElnb7urLNK) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Hollywood](https://open.spotify.com/album/4JVu7ANPoiT6kvbNlLDOHG) | 4:32 | 2023-03-28 | 2023-04-04 |
 | [HR Mashup](https://open.spotify.com/track/02GPZPUJAZ8gevwlzxst82) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [HR Mashup](https://open.spotify.com/album/0DsNQpOYvXCr4j16ottimR) | 2:48 | 2023-03-28 | 2023-04-29 |
 | [Hukumat](https://open.spotify.com/track/2Q9yt6YZuSSOwaWriqUX4o) | [Siddh](https://open.spotify.com/artist/2O2zQMpJF97uRqphTsm7hV) | [Hukumat](https://open.spotify.com/album/7DzYIOcztFH1kJLo5RoLxn) | 3:51 | 2023-09-27 |  |

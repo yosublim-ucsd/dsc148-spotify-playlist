@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-806 songs - 2 day 1 hr 1 min
+807 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Forever](https://open.spotify.com/track/4C6uD2tR7wwLoR1KIgk7Hb) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Forever](https://open.spotify.com/album/3v8q4sJs2qAGUqCmyjkb6M) | 2:55 | 2021-12-17 | 2022-03-12 |
 | [Forever \- Christopher Corrigan Remix](https://open.spotify.com/track/3SZTrJcyuLhAoPTwLDl0Je) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8), [Rebecca Louise Burch](https://open.spotify.com/artist/2xakyy51UCHjVwIvHGNpdY) | [Forever](https://open.spotify.com/album/5zp9XkQBSaz7i8A8t8j6bo) | 3:28 | 2023-05-26 |  |
 | [Forever \- ReOrder Remix](https://open.spotify.com/track/3mLO9dgG0FJIThfk0mJhZV) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Forever \(ReOrder Remix\)](https://open.spotify.com/album/7iyCfXKiGypOsJ9n3QAeNB) | 3:34 | 2022-09-30 | 2023-06-10 |
+| [Forever Gold](https://open.spotify.com/track/1iEEB0kgTbrHMc18B6omHH) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [We Are Siskin](https://open.spotify.com/album/4eUNxvdi6SR3cPSJXnla8P) | 3:22 | 2024-01-05 |  |
 | [Forever Young](https://open.spotify.com/track/5SNg13REo7ed6Dm0sXGgz8) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Forever Young](https://open.spotify.com/album/3nsCfqGPYeibfc4sidOnX7) | 3:15 | 2023-12-15 |  |
 | [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 | 2023-06-10 |
 | [Freak Of The Week](https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Freak Of The Week](https://open.spotify.com/album/6tMyIEtJXxEwcyn6lwRh7R) | 3:24 | 2023-01-13 | 2023-10-14 |
@@ -402,7 +403,7 @@
 | [Lifeline](https://open.spotify.com/track/4tvDQfaM3ZJMrQbLA13RNm) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3TgepwNI0HXrFMPfQom2B7) | 3:38 | 2022-09-23 | 2023-05-20 |
 | [Lifeline \- Fisherman Remix](https://open.spotify.com/track/1GuVsKyXDotOBc7k1ZsQHZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Lifeline \(Fisherman Remix\)](https://open.spotify.com/album/3RcHIST3XzCyqc5wOTxmPZ) | 3:34 | 2023-05-19 | 2023-11-11 |
 | [Light & Shade](https://open.spotify.com/track/1YBg8ylGKiTrq4Sniw6UdB) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [re:boot](https://open.spotify.com/artist/1HBB7Pn85JrPzx4PwRWIWH), [Adrian Alexander](https://open.spotify.com/artist/5msCUDk1PeADCytZ4lw5D6), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT) | [Fatum's Anjunabeats Worldwide 10 Collaborations EP](https://open.spotify.com/album/32hWfoag5Fg80aC1oa6398) | 2:58 | 2022-07-29 | 2023-05-20 |
-| [Light Up The Sky](https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy) | [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Light Up the Sky](https://open.spotify.com/album/08dpmlrmw3XRon9u81knVM) | 2:31 | 2023-06-09 |  |
+| [Light Up The Sky](https://open.spotify.com/track/2kD2avc7DcABRwAMFgakCy) | [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Light Up the Sky](https://open.spotify.com/album/08dpmlrmw3XRon9u81knVM) | 2:31 | 2023-06-09 | 2024-01-06 |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 | 2023-06-10 |
 | [Lights](https://open.spotify.com/track/0xfU9beVFKw5wi9sIQS73P) | [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Lights](https://open.spotify.com/album/1ZZmYRy7EjfYgFeltGVjYk) | 3:23 | 2022-03-11 | 2022-07-25 |
 | [Lights](https://open.spotify.com/track/60nHIZtCpSQyJbhQuEsaIi) | [Mike Zaloxx](https://open.spotify.com/artist/3ouOviMDzZMb55MJp08Tu4), [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Lights](https://open.spotify.com/album/6XakwOBOnXBrHYmH158jEo) | 3:57 | 2022-03-18 | 2022-07-14 |

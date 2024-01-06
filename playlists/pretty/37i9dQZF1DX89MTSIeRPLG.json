@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 13608,
+  "num_followers": 13649,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTVlNjkzYTliMWE3NGJiZjBjMzBjM2EyNDViN2FkYTc0MThhYmRi",
+  "snapshot_id": "MCwyNTdmNmM5OWY0MWRhYTk3YTRjZmNhOWU5NGZlYmU2YjJkNTMwMDNh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -743,18 +743,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
       },
       "artists": [
         {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 192400,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
+      "duration_ms": 225693,
+      "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
+      "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -779,22 +783,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn"
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
       "artists": [
         {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
         }
       ],
-      "duration_ms": 225693,
-      "name": "The Marathon Continues (Nipsey Tribute) - Bonus Track",
-      "url": "https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz"
+      "duration_ms": 192400,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
     },
     {
       "added_at": "2022-10-01 20:31:11",

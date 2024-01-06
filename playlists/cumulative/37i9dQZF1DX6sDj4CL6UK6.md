@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Dot.
 
-272 songs - 15 hr 46 min
+273 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 |  |
 | [Eleven](https://open.spotify.com/track/1yQ7fGXsbp2oHzlCLCKeIW) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/5156bg3GMWbE5HG0fYIpIE) | 3:23 | 2023-05-24 | 2023-09-03 |
 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 | 2023-08-29 |  |
+| [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 | 2024-01-05 |  |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2022-03-25 | 2022-05-26 |
 | [Everywhere](https://open.spotify.com/track/34OGRSpcQOAHsK4pSolDX1) | [Kura Kura Parafin](https://open.spotify.com/artist/3QMTSZ13mw6p679I6n9k9l) | [Everywhere](https://open.spotify.com/album/6wgOecsewd9a3opHmTr0er) | 4:16 | 2023-05-19 | 2023-05-24 |
 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 | 2023-05-24 |  |
@@ -108,7 +109,7 @@
 | [Holding Onto History](https://open.spotify.com/track/5LJPsV27A8aIPAanwLgeAx) | [krishaa](https://open.spotify.com/artist/5rZ7vrAU9rGpRtgdlpjklV) | [Holding Onto History](https://open.spotify.com/album/0yyRIcVGq7BwnvP3CN2RpU) | 4:15 | 2022-03-25 | 2022-05-23 |
 | [Honey Bee](https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6) | 3:39 | 2022-03-25 | 2022-05-26 |
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 | 2023-10-15 |
-| [Horizon](https://open.spotify.com/track/668RvyqOKeNMjetr6jz32p) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl) | [Horizon](https://open.spotify.com/album/0RR1QdtiNk7g6hBonGWZaA) | 3:49 | 2023-12-15 |  |
+| [Horizon](https://open.spotify.com/track/668RvyqOKeNMjetr6jz32p) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl) | [Horizon](https://open.spotify.com/album/0RR1QdtiNk7g6hBonGWZaA) | 3:49 | 2023-12-15 | 2024-01-06 |
 | [Horoscope](https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 4:03 | 2022-03-25 | 2022-05-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
 | [I Got You](https://open.spotify.com/track/10hVVaeNjS5WqDfUgp6Fha) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [I Got You](https://open.spotify.com/album/5I5gTNJIPewsRTPoGNZyIW) | 2:38 | 2023-09-29 |  |

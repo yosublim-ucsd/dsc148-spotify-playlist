@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  OJ Reambillo
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Arches
 
-846 songs - 1 day 23 hr 53 min
+848 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [DO I KNOW](https://open.spotify.com/track/5x1Fb3fvsnWtDZktnWjuF5) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SKETCHTAPE VOL.1](https://open.spotify.com/album/2zGzxtcjTe8WaOgA6ky2vN) | 2:35 | 2023-06-01 | 2023-11-03 |
 | [Do You Feel Me](https://open.spotify.com/track/63twHBNu0zvlkjYD78klDW) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9), [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [Do You Feel Me](https://open.spotify.com/album/7oibqj4uYmpER0rnSgUYnm) | 2:59 | 2023-06-08 | 2023-09-01 |
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 | 2023-03-18 |
+| [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-05 |  |
 | [Don't Go 凍糕](https://open.spotify.com/track/5yZuS9su7tvy80DV0twFul) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [Don't Go 凍糕](https://open.spotify.com/album/5z6x7dMSdTDKcwGHi3GvPW) | 2:46 | 2023-01-26 | 2023-05-26 |
 | [don't say goodbye](https://open.spotify.com/track/4Nqe1ni0pivZHckLme9NNW) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [don't say goodbye](https://open.spotify.com/album/0YWF5JJsgAoxoRvhgSUjUg) | 3:07 | 2023-01-05 | 2023-05-26 |
 | [don't want love if it's not you](https://open.spotify.com/track/1DLyIzunDJlxA7tvvs0XFH) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [don't want love if it's not you](https://open.spotify.com/album/1TglOeefn7JZLC1Q10Nc3D) | 4:08 | 2022-12-15 | 2023-03-18 |
@@ -188,6 +189,7 @@
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 | 2022-09-09 |
 | [Heart to Heart, Me to You](https://open.spotify.com/track/3zmYT04KnfzjpjLiSg16KI) | [Elphie K](https://open.spotify.com/artist/6w609XuNif6TAHJ9DILzjQ) | [Heart to Heart, Me to You](https://open.spotify.com/album/6ZLyrNiJUGgofL9sLSm6PB) | 2:34 | 2022-11-03 | 2023-02-03 |
 | [HEARTACHE](https://open.spotify.com/track/0kukmXMUvUwFyqACRIxl7m) | [ben chow](https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w) | [HEARTACHE](https://open.spotify.com/album/7nqCquixjmJ6o5n4t7RLHk) | 3:30 | 2023-12-07 |  |
+| [Heaven’s Phone \(Live\)](https://open.spotify.com/track/1jDZt4n1DqLrbGXf4XyvXK) | [CLong](https://open.spotify.com/artist/3zg5Jo4UB54tYDRTzIwi0f), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Heaven’s Phone \(Live\)](https://open.spotify.com/album/2DLXIgg4MN502M0uPLbiHp) | 4:56 | 2024-01-05 |  |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 | 2023-03-18 |
 | [Here's Hopin'](https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Here's Hopin'](https://open.spotify.com/album/4Ypsn5fDUlXdoxRXMi3iZ8) | 3:53 | 2022-06-02 | 2022-09-09 |
 | [hibernate \(draft\)](https://open.spotify.com/track/6fiIyM18sV5beMMf9eaQ3C) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [hibernate \(draft\)](https://open.spotify.com/album/03fBYQPyVcvYBp9ysYvN5s) | 1:30 | 2022-12-29 | 2023-03-18 |

@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Dermot Kennedy
 
-964 songs - 2 day 5 hr 22 min
+966 songs - 2 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,8 @@
 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-07 | 2023-08-26 |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-12 | 2023-08-05 |
 | [Afraid of the Dark](https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Afraid of the Dark](https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3) | 3:47 | 2023-04-14 | 2023-06-20 |
-| [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-01 |  |
-| [Afterlife](https://open.spotify.com/track/6eLq9zMQ2iykSYmQSKyNGU) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Afterlife](https://open.spotify.com/album/2tRAORKJBCRQjWslC1xJ5w) | 2:39 | 2023-09-01 |  |
+| [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-01 | 2024-01-06 |
+| [Afterlife](https://open.spotify.com/track/6eLq9zMQ2iykSYmQSKyNGU) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Afterlife](https://open.spotify.com/album/2tRAORKJBCRQjWslC1xJ5w) | 2:39 | 2023-09-01 | 2024-01-06 |
 | [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-02-25 |
 | [Ain't Got Nothin' Figured Out](https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Ain't Got Nothin' Figured Out](https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB) | 3:25 | 2022-09-16 | 2022-11-19 |
 | [Alco](https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Alco](https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16) | 3:48 | 2023-04-28 | 2023-10-07 |
@@ -399,6 +399,7 @@
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-17 | 2023-04-15 |
 | [How We Used To Be](https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [How We Used To Be](https://open.spotify.com/album/5maMPYNEI011eYny2uOcsO) | 3:18 | 2022-10-21 | 2022-12-10 |
 | [Howling At The Moon](https://open.spotify.com/track/3j1ImEmb1m5qI03UO7c8yV) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Just Another Day \(Deluxe\)](https://open.spotify.com/album/4vTQcHiArRW7Wy2h3iepfv) | 3:21 | 2023-10-27 | 2023-11-25 |
+| [Hungry Heart](https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Hungry Heart](https://open.spotify.com/album/2lKs76sqJci5CvDjEyOpQJ) | 2:20 | 2024-01-05 |  |
 | [Hunter](https://open.spotify.com/track/3YtfvUPCg8KXTzsn8gEf8Q) | [Jessica Lowndes](https://open.spotify.com/artist/1XNfue8YO5vg53LLS2yYcP) | [Hunter](https://open.spotify.com/album/4HUS0Gip1lnJYjL3MMbNZ3) | 4:15 | 2022-05-20 | 2022-06-18 |
 | [Hurting Way More Than It Should](https://open.spotify.com/track/704e7fHX0ultxmaKBiVftV) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [Hurting Way More Than It Should](https://open.spotify.com/album/3mcajlqoDHLWCZc6hbcfMM) | 2:56 | 2022-06-24 | 2022-07-23 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 | 2022-09-03 |
@@ -901,6 +902,7 @@
 | [WAKE UP](https://open.spotify.com/track/2IS8SGdFExo7woya8XMtat) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [WAKE UP](https://open.spotify.com/album/5RwO7AbZsntOqKdbUML3RA) | 3:36 | 2023-04-21 | 2023-08-05 |
 | [Walk Out on Me](https://open.spotify.com/track/6xIQ5rNT7zcLBBqWWqjHHy) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [My Lullaby](https://open.spotify.com/album/4IVd8yGX8PIcPPdD4dlDKy) | 2:44 | 2021-12-17 | 2022-09-10 |
 | [Walking Away](https://open.spotify.com/track/3hjceC6B76wOAd7q72gpzL) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Walking Away](https://open.spotify.com/album/6sJTdTvUyZUduZeP2QDDe7) | 3:04 | 2022-09-09 | 2022-11-19 |
+| [Want You More](https://open.spotify.com/track/5bUUCAdoGDgF3IzfX4mRCd) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Want You More](https://open.spotify.com/album/1MCbSXye5vHrHtU7jcNklY) | 2:52 | 2024-01-05 |  |
 | [Was I Ever 13](https://open.spotify.com/track/4VHbxdckRlK3FECSW6w8b4) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Was I Ever 13](https://open.spotify.com/album/3EWcOWONqMvus3EcEwRV5i) | 3:27 | 2022-01-14 | 2022-01-29 |
 | [Waste My Time](https://open.spotify.com/track/4Z5fidWlpKqb6GgsfxFz0w) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Waste My Time](https://open.spotify.com/album/5FwNdn41QgwtItxswMwXaQ) | 2:31 | 2023-10-20 | 2023-10-28 |
 | [Wasted](https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Wasted](https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa) | 4:02 | 2023-10-27 | 2023-12-02 |

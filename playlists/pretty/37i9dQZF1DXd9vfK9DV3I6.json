@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 297107,
+  "num_followers": 297263,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmNkNzhkYWI5MzczNGY2NjUwZTMzNjQ1ZmViZjE4NzQxZWM2M2Qy",
+  "snapshot_id": "MCxjOGEzMThiMWM1YzBiZTliZDQzYWI4OTVlMDg5ZWZkYTI5MWZmMDli",
   "tracks": [
     {
       "added_at": "2024-01-02 11:47:27",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Give a Little",
         "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 234838,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
-        }
-      ],
-      "duration_ms": 201125,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "duration_ms": 201125,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Journey (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 194198,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2024-01-02 11:47:27",
-      "album": {
         "name": "Yasameen",
         "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
@@ -1763,18 +1743,22 @@
     {
       "added_at": "2024-01-02 11:47:27",
       "album": {
-        "name": "Ethnique",
-        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
       "artists": [
         {
-          "name": "Yusuf Ek\u015fio\u011flu",
-          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
         }
       ],
-      "duration_ms": 167375,
-      "name": "Ethnique",
-      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2024-01-02 11:47:27",
@@ -1795,6 +1779,22 @@
       "duration_ms": 145210,
       "name": "all the things i got",
       "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
+    },
+    {
+      "added_at": "2024-01-02 11:47:27",
+      "album": {
+        "name": "Ethnique",
+        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+      },
+      "artists": [
+        {
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+        }
+      ],
+      "duration_ms": 167375,
+      "name": "Ethnique",
+      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
     },
     {
       "added_at": "2024-01-02 11:47:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 2 | [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 |
 | 3 | [I AM ME](https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I AM ME](https://open.spotify.com/album/2lnvGKz1MPILzM3G3aHw8c) | 3:38 |
 | 4 | [Indo ME](https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Indo ME](https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4) | 3:20 |
-| 5 | [Vaselina \(feat\. euro\)](https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:37 |
-| 6 | [Kawaii 808](https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Crisis Era](https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [The Holy Bassgod EP](https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA) | 2:46 |
+| 5 | [Kawaii 808](https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Crisis Era](https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [The Holy Bassgod EP](https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA) | 2:46 |
+| 6 | [Vaselina \(feat\. euro\)](https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:37 |
 | 7 | [CA$HMERE](https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [CA$HMERE](https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo) | 3:34 |
 | 8 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 |
-| 9 | [Foreign](https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 3:42 |
-| 10 | [Riphunter](https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Bam Mastro](https://open.spotify.com/artist/3d3lSrhBBBazL5444IH8nC) | [MULTIVERSES \(Revisi Final Fix Banget\)](https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e) | 4:13 |
+| 9 | [Riphunter](https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Bam Mastro](https://open.spotify.com/artist/3d3lSrhBBBazL5444IH8nC) | [MULTIVERSES \(Revisi Final Fix Banget\)](https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e) | 4:13 |
+| 10 | [Foreign](https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 3:42 |
 | 11 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 |
 | 12 | [Don't Touch Me](https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Don't Touch Me](https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM) | 4:41 |
 | 13 | [Digital Love](https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ) | [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Mardial & Friends](https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1) | 3:05 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 40 | [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 |
 | 41 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `Mjg0MDYxODQsMDAwMDAwMDBjOGE5NGMzYjA4OWUxNmUzMTJkNzY5ZGJjMDA3ZTMwZQ==`
+Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBjZTg2M2Q1OGI1NjJmOWQzZjY2MmU4OWI5OWFkNDFiMA==`

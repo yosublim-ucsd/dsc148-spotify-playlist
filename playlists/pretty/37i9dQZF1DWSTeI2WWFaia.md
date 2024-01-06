@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mark Battles
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,510 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,507 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 15 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
 | 16 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 |
 | 17 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
-| 18 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
+| 18 | [DeNiro & Pesci](https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [DeNiro & Pesci](https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x) | 2:55 |
 | 19 | [plz don’t cut my wings \- feat\. Earl Sweatshirt](https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 3:38 |
-| 20 | [DeNiro & Pesci](https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [DeNiro & Pesci](https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x) | 2:55 |
+| 20 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
 | 21 | [Bobby Boucher](https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Bobby Boucher](https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY) | 3:15 |
 | 22 | [P.P.A\. \(feat\. Fabolous\)](https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:40 |
 | 23 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 48 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
 | 49 | [Daddy Kane \(feat\. Action Bronson\)](https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:54 |
 
-Snapshot ID: `MCxhYTYxNjUyM2EwYjBiYWExMzM4ZTE4YWZjNDRhZTc5MWIyNmYxNzc5`
+Snapshot ID: `MCw2MWEyZWI4ZTAzMzA5ODc3OGI0MjQzNTUwZDJiNmNlNTZiMGNlNmM0`

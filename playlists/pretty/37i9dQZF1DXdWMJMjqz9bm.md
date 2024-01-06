@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price & Nic D
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,728 likes - 115 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,792 likes - 115 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 106 | [Euphoria](https://open.spotify.com/track/3OO9piUhjFmPRlKv4AM7sl) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Euphoria](https://open.spotify.com/album/0xJXXwBEoMSWowPIs3iGIm) | 2:52 |
 | 107 | [UH OH](https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [UH OH](https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO) | 2:52 |
 | 108 | [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 |
-| 109 | [I Don't Wanna Know](https://open.spotify.com/track/5QuoJpaWSzbjnIF5ESnQfg) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I Don't Wanna Know](https://open.spotify.com/album/684CYr1q739L7EVd4bjdhO) | 3:00 |
+| 109 | [I Don’t Wanna Know](https://open.spotify.com/track/0JCpXJE996Bc6MAbPfiSg1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:00 |
 | 110 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 |
 | 111 | [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 |
 | 112 | [Can't Get This Right](https://open.spotify.com/track/2u38tTBCk0OBbjLBM9GoBU) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Can't Get This Right](https://open.spotify.com/album/6OQg7gd7Y0E6f8Gp8LQ1uN) | 2:25 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 114 | [I Need That](https://open.spotify.com/track/7rAF5wL1bYlEaiTpduBFxk) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/3XmZANtEMaFvy8CGBHiJZy) | 2:30 |
 | 115 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 
-Snapshot ID: `MCwyM2Y1ZGY5MTc0MTA4OTIyNTdjNjEzNzgxYWQ0NzlhOTc2NDZhZDNm`
+Snapshot ID: `MCxjMjU2NjliNzI3MTgwODgyN2UwZWZkMmE4MjkzNzU5N2JhYTI3ODg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,173 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 59 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 |
 | 60 | [Mosagaatiye](https://open.spotify.com/track/0T8cfCC6HJWVzxWgnj12QP) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU) | [Mosagaatiye](https://open.spotify.com/album/0ULYHlftPzhIqaF8hCkHHN) | 4:41 |
 | 61 | [Namma Gully](https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU) | [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Namma Gully](https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D) | 1:56 |
-| 62 | [Anthe](https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn) | 4:34 |
+| 62 | [Anthe](https://open.spotify.com/track/1JFrwtDTpvyDPxd16Aka5e) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/2awtb7BzShaE9da7sMqPjr) | 4:34 |
 | 63 | [Naa Arive](https://open.spotify.com/track/0qFEglcQZCUMNADVKihoYy) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Naa Arive](https://open.spotify.com/album/0gQRlHibWUXKObi4Csgvn9) | 4:26 |
 | 64 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 |
 | 65 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 68 | [Naavu Kuuda OG](https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Naavu Kuuda OG](https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq) | 1:00 |
 | 69 | [Chikkavanu](https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Chikkavanu](https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh) | 1:10 |
 | 70 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 |
-| 71 | [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 |
+| 71 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 |
 | 72 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 |
 | 73 | [Hogey](https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz) | [A Spikey](https://open.spotify.com/artist/2xwx1HGL8LZtMIiZoq7TrK), [Loud Silence](https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Hogey](https://open.spotify.com/album/1xEgorMZd60Bof9x0cdqaM) | 2:34 |
 | 74 | [Money In The World](https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Money In The World](https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj) | 1:30 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 100 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 |
 | 101 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 |
 
-Snapshot ID: `MCw5NTdlOTg5Y2M0YTMzZWMyNTAwZDZjMDg0MGU5YjUwZDM3Nzc4YjI2`
+Snapshot ID: `MCxjNDVkMWJkNzczZmEwYzM5YmE0Yjk0ZmFkZjg0ZTBlODBiYWZmMDYz`

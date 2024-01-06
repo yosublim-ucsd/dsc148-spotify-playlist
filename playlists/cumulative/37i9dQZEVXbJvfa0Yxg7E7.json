@@ -11087,6 +11087,28 @@
     },
     {
       "album": {
+        "name": "HJEMMESLAY",
+        "url": "https://open.spotify.com/album/7LSibvrLepHxzCLmid9N6U"
+      },
+      "artists": [
+        {
+          "name": "EIGHT",
+          "url": "https://open.spotify.com/artist/189SU7GvkTPNe95eyblBpz"
+        },
+        {
+          "name": "PHUNK",
+          "url": "https://open.spotify.com/artist/6lwGFUhh49s5W0amMSTPqW"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "HJEMMESLAY",
+      "url": "https://open.spotify.com/track/1E4KY1yKSCnYpAguixncQZ"
+    },
+    {
+      "album": {
         "name": "Violeta Violeta Volume I",
         "url": "https://open.spotify.com/album/32wGzwMnSvQjp5PmjGEPtz"
       },
@@ -27228,7 +27250,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

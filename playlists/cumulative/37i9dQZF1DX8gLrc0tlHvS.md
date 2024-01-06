@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Drew Holcomb & The Neighbors
 
-143 songs - 9 hr 16 min
+144 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Lay Me Down](https://open.spotify.com/track/6kMmh24QjVP5SpG1jMHnHy) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 3:03 | 2021-02-12 |  |
 | [Lie With Me](https://open.spotify.com/track/1iudonQ7ptybga0x3PvS7A) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/6acXdayyq3W9N5hqf6FKIz) | 3:09 | 2023-07-21 | 2023-11-09 |
 | [Lie With Me](https://open.spotify.com/track/6A9qXg7BKXhznmytO7omZN) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/7JcGUBfMWoTjt5UOVbRqXU) | 3:09 | 2021-02-12 | 2022-07-29 |
-| [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 | 2021-02-12 |  |
+| [Lie With Me \(EP Version\)](https://open.spotify.com/track/4XuWrAvxl3gySyz8bN35Ma) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/0R4MzSUlneqJFXMccsmN1k) | 3:09 | 2023-07-21 |  |
+| [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 | 2021-02-12 | 2024-01-06 |
 | [Little Lion Man](https://open.spotify.com/track/2BBkIgdXLv5vyp1DR0wpQl) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 4:06 | 2021-02-12 | 2022-07-29 |
 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 | 2021-02-12 | 2022-10-13 |
 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 | 2022-09-21 |  |

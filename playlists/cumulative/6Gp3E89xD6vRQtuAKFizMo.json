@@ -5159,6 +5159,32 @@
     },
     {
       "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/2BZcJK5BwZnVsQo0YtTvRL"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Cesqeaux",
+          "url": "https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL"
+        },
+        {
+          "name": "Never Sleep",
+          "url": "https://open.spotify.com/artist/2Aq4LjvI5svvSjk8fv6BXT"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/3jBi0KsSKZrV2NrxGul0P7"
+    },
+    {
+      "album": {
         "name": "Lavender Dreams & Scarlet Nightmares",
         "url": "https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP"
       },

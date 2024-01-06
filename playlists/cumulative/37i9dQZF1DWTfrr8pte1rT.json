@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Codename: Reckless",
+        "url": "https://open.spotify.com/album/67kSmZGUA515W6Eif9YqlX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162601,
+      "name": "Codename: Reckless",
+      "url": "https://open.spotify.com/track/5nzkugYDvjKKGeXC6kD94W"
+    },
+    {
+      "album": {
         "name": "Colourfast",
         "url": "https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq"
       },
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 297931,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2goyAEJ3QSW3I0EjQVNsrA"
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
@@ -3356,6 +3378,28 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "album": {
+        "name": "Hollow Skull",
+        "url": "https://open.spotify.com/album/45bk3MnJLpVBEvWogvR3jM"
+      },
+      "artists": [
+        {
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+        },
+        {
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226252,
+      "name": "Hollow Skull",
+      "url": "https://open.spotify.com/track/5mBKo3c5Q7sRa8DS7qXQpL"
     },
     {
       "album": {

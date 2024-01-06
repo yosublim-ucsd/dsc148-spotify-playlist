@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-629 songs - 1 day 12 hr 32 min
+630 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [All Around Me](https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [All Around Me](https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO) | 3:36 | 2022-04-22 | 2022-07-02 |
 | [All But A Dream](https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [All But A Dream](https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz) | 3:39 | 2023-02-22 | 2023-05-18 |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
+| [All I Want](https://open.spotify.com/track/6j4aQyFmFXFJP88bNCL6w8) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [All I Want](https://open.spotify.com/album/19PqlRWtr5p3l4wCIPWWf8) | 2:31 | 2024-01-05 |  |
 | [All I Wanted](https://open.spotify.com/track/4igUplQuZyjVhgch6bQynh) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [All I Wanted](https://open.spotify.com/album/7FCiKLYYweE3cvqzh7C4ny) | 4:04 | 2023-04-18 | 2023-07-14 |
 | [All I Wanted](https://open.spotify.com/track/3oKUgGEaQ5bFsYWu6Wc9Dp) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [WAILD](https://open.spotify.com/artist/1OHv2TAFTSsMg21dhyoyEH) | [All I Wanted](https://open.spotify.com/album/2PjrdQeP3ghvirjQBFETkV) | 2:27 | 2023-01-17 | 2023-04-01 |
 | [All In](https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Yury](https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov) | [All In](https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz) | 3:25 | 2022-03-24 | 2022-06-08 |

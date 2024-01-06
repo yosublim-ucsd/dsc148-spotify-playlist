@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-111 songs - 10 hr 40 min
+112 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 | 2022-02-25 |  |
 | [Mano de Fé](https://open.spotify.com/track/1rXh5lDcW9sMeBizF2awvd) | [Potencial 3](https://open.spotify.com/artist/6nZg0XOctvjji1pPvsOjNH) | [Mano de Fé](https://open.spotify.com/album/4PmbdwTs4hoYztsDs60T1j) | 4:16 | 2022-02-25 |  |
 | [Mantenha o Respeito](https://open.spotify.com/track/5scK80Nrz12oGUnQGcPgg1) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [Usuário](https://open.spotify.com/album/6IprXLAWCQtujK6LHFt9bn) | 3:16 | 2022-02-25 |  |
-| [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 | 2022-02-25 |  |
+| [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 | 2022-02-25 | 2024-01-06 |
+| [Matemática Na Prática](https://open.spotify.com/track/3DMQMn1xpkfBBOqlzziupj) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/3Enl5PklqXTyO1kRZzBfMI) | 4:31 | 2022-12-02 |  |
 | [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 | 2022-02-25 |  |
 | [Meu Filho Minhas Regras](https://open.spotify.com/track/0Dlh7GZRUh2so0f3oHdSPe) | [Visáo De Rua](https://open.spotify.com/artist/4Vaxb77sF92LF9z8ODEYzD) | [Ruas de Sangue](https://open.spotify.com/album/684stUH00OGoXW4J8jACwR) | 6:00 | 2022-02-25 |  |
 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 | 2022-02-25 |  |

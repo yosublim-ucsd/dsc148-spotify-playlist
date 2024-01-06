@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-183 songs - 9 hr 10 min
+184 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dancing With Your Ghost](https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL) | 2:42 | 2023-09-28 |  |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-09-15 | 2023-02-15 |
 | [Dollar For A Dime](https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Dollar For A Dime](https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko) | 2:28 | 2023-09-07 |  |
+| [Don't Hide](https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Don't Hide](https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr) | 2:15 | 2023-12-21 |  |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-12-17 | 2023-02-15 |
 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-09-15 | 2023-01-26 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-22 | 2023-05-27 |
@@ -109,7 +110,7 @@
 | [Lightning To Strike](https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike](https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH) | 2:58 | 2022-11-16 | 2023-02-25 |
 | [Lights Go Down](https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:03 | 2023-12-08 |  |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-09-15 | 2023-12-11 |
-| [Like Home](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4) | 3:11 | 2023-03-09 |  |
+| [Like Home](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4) | 3:11 | 2023-03-09 | 2024-01-06 |
 | [Like Home](https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP) | 3:11 | 2022-09-15 | 2023-02-24 |
 | [Like The River](https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Like The River](https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ) | 2:46 | 2023-08-24 |  |
 | [Live In The Moment](https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Live In The Moment](https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn) | 3:00 | 2022-09-15 | 2023-06-29 |

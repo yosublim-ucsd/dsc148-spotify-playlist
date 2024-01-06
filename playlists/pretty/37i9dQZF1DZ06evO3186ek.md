@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,558 likes - 50 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,636 likes - 50 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Mighty One \(feat\. Todd Dulaney, Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 6:15 |
 | 50 | [Heal Our Land / Come & Move \(feat\. Joe L Barnes, Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/1TVlOcTf8nR0epxgHxaPt3) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 6:41 |
 
-Snapshot ID: `Mjg0MDYxODQsMDAwMDAwMDAwYWE3N2YxNDQwNTRmNjdiNjI2YjZlZTQ4Zjk1ZDYwZQ==`
+Snapshot ID: `Mjg0MDc3MDMsMDAwMDAwMDBjZDFkOGY3YThkODIxZTk1Yzc4OGY0ODg3ZjU5MjM5Mg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,861 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,011 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Krigarè](https://open.spotify.com/artist/5UHbXPFqcRsZm7uS5ev8Q1) | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/album/6QOPCj17rs5nB1Kc8ayrX2) | 3:40 |
 | 75 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 
-Snapshot ID: `MCxlMzc4N2NjOTdjYzQ5Y2E3ZWIyZTI1NWUxZTUyN2Q4NWYyYzg3ZDU4`
+Snapshot ID: `MCw1NWYwZWMxMmI3NjY0M2VlZTRiM2I5OWIzNDcxNzllOGJhNTM3ZWE3`

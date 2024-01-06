@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/4hczd0jX66BRXeZ6Gbk6Fl"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6FIevL8p5LBywjfWZs5rlM"
+    },
+    {
+      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -799,6 +817,24 @@
     },
     {
       "album": {
+        "name": "I Sent My Therapist To Therapy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188979,
+      "name": "I Sent My Therapist To Therapy - Acoustic",
+      "url": "https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue) [Acoustic]",
         "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
       },
@@ -886,7 +922,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 174375,
       "name": "Lavender Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
@@ -1136,7 +1172,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 230623,
       "name": "miss me (when you\u2019re gone) (sad version) (Acoustic)",
       "url": "https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 142766,
       "name": "RUNAWAY - Acoustic",
       "url": "https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47"
@@ -1310,6 +1346,28 @@
       "duration_ms": 225625,
       "name": "Running up That Hill",
       "url": "https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv"
+    },
+    {
+      "album": {
+        "name": "Sauver ma vie",
+        "url": "https://open.spotify.com/album/20Mk9Z3Ezo0u0dzmUzsYCI"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Armanet",
+          "url": "https://open.spotify.com/artist/5O1JnG6IYbdlG2ZmcPeEQr"
+        },
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Sauver ma vie",
+      "url": "https://open.spotify.com/track/1eCkkVeleQ2Hl84xKGfLFt"
     },
     {
       "album": {

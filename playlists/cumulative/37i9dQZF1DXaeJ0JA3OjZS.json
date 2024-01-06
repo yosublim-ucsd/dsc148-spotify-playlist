@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 164821,
       "name": "Caballo R-15 - En Vivo",
       "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
@@ -784,10 +784,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 159125,
       "name": "El Panam\u00e1 West - En Vivo",
       "url": "https://open.spotify.com/track/0xO3zB3JW9Fb4hnzdxGAQ5"
+    },
+    {
+      "album": {
+        "name": "De Nuestro Rancho Hasta Tu Casa (En Vivo)",
+        "url": "https://open.spotify.com/album/2CCZy3dHGrhKAeH1XrGeha"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159125,
+      "name": "El Panam\u00e1 West - En Vivo",
+      "url": "https://open.spotify.com/track/3OeFODCXmoLMWrr8qRhL4d"
     },
     {
       "album": {
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"

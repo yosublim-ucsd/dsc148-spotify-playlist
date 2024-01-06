@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 25970,
+  "num_followers": 26038,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjMwY2MyNTMyNjk3OWIxYmYwZWFmNjBmN2Q1NmQ0MjA2MzkyNGQ5",
+  "snapshot_id": "MCxiN2IwOTNiMWU0MDU2MDUyMjEzYzY0N2ZkODczYWEyYWFkNDQ0MmI3",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -163,8 +163,8 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -299,8 +299,8 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "For Your Soul (Extended Edition)",
         "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 319369,
       "name": "Tjina",
       "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Ronaldo",
-        "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Ronaldo",
-      "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Ronaldo",
+        "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Bunda",
-        "url": "https://open.spotify.com/album/3MOmmbWZDPXjR49nDTVLAv"
-      },
-      "artists": [
-        {
-          "name": "Coblaze",
-          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
-        }
-      ],
-      "duration_ms": 139304,
-      "name": "Bunda",
-      "url": "https://open.spotify.com/track/7Ia5dCLaY9O9rlYw4q4Wvc"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "For Daddy",
         "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/3MOmmbWZDPXjR49nDTVLAv"
+      },
+      "artists": [
+        {
+          "name": "Coblaze",
+          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
+        }
+      ],
+      "duration_ms": 139304,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/7Ia5dCLaY9O9rlYw4q4Wvc"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 182073,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5VcTNeY4BX9zw5SaYPP6jj"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2023-12-22 00:01:00",

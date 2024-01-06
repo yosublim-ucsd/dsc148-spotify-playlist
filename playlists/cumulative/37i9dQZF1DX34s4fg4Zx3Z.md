@@ -4,7 +4,7 @@
 
 > Những ca khúc Fresh Finds Vietnam nổi bật năm 2023\. Ảnh bìa: Southalid
 
-1,458 songs - 3 day 13 hr 22 min
+1,460 songs - 3 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Cách Chúng Ta Làm Lành](https://open.spotify.com/track/2GmquzWVnVKNp8mNmu0ZON) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [Hagii](https://open.spotify.com/artist/67aKZ0bV9i4r1dP4dsCJku) | [Cách Chúng Ta Làm Lành](https://open.spotify.com/album/4nXg2pRfJEITKPvhHCjEen) | 3:19 | 2022-02-18 | 2022-03-03 |
 | [Câu Chuyện Tình Yêu](https://open.spotify.com/track/52Cq5hEeVTO0x8j4ibtWf3) | [Nhữ Thùy Dương](https://open.spotify.com/artist/133DtECuxhaUZQHJXZFkoT) | [Câu Chuyện Tình Yêu](https://open.spotify.com/album/5w6cJNYdNUJ7pt1zqGlYX2) | 3:52 | 2023-04-16 | 2023-05-05 |
 | [Câu Hứa Chưa Vẹn Tròn](https://open.spotify.com/track/7gwogHFBjQRjIAEqFgGfAk) | [Phát Huy T4](https://open.spotify.com/artist/38QmAddjWUR2zKkdp3Oe87) | [Câu Hứa Chưa Vẹn Tròn](https://open.spotify.com/album/5F90h2w4XZCEBvb1r1zokb) | 4:31 | 2022-01-06 | 2022-02-15 |
+| [câu trả lời](https://open.spotify.com/track/7LZ2wdYSmWFINfJ2QkVUJc) | [Jackie Luu](https://open.spotify.com/artist/2ViWZKbmStC2IB2qCfhF3w) | [câu trả lời](https://open.spotify.com/album/557GfajoFVObGtwXYgYzzK) | 4:03 | 2024-01-05 |  |
 | [Câu Trả Lời](https://open.spotify.com/track/7Ax9Mrr8SVduApQ2ywKFJu) | [Patu](https://open.spotify.com/artist/3k5WuZIhgR1wpnQA4JqXp0), [Nghima](https://open.spotify.com/artist/56vBuBe9dcYnQC51REz6OU) | [Một Giấc Mơ](https://open.spotify.com/album/399hoPyEOqUtIOTs56QXSV) | 4:35 | 2023-11-22 | 2023-11-30 |
 | [cây nến kia tàn](https://open.spotify.com/track/4N2TjDY0oxETAvYtvxOE4b) | [Andrewng](https://open.spotify.com/artist/3Sh96HQcUm3MY9DQiWYdZN) | [cây nến kia tàn](https://open.spotify.com/album/04wbjARWfHzpT9tsph41j4) | 3:28 | 2023-05-31 | 2023-06-22 |
 | [CÒN AI](https://open.spotify.com/track/3H4wJyAns09ld2Tkz6aOPW) | [My Carol](https://open.spotify.com/artist/7nSeOCxkwsHBXvRyNKdtFQ) | [CÒN AI](https://open.spotify.com/album/0k3ITJiJsDdbcdO5tups2S) | 4:08 | 2023-05-22 | 2023-07-18 |
@@ -867,6 +868,7 @@
 | [Ngủ sớm đi, chơi chán, rồi về](https://open.spotify.com/track/7nDBhBQEUGSluQwVs178LG) | [N.](https://open.spotify.com/artist/6fqboJPoYIHBKU7pcm4yw5) | [Ngủ sớm đi, chơi chán, rồi về](https://open.spotify.com/album/0htufoXIdJVo3GUVwv1cvy) | 3:30 | 2022-05-09 | 2022-06-19 |
 | [Ngủ Đi Em Ey](https://open.spotify.com/track/5opf93bMMkbn0Tn1mN9UhV) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [Bạch Hy](https://open.spotify.com/artist/6hYI8L60aiiGE9UZaRZf9N) | [Ngủ Đi Em Ey](https://open.spotify.com/album/6lBddIidyeQFy4R6YCwpiF) | 3:19 | 2022-05-15 | 2022-05-17 |
 | [Nhi](https://open.spotify.com/track/4Y9zO9HcVOPQ8rDHjmCQpX) | [Phương Nhi](https://open.spotify.com/artist/5VvUrTw8FZa3lmbBlA3YSA), [dim\_](https://open.spotify.com/artist/1U4zZl5uydfaSj8O503BT9) | [Nhi](https://open.spotify.com/album/3Q46A4EBK2no4GrtSY7n5e) | 4:30 | 2023-11-16 | 2023-11-30 |
+| [Nhà Là](https://open.spotify.com/track/5AvRGexnnUw4pKc0yvWyuJ) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Nhà Là](https://open.spotify.com/album/0ec0y0iEHDqeEsKNMXLNug) | 5:08 | 2024-01-05 |  |
 | [NHÀN \(feat\. Winno\)](https://open.spotify.com/track/39DOE48ns0RWvCCFzPAgOR) | [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk), [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [NHÀN \(feat\. Winno\)](https://open.spotify.com/album/3WR9mQ1uarGCsJrVrG1fav) | 5:11 | 2023-03-31 | 2023-04-11 |
 | [Nhàn Vi](https://open.spotify.com/track/3f2JxiVfRYSIFTmjEYAv6x) | [Jombie](https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4), [Bảo Jen](https://open.spotify.com/artist/5enf5EVeJOebbN33LoC2n1) | [Nhàn Vi](https://open.spotify.com/album/562qD5UeBHMjUn866mhFqH) | 3:33 | 2022-02-21 | 2022-03-03 |
 | [Như Là Mơ \- Acoustic Version](https://open.spotify.com/track/5fXanLx95qkXjufZfVwHpJ) | [Ymai](https://open.spotify.com/artist/3G2dFolgIn10dKe81WtwGI) | [Như Là Mơ \(Acoustic Version\)](https://open.spotify.com/album/79uEgDj5hxr7x7CQC52T2s) | 2:49 | 2022-06-26 | 2022-09-15 |

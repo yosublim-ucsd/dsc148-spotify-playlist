@@ -1,12 +1,12 @@
 {
   "description": "Learn more at <a href=\"https://folk.org/programs/conference/\">folk.org</a>.  Cover: Rainbow Girls",
-  "num_followers": 15844,
+  "num_followers": 15855,
   "original_name": "Folk Alliance 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODA0NzY3MzczNmM0Zjc0ZTc0NTZjOTFjMTg3M2IzZTFmMTJlOGUw",
+  "snapshot_id": "MCxhYzRkZWU2Njc5NGEyNWUxNTY1MjM3ZTU0NGQ5M2IwYWI0YTJmYWE3",
   "tracks": [
     {
       "added_at": "2024-01-03 18:15:03",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Peculiar, Missouri",
+        "url": "https://open.spotify.com/album/40rqKc44YyzMnTxGiAFjZ9"
+      },
+      "artists": [
+        {
+          "name": "Willi Carlisle",
+          "url": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L"
+        }
+      ],
+      "duration_ms": 218089,
+      "name": "Your Heart's a Big Tent",
+      "url": "https://open.spotify.com/track/0WcjhFRttvRNxr4uMQVS94"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Hallelujah I'm a Dreamer",
         "url": "https://open.spotify.com/album/2yFqFxcz5E8ZkxnSS5aDoy"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 337446,
       "name": "Plowshare Prayer",
       "url": "https://open.spotify.com/track/2qKXdi4mxZ0rXGoxJ6jlCF"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Peculiar, Missouri",
-        "url": "https://open.spotify.com/album/40rqKc44YyzMnTxGiAFjZ9"
-      },
-      "artists": [
-        {
-          "name": "Willi Carlisle",
-          "url": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L"
-        }
-      ],
-      "duration_ms": 218089,
-      "name": "Your Heart's a Big Tent",
-      "url": "https://open.spotify.com/track/0WcjhFRttvRNxr4uMQVS94"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "The Runner",
-        "url": "https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP"
-      },
-      "artists": [
-        {
-          "name": "Anna Smyrk",
-          "url": "https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm"
-        }
-      ],
-      "duration_ms": 176369,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Gog Magog",
         "url": "https://open.spotify.com/album/59sjbeBja91tPzMz8NjFFL"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
+        "name": "The Runner",
+        "url": "https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP"
       },
       "artists": [
         {
-          "name": "Violet Bell",
-          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+          "name": "Anna Smyrk",
+          "url": "https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm"
         }
       ],
-      "duration_ms": 228083,
-      "name": "All the Stars (Radio Edit)",
-      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
+      "duration_ms": 176369,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -695,6 +679,22 @@
       "duration_ms": 184404,
       "name": "Walk You to Heaven",
       "url": "https://open.spotify.com/track/35BnXmdoTYcfaVG8zbidyN"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
+      },
+      "artists": [
+        {
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+        }
+      ],
+      "duration_ms": 228083,
+      "name": "All the Stars (Radio Edit)",
+      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -743,6 +743,26 @@
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "18 Years",
+        "url": "https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp"
+      },
+      "artists": [
+        {
+          "name": "Annie Dressner",
+          "url": "https://open.spotify.com/artist/485qrxEH6aQ5LWWZmGkkHS"
+        },
+        {
+          "name": "Polly Paulusma",
+          "url": "https://open.spotify.com/artist/5MtEhepub9ltryoNniab4a"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "18 Years",
+      "url": "https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -819,26 +839,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "18 Years",
-        "url": "https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp"
-      },
-      "artists": [
-        {
-          "name": "Annie Dressner",
-          "url": "https://open.spotify.com/artist/485qrxEH6aQ5LWWZmGkkHS"
-        },
-        {
-          "name": "Polly Paulusma",
-          "url": "https://open.spotify.com/artist/5MtEhepub9ltryoNniab4a"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "18 Years",
-      "url": "https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "The Beginning of the End",
         "url": "https://open.spotify.com/album/57gekK1rNIYyCxcRP9Vba8"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 430573,
       "name": "Mabiche",
       "url": "https://open.spotify.com/track/600N8rv4sDQpzOg3Ci493h"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Imaginary People",
+        "url": "https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C"
+      },
+      "artists": [
+        {
+          "name": "Viv & Riley",
+          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Imaginary People",
+      "url": "https://open.spotify.com/track/7z14ixeZiXcPa5La4gfNE4"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -931,22 +947,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Imaginary People",
-        "url": "https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C"
-      },
-      "artists": [
-        {
-          "name": "Viv & Riley",
-          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Imaginary People",
-      "url": "https://open.spotify.com/track/7z14ixeZiXcPa5La4gfNE4"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Grand Tour, Vol. 1",
         "url": "https://open.spotify.com/album/6DeBUrTPH6lFpAji165Zeb"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Deathless",
-        "url": "https://open.spotify.com/album/60BUBc7EVN8MCzw6huBaly"
+        "name": "Red Neck Yaught Club",
+        "url": "https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui"
       },
       "artists": [
         {
-          "name": "Dimpker Brothers",
-          "url": "https://open.spotify.com/artist/3BbdVoIsns88axT7Cwrx2R"
+          "name": "Louisa Stancioff",
+          "url": "https://open.spotify.com/artist/57bd2dcysq88J5fleUcS57"
         }
       ],
-      "duration_ms": 324255,
-      "name": "You're Never Gonna Die",
-      "url": "https://open.spotify.com/track/2rmwNwVwgjBOT89OlAUtMa"
+      "duration_ms": 189169,
+      "name": "Red Neck Yaught Club",
+      "url": "https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Deathless",
+        "url": "https://open.spotify.com/album/60BUBc7EVN8MCzw6huBaly"
+      },
+      "artists": [
+        {
+          "name": "Dimpker Brothers",
+          "url": "https://open.spotify.com/artist/3BbdVoIsns88axT7Cwrx2R"
+        }
+      ],
+      "duration_ms": 324255,
+      "name": "You're Never Gonna Die",
+      "url": "https://open.spotify.com/track/2rmwNwVwgjBOT89OlAUtMa"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Espiral",
         "url": "https://open.spotify.com/album/0svcrktGkmq74X7HVQCkon"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 358295,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/6cs1RTQI7xBYJZ4PyTaTsM"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Helleristning",
-        "url": "https://open.spotify.com/album/5bAzAbKcbrMs5EdVIU0Zoz"
-      },
-      "artists": [
-        {
-          "name": "Julie Alapnes",
-          "url": "https://open.spotify.com/artist/2Ag03eedrHUINxYZEcUIXM"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Helleristning",
-      "url": "https://open.spotify.com/track/4m6n1dCuBqYEYDxU3ffZrZ"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1075,34 +1075,34 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Red Neck Yaught Club",
-        "url": "https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui"
+        "name": "Helleristning",
+        "url": "https://open.spotify.com/album/5bAzAbKcbrMs5EdVIU0Zoz"
       },
       "artists": [
         {
-          "name": "Louisa Stancioff",
-          "url": "https://open.spotify.com/artist/57bd2dcysq88J5fleUcS57"
+          "name": "Julie Alapnes",
+          "url": "https://open.spotify.com/artist/2Ag03eedrHUINxYZEcUIXM"
         }
       ],
-      "duration_ms": 189169,
-      "name": "Red Neck Yaught Club",
-      "url": "https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX"
+      "duration_ms": 239360,
+      "name": "Helleristning",
+      "url": "https://open.spotify.com/track/4m6n1dCuBqYEYDxU3ffZrZ"
     },
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "These Bones",
-        "url": "https://open.spotify.com/album/00VAVIBjWiyiClCxpLH7e7"
+        "name": "Every Generation",
+        "url": "https://open.spotify.com/album/7rlBO7UKOWd1TpE8Uu484C"
       },
       "artists": [
         {
-          "name": "Michele Stodart",
-          "url": "https://open.spotify.com/artist/7ritjcrqfuDJoXWZv8OIMG"
+          "name": "St. Catherine's Child",
+          "url": "https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK"
         }
       ],
-      "duration_ms": 286493,
-      "name": "These Bones",
-      "url": "https://open.spotify.com/track/5GQBQjs94Z9GVNWnaVsFft"
+      "duration_ms": 305920,
+      "name": "Every Generation",
+      "url": "https://open.spotify.com/track/3k1MXKPGZeylh4TvX9OB20"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Every Generation",
-        "url": "https://open.spotify.com/album/7rlBO7UKOWd1TpE8Uu484C"
+        "name": "These Bones",
+        "url": "https://open.spotify.com/album/00VAVIBjWiyiClCxpLH7e7"
       },
       "artists": [
         {
-          "name": "St. Catherine's Child",
-          "url": "https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK"
+          "name": "Michele Stodart",
+          "url": "https://open.spotify.com/artist/7ritjcrqfuDJoXWZv8OIMG"
         }
       ],
-      "duration_ms": 305920,
-      "name": "Every Generation",
-      "url": "https://open.spotify.com/track/3k1MXKPGZeylh4TvX9OB20"
+      "duration_ms": 286493,
+      "name": "These Bones",
+      "url": "https://open.spotify.com/track/5GQBQjs94Z9GVNWnaVsFft"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "This Secret",
-        "url": "https://open.spotify.com/album/5QqKs5y871yc9vkb0Uu9E9"
-      },
-      "artists": [
-        {
-          "name": "Grainne Hunt",
-          "url": "https://open.spotify.com/artist/7BCD2hkYfZj2y454dFSgpC"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Between the Pines",
-      "url": "https://open.spotify.com/track/18OHR1LbvAj6sGqAzDSOlI"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "La Que Manda",
         "url": "https://open.spotify.com/album/2nlehiBQ0ddi0aOkOCDDXL"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 218653,
       "name": "La Que Manda",
       "url": "https://open.spotify.com/track/5DV0wV1FMGVlNsMqXzVOG8"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "This Secret",
+        "url": "https://open.spotify.com/album/5QqKs5y871yc9vkb0Uu9E9"
+      },
+      "artists": [
+        {
+          "name": "Grainne Hunt",
+          "url": "https://open.spotify.com/artist/7BCD2hkYfZj2y454dFSgpC"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Between the Pines",
+      "url": "https://open.spotify.com/track/18OHR1LbvAj6sGqAzDSOlI"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Welcome to the Land",
-        "url": "https://open.spotify.com/album/2zQSgrjbTSAs9x5i39ls3R"
-      },
-      "artists": [
-        {
-          "name": "Memphissippi Sounds",
-          "url": "https://open.spotify.com/artist/0alU1kXkxsIqZTyYfviVst"
-        }
-      ],
-      "duration_ms": 277014,
-      "name": "Who's Gonna Ride",
-      "url": "https://open.spotify.com/track/1aSu8re3wdIUWfs596HCrX"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Partner In Crime",
         "url": "https://open.spotify.com/album/6UWbdJ23MCgMk32JU5Liqf"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Welcome to the Land",
+        "url": "https://open.spotify.com/album/2zQSgrjbTSAs9x5i39ls3R"
+      },
+      "artists": [
+        {
+          "name": "Memphissippi Sounds",
+          "url": "https://open.spotify.com/artist/0alU1kXkxsIqZTyYfviVst"
+        }
+      ],
+      "duration_ms": 277014,
+      "name": "Who's Gonna Ride",
+      "url": "https://open.spotify.com/track/1aSu8re3wdIUWfs596HCrX"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "bloom",
         "url": "https://open.spotify.com/album/2Qs5F8CSvxxThmDDvoDk6E"
       },
@@ -1303,42 +1303,6 @@
       "duration_ms": 281960,
       "name": "This Time, Last Week",
       "url": "https://open.spotify.com/track/28PozmsNNHmH3x7NpRMuIe"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Holy / Unholy",
-        "url": "https://open.spotify.com/album/0RSrDnJNmIRnHeBNVnfR8u"
-      },
-      "artists": [
-        {
-          "name": "Strange Boy",
-          "url": "https://open.spotify.com/artist/4LXxi3hXUQ0TEeQtmuWLY4"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1vIKEd8eJy1dGrOssnsIkj"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "If You Come Back",
-        "url": "https://open.spotify.com/album/2q36QMGCTBOWkZauFNf19h"
-      },
-      "artists": [
-        {
-          "name": "Billow Wood",
-          "url": "https://open.spotify.com/artist/5jonCzFhMyr6jpWpG4I7js"
-        },
-        {
-          "name": "S\u00e9amus \u00d3 Flatharta",
-          "url": "https://open.spotify.com/artist/79z4aKGXmHONj89oReNqBt"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "If You Come Back",
-      "url": "https://open.spotify.com/track/1Ojqog2fVAv6FiYNVXcW1i"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1375,6 +1339,42 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "If You Come Back",
+        "url": "https://open.spotify.com/album/2q36QMGCTBOWkZauFNf19h"
+      },
+      "artists": [
+        {
+          "name": "Billow Wood",
+          "url": "https://open.spotify.com/artist/5jonCzFhMyr6jpWpG4I7js"
+        },
+        {
+          "name": "S\u00e9amus \u00d3 Flatharta",
+          "url": "https://open.spotify.com/artist/79z4aKGXmHONj89oReNqBt"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "If You Come Back",
+      "url": "https://open.spotify.com/track/1Ojqog2fVAv6FiYNVXcW1i"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Holy / Unholy",
+        "url": "https://open.spotify.com/album/0RSrDnJNmIRnHeBNVnfR8u"
+      },
+      "artists": [
+        {
+          "name": "Strange Boy",
+          "url": "https://open.spotify.com/artist/4LXxi3hXUQ0TEeQtmuWLY4"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1vIKEd8eJy1dGrOssnsIkj"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Brooklyn Cuman\u00e1",
         "url": "https://open.spotify.com/album/26n9OijHmBCTAl8BVnA98T"
       },
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Six Day Hurricane",
+        "url": "https://open.spotify.com/album/7H8SeuuVvmfgkXyfSOzY1k"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gallagher",
+          "url": "https://open.spotify.com/artist/0ae0i1u5IUMD7HHlJkMhO6"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "Sarasota Someone",
+      "url": "https://open.spotify.com/track/2dr1iitxS6NwTldY6gbPKv"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Pretty Strange",
         "url": "https://open.spotify.com/album/1qfWkC06s6s8dSXGSNsYW9"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 133635,
       "name": "Them Boys",
       "url": "https://open.spotify.com/track/5ArTJ4o8EZcc6ZV9cpl5kR"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/0A668ius4Akg3xsREvAyKz"
-      },
-      "artists": [
-        {
-          "name": "The Resonant Rogues",
-          "url": "https://open.spotify.com/artist/3n0QiWJkZmsbq1SfclUodh"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/6HtBhkRmuE44Fkrah8m9vy"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Botanicals",
-        "url": "https://open.spotify.com/album/6nZPXLhpvPB8iZyijhXno5"
-      },
-      "artists": [
-        {
-          "name": "JP HOE",
-          "url": "https://open.spotify.com/artist/6EtgUAY8OttzTLTwfO2X9l"
-        }
-      ],
-      "duration_ms": 213704,
-      "name": "Where The Bullets Lie",
-      "url": "https://open.spotify.com/track/1y7ka2Y37bbbLA1jdnLFcQ"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Back on the Road to You",
         "url": "https://open.spotify.com/album/5zZmdzb42vFVPUJvZppkeh"
       },
@@ -1479,18 +1463,34 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Six Day Hurricane",
-        "url": "https://open.spotify.com/album/7H8SeuuVvmfgkXyfSOzY1k"
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/0A668ius4Akg3xsREvAyKz"
       },
       "artists": [
         {
-          "name": "Johnny Gallagher",
-          "url": "https://open.spotify.com/artist/0ae0i1u5IUMD7HHlJkMhO6"
+          "name": "The Resonant Rogues",
+          "url": "https://open.spotify.com/artist/3n0QiWJkZmsbq1SfclUodh"
         }
       ],
-      "duration_ms": 198529,
-      "name": "Sarasota Someone",
-      "url": "https://open.spotify.com/track/2dr1iitxS6NwTldY6gbPKv"
+      "duration_ms": 255946,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/6HtBhkRmuE44Fkrah8m9vy"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Botanicals",
+        "url": "https://open.spotify.com/album/6nZPXLhpvPB8iZyijhXno5"
+      },
+      "artists": [
+        {
+          "name": "JP HOE",
+          "url": "https://open.spotify.com/artist/6EtgUAY8OttzTLTwfO2X9l"
+        }
+      ],
+      "duration_ms": 213704,
+      "name": "Where The Bullets Lie",
+      "url": "https://open.spotify.com/track/1y7ka2Y37bbbLA1jdnLFcQ"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Something in the Stars",
+        "url": "https://open.spotify.com/album/49VdbC7FSIMCdTfnaLp7qr"
+      },
+      "artists": [
+        {
+          "name": "South for Winter",
+          "url": "https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8"
+        }
+      ],
+      "duration_ms": 295573,
+      "name": "Something in the Stars",
+      "url": "https://open.spotify.com/track/1n2kRJqaNEz7wGtvWJj2gh"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Francis (Let It Grxw)",
         "url": "https://open.spotify.com/album/60imFYqvknoS4b6gYQBnpa"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 212301,
       "name": "Francis (Let It Grxw)",
       "url": "https://open.spotify.com/track/1hfmt4uRiNIDlCEg3uuMHD"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Something in the Stars",
-        "url": "https://open.spotify.com/album/49VdbC7FSIMCdTfnaLp7qr"
-      },
-      "artists": [
-        {
-          "name": "South for Winter",
-          "url": "https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8"
-        }
-      ],
-      "duration_ms": 295573,
-      "name": "Something in the Stars",
-      "url": "https://open.spotify.com/track/1n2kRJqaNEz7wGtvWJj2gh"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Il est grand temps",
-        "url": "https://open.spotify.com/album/2MOfrT6XaXYma7QlherFn8"
-      },
-      "artists": [
-        {
-          "name": "Musique \u00e0 bouches",
-          "url": "https://open.spotify.com/artist/05T6STjqljC0UFC0JK3fPM"
-        }
-      ],
-      "duration_ms": 172287,
-      "name": "En montant au large",
-      "url": "https://open.spotify.com/track/5AIhl0v4Ui5MKvcfywStRo"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "De Fez a Jerez",
         "url": "https://open.spotify.com/album/5Uc7zChkh1myi4q8piOKTx"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Il est grand temps",
+        "url": "https://open.spotify.com/album/2MOfrT6XaXYma7QlherFn8"
+      },
+      "artists": [
+        {
+          "name": "Musique \u00e0 bouches",
+          "url": "https://open.spotify.com/artist/05T6STjqljC0UFC0JK3fPM"
+        }
+      ],
+      "duration_ms": 172287,
+      "name": "En montant au large",
+      "url": "https://open.spotify.com/track/5AIhl0v4Ui5MKvcfywStRo"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "After Night Came Sun",
         "url": "https://open.spotify.com/album/7FTQj8cWe6Uei0px3a6CBN"
       },
@@ -1695,26 +1695,6 @@
       "duration_ms": 216959,
       "name": "Second City",
       "url": "https://open.spotify.com/track/4i96ikbfClbwrMDFdUBxLW"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Two Bleeding Hearts",
-        "url": "https://open.spotify.com/album/5r5lvlalzz2jQm0imfn4IH"
-      },
-      "artists": [
-        {
-          "name": "Bruce Sudano",
-          "url": "https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ"
-        },
-        {
-          "name": "Valerie Simpson",
-          "url": "https://open.spotify.com/artist/7Lc8gVjpJFGo4xMHE0Ax7r"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Two Bleeding Hearts",
-      "url": "https://open.spotify.com/track/1Z55krZ6xpdb6djLbKUjjU"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1751,34 +1731,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Chinook Waltz",
-        "url": "https://open.spotify.com/album/1K6jZPCRrVYGSsQ7iRVbqm"
+        "name": "Two Bleeding Hearts",
+        "url": "https://open.spotify.com/album/5r5lvlalzz2jQm0imfn4IH"
       },
       "artists": [
         {
-          "name": "Over The Moon",
-          "url": "https://open.spotify.com/artist/1j1S0wTuckNS2lNtmb8o8N"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Lonesome Bluebird",
-      "url": "https://open.spotify.com/track/5knIJOQyugksWdUEj8iCL2"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Burn the Witch",
-        "url": "https://open.spotify.com/album/5eSqrzWwc85rwo2E7uqbl5"
-      },
-      "artists": [
+          "name": "Bruce Sudano",
+          "url": "https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ"
+        },
         {
-          "name": "Sarah Peacock",
-          "url": "https://open.spotify.com/artist/00NDCYYhAdXbdtSvj8lXv2"
+          "name": "Valerie Simpson",
+          "url": "https://open.spotify.com/artist/7Lc8gVjpJFGo4xMHE0Ax7r"
         }
       ],
-      "duration_ms": 230640,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/6gkkUKsgrRJwj54UDVxNok"
+      "duration_ms": 208666,
+      "name": "Two Bleeding Hearts",
+      "url": "https://open.spotify.com/track/1Z55krZ6xpdb6djLbKUjjU"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1799,6 +1767,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Chinook Waltz",
+        "url": "https://open.spotify.com/album/1K6jZPCRrVYGSsQ7iRVbqm"
+      },
+      "artists": [
+        {
+          "name": "Over The Moon",
+          "url": "https://open.spotify.com/artist/1j1S0wTuckNS2lNtmb8o8N"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Lonesome Bluebird",
+      "url": "https://open.spotify.com/track/5knIJOQyugksWdUEj8iCL2"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Second Chances",
         "url": "https://open.spotify.com/album/6FhuMbjhNkHAx0IPlEyYpY"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 194045,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/2Dwf9r1eBjIo8YMwrNSvSm"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Burn the Witch",
+        "url": "https://open.spotify.com/album/5eSqrzWwc85rwo2E7uqbl5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Peacock",
+          "url": "https://open.spotify.com/artist/00NDCYYhAdXbdtSvj8lXv2"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/6gkkUKsgrRJwj54UDVxNok"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Mai",
+        "url": "https://open.spotify.com/album/1XGjH1AhTk0F5pE39MnXR5"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ruth",
+          "url": "https://open.spotify.com/artist/1cC7AosLJ1N2p9g9KFAkdU"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Close for Comfort",
+      "url": "https://open.spotify.com/track/3REuelGippg9nlEr7q3cL7"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "The Callows",
         "url": "https://open.spotify.com/album/4XYtEpC1u3a3cqXsZQnI9x"
       },
@@ -1879,6 +1895,22 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "Wow and Flutter",
+        "url": "https://open.spotify.com/album/5tFPLec3xTynbq5chYuhnv"
+      },
+      "artists": [
+        {
+          "name": "Amilia K Spicer",
+          "url": "https://open.spotify.com/artist/7mopmwjsJAxVcTwLvEzFbY"
+        }
+      ],
+      "duration_ms": 269279,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/02wC5yXg62fj9yLChqPsZB"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/5ggnDDpZa11EvVrt2oB3Bi"
       },
@@ -1895,22 +1927,6 @@
       "duration_ms": 233583,
       "name": "Dingi Do",
       "url": "https://open.spotify.com/track/72sN8axRC8SS0hDYY7QnnJ"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Mai",
-        "url": "https://open.spotify.com/album/1XGjH1AhTk0F5pE39MnXR5"
-      },
-      "artists": [
-        {
-          "name": "Georgia Ruth",
-          "url": "https://open.spotify.com/artist/1cC7AosLJ1N2p9g9KFAkdU"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Close for Comfort",
-      "url": "https://open.spotify.com/track/3REuelGippg9nlEr7q3cL7"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Wow and Flutter",
-        "url": "https://open.spotify.com/album/5tFPLec3xTynbq5chYuhnv"
-      },
-      "artists": [
-        {
-          "name": "Amilia K Spicer",
-          "url": "https://open.spotify.com/artist/7mopmwjsJAxVcTwLvEzFbY"
-        }
-      ],
-      "duration_ms": 269279,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/02wC5yXg62fj9yLChqPsZB"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Taste of Tentrees",
         "url": "https://open.spotify.com/album/2kRmrQiyNduxwicJO9I2d3"
       },
@@ -1975,22 +1975,6 @@
       "duration_ms": 190903,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/67DO800HqOrGLpHn3WCfJV"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Winfield Bound",
-        "url": "https://open.spotify.com/album/5vSgZnihaGjrsqzhlh015D"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Mash Band",
-          "url": "https://open.spotify.com/artist/6E1v284ZmIWJXKQ7mqcamG"
-        }
-      ],
-      "duration_ms": 225204,
-      "name": "Winfield Bound",
-      "url": "https://open.spotify.com/track/1KbwfMoLct5PGHfe1ho4Sz"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2031,18 +2015,18 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Slow Coming Alive",
-        "url": "https://open.spotify.com/album/219uhNQC88Po4EqzeZdXQV"
+        "name": "Winfield Bound",
+        "url": "https://open.spotify.com/album/5vSgZnihaGjrsqzhlh015D"
       },
       "artists": [
         {
-          "name": "Mirja Klippel",
-          "url": "https://open.spotify.com/artist/3CZa09tcpdWlAMs2G4heMb"
+          "name": "Whiskey Mash Band",
+          "url": "https://open.spotify.com/artist/6E1v284ZmIWJXKQ7mqcamG"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/5DqpN7Jnd8Pv2zFYMqY157"
+      "duration_ms": 225204,
+      "name": "Winfield Bound",
+      "url": "https://open.spotify.com/track/1KbwfMoLct5PGHfe1ho4Sz"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2059,6 +2043,38 @@
       "duration_ms": 344649,
       "name": "Sirius B",
       "url": "https://open.spotify.com/track/3YsBVs3FsDSxH8kpo2mQIP"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Slow Coming Alive",
+        "url": "https://open.spotify.com/album/219uhNQC88Po4EqzeZdXQV"
+      },
+      "artists": [
+        {
+          "name": "Mirja Klippel",
+          "url": "https://open.spotify.com/artist/3CZa09tcpdWlAMs2G4heMb"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/5DqpN7Jnd8Pv2zFYMqY157"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Whiskeytown",
+        "url": "https://open.spotify.com/album/1tndh3EH7dQdnd8qgkmiPs"
+      },
+      "artists": [
+        {
+          "name": "Kim Beggs",
+          "url": "https://open.spotify.com/artist/3x5PUluyLCMyyui1cKPSMz"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Whiskeytown",
+      "url": "https://open.spotify.com/track/2sVBgQeUnX9xoaz7FRxBzF"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2111,38 +2127,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Whiskeytown",
-        "url": "https://open.spotify.com/album/1tndh3EH7dQdnd8qgkmiPs"
-      },
-      "artists": [
-        {
-          "name": "Kim Beggs",
-          "url": "https://open.spotify.com/artist/3x5PUluyLCMyyui1cKPSMz"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Whiskeytown",
-      "url": "https://open.spotify.com/track/2sVBgQeUnX9xoaz7FRxBzF"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "The Abominable Stringband, Vol. 1",
-        "url": "https://open.spotify.com/album/6fHleatcIMcA7vQZD418E6"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Nomads",
-          "url": "https://open.spotify.com/artist/5sr2GGoJZln84zIlp1P3bX"
-        }
-      ],
-      "duration_ms": 368500,
-      "name": "Buscando el Tuy",
-      "url": "https://open.spotify.com/track/0eASQgedFTivmukAAhznRO"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Changemakers",
         "url": "https://open.spotify.com/album/7oiKZlkaehPaJhj7JmnVND"
       },
@@ -2155,38 +2139,6 @@
       "duration_ms": 174000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/4K08DNWKeGTW34BNOvYH7u"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "History and Mystery",
-        "url": "https://open.spotify.com/album/4NKNDWRKXCc3s1ElFphZZv"
-      },
-      "artists": [
-        {
-          "name": "The Likes of Jeff Pittman",
-          "url": "https://open.spotify.com/artist/63jdxbPMIUCbssOyfS0Ctn"
-        }
-      ],
-      "duration_ms": 309985,
-      "name": "My Radio Won't Make a Sound",
-      "url": "https://open.spotify.com/track/79m6ZbU9l4aHT3ek4dEYM1"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/5286Nl1gX9glWGp0xFrRlt"
-      },
-      "artists": [
-        {
-          "name": "Noisy Pots",
-          "url": "https://open.spotify.com/artist/0kQ8xUyWvyJF1Sm6rIpDSo"
-        }
-      ],
-      "duration_ms": 171467,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2ps6pFr3UcLnxBZV77UOAy"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2207,22 +2159,6 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Fall Back Home",
-        "url": "https://open.spotify.com/album/0hazYCtrspFLY8TLZFb0TU"
-      },
-      "artists": [
-        {
-          "name": "Suzie Vinnick",
-          "url": "https://open.spotify.com/artist/2sMmcyVPI1JbcagQFS4dZg"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "City & Skies",
-      "url": "https://open.spotify.com/track/6jFHZXPpMan2keglvAcx97"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/7uURfM1yiijfhNqblBZvXU"
       },
@@ -2239,6 +2175,54 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
+        "name": "The Abominable Stringband, Vol. 1",
+        "url": "https://open.spotify.com/album/6fHleatcIMcA7vQZD418E6"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Nomads",
+          "url": "https://open.spotify.com/artist/5sr2GGoJZln84zIlp1P3bX"
+        }
+      ],
+      "duration_ms": 368500,
+      "name": "Buscando el Tuy",
+      "url": "https://open.spotify.com/track/0eASQgedFTivmukAAhznRO"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "History and Mystery",
+        "url": "https://open.spotify.com/album/4NKNDWRKXCc3s1ElFphZZv"
+      },
+      "artists": [
+        {
+          "name": "The Likes of Jeff Pittman",
+          "url": "https://open.spotify.com/artist/63jdxbPMIUCbssOyfS0Ctn"
+        }
+      ],
+      "duration_ms": 309985,
+      "name": "My Radio Won't Make a Sound",
+      "url": "https://open.spotify.com/track/79m6ZbU9l4aHT3ek4dEYM1"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Fall Back Home",
+        "url": "https://open.spotify.com/album/0hazYCtrspFLY8TLZFb0TU"
+      },
+      "artists": [
+        {
+          "name": "Suzie Vinnick",
+          "url": "https://open.spotify.com/artist/2sMmcyVPI1JbcagQFS4dZg"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "City & Skies",
+      "url": "https://open.spotify.com/track/6jFHZXPpMan2keglvAcx97"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
         "name": "Tin Palace",
         "url": "https://open.spotify.com/album/7Hih7qmePX5VSxPfOrTUmR"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 282431,
       "name": "Tin Palace",
       "url": "https://open.spotify.com/track/3kTsjNpbIv6u0dlESRrZEh"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/5286Nl1gX9glWGp0xFrRlt"
+      },
+      "artists": [
+        {
+          "name": "Noisy Pots",
+          "url": "https://open.spotify.com/artist/0kQ8xUyWvyJF1Sm6rIpDSo"
+        }
+      ],
+      "duration_ms": 171467,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2ps6pFr3UcLnxBZV77UOAy"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2303,38 +2303,18 @@
     {
       "added_at": "2024-01-03 18:15:03",
       "album": {
-        "name": "Journey Home",
-        "url": "https://open.spotify.com/album/4tzAhJx89j8xxhn9rtaVSw"
+        "name": "Long Live",
+        "url": "https://open.spotify.com/album/4xHRo8ftEhDMOwNgMkVRS2"
       },
       "artists": [
         {
-          "name": "Ammoye",
-          "url": "https://open.spotify.com/artist/0bIy5Li4ZS53wLfXbhcyLx"
-        },
-        {
-          "name": "Lord Sassafrass",
-          "url": "https://open.spotify.com/artist/6STHl3OCX6BmeHT5u5g3e0"
+          "name": "Susan Werner",
+          "url": "https://open.spotify.com/artist/22t90SdeLXy0hg1eoiLokC"
         }
       ],
-      "duration_ms": 260052,
-      "name": "Journey Home",
-      "url": "https://open.spotify.com/track/2O1e9bnQeq31glGbkqbmDZ"
-    },
-    {
-      "added_at": "2024-01-03 18:15:03",
-      "album": {
-        "name": "Rope of Sand",
-        "url": "https://open.spotify.com/album/1hrJNgKwRb63QdLhpeYhWs"
-      },
-      "artists": [
-        {
-          "name": "Miranda Mulholland",
-          "url": "https://open.spotify.com/artist/77nCKUhpsfZJmBdaMxiRQX"
-        }
-      ],
-      "duration_ms": 225779,
-      "name": "Rope of Sand",
-      "url": "https://open.spotify.com/track/7r1xViVDTTh7aboDDepsoB"
+      "duration_ms": 240143,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/1Y3rXQOrZLE0IA5XYnXCmW"
     },
     {
       "added_at": "2024-01-03 18:15:03",
@@ -2351,6 +2331,26 @@
       "duration_ms": 354907,
       "name": "Follow the Drinking Gourd",
       "url": "https://open.spotify.com/track/22RrRdcdr24zScC2Dx0hUn"
+    },
+    {
+      "added_at": "2024-01-03 18:15:03",
+      "album": {
+        "name": "Journey Home",
+        "url": "https://open.spotify.com/album/4tzAhJx89j8xxhn9rtaVSw"
+      },
+      "artists": [
+        {
+          "name": "Ammoye",
+          "url": "https://open.spotify.com/artist/0bIy5Li4ZS53wLfXbhcyLx"
+        },
+        {
+          "name": "Lord Sassafrass",
+          "url": "https://open.spotify.com/artist/6STHl3OCX6BmeHT5u5g3e0"
+        }
+      ],
+      "duration_ms": 260052,
+      "name": "Journey Home",
+      "url": "https://open.spotify.com/track/2O1e9bnQeq31glGbkqbmDZ"
     }
   ],
   "unique_name": "Folk Alliance 2024",

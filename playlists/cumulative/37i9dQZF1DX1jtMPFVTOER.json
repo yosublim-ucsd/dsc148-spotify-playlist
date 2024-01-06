@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Down With The King",
+        "url": "https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266224,
+      "name": "Down With the King",
+      "url": "https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -6267,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "masterpiece.",
+        "url": "https://open.spotify.com/album/7xyGKmatwB778gxngyRfLu"
+      },
+      "artists": [
+        {
+          "name": "Iman Europe",
+          "url": "https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "masterpiece.",
+      "url": "https://open.spotify.com/track/3uWnUQyUzcUyt9mf1K6Wm2"
+    },
+    {
+      "album": {
         "name": "Mathuniversal",
         "url": "https://open.spotify.com/album/7DCFak49YvfDHzDz5XIXGd"
       },
@@ -7648,7 +7684,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 176500,
       "name": "Pinky Blues",
       "url": "https://open.spotify.com/track/5DVxEveEOhd59EWUqn2cXz"
@@ -8306,7 +8342,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 226917,
       "name": "Running",
       "url": "https://open.spotify.com/track/3owyO7tQEuebTfSehSNEV0"

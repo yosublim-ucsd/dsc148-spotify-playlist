@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "NzQsNTdlMmI3MjFlODVjM2IxMWIxZjUwMWE1YzY0ZGU4MDVkOWE0NDQ3Zg==",
+  "snapshot_id": "NzcsOWZhNGZlNmNlOWRmMzkyMTNjYTI0MDVmOWMzYWI3ZjMzOTBkODBlNQ==",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -971,6 +971,54 @@
       "duration_ms": 176613,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/1vWGa8yC21ZELs9dAhiC2Q"
+    },
+    {
+      "added_at": "2024-01-05 18:35:16",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2024-01-05 18:37:13",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "added_at": "2024-01-05 18:38:26",
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     }
   ],
   "unique_name": "Ballads",

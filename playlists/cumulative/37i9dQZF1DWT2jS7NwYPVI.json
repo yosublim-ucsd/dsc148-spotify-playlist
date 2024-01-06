@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Your cheat sheet for everything on the rise rock & alt world. Cover: Bruses",
+  "description": "Your cheat sheet for everything on the rise rock & alt world. Cover: SPRINTS",
   "name": "New Noise",
   "tracks": [
     {
@@ -370,6 +370,24 @@
       "duration_ms": 180821,
       "name": "2am",
       "url": "https://open.spotify.com/track/2LbuYHVsm5whjGY9S06im3"
+    },
+    {
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "album": {
@@ -1667,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Anxiety / Making Miseries",
+        "url": "https://open.spotify.com/album/6V1fBbeKJwhXCEKRrFNlZD"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/09oM7MKKiUMlfmm55WILWN"
+    },
+    {
+      "album": {
         "name": "ANXIETY",
         "url": "https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM"
       },
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 214930,
       "name": "Anxious Times",
       "url": "https://open.spotify.com/track/3gxjnVCZlckyhE55OP2Dli"
@@ -2269,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "BACKSTABBER",
+        "url": "https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM"
+      },
+      "artists": [
+        {
+          "name": "Ergo, Bria",
+          "url": "https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188808,
+      "name": "BACKSTABBER",
+      "url": "https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R"
+    },
+    {
+      "album": {
         "name": "Backstep",
         "url": "https://open.spotify.com/album/4QlvXHr4MvO9RA3LZ19jsK"
       },
@@ -2732,7 +2786,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 204147,
       "name": "Basement",
       "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
@@ -3802,7 +3856,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 133256,
       "name": "blame me for everything",
       "url": "https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK"
@@ -5213,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "Caesar on a TV Screen",
+        "url": "https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229667,
+      "name": "Caesar on a TV Screen",
+      "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"
+    },
+    {
+      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -5380,7 +5452,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 215781,
       "name": "Can't Take It Slow",
       "url": "https://open.spotify.com/track/2zHI95id5mtuLwlGNcThlA"
@@ -11214,7 +11286,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 231342,
       "name": "Flowers For The Grave",
       "url": "https://open.spotify.com/track/2Z9q6YsWTvlqdsmByqOSBH"
@@ -12390,7 +12462,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 223225,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/6SIKqz0nWVP5OoYDHb7Jwx"
@@ -14071,6 +14143,24 @@
     },
     {
       "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
         "name": "Heavy Heart",
         "url": "https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68"
       },
@@ -15266,6 +15356,24 @@
       "duration_ms": 230381,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW"
+    },
+    {
+      "album": {
+        "name": "Hunger Games",
+        "url": "https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220101,
+      "name": "Hunger Games",
+      "url": "https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g"
     },
     {
       "album": {
@@ -17438,7 +17546,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 239920,
       "name": "jamcod",
       "url": "https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR"
@@ -18096,6 +18204,24 @@
       "duration_ms": 170378,
       "name": "Kill The Girl",
       "url": "https://open.spotify.com/track/1Wuz7gQuVAj3BI3Bf53jeh"
+    },
+    {
+      "album": {
+        "name": "Kill The Lights",
+        "url": "https://open.spotify.com/album/6M78DoFWSX4UYlfXf5n7B0"
+      },
+      "artists": [
+        {
+          "name": "The Requiem",
+          "url": "https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180945,
+      "name": "Kill The Lights",
+      "url": "https://open.spotify.com/track/4dlPsqaKyDAejnHoc1fPCK"
     },
     {
       "album": {
@@ -18884,6 +19010,24 @@
       "duration_ms": 250136,
       "name": "Lethal",
       "url": "https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5J12lX3O7R7YOy1MyyTMEm"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167653,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/27xRhBTtH13Qwj5LqawMMN"
     },
     {
       "album": {
@@ -21836,7 +21980,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 159000,
       "name": "Money",
       "url": "https://open.spotify.com/track/2hUYUNOiAyiV6at0p0h3eT"
@@ -22248,7 +22392,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 161800,
       "name": "Move On",
       "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
@@ -22419,6 +22563,24 @@
     },
     {
       "album": {
+        "name": "My Golden Years",
+        "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "My Golden Years",
+      "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
+    },
+    {
+      "album": {
         "name": "My Lady Of Mercy",
         "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
       },
@@ -22430,7 +22592,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 175410,
       "name": "My Lady of Mercy",
       "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
@@ -24889,6 +25051,32 @@
     },
     {
       "album": {
+        "name": "peace of mind",
+        "url": "https://open.spotify.com/album/7eRDLcNVaoPLT6roRdjPlZ"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        },
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170895,
+      "name": "peace of mind",
+      "url": "https://open.spotify.com/track/0hh5w9zgdzGcEEt9wZQhPy"
+    },
+    {
+      "album": {
         "name": "Peach Fuzz (with Cybertrash)",
         "url": "https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf"
       },
@@ -25456,7 +25644,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 84280,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/5QNcjQ59mtn96GALPY1xBO"
@@ -25666,6 +25854,24 @@
       "duration_ms": 105000,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
+    },
+    {
+      "album": {
+        "name": "PREDATOR",
+        "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171506,
+      "name": "PREDATOR",
+      "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
     },
     {
       "album": {
@@ -26146,7 +26352,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943"
@@ -28782,7 +28988,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 218121,
       "name": "Shadow (I'm Breaking Down)",
       "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
@@ -29698,7 +29904,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 184717,
       "name": "Smash The Mirror",
       "url": "https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN"
@@ -30248,6 +30454,24 @@
       "duration_ms": 174648,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5VeQYezyQidkmtJhzog4SF"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181267,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3GE4nEO4GiELDyiE3gtkNH"
     },
     {
       "album": {
@@ -31264,7 +31488,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 268586,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/3Y7aoI9rr7TqA2ONaIHgB9"

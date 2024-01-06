@@ -1,15 +1,15 @@
 {
-  "description": "Nothing but the best in modern country music. Cover: Jelly Roll",
-  "num_followers": 536928,
+  "description": "Nothing but the best in modern country music. Cover: Lana Del Rey",
+  "num_followers": 536960,
   "original_name": "All About Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGUwODNmYTIwMTFkNWNlYzUwMmVjZmM3ZTlmOTBmZmYzZjA5Y2Rk",
+  "snapshot_id": "MCw5ODkzYWEwNWQxMmNhNzJhYjgzNDM5NTA5ZjkwZjEwMjllNzlhNzc0",
   "tracks": [
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
@@ -61,55 +45,7 @@
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Old Dirt Roads",
-        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 227891,
-      "name": "Old Dirt Roads",
-      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "HIXTAPE Vol. 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
@@ -133,7 +69,71 @@
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Old Dirt Roads",
+        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
         "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "TRUCK BED",
         "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Lips Of An Angel",
         "url": "https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv"
@@ -205,23 +189,87 @@
       "url": "https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "This Ol' Rodeo",
-        "url": "https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl"
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
       "artists": [
         {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 258680,
-      "name": "This Ol' Rodeo",
-      "url": "https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF"
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 205194,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -241,23 +289,7 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
-      },
-      "artists": [
-        {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
-        }
-      ],
-      "duration_ms": 188482,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Boys Back Home",
         "url": "https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Heartbroken (feat. Jessie Murph & Polo G)",
         "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
@@ -301,23 +333,7 @@
       "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Blacktop",
         "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
@@ -333,27 +349,55 @@
       "url": "https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Seven Bridges Road",
-        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
+        "name": "This Ol' Rodeo",
+        "url": "https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl"
       },
       "artists": [
         {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 190174,
-      "name": "Seven Bridges Road",
-      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
+      "duration_ms": 258680,
+      "name": "This Ol' Rodeo",
+      "url": "https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Tell Me Tennessee",
+        "url": "https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Tell Me Tennessee",
+      "url": "https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Dallas Smith",
         "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
@@ -369,23 +413,7 @@
       "url": "https://open.spotify.com/track/4guzk7egLRedeDhcl3dS2U"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "Straight and Narrow",
-      "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Highway Desperado",
         "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
@@ -401,7 +429,7 @@
       "url": "https://open.spotify.com/track/23bEisUvcSmIELLy4CMhkN"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "I'm On Fire - Spotify Singles",
         "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
@@ -421,23 +449,27 @@
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+        "name": "Seven Bridges Road",
+        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+      "duration_ms": 190174,
+      "name": "Seven Bridges Road",
+      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Alcohol (with BRELAND)",
         "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Last Rodeo",
         "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Come Get Your Memory",
         "url": "https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "20 Number Ones (Bonus Version)",
         "url": "https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Small Town Somethin'",
         "url": "https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU"
@@ -541,7 +573,7 @@
       "url": "https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Drinks With the Boys",
         "url": "https://open.spotify.com/album/3aTeOxMIjKyHI0BVC8znaI"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/4H4O3hecO77pDBqSBaPuS9"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "You, Me, And Whiskey",
         "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Back Then Right Now",
         "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Cowboy Gangster Politician",
         "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Country Dance",
         "url": "https://open.spotify.com/album/72tw9pcaaOREJYAU7G2gPu"
@@ -645,7 +677,7 @@
       "url": "https://open.spotify.com/track/3kXlAVr6DhSxerwXYTYHad"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Texas (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Earned It",
         "url": "https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Bet You Break My Heart",
         "url": "https://open.spotify.com/album/1qULds6BpRHzLrA9IIZEbg"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/2Fw1OMnTMDMvq27b4GZMed"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Tim + Faith",
         "url": "https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Ain't Doin' Jack",
         "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Till Next Time",
         "url": "https://open.spotify.com/album/4oKgaUV0tZgsL6yqNJYjaj"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/0qczuXyZQElZLvOnMYKnqm"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Take Her Home",
         "url": "https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75"
@@ -781,7 +813,7 @@
       "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Fearless (The Echo)",
         "url": "https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/1xVjqCBkpIUMe3EmW0PxTM"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "In Your Love",
         "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Friends Like That",
         "url": "https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -877,7 +909,7 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
@@ -893,7 +925,7 @@
       "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "How I Learned To Pray (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Match For My Memory",
         "url": "https://open.spotify.com/album/1btxskaPEUaAs39MnammfS"
@@ -945,7 +977,7 @@
       "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "The Painter",
         "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
@@ -961,7 +993,7 @@
       "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA"
@@ -977,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "We Don't Fight Anymore",
         "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
@@ -997,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Standing Room Only",
         "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "This Town's Been Too Good To Us",
         "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
@@ -1045,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Carolyn's Boy",
         "url": "https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf"
@@ -1061,7 +1093,7 @@
       "url": "https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
@@ -1081,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Wonder Woman",
         "url": "https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ"
@@ -1097,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Came The Closest",
         "url": "https://open.spotify.com/album/6iRu1ih4G0bpKX8fPpOlhm"
@@ -1113,23 +1145,7 @@
       "url": "https://open.spotify.com/track/2fRqb3yoCI9cbRASkEMo3m"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Outta Yours",
-        "url": "https://open.spotify.com/album/3Vqv2NAL8cwafr0YvVLdqI"
-      },
-      "artists": [
-        {
-          "name": "Steven Lee Olsen",
-          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
-        }
-      ],
-      "duration_ms": 178774,
-      "name": "Outta Yours",
-      "url": "https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Right Round Here",
         "url": "https://open.spotify.com/album/4SLw8BaJIjqGnPnxAQpqYk"
@@ -1145,7 +1161,7 @@
       "url": "https://open.spotify.com/track/77F3Qyv91XIFIi7oRfifEW"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Honky Tonkin' About",
         "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Tiny Wooden Box",
         "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
@@ -1181,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Ahead Of Our Time",
         "url": "https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J"
@@ -1197,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
@@ -1217,7 +1233,7 @@
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
         "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
@@ -1233,7 +1249,7 @@
       "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
@@ -1249,23 +1265,7 @@
       "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
-      "album": {
-        "name": "Bigger Mistakes",
-        "url": "https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 179228,
-      "name": "Bigger Mistakes",
-      "url": "https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4"
-    },
-    {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Paint The Town Blue",
         "url": "https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr"
     },
     {
-      "added_at": "2024-01-02 16:03:40",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 93490,
+  "num_followers": 93543,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWVlNDQ1NzA3ZjQwYjQxYzk3YmYwOWM1ZTI1MTdhYzQ3MmMzYzg3",
+  "snapshot_id": "MCxlNTJiZTFkNGI1ZTk3MmIwYmZhYzBiZGFjODA1YmY5YWYwODQyNmE1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -463,6 +463,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Vuelve a So\u00f1ar - EP",
+        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
+      },
+      "artists": [
+        {
+          "name": "Vito Vasquez",
+          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 222229,
+      "name": "Llegare (Remastered) [feat. Zeri]",
+      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Me Llevas M\u00e1s Alto",
         "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 199524,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Vuelve a So\u00f1ar - EP",
-        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
-      },
-      "artists": [
-        {
-          "name": "Vito Vasquez",
-          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
-        },
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 222229,
-      "name": "Llegare (Remastered) [feat. Zeri]",
-      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -575,6 +575,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -587,22 +607,6 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Hoy Ver\u00e9 Su Gloria",
-        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 274130,
-      "name": "Hoy Ver\u00e9 Su Gloria",
-      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -623,6 +627,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Hoy Ver\u00e9 Su Gloria",
+        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 274130,
+      "name": "Hoy Ver\u00e9 Su Gloria",
+      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Original Love",
         "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -691,6 +691,30 @@
       "duration_ms": 235681,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Melissa Hermosillo",
+          "url": "https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP"
+        }
+      ],
+      "duration_ms": 192402,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -759,30 +783,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        },
-        {
-          "name": "Melissa Hermosillo",
-          "url": "https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP"
-        }
-      ],
-      "duration_ms": 192402,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "La Fe Que Dios Me Di\u00f3",
         "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
       },
@@ -831,26 +831,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        },
-        {
-          "name": "Niko La F\u00e1brica",
-          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
-        }
-      ],
-      "duration_ms": 224783,
-      "name": "Yo Te Prometo",
-      "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Ven Te Estado Esperando",
         "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
       },
@@ -883,6 +863,22 @@
       "duration_ms": 231003,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "No Vaya a Ser",
+        "url": "https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G"
+      },
+      "artists": [
+        {
+          "name": "Britt",
+          "url": "https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "No Vaya a Ser",
+      "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

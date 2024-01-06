@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,812 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 19 | [Nevertheless \(I'm In Love With You\)](https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Anthology: 1931 \- 1968](https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo) | 2:48 |
 | 20 | [Moments To Remember](https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 3:15 |
 | 21 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
-| 22 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
-| 23 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
+| 22 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
+| 23 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
 | 24 | [Teach Me Tonight](https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 3:05 |
-| 25 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
+| 25 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
 | 26 | [Standing On the Corner](https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 2:51 |
 | 27 | [The Object Of My Affection \(with Jimmie Grier\) \- 78 rpm Version](https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN), [Jimmie Grier](https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02) | [That's How Rhythm Was Born](https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj) | 3:21 |
 | 28 | [\(Up A\) Lazy River](https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Board Of Directors](https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH) | 3:28 |
 | 29 | [I'm Forever Blowing Bubbles](https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:36 |
-| 30 | [Rag Mop](https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Best Of The Ames](https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0) | 2:46 |
-| 31 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
-| 32 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
+| 30 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
+| 31 | [Teach Me Tonight](https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:50 |
+| 32 | [Rag Mop](https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Best Of The Ames](https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0) | 2:46 |
 | 33 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 34 | [Fun And Fancy Free](https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:40 |
 | 35 | [A G.I\. Wish](https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9) | [Four Vagabonds](https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu), [Ray Conrad Grant, Jr.](https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF), [Robert Arthur O'Neal](https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79), [John Albert Jordan](https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1), [Norval Donahue Taborn](https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV) | [Remember Pearl Harbor: Classic Songs Of World War II](https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87) | 2:39 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [It's Sand, Man!](https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Milestones of a Jazz Legend \- Meets the Vocalists, Vol\. 4](https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf) | 2:28 |
 | 45 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 
-Snapshot ID: `MCw5NGFiMjdhZTBiNmE1MjYyYzQwM2FmMjAxM2QzMjFlYmE3NTdjNzg1`
+Snapshot ID: `MCxlZDFhN2RmMGVkN2YzNjYwNTZlMWVlY2QwYjM0ODI3MmU1NTAzNTZk`

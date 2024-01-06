@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-233 songs - 12 hr 45 min
+235 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 | 2023-05-11 |  |
 | [Anarkali](https://open.spotify.com/track/4kvmWGtZmFXimJl1hgnmg4) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Ajay Warrier](https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC) | [Anarkali](https://open.spotify.com/album/3KfwfuKsi0lDo6ZrLBITKS) | 5:07 | 2023-05-16 | 2023-12-15 |
 | [Antariksha](https://open.spotify.com/track/5PtZ9krK8nQ5c9sJx6lViv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Antariksha](https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt) | 3:29 | 2022-10-12 | 2023-08-09 |
-| [Anthe](https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn) | 4:34 | 2023-08-16 |  |
+| [Anthe](https://open.spotify.com/track/1JFrwtDTpvyDPxd16Aka5e) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/2awtb7BzShaE9da7sMqPjr) | 4:34 | 2023-08-16 |  |
+| [Anthe](https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn) | 4:34 | 2023-08-16 | 2024-01-06 |
 | [Anu Anuvaagi](https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc) | 3:02 | 2023-06-16 | 2023-07-25 |
 | [Arere](https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61) | 3:58 | 2023-10-06 |  |
 | [Avarisu \- SKODA Deccan Beats](https://open.spotify.com/track/3XBolYD5LpZ0ayiuRJPt1a) | [Neehar Kiran Dabade](https://open.spotify.com/artist/7HoTwBEDd1pZucJ0ntVVlQ), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Avarisu \(SKODA Deccan Beats\)](https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd) | 3:42 | 2022-09-27 | 2023-06-21 |
@@ -59,7 +60,8 @@
 | [Enagide Nanna Hrudaya](https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS), [Sharath KN](https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb), [Shwetha Guru](https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1) | [Enagide Nanna Hrudaya](https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK) | 5:54 | 2023-12-22 |  |
 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 |  |
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 | 2023-07-04 |
-| [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 |  |
+| [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 | 2024-01-06 |
+| [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 |  |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 | 2024-01-05 |
 | [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 | 2023-06-29 |  |
 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 |  |

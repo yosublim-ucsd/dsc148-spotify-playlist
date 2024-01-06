@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla
 
-665 songs - 1 day 9 hr 38 min
+666 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [21](https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [21](https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO) | 3:35 | 2020-10-20 | 2022-07-29 |
 | [24 Horas](https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Baile do Papato](https://open.spotify.com/album/2xReweSuwmZbdogHMILeek) | 3:01 | 2023-07-21 |  |
 | [30 Dias](https://open.spotify.com/track/73wzSdHPS39JQeAal4Ka5x) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [30 Dias](https://open.spotify.com/album/2enff2BC3Mw10WtoaFjF15) | 2:08 | 2023-11-10 |  |
+| [31](https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [31](https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C) | 4:11 | 2024-01-05 |  |
 | [43 Licor](https://open.spotify.com/track/35cfiw0V40lXLP2LKljJY0) | [Isadora Vilela](https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU), [Jadeco](https://open.spotify.com/artist/7dpEbLilPHKGJGCTyuI9FL) | [43 Licor](https://open.spotify.com/album/0rdWuWzmkYrFbiJOxgEgu2) | 2:56 | 2023-07-21 | 2023-09-30 |
 | [700 Por Minuto](https://open.spotify.com/track/1wqpmI5TSI18ywTOCYe7PE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [700 Por Minuto](https://open.spotify.com/album/1AiC9mfD2CthG6UFSHsh0O) | 1:45 | 2023-10-06 | 2023-10-28 |
 | [777\-666](https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:44 | 2020-10-20 | 2023-02-15 |
@@ -667,7 +668,7 @@
 | [Who Needs Love](https://open.spotify.com/track/2ktxr00GpTtbMNeBjNeY8D) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 2:38 | 2020-10-20 | 2023-02-15 |
 | [Woah](https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Woah](https://open.spotify.com/album/393l0NdTr8Rv0hybf4FTxy) | 3:03 | 2020-10-20 | 2023-02-15 |
 | [WTF](https://open.spotify.com/track/1ZpViwwk8iEKbPucwMXZR7) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR) | [WTF](https://open.spotify.com/album/5mp5bJyYlTmwYimlpL3aoV) | 2:39 | 2023-02-14 | 2023-03-11 |
-| [Xóra](https://open.spotify.com/track/2zwx1Rw6Teb6WgKJwNFYTi) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [INFAME](https://open.spotify.com/album/5RqXMcLv0YNhAN6PA9OSjw) | 3:04 | 2023-12-01 |  |
+| [Xóra](https://open.spotify.com/track/2zwx1Rw6Teb6WgKJwNFYTi) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [INFAME](https://open.spotify.com/album/5RqXMcLv0YNhAN6PA9OSjw) | 3:04 | 2023-12-01 | 2024-01-06 |
 | [Zerando a Vida](https://open.spotify.com/track/1rr3B3UAKOz3vzjuNfhLu3) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Zerando a Vida](https://open.spotify.com/album/7pPHwj4BAv1Q7IUjhRgGju) | 2:21 | 2020-10-20 | 2022-07-29 |
 | [Zero Coragem](https://open.spotify.com/track/6Swwu1rtpfcFjOSgkrgB9Z) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Zero Coragem](https://open.spotify.com/album/4V0V4L7SjaicbPMHR7qBOM) | 2:28 | 2023-03-10 | 2023-08-19 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2020-10-20 | 2023-02-15 |

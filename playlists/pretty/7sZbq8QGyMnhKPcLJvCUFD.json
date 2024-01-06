@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 752419,
+  "num_followers": 752445,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTQ4MyxjZDg3NjY4MjhhNTE5Y2MyZGJjMzJmYjhlZGM1MWYxOGEzZjYyNTZm",
+  "snapshot_id": "NTQ4NixhOWM5OWY4MTE3MTlhNDU2M2MxMDUyYjA2ZWI1ZWUyZDUxOTFkOGNh",
   "tracks": [
     {
       "added_at": "2024-01-03 05:24:10",
@@ -47,6 +47,42 @@
       "duration_ms": 192413,
       "name": "Never Have I Felt This - VIP",
       "url": "https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH"
+    },
+    {
+      "added_at": "2024-01-05 10:21:30",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX"
+    },
+    {
+      "added_at": "2024-01-05 10:18:58",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA"
     },
     {
       "added_at": "2024-01-03 05:24:10",
@@ -1907,50 +1943,6 @@
       "duration_ms": 212859,
       "name": "Royalty - Wiguez & Alltair Remix",
       "url": "https://open.spotify.com/track/6kl3BgBeYYAUtuxDi5aKQX"
-    },
-    {
-      "added_at": "2024-01-03 05:24:10",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/0RH4YAz924r8FUwRsg8Uxk"
-      },
-      "artists": [
-        {
-          "name": "Unknown Brain",
-          "url": "https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I"
-        },
-        {
-          "name": "Marvin Divine",
-          "url": "https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd"
-        }
-      ],
-      "duration_ms": 230117,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/05Tj9EuuK3me0NBJsgcgd6"
-    },
-    {
-      "added_at": "2024-01-03 05:24:10",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC"
-      },
-      "artists": [
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "Cadmium",
-          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
-        },
-        {
-          "name": "Harley Bird",
-          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
-        }
-      ],
-      "duration_ms": 248275,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk"
     }
   ],
   "unique_name": "NCS Releases",

@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 99353,
+  "num_followers": 99476,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDIxZDg5YTkwZWQ0YWM2ZDE2NDY5OTU2ZTk4NTUwZjAyMjhkN2Zl",
+  "snapshot_id": "MCxmNzFlZjAwNzllYTE1ZDdjZDNmMmRjZDc3Y2YzNDQ2MWQyYWJmYTc2",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -103,22 +103,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "C Jam Blues",
-      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
         "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 181706,
       "name": "Now's The Time",
       "url": "https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "C Jam Blues",
+      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "Raise Four",
-      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 421853,
       "name": "Senor Blues",
       "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 277373,
+      "name": "Raise Four",
+      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker Quintet",
-          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Blues For Alice",
-      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 427000,
       "name": "Blues For Willarene",
       "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quintet",
+          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
     },
     {
       "added_at": "2020-10-12 18:15:54",

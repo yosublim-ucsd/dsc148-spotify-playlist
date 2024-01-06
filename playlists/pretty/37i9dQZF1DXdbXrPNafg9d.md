@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,282,867 likes - 175 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,944 likes - 175 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 82 | [Twist](https://open.spotify.com/track/5xKZOJuMygqB056nROv1xC) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Twist](https://open.spotify.com/album/2XBVgT51eTQg8brDMYGiET) | 5:58 |
 | 83 | [Heart Shaped Locket](https://open.spotify.com/track/5oaThEaulai5NDF9I0kz1T) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Keepsakes](https://open.spotify.com/album/5saWLgRVHZoGDtopmWkyMv) | 3:09 |
 | 84 | [Learn How to Lose: Act 1](https://open.spotify.com/track/2NzhgfZeAFOf5tfBNcdQoF) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Learn How to Lose: Act 1](https://open.spotify.com/album/7lqvmQRk60z9jFBdHTTgvE) | 4:20 |
-| 85 | [Spinning](https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Spinning](https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv) | 3:34 |
+| 85 | [Spinning](https://open.spotify.com/track/6MTxftPAssBVTyGFJ4KB1l) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:34 |
 | 86 | [Big Pharma \(Withdrawal\)](https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Big Pharma \(Withdrawal\)](https://open.spotify.com/album/49oxEaMua1ht601M4JTuos) | 2:53 |
 | 87 | [For Ella](https://open.spotify.com/track/0dndViJCRaH3B4oKvVRaib) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [For Ella](https://open.spotify.com/album/5Kf6T9dmmZJOxEUnXoxYxa) | 4:03 |
 | 88 | [outta town](https://open.spotify.com/track/0XV4mhdey3iV43AzH0v2JO) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [but it's goth](https://open.spotify.com/album/5Hd4daIJsmeQuI4U3jgnV8) | 1:42 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Nothing Lasts](https://open.spotify.com/track/67e8iug4iZ5MostXypvN8Z) | [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Nothing Lasts](https://open.spotify.com/album/6M1nzngMNVdFEd5G4vaCGo) | 2:54 |
 | 175 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 |
 
-Snapshot ID: `MCwxMzliOGIwOWJiMjNiN2UyMDllMDkyZjY4MzlkNDIxNjFjZDRlNGY1`
+Snapshot ID: `MCw1ZThmMzY1ZTcwNGJlYTRiZjdlNjMwYzNmZDY2YzdiODBmZjQ2Nzgy`

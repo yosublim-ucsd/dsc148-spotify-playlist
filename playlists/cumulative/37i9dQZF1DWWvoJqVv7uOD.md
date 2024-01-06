@@ -2,7 +2,7 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Sia
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Teddy Swims
 
 629 songs - 1 day 10 hr 24 min
 

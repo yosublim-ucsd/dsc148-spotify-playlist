@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-261 songs - 1 day 0 hr 34 min
+262 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Abro Mão \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Débora Pires](https://open.spotify.com/artist/6dOprDYs0zTGHLRk8Q3yPR) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 | 2023-03-24 | 2023-04-16 |
 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 | 2022-09-09 |  |
 | [Adorador por Excelência](https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW) | 5:33 | 2023-07-14 |  |
+| [Agradeço](https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55) | [AgroPraise](https://open.spotify.com/artist/7mVNWttEDAHygePBeERPSA), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Agradeço](https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3) | 3:41 | 2024-01-05 |  |
 | [Agradeço \- Ao Vivo](https://open.spotify.com/track/6TUq8ptWBQd1RcXQCBb7eu) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Agradeço \(Ao Vivo\)](https://open.spotify.com/album/7q8tdlooUHOuHtvfm6M1LA) | 4:41 | 2023-12-22 |  |
 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 | 2022-12-09 |  |
 | [Algo Novo \(feat\. Lukas Agustinho\) \- Ao Vivo](https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(feat\. Lukas Agustinho\) \[Ao Vivo\]](https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh) | 6:48 | 2022-09-09 |  |
@@ -225,7 +226,7 @@
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 |  |
 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 | 2023-09-01 | 2023-12-22 |
 | [Somos \- Ao Vivo](https://open.spotify.com/track/3QvKLhzoyUbI30KtyrIdId) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh), [Edificando Adoradores](https://open.spotify.com/artist/6gMJxMyIgamvww0DeHJtvl), [Videira Music](https://open.spotify.com/artist/4dVK7wXc4Og6XSSB6D55IO) | [Somos \(Ao Vivo\)](https://open.spotify.com/album/0Rnnx81MAp9nzYhksTGHOd) | 5:17 | 2023-03-03 | 2023-03-12 |
-| [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb) | 6:07 | 2023-08-18 |  |
+| [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb) | 6:07 | 2023-08-18 | 2024-01-06 |
 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 | 2022-09-09 | 2023-08-08 |
 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 | 2022-09-09 |  |
 | [Sparrows](https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 3:17 | 2022-09-09 | 2022-12-24 |

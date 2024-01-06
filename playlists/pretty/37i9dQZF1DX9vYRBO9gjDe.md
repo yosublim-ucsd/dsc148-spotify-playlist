@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。1月3日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,315 likes - 47 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,481 likes - 47 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 46 | [Talking Box \(Dirty Pop Remix\)](https://open.spotify.com/track/5mqucSnaCVI1kW6ewrXYE2) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\)](https://open.spotify.com/album/0c4X7Zmx1pPBQkY9snWLZX) | 2:08 |
 | 47 | [ホテルニュートリノ](https://open.spotify.com/track/66j7OAinOnLbkATzcQPfmA) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ホテルニュートリノ](https://open.spotify.com/album/7mAnnljEik428IDN7c8zGv) | 4:04 |
 
-Snapshot ID: `MCw5MTgwNDAzOGIzZjJjMzgzYTk1NzIxN2M0NzUyNjg3ZTU1NDBkOGIy`
+Snapshot ID: `MCxkMjA1NmM2YTQ2Mjc0ZDY4MmQ5MjQxNmY2MjAxYzczYTUxOTQyNjJi`

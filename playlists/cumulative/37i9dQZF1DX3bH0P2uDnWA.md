@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-333 songs - 19 hr 8 min
+334 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 | 2020-10-30 |  |
 | [Heebie Jeebies](https://open.spotify.com/track/0b8wTV9QZigWhPRfU0Su08) | [Victor and the Bully](https://open.spotify.com/artist/5ajT35SkbTc7KuPydYYiDq) | [Embrace The Disgrace](https://open.spotify.com/album/7vUHlgwKFZOmthEZYIRmav) | 3:24 | 2022-10-12 | 2023-11-07 |
 | [Hep Cat Boogie](https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Kate Thomas](https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz) | [Vintage Vibes](https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp) | 3:22 | 2022-02-25 | 2023-03-11 |
+| [Hep Cat Boogie \- Lounge Version](https://open.spotify.com/track/1d8Yqf3t0eWYFapcQFhDtB) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Kate Thomas](https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz) | [Hep Cat Boogie \(Lounge Version\)](https://open.spotify.com/album/4h3VdYq6ARCmzbdcffIOR9) | 2:50 | 2024-01-05 |  |
 | [Hide & Seek](https://open.spotify.com/track/3pTQUwVDv8BiYktcZIAWjz) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Kitty Litter](https://open.spotify.com/album/50DkyzkH89wI4F96r1YqBN) | 3:31 | 2022-10-12 | 2023-11-07 |
 | [Higher and Higher](https://open.spotify.com/track/0o2y64jHIjh6eEaL5NsZlT) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [Higher and Higher](https://open.spotify.com/album/1KZwYfUMPL5RtVJKLAdqyn) | 3:33 | 2023-09-15 |  |
 | [Higher Love](https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Higher Love](https://open.spotify.com/album/5Fhrd3KcpWFwWxCWNY0v0K) | 3:36 | 2020-10-30 | 2022-07-26 |

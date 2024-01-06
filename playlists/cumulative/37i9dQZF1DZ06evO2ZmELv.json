@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 197733,
       "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
       "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 218814,
       "name": "Caray - En Vivo",
       "url": "https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 189827,
       "name": "El Desquite - Versi\u00f3n Banda En Vivo",
       "url": "https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC"
@@ -294,6 +294,24 @@
       "duration_ms": 199257,
       "name": "En Mi Destino Estabas Tu",
       "url": "https://open.spotify.com/track/6tyczwNk5TqYt9WdSZcZ1x"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271461,
+      "name": "Es Demasiado Tarde - En Vivo",
+      "url": "https://open.spotify.com/track/0e2RjIK50zfagXtG00riZB"
     },
     {
       "album": {

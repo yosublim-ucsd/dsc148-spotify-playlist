@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-411 songs - 23 hr 32 min
+412 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A CYBER'S WORLD? \(From "Deltarune"\) \- Electro House Version](https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn) | [Mykah](https://open.spotify.com/artist/3VYxuvrdxNbXmDIxiHYDqz) | [A CYBER'S WORLD? \(From "Deltarune"\) \[Electro House Version\]](https://open.spotify.com/album/38WxY9cf0avPDxehC3ubmL) | 4:29 | 2022-01-07 | 2022-07-29 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 | 2023-02-24 |
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
-| [Alcove Pacino](https://open.spotify.com/track/6U4zq56WY4VC1v6hMGm97T) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Thumbs Up](https://open.spotify.com/album/4CB0MkVEMqgzkeXe47gmPX) | 2:29 | 2023-10-25 |  |
+| [Alcove Pacino](https://open.spotify.com/track/6U4zq56WY4VC1v6hMGm97T) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Thumbs Up](https://open.spotify.com/album/4CB0MkVEMqgzkeXe47gmPX) | 2:29 | 2023-10-25 | 2024-01-06 |
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
 | [All Too Much](https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All Too Much](https://open.spotify.com/album/7tAT5guOQp2lRqr72cUoHK) | 2:51 | 2023-01-27 | 2023-09-29 |
 | [Alone](https://open.spotify.com/track/6fW7FK6s1EMtWu3mDdvq3X) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Alone](https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP) | 2:53 | 2022-04-15 | 2022-07-29 |
@@ -338,6 +338,7 @@
 | [Silence](https://open.spotify.com/track/2ezhpsQj2wNPjOKC1oh1PB) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/5hm09HsXv0q2SaarsbxVLQ) | 2:25 | 2022-07-14 | 2023-05-13 |
 | [Silence](https://open.spotify.com/track/7uESPYfdmMUaZCRFhw7Em6) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/3IygZmlcrvGKazIInbITuV) | 2:25 | 2022-01-07 | 2022-04-13 |
 | [Silver Lining](https://open.spotify.com/track/0RfwOCCfixdYgdgQcEjw4G) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV) | [Silver Lining](https://open.spotify.com/album/3qpkXNBQQSP7DAYeBSOpnW) | 2:27 | 2022-01-07 |  |
+| [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 | 2024-01-05 |  |
 | [Sky Blue](https://open.spotify.com/track/0YBra1QGuIhdTWlEwnEkQY) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [Sky Blue](https://open.spotify.com/album/4ZSrFB51VBeLnT1guceWnm) | 3:07 | 2022-01-07 | 2022-07-13 |
 | [Skydive](https://open.spotify.com/track/1MxEjfa6CxBZTT1xDTaCcX) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Skydive](https://open.spotify.com/album/3r8O0lCTxO7MOmSlgN5hBw) | 2:58 | 2022-04-15 | 2022-10-27 |
 | [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-04-21 | 2023-05-13 |

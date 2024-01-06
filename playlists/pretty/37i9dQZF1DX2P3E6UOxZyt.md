@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,214 likes - 72 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,219 likes - 72 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [Nothing Gold Can Stay](https://open.spotify.com/track/6QgPq28fEIugfZrMZ8WUOq) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN) | [Nothing Gold Can Stay](https://open.spotify.com/album/0ambkoQfaQFJoKtg51c8zw) | 3:30 |
 | 72 | [唱一個Hook](https://open.spotify.com/track/5clGcT1WPdWHHRnfteNNSW) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [金魚腦](https://open.spotify.com/artist/1M9Pf9EsdqiNoTHiaaD1rF) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 2:06 |
 
-Snapshot ID: `MCwxZWU5OWJjMDcyOWQ1ODg3YWNhNTk4MGQzMDU0MjU0NmUzYTdlMmZi`
+Snapshot ID: `MCwwOGQxMWUyMzE3NmY5MjA1NDkxZjIzODRjMGQwNTdhZjQxZjkxOTJj`

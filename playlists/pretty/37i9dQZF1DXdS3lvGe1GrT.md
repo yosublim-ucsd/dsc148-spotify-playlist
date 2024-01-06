@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > The top 75 tracks from Fresh Finds Folk in 2023\. Cover: Kara Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,727 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,775 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 |
 | 75 | [Mud\-Stained Dress](https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Thinner](https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA) | 3:26 |
 
-Snapshot ID: `MCwzZjAyZTMxNDNmODZiMGNiZDhmZTQ5ZDEzNDQ1MjVjOWIxM2JkYWFh`
+Snapshot ID: `MCxhNzg3NDk5ZGQwMDk3MDlhYTUwYmExYjcyZThmN2Q2YWEyNDU4NGRl`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 120831,
+  "num_followers": 120865,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjQyZjdiMjEyMDY1MzM0N2VlNDBjYmQxY2I5YjlkYmI0OWZkNDQ0",
+  "snapshot_id": "MCxiZjcyZjBhNjYyZGViOTcwYTg5NWVmNTY3YzcyMzg1YjU0ODk2ZWQx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 223516,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Hoy Ver\u00e9 Su Gloria",
         "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+          "name": "Robert Felix",
+          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
         }
       ],
-      "duration_ms": 223516,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
+      "duration_ms": 227520,
+      "name": "Por Un Minuto Tu Presencia",
+      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -619,22 +635,6 @@
       "duration_ms": 212968,
       "name": "Ante Tus Pies",
       "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Robert Felix",
-          "url": "https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Por Un Minuto Tu Presencia",
-      "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
     },
     {
       "added_at": "2020-09-18 05:02:00",

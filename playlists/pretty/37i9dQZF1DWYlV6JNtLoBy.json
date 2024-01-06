@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4308,
+  "num_followers": 4319,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWNmOGJmOWQyZjhkYWRkNDNiYjc4Zjg3MTMwN2JlNjJhNmNlY2Vm",
+  "snapshot_id": "MCwzMDNjOTVlYzM3ZTFmNTI1OWIzYzZmMTg3MGU1ODkwY2ZjMmZlMmU0",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -697,26 +697,6 @@
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "YOU'LL NEVER LEAVE ME",
-        "url": "https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "MARISA AYUNTA",
-          "url": "https://open.spotify.com/artist/2FnCb0QgCIyN2MFPjBYD92"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "YOU'LL NEVER LEAVE ME",
-      "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
-    },
-    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "Tulia",
@@ -735,6 +715,26 @@
       "duration_ms": 216607,
       "name": "Mwanake (feat. Kaberere)",
       "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "YOU'LL NEVER LEAVE ME",
+        "url": "https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "MARISA AYUNTA",
+          "url": "https://open.spotify.com/artist/2FnCb0QgCIyN2MFPjBYD92"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "YOU'LL NEVER LEAVE ME",
+      "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
     },
     {
       "added_at": "2023-11-17 00:01:00",

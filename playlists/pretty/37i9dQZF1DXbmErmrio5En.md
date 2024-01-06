@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,318 likes - 114 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,349 likes - 114 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 98 | [Mirror](https://open.spotify.com/track/5JuCd5PIAYPbpZFnOUufSW) | [nuum](https://open.spotify.com/artist/6BAW0yDEeA4wOskLv8y1qe) | [Mirror](https://open.spotify.com/album/2xbrJdixzxXNYMllQCoUn1) | 3:28 |
 | 99 | [kids \- aldrch redux](https://open.spotify.com/track/0I48YwyKo5FsGBd2wXMRT1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [industry standard](https://open.spotify.com/album/050G23X8h3mqMxb0TyKbiD) | 5:09 |
 | 100 | [OVER MY HEAD!](https://open.spotify.com/track/6RyJ4jmZeaxFVlR7VqJIUe) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [OVER MY HEAD!](https://open.spotify.com/album/0b3mXBh4M4bWs130ym8E92) | 2:38 |
-| 101 | [we're all gonna die](https://open.spotify.com/track/2qayeQm5W18OLOC84wPHgk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [we're all gonna die](https://open.spotify.com/album/6JPADwOdMYslQJ3IgVQf2R) | 4:09 |
+| 101 | [We're all gonna die](https://open.spotify.com/track/2qayeQm5W18OLOC84wPHgk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [We're all gonna die](https://open.spotify.com/album/6JPADwOdMYslQJ3IgVQf2R) | 4:09 |
 | 102 | [Diphylla](https://open.spotify.com/track/24bACmCVA5MWILNvFqqwaz) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Riley Nuala](https://open.spotify.com/artist/2jrvAHUR5iHtkAD0YSuByG) | [Diphylla](https://open.spotify.com/album/1GrMptCLzEl2OJgciomdZH) | 3:33 |
 | 103 | [wither away](https://open.spotify.com/track/5Wh3fHoeTzzUxXvhqVs6Kk) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK), [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [wither away](https://open.spotify.com/album/3BDB0JyZKOysFtzDQvIjHu) | 2:48 |
 | 104 | [PSYCH MOB](https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA) | [hammond preacher](https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo) | [PSYCH MOB](https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk) | 1:20 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 113 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 |
 | 114 | [Think About It](https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Delusional](https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx) | 2:20 |
 
-Snapshot ID: `MCwxYTExZjAyZmIyNmU3NDE1ZjlhYzNlOTQyOGM1MzdjNjJlMTQzYWUy`
+Snapshot ID: `MCwyZjVmNTlkZjA0ZThiYjgwMzYwYmY4NDQzZGIzNDZlOGI0OWE0NzI1`

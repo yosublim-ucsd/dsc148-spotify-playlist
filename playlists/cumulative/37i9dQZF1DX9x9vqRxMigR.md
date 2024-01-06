@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-638 songs - 1 day 17 hr 41 min
+639 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Lonesome Bluebird](https://open.spotify.com/track/5knIJOQyugksWdUEj8iCL2) | [Over The Moon](https://open.spotify.com/artist/1j1S0wTuckNS2lNtmb8o8N) | [Chinook Waltz](https://open.spotify.com/album/1K6jZPCRrVYGSsQ7iRVbqm) | 4:09 | 2024-01-03 |  |
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2023-01-24 | 2024-01-04 |
 | [Long Haul](https://open.spotify.com/track/17ZHQjP80Vo1oSkT1dWoBV) | [John Wort Hannam](https://open.spotify.com/artist/4CznJKEwFaOplRHc9tRRBb) | [Long Haul](https://open.spotify.com/album/6lCt6q2RWhd0hr8mcq8dys) | 3:32 | 2022-04-25 | 2023-01-25 |
+| [Long Live](https://open.spotify.com/track/1Y3rXQOrZLE0IA5XYnXCmW) | [Susan Werner](https://open.spotify.com/artist/22t90SdeLXy0hg1eoiLokC) | [Long Live](https://open.spotify.com/album/4xHRo8ftEhDMOwNgMkVRS2) | 4:00 | 2024-01-03 |  |
 | [Long River](https://open.spotify.com/track/027qZY4hUjgZer1FyCHmc3) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 7:01 | 2023-01-24 | 2024-01-04 |
 | [Look out for the Wolf](https://open.spotify.com/track/0rkoHg0vEJ7wd779kicqUC) | [Memphissippi Sounds](https://open.spotify.com/artist/0alU1kXkxsIqZTyYfviVst) | [Welcome to the Land](https://open.spotify.com/album/2zQSgrjbTSAs9x5i39ls3R) | 5:34 | 2023-01-24 | 2024-01-04 |
 | [Louisa](https://open.spotify.com/track/2yn6V0wASE1u09nUEu1VOv) | [Robinson & Rohe](https://open.spotify.com/artist/4HWgm86RCkWQs7nlCutYDD) | [Hunger](https://open.spotify.com/album/4UzuJhH6V73dbeQqqZhnCi) | 4:35 | 2022-04-25 | 2023-01-25 |
@@ -445,7 +446,7 @@
 | [Ride](https://open.spotify.com/track/1cnqDqtsDFSS37lCSn57AC) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Ride](https://open.spotify.com/album/3q2q1DE66BYFU97U2Kg1zR) | 4:13 | 2022-04-25 | 2023-01-25 |
 | [River Mouth](https://open.spotify.com/track/6kr3o5SRSeIFnS1XWHQA5X) | [Ernest Aines](https://open.spotify.com/artist/7fkC6pBXItWbN9IukybkFS) | [River Mouth](https://open.spotify.com/album/1hV2iDRop0ectCoQF3ZiQb) | 3:26 | 2021-02-23 | 2024-01-04 |
 | [Roadrunner](https://open.spotify.com/track/6VPfVuwOG5hdBoIOvP51Aw) | [Ddat](https://open.spotify.com/artist/22z0PFiFcteKisxBb45704) | [Ddat](https://open.spotify.com/album/30hFIQOL3uV2j49wbxSGSb) | 3:43 | 2022-04-25 | 2023-01-25 |
-| [Rope of Sand](https://open.spotify.com/track/7r1xViVDTTh7aboDDepsoB) | [Miranda Mulholland](https://open.spotify.com/artist/77nCKUhpsfZJmBdaMxiRQX) | [Rope of Sand](https://open.spotify.com/album/1hrJNgKwRb63QdLhpeYhWs) | 3:45 | 2024-01-03 |  |
+| [Rope of Sand](https://open.spotify.com/track/7r1xViVDTTh7aboDDepsoB) | [Miranda Mulholland](https://open.spotify.com/artist/77nCKUhpsfZJmBdaMxiRQX) | [Rope of Sand](https://open.spotify.com/album/1hrJNgKwRb63QdLhpeYhWs) | 3:45 | 2024-01-03 | 2024-01-06 |
 | [Rosie](https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz) | [Calling Cadence](https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD) | [Calling Cadence](https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg) | 4:02 | 2024-01-03 |  |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2024-01-03 |  |
 | [Runner](https://open.spotify.com/track/2ps6pFr3UcLnxBZV77UOAy) | [Noisy Pots](https://open.spotify.com/artist/0kQ8xUyWvyJF1Sm6rIpDSo) | [Home Alone](https://open.spotify.com/album/5286Nl1gX9glWGp0xFrRlt) | 2:51 | 2024-01-03 |  |

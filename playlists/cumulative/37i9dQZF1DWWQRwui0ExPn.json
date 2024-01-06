@@ -19007,6 +19007,24 @@
     },
     {
       "album": {
+        "name": "checkerboard floor",
+        "url": "https://open.spotify.com/album/7GX0Du2j0aP3m6MCa3Q3YW"
+      },
+      "artists": [
+        {
+          "name": "C-90",
+          "url": "https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "checkerboard floor",
+      "url": "https://open.spotify.com/track/1dlAqOioxENQZ0cO4LKaSU"
+    },
+    {
+      "album": {
         "name": "Backyard",
         "url": "https://open.spotify.com/album/25UPRJuNvK0YpgwpYnQvYL"
       },
@@ -111526,7 +111544,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 138227,
       "name": "To Be Honest",
       "url": "https://open.spotify.com/track/28I04TZda8fyLCICihRij9"

@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 8224,
+  "num_followers": 8218,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJmOTllZmIzZjIzZDc2ZDFmN2FlNzFjNWU5MWM5ZGY1NjU1MTcz",
+  "snapshot_id": "MCwxZTdiNWMxN2FmOGZlOTgxZjljYjk5NDlmMjFkN2M1NWRkZWZiZjFm",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 142946,
+      "name": "Winterlude",
+      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
         "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 272226,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 142946,
-      "name": "Winterlude",
-      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
     },
     {
       "added_at": "2022-11-28 18:17:33",

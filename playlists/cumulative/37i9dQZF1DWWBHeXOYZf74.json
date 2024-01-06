@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Highlighting some favorites of 2023. Cover: Say She She",
+  "description": "Genre-less. Quality first always. Cover: Erick the Architect",
   "name": "POLLEN",
   "tracks": [
     {
@@ -9385,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "Cry Baby (Ft. Lord Apex)",
+        "url": "https://open.spotify.com/album/0oUea0jex9YxPdZgmP62Hw"
+      },
+      "artists": [
+        {
+          "name": "Brad stank",
+          "url": "https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl"
+        },
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272346,
+      "name": "Cry Baby (Ft. Lord Apex)",
+      "url": "https://open.spotify.com/track/0Lh0ZEInuYqlHtx2DM2rC4"
+    },
+    {
+      "album": {
         "name": "CRYBABY :*(",
         "url": "https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN"
       },
@@ -11617,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/32yxU7eHcmvnqiZ8hXPGFS"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178540,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl"
+    },
+    {
+      "album": {
         "name": "1-888-88-DREAM",
         "url": "https://open.spotify.com/album/3VTNWsdPxKZjJvEY87GivP"
       },
@@ -13112,6 +13152,28 @@
       "duration_ms": 212080,
       "name": "EYES",
       "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
+    },
+    {
+      "album": {
+        "name": "Ezekiel's Wheel",
+        "url": "https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Ezekiel's Wheel",
+      "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
     },
     {
       "album": {
@@ -21128,7 +21190,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 139000,
       "name": "inversion",
       "url": "https://open.spotify.com/track/6UNsBsXdkvZ6aJVbVdT6c8"
@@ -27870,7 +27932,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 229649,
       "name": "Never To Be Real",
       "url": "https://open.spotify.com/track/6cYArVpkURcyDOS5pzbjK9"
@@ -35745,6 +35807,24 @@
     },
     {
       "album": {
+        "name": "Silver Thread Golden Needle",
+        "url": "https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596775,
+      "name": "Silver Thread Golden Needle",
+      "url": "https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM"
+    },
+    {
+      "album": {
         "name": "Simulation (feat. Swamp Dogg, Justin Vernon)",
         "url": "https://open.spotify.com/album/4BL6pRfuGLJe4azwgxAnDs"
       },
@@ -37422,7 +37502,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 186445,
       "name": "Spot Me 100",
       "url": "https://open.spotify.com/track/4AUEcE0uxtcxVsTLcvjB3N"
@@ -38794,7 +38874,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 132786,
       "name": "Sweet (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"

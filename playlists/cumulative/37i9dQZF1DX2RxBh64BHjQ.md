@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-1,476 songs - 2 day 18 hr 37 min
+1,477 songs - 2 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Blood, Sweat & Tears \(feat\. G Herbo\)](https://open.spotify.com/track/3ha7OXa3RZ4OFwltnd3QGK) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FACE](https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g) | 2:59 | 2022-01-28 | 2022-02-26 |
 | [BLOW DIS STRAIN](https://open.spotify.com/track/316EmqluW1Osj2QIYY2I5c) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [BLOW DIS STRAIN](https://open.spotify.com/album/23ZjFYiiDizpxwmirTTbW9) | 2:03 | 2023-08-04 | 2023-08-19 |
 | [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 | 2022-12-16 | 2023-02-11 |
-| [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 | 2023-12-22 |  |
+| [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 | 2023-12-29 |  |
+| [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 | 2023-12-22 | 2024-01-06 |
 | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/121wZiInkf2n3mjvh2b6TQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3epYdUTW4wgCIxRDAYKItt) | 3:01 | 2022-05-06 | 2022-07-23 |
 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 | 2023-09-22 | 2023-11-04 |
 | [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 | 2022-11-05 |

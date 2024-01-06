@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:0rOLLmeuTbBAx7YKcVEECH">Gabriel EMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,001 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,069 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Causas Perdidas](https://open.spotify.com/track/4Biy5j7PsKgQxKNtut2y5j) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Ulises Eyherabide](https://open.spotify.com/artist/39dKfPJ1GnRwCBjfaWVtUi) | [Causas Perdidas](https://open.spotify.com/album/6T6nnQQ752QT3NYpM4pUhC) | 4:35 |
 | 100 | [NTQT](https://open.spotify.com/track/6adlni7jGUvR87uPs2KRcG) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [NTQT](https://open.spotify.com/album/1x8tPmDTRauYhv7NByYnyQ) | 2:32 |
 
-Snapshot ID: `MCw5OTJmYjNhODI3YTdhY2FmNTlmM2JhY2NmOTI4ZTVmMGJkYjM5MTVl`
+Snapshot ID: `MCwzMWJjNjkwMjEyZWQ2M2YxOWI2ZWQ0YmEzMGUyNTMyMzg4Zjc0MzE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,643 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,648 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 49 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 |
 | 50 | [In The Good Old Summertime](https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [50 Classics: The Best Of Dixieland Jazz](https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO) | 3:08 |
 | 51 | [Oh Dem Golden Slippers](https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2) | [Big Bill Bissonnette](https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3), [Fred Vigorito](https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ), [Ron Going](https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3), [Jerry Zigmont](https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI), [Bill Sinclair](https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei), [Emil Mark](https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3), [Arnie Hyman](https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa) | [Jam Session in Connecticut, Vol\. 1](https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd) | 5:16 |
-| 52 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
+| 52 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
 | 53 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 |
-| 54 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
+| 54 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 | 55 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 
-Snapshot ID: `MCxjOTdiODcyODY5MDVmY2ZjMjBlMzYzMmQwYWIwNjlkNTIxN2QwYWIy`
+Snapshot ID: `MCwwMGYxNTAxNDZhOTEyMWZiYWFjNmU2ZWRkNTczNzA2ZjJhMjBjNjEw`

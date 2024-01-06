@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,791 songs - 3 day 8 hr 12 min
+1,792 songs - 3 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-03-29 | 2022-07-29 |
 | [Daj spokój](https://open.spotify.com/track/1pfOIDiq6T9lxMZdkk5Fhj) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Daj spokój](https://open.spotify.com/album/5QaOxxJw9QzOHgrWAnd8TK) | 2:15 | 2022-03-29 | 2022-03-31 |
 | [Dalur](https://open.spotify.com/track/35NEt3JvQshGEElCbF3bQx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Brasstríó Mosfellsdals](https://open.spotify.com/artist/0ycyuU76SAJFSQPH4PjHHz) | [Island Songs](https://open.spotify.com/album/5CcftaBCfWfGMRnF2MwDic) | 3:59 | 2021-03-11 | 2022-04-16 |
+| [Dancing Dreams](https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Dancing Dreams](https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO) | 2:18 | 2024-01-04 |  |
 | [Dancing Elves](https://open.spotify.com/track/4tR0kFyGPZHEsQLKQD6xGP) | [Stellan Johnson](https://open.spotify.com/artist/3aa8jvvUHqn1Bq6qASkzSF) | [Dancing Elves](https://open.spotify.com/album/2JrEFb6L7QvCnGssoq6QH0) | 3:15 | 2021-03-07 | 2022-04-20 |
 | [Dancing In The Moonlight](https://open.spotify.com/track/2Zb1tVGStQBP9nY6eZFtQF) | [Paula Davis](https://open.spotify.com/artist/6esB7tEDorg5rOaUqdkBic) | [Dancing In The Moonlight](https://open.spotify.com/album/5rwwrKxa71k5RNRBsGZDLZ) | 3:32 | 2021-03-21 | 2022-06-09 |
 | [Dandelions](https://open.spotify.com/track/3qjDHeV5JdvlSnYfs6PbpA) | [Enno Aare](https://open.spotify.com/artist/7eHcKVhaxOOTKJFZuu3x1h) | [Enno Aare](https://open.spotify.com/album/4bwyjd0Zmh114Y1tth2Vjv) | 1:38 | 2021-05-25 | 2022-04-03 |
@@ -386,7 +387,7 @@
 | [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2021-03-24 | 2022-07-29 |
 | [Ding Dong Merrily On High](https://open.spotify.com/track/5YrgPcJCR26wsCtTgKYATs) | [Arthur Mass](https://open.spotify.com/artist/2ohTFB7ANtgOhXpWTIIl2a) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:30 | 2021-03-14 | 2022-04-05 |
 | [Dinner For Two](https://open.spotify.com/track/2QjxTQAOtgiTJSO83VjJcv) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Dinner For Two](https://open.spotify.com/album/3uaRzslDvp8Jo2wjl3E7c8) | 2:47 | 2022-03-29 | 2022-04-06 |
-| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-04-15 |  |
+| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-04-15 | 2024-01-06 |
 | [Distant Memories](https://open.spotify.com/track/39UpkwSpdQRpmBoZgNYD36) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [Distant Memories](https://open.spotify.com/album/61ACEWgliqcvyd27g3MXWH) | 2:55 | 2021-03-21 | 2021-05-20 |
 | [Divine Structure](https://open.spotify.com/track/5S7nfUHhiA3kfmyMPvhV6V) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 3:47 | 2021-05-25 | 2022-04-19 |
 | [Do They Know It's Christmas?](https://open.spotify.com/track/5QarVtsSmGDiIsCy49yLEs) | [Tony Deans](https://open.spotify.com/artist/3d7m26R3bBUoThTdRLqfDC) | [Do They Know It's Christmas?](https://open.spotify.com/album/0jN1WfdTAdNwP3dAPKUlym) | 3:45 | 2021-03-16 | 2021-05-07 |

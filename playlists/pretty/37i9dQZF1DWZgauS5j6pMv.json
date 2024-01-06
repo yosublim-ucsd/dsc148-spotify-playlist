@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Kossisko",
-  "num_followers": 314846,
+  "num_followers": 314863,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTg4OGI4MjNiZmI3OTM1NTI3MjlkZDVjODkxZGY3ZjM2NTNjZWZj",
+  "snapshot_id": "MCw5OTE2Mzg2ZTFlMjZmMGYwYjE1ZjVmM2U3OTUxYjE1Mjg0ZmFjODNm",
   "tracks": [
     {
       "added_at": "2023-12-08 05:01:00",
@@ -75,6 +75,26 @@
       "duration_ms": 187983,
       "name": "What's the Move",
       "url": "https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Fixations",
+        "url": "https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t"
+      },
+      "artists": [
+        {
+          "name": "JOS",
+          "url": "https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a"
+        },
+        {
+          "name": "Ashdown",
+          "url": "https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE"
+        }
+      ],
+      "duration_ms": 193090,
+      "name": "Fixations",
+      "url": "https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1967,26 +1987,6 @@
       "duration_ms": 179645,
       "name": "Bad Vibes - Duss Hagen Remix",
       "url": "https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq"
-    },
-    {
-      "added_at": "2023-05-23 18:23:26",
-      "album": {
-        "name": "Nothing But Love",
-        "url": "https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Klein",
-          "url": "https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ"
-        },
-        {
-          "name": "The Campers",
-          "url": "https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t"
     }
   ],
   "unique_name": "Nu-Funk",

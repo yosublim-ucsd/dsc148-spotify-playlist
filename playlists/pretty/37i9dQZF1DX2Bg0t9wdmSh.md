@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,895 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,919 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 41 | [Broke Up In Miami](https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:29 |
 | 42 | [Twerksum](https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Twerksum](https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45) | 3:13 |
 | 43 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
-| 44 | [Hittin' \(Remix\)](https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Hittin' \(Remix\)](https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv) | 4:41 |
-| 45 | [I Hit It First](https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc) | [I Hit It First \- Single](https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT) | 3:25 |
+| 44 | [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \[Remix\]](https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b) | 4:32 |
+| 45 | [Hittin' \(Remix\)](https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Hittin' \(Remix\)](https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv) | 4:41 |
 | 46 | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU) | 2:49 |
 | 47 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U) | 3:31 |
-| 48 | [On Me](https://open.spotify.com/track/0A5Fk3MPELtWLsrK8JYiY9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hottest in Hip Hop 2021](https://open.spotify.com/album/02qKaM5aOXH99lqPHF59KO) | 2:15 |
-| 49 | [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \[Remix\]](https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b) | 4:32 |
+| 48 | [I Hit It First](https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc) | [I Hit It First \- Single](https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT) | 3:25 |
+| 49 | [On Me](https://open.spotify.com/track/0A5Fk3MPELtWLsrK8JYiY9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hottest in Hip Hop 2021](https://open.spotify.com/album/02qKaM5aOXH99lqPHF59KO) | 2:15 |
 | 50 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 
-Snapshot ID: `MCwwYjY2ZTI0Zjg4YjFhNTA1ZWY4NWI3YmFmMTM5YjZlZDQzNzQzODhk`
+Snapshot ID: `MCw3ZmVmZDA1NjcwNGVlNzc3ZTM4NzFkYzU4NGZiM2Y0ZWM5ODcwZWJm`

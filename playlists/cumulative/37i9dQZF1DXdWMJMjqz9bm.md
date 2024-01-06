@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Connor Price & Nic D
 
-600 songs - 1 day 3 hr 27 min
+601 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2022-04-04 | 2022-04-29 |
 | [I Don't Like](https://open.spotify.com/track/18EarjJzm91TbgHH7yjyZc) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe), [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP) | [I Don't Like](https://open.spotify.com/album/3CreE7aczVbvJBmE7F84K7) | 3:03 | 2022-05-06 | 2022-05-20 |
 | [I Don't Wanna](https://open.spotify.com/track/5X1cHnEvHVpI9dwZ82khQ3) | [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [I Don't Wanna](https://open.spotify.com/album/0UzwCqCI4CTbnYp0pSbw58) | 2:40 | 2022-09-30 | 2022-10-15 |
-| [I Don't Wanna Know](https://open.spotify.com/track/5QuoJpaWSzbjnIF5ESnQfg) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I Don't Wanna Know](https://open.spotify.com/album/684CYr1q739L7EVd4bjdhO) | 3:00 | 2022-09-09 |  |
+| [I Don't Wanna Know](https://open.spotify.com/track/5QuoJpaWSzbjnIF5ESnQfg) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I Don't Wanna Know](https://open.spotify.com/album/684CYr1q739L7EVd4bjdhO) | 3:00 | 2022-09-09 | 2024-01-06 |
+| [I Don’t Wanna Know](https://open.spotify.com/track/0JCpXJE996Bc6MAbPfiSg1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:00 | 2022-09-09 |  |
 | [I Hope This Lasts](https://open.spotify.com/track/5faqiJShRCHPcwUFze0GRL) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q) | [A Romantic Comedy](https://open.spotify.com/album/3P6huL2kqXwGKRyR6gWEqh) | 2:36 | 2021-11-16 | 2022-02-26 |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-06-03 | 2022-09-24 |
 | [I KNOW \(feat\. charlieonnafriday\)](https://open.spotify.com/track/0AkjMC7s58FVDm9u2ZED0U) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [BEN](https://open.spotify.com/album/1DSwhumlVPt9V5SPyUlk5K) | 2:53 | 2023-03-03 |  |

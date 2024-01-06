@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
 
-212 songs - 13 hr 51 min
+213 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ya Aneedah](https://open.spotify.com/track/2VOd0JcjUA6dgEda5OeCP9) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ya Aneedah](https://open.spotify.com/album/2vjgjvXAO5BcXGV5CsjAul) | 3:44 | 2023-08-25 |  |
 | [Zalzalet Harb](https://open.spotify.com/track/5mqdUwdHxCR9vuYLvpmWH4) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Zalzalet Harb](https://open.spotify.com/album/0YmaVrDhj1gJqUcDfgRI9V) | 3:12 | 2023-05-12 | 2023-09-02 |
 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 | 2023-02-22 | 2023-09-22 |
-| [أجمل شعور](https://open.spotify.com/track/73zGUwRQWhn1DbPBMmgsp1) | [متعب الفهادي](https://open.spotify.com/artist/1kZZtndQgpg4kKUQvg3jW4) | [أجمل شعور](https://open.spotify.com/album/2krMu42Lrnjsnut3NM0vhS) | 3:28 | 2023-09-01 |  |
+| [أجمل شعور](https://open.spotify.com/track/73zGUwRQWhn1DbPBMmgsp1) | [متعب الفهادي](https://open.spotify.com/artist/1kZZtndQgpg4kKUQvg3jW4) | [أجمل شعور](https://open.spotify.com/album/2krMu42Lrnjsnut3NM0vhS) | 3:28 | 2023-09-01 | 2024-01-06 |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/3C0Hpz4Df64ZszZNODDaUV) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/1Sbqm44BUnM6FLJZhMeXov) | 4:18 | 2022-03-30 | 2022-11-03 |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/4eLMkrYnqxRGmNSchxoGy6) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/2wd6hOMXwP04aZU1cb9GCy) | 4:18 | 2022-08-31 | 2023-05-04 |
 | [أحتريك](https://open.spotify.com/track/2yySRO48XMTdz3E38JDxtP) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [أحتريك](https://open.spotify.com/album/4uXKhkwWCUkzuZ3bJMLrPV) | 3:57 | 2022-03-30 | 2022-11-02 |
@@ -219,6 +219,7 @@
 | [يامبتسم](https://open.spotify.com/track/3H4tPFqBvuSYLhrB57KPuf) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [يامبتسم](https://open.spotify.com/album/3Y7UMujGkIv7IyyYd0ki9y) | 3:25 | 2023-05-10 | 2023-09-07 |
 | [يامجرمة](https://open.spotify.com/track/1ZsJGnLQ6Dz8IKGdjlwsz6) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يامجرمة](https://open.spotify.com/album/3qGwl0Gu4UGJqjekXuGs6S) | 2:55 | 2023-02-22 | 2023-09-22 |
 | [ياوقت](https://open.spotify.com/track/639jQrPyDSLttOX5wym9zk) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ياوقت](https://open.spotify.com/album/78hVLUZy6yTNZwSnshEJyj) | 6:07 | 2023-03-28 | 2023-09-02 |
+| [يرد الروح](https://open.spotify.com/track/5579TUnu8gaeE19Gv6A1Jx) | [عبدالله الصخابرة](https://open.spotify.com/artist/25X99KPCcqOuOC8FaBtTwV) | [يرد الروح](https://open.spotify.com/album/6OLXCf1A1LmbGJWM4R7eWC) | 3:55 | 2024-01-05 |  |
 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 | 2022-08-31 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Tupe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,048 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,079 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 |
 | 60 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 |
 
-Snapshot ID: `MCxkNTc0ZjQ0NjljNzIyMjY5ODlkNTg4MmJmYjZlZDkxMjg5ZWU5N2Y1`
+Snapshot ID: `MCwyN2E2NzdlZDM1ZDFmMzEwMWE2YWQ0NTRmZWZlODNlZGQ5NGM4NWM4`

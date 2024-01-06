@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-516 songs - 1 day 9 hr 30 min
+517 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2021-12-17 | 2023-05-05 |
 | [End Of Existence](https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e) | 4:00 | 2023-04-28 |  |
 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 | 2021-12-17 |  |
-| [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2021-12-17 |  |
+| [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2021-12-17 | 2024-01-06 |
 | [Essence](https://open.spotify.com/track/5ycHtWHxS0LJ1hOXEYGu4C) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Essence](https://open.spotify.com/album/68UG9A5KTjekGEkMlSB2IN) | 4:01 | 2021-12-17 | 2022-07-29 |
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Eulogy of Ashes](https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Eulogy of Ashes](https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff) | 4:03 | 2023-04-14 | 2023-10-11 |
@@ -397,6 +397,7 @@
 | [Rule Of Seven](https://open.spotify.com/track/1bLcSZc353HB2EArKlTZF7) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Rule Of Seven](https://open.spotify.com/album/5fvpPMUvCSvl8yH180cjhU) | 3:36 | 2021-12-17 | 2022-07-29 |
 | [Sadness Rains](https://open.spotify.com/track/1N5soNoyhRJkvXXZz6QQ9o) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Sadness Rains](https://open.spotify.com/album/6WproHvfs67n2KljIg5Tgx) | 2:40 | 2021-12-17 | 2022-07-29 |
 | [Satanic Panic](https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG) | 3:19 | 2021-12-17 | 2023-12-24 |
+| [Satanic Panic](https://open.spotify.com/track/57KZXPyLADbF6S6Q8izGcZ) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/5MtCtbhIdjgxJRbk9slWJl) | 3:19 | 2023-12-13 |  |
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Scumprophet](https://open.spotify.com/track/4RmEemZjQl0BVZbWDcPoYu) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/6EAWBs3FxAEsy1cawufZFS) | 4:44 | 2021-12-17 | 2022-04-07 |
 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/74Kl9WSj63K7MJOZssDwAF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [D](https://open.spotify.com/album/795u6k1CCuttNnhsDTM1ij) | 2:48 | 2021-12-17 | 2022-06-27 |

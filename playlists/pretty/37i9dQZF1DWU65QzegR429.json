@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 10630,
+  "num_followers": 10644,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTk1MTQzYzgxN2IxOTYwYThhMjJmOWM0MjBjODJhNTYzYzBjODQ5",
+  "snapshot_id": "MCwzMmQ5MDEwZDZiYTMyMDhiN2QxZWM2MDg5Nzk1MGVkM2VmODA3ZmY3",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -27,22 +27,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -67,18 +63,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -171,6 +171,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Sin Sol",
+        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Mi Regalo Mas Bonito",
         "url": "https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 189000,
       "name": "Solo $exo",
       "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Sin Sol",
-        "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 204955,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "KI-KI",
-        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "KI-KI",
-      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 163360,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "KLK TE PASA A TI",
-        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
-      },
-      "artists": [
-        {
-          "name": "Rosaly Rubio",
-          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "KLK TE PASA A TI",
-      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Deja Que Te Lleve",
         "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203202,
       "name": "Deja Que Te Lleve",
       "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "KLK TE PASA A TI",
+        "url": "https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3"
+      },
+      "artists": [
+        {
+          "name": "Rosaly Rubio",
+          "url": "https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "KLK TE PASA A TI",
+      "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
-      },
-      "artists": [
-        {
-          "name": "J Noa",
-          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
-        }
-      ],
-      "duration_ms": 173894,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Haters y Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 157297,
       "name": "Holy Ghost $$$",
       "url": "https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "duration_ms": 173894,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
     },
     {
       "added_at": "2023-07-24 18:55:43",

@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2352848,
+  "num_followers": 2353509,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWU2MmI1MzBhYTNmZTVjNmRkYzE1Yzk0MDE1Yjg5NDliMWM1NmZh",
+  "snapshot_id": "MCxiMGJkZTVhZWYyMzMwMjg1Yjk2N2I4YmIxOWRlMWIxMjRjZGNmOWFk",
   "tracks": [
     {
       "added_at": "2023-11-21 09:15:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-21 09:15:40",
       "album": {
-        "name": "Dysfunction",
-        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "Mudshovel",
-      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
-    },
-    {
-      "added_at": "2023-11-21 09:15:40",
-      "album": {
         "name": "Tonight The Stars Revolt",
         "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 177960,
       "name": "When Worlds Collide",
       "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"
+    },
+    {
+      "added_at": "2023-11-21 09:15:40",
+      "album": {
+        "name": "Dysfunction",
+        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "Mudshovel",
+      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
     },
     {
       "added_at": "2023-11-21 09:15:40",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-21 09:15:40",
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
-    },
-    {
-      "added_at": "2023-11-21 09:15:40",
-      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 167872,
       "name": "Learn To Walk Again",
       "url": "https://open.spotify.com/track/7hNxx6bokdjR2GDBxrgLGO"
+    },
+    {
+      "added_at": "2023-11-21 09:15:40",
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
     },
     {
       "added_at": "2023-11-21 09:15:40",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-11-21 09:15:40",
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+        "name": "Violent Allies",
+        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+      "duration_ms": 180691,
+      "name": "The Shift",
+      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
     },
     {
       "added_at": "2023-11-21 09:15:40",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-11-21 09:15:40",
       "album": {
-        "name": "Violent Allies",
-        "url": "https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW"
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
       "artists": [
         {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 180691,
-      "name": "The Shift",
-      "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
     },
     {
       "added_at": "2023-11-21 09:15:40",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-11-21 09:15:40",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Are You Ready",
-      "url": "https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP"
-    },
-    {
-      "added_at": "2023-11-21 09:15:40",
-      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 175200,
       "name": "Scars that I'm Hiding",
       "url": "https://open.spotify.com/track/0hIrlDHawGdEw12lBSOWlP"
+    },
+    {
+      "added_at": "2023-11-21 09:15:40",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP"
     },
     {
       "added_at": "2023-11-21 09:15:40",

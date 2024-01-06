@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo hit rap da ascoltare in loop. Cover: Salmo",
-  "name": "Hit Rap Italiane",
+  "description": "7 album dei Club Dogo, 7 giorni di hit rap italiane. Giorno 1: Mi Fist.",
+  "name": "Hit Rap Italiane: Club Dogo Takeover",
   "tracks": [
     {
       "album": {
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 218695,
       "name": "Che Dio Mi Benedica",
       "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
@@ -1288,6 +1288,28 @@
       "duration_ms": 192688,
       "name": "CRAZY LOVE",
       "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Mafia: Best Italian Rappers",
+        "url": "https://open.spotify.com/album/7G6r46pbpmxODY8qrH2akH"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "DJ Shablo",
+          "url": "https://open.spotify.com/artist/07f8TqvRdTipPKrqu56X8r"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "Cronache di resistenza",
+      "url": "https://open.spotify.com/track/1O2g1BXb2PwvvDjusEHrEn"
     },
     {
       "album": {
@@ -2690,7 +2712,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 237493,
       "name": "Ninna Nanna",
       "url": "https://open.spotify.com/track/1bJn4Hfj4xa58Jse9bQrN1"
@@ -2774,6 +2796,24 @@
       "duration_ms": 155825,
       "name": "Non sto pi\u00f9 in zona",
       "url": "https://open.spotify.com/track/2PQuj6TMxl5hcgMG30e2Ij"
+    },
+    {
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264689,
+      "name": "Note killer",
+      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "album": {
@@ -3014,7 +3054,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 196741,
       "name": "Pasticche (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7KnC2wSD0I5Fju3A7qCFX8"
@@ -3330,6 +3370,24 @@
       "duration_ms": 29048,
       "name": "Purple Rain (feat. Gemitaiz, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/286i6Yq99ALCLHXDofuTVL"
+    },
+    {
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "Rap soprano",
+      "url": "https://open.spotify.com/track/3EPFrpxKlFyX8O8e130cFC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > The legendary Armin van Buuren is taking over with the ultimate selection of Trance anthems! \#NYE2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,565 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,775 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 35 | [Carte Blanche](https://open.spotify.com/track/5obzwJeaeJttOXseEFLCj4) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Armada Music \- Trance Legacy](https://open.spotify.com/album/0SYCotoINaIS4Gq6iVXp2L) | 3:25 |
 | 36 | [Superstring \- Rank 1 Remix](https://open.spotify.com/track/17DZLobEcbOKv5V0Mu8Qzb) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:08 |
 | 37 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1MGXnOrS52N8bt2ceoezp5) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:31 |
-| 38 | [Sun & Moon \- Marcus Schossow Remix Edit](https://open.spotify.com/track/4YRGaCTrlxiTEj16ykZViG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Marcus Schössow](https://open.spotify.com/artist/6DPTAvEy0t5DyYBEtba0QW) | [A State Of Trance \- Future Favorite Best Of 2011](https://open.spotify.com/album/1DqG5bYuKihFemopDkmc4p) | 2:59 |
-| 39 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/40XWkL0I2pvcJJRzz3Ck2E) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:35 |
+| 38 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/40XWkL0I2pvcJJRzz3Ck2E) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:35 |
+| 39 | [Sun & Moon \- Marcus Schossow Remix Edit](https://open.spotify.com/track/4YRGaCTrlxiTEj16ykZViG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Marcus Schössow](https://open.spotify.com/artist/6DPTAvEy0t5DyYBEtba0QW) | [A State Of Trance \- Future Favorite Best Of 2011](https://open.spotify.com/album/1DqG5bYuKihFemopDkmc4p) | 2:59 |
 | 40 | [Shine](https://open.spotify.com/track/3IPeKHjUlNPphCPnR3AGEF) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:39 |
 | 41 | [For An Angel \- E\-Werk Club Mix](https://open.spotify.com/track/4ISDjsRpPykd4Aype0o2Y2) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 4:19 |
 | 42 | [Communication](https://open.spotify.com/track/7g4v49q8u3b8oVZ9EqPsT1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Armada Music \- Trance Legacy](https://open.spotify.com/album/0SYCotoINaIS4Gq6iVXp2L) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 49 | [Tuvan](https://open.spotify.com/track/096iOAkDY9H7E3C5t0ovM9) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance 2009](https://open.spotify.com/album/2r09TPHhLazINs1T4nR96l) | 3:39 |
 | 50 | [Blue Fear](https://open.spotify.com/track/0oGXt4ltv3G11EbBvRatAS) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Armin Anthems Top 100 \(Ultimate Singles Collected\)](https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a) | 3:40 |
 
-Snapshot ID: `MCxmNTQ1ZjYzODg0ZGJhYzg5MzA0MDkxMjNiZjQwYWMxNDY2ZDhjYzMx`
+Snapshot ID: `MCxhOGI5NjhmZTdjZmZlYzU0YzVmNTYzMTZlMmE0ZmU1NDg5YTVjODMx`

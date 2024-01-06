@@ -1,12 +1,12 @@
 {
   "description": "Timoth\u00e9e is having his main pop girl moment",
-  "num_followers": 2178024,
+  "num_followers": 2177897,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmQxOTNlYjY3MTRmM2ViY2FjZGI2MjFiMmYxMzViNDk1ZWEwMzc5",
+  "snapshot_id": "MCxkOWZlNTExN2YwOWZjOTczNTgwYmU3MmQ0ZDk1OGM1OTIyYmZmMDQ1",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -173,6 +173,42 @@
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
     },
     {
+      "added_at": "2023-11-22 22:43:33",
+      "album": {
+        "name": "From the Start",
+        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "From the Start",
+      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
+    },
+    {
+      "added_at": "2023-12-27 20:35:49",
+      "album": {
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
+    },
+    {
       "added_at": "2023-12-08 05:10:51",
       "album": {
         "name": "Pink Friday 2",
@@ -187,6 +223,22 @@
       "duration_ms": 270860,
       "name": "Are You Gone Already",
       "url": "https://open.spotify.com/track/1WTdZjiHI4vYnENXLn69x0"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "The Blonde",
+      "url": "https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -205,20 +257,24 @@
       "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
+      "added_at": "2023-12-28 18:08:31",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Queen B",
+        "url": "https://open.spotify.com/album/1ZVA1NqFokcoRaxVJ9CKQz"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Harper Zilmer",
+          "url": "https://open.spotify.com/artist/0zE4RVLWlAoCvYXEMCcgqZ"
+        },
+        {
+          "name": "Cash and Maverick",
+          "url": "https://open.spotify.com/artist/5JwBh2LjExqTDve2dSTXmQ"
         }
       ],
-      "duration_ms": 231907,
-      "name": "logical",
-      "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+      "duration_ms": 144027,
+      "name": "Queen B",
+      "url": "https://open.spotify.com/track/4hndsvkmDVkgcZx0JuZLUk"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -269,24 +325,40 @@
       "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
     },
     {
-      "added_at": "2023-12-27 20:35:49",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Let You Break My Heart Again",
-        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 269066,
-      "name": "Let You Break My Heart Again",
-      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+    },
+    {
+      "added_at": "2024-01-05 05:13:19",
+      "album": {
+        "name": "wherever u r (ft. V of BTS)",
+        "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 153034,
+      "name": "wherever u r (ft. V of BTS)",
+      "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
     },
     {
       "added_at": "2023-11-10 05:09:38",
@@ -303,22 +375,6 @@
       "duration_ms": 219584,
       "name": "Sand",
       "url": "https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q"
-    },
-    {
-      "added_at": "2023-11-22 22:43:33",
-      "album": {
-        "name": "From the Start",
-        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "From the Start",
-      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
     },
     {
       "added_at": "2023-12-27 17:30:14",
@@ -351,26 +407,6 @@
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
-    },
-    {
-      "added_at": "2023-12-28 18:08:31",
-      "album": {
-        "name": "Queen B",
-        "url": "https://open.spotify.com/album/1ZVA1NqFokcoRaxVJ9CKQz"
-      },
-      "artists": [
-        {
-          "name": "Harper Zilmer",
-          "url": "https://open.spotify.com/artist/0zE4RVLWlAoCvYXEMCcgqZ"
-        },
-        {
-          "name": "Cash and Maverick",
-          "url": "https://open.spotify.com/artist/5JwBh2LjExqTDve2dSTXmQ"
-        }
-      ],
-      "duration_ms": 144027,
-      "name": "Queen B",
-      "url": "https://open.spotify.com/track/4hndsvkmDVkgcZx0JuZLUk"
     },
     {
       "added_at": "2023-09-19 17:20:25",
@@ -437,6 +473,22 @@
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
     },
     {
+      "added_at": "2024-01-05 05:13:19",
+      "album": {
+        "name": "gone for good",
+        "url": "https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "gone for good",
+      "url": "https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Closer Than This",
@@ -499,22 +551,6 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "French Exit",
-        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "The Blonde",
-      "url": "https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR"
     },
     {
       "added_at": "2023-12-22 05:00:00",

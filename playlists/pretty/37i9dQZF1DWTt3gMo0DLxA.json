@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
-  "num_followers": 57856,
+  "num_followers": 57966,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQ0MmJhMDdhOWMzNDM3MjRiZDM5OTc3NGJkN2M5NmYwN2UwYTdl",
+  "snapshot_id": "MCwzOTY2ZGNhNTg2ZGQ2MTk4NWFjZjlmYTBkYzg4NjhkZWUwZDAyMjE2",
   "tracks": [
     {
       "added_at": "2023-12-30 10:49:01",
@@ -183,6 +183,26 @@
       "duration_ms": 206830,
       "name": "Dum Masala",
       "url": "https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x"
+    },
+    {
+      "added_at": "2024-01-05 06:27:55",
+      "album": {
+        "name": "Double Engine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71wOjxZQtHmVLLj0w1uSiw"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Sarathy",
+          "url": "https://open.spotify.com/artist/229RRfDmefBnFBTbz7XrcV"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Sandeyela",
+      "url": "https://open.spotify.com/track/1lMEkkyftkkIcxNvLd3BIn"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -1019,34 +1039,6 @@
       "duration_ms": 357336,
       "name": "Niluvaddham",
       "url": "https://open.spotify.com/track/1ifMH14KizpUxIdRVyPsSZ"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Surya S/o Krishnan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/34EFScbYAJkSTujfbtT8gO"
-      },
-      "artists": [
-        {
-          "name": "Harris Jayaraj",
-          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
-        },
-        {
-          "name": "VV Prassanna",
-          "url": "https://open.spotify.com/artist/5FHIw6p4HE35RB4PP76uF6"
-        },
-        {
-          "name": "Harish Raghavendra",
-          "url": "https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg"
-        },
-        {
-          "name": "Devan Ekambaram",
-          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
-        }
-      ],
-      "duration_ms": 372600,
-      "name": "Naaloney Pongaynu",
-      "url": "https://open.spotify.com/track/2bageubuN1HjNZwTNlyh0v"
     },
     {
       "added_at": "2023-08-30 10:44:11",

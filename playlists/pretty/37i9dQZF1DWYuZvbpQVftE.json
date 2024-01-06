@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 22362,
+  "num_followers": 22387,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGE4NzJkNTQ0OWMyZjg0MGQwZDEyMTBiZWJjZWExNDAwMjMzMjZi",
+  "snapshot_id": "MCxiZjVmY2FhYTkwOTk5MmMzZjQzNDVkNjRmZWUwZDQzODhiMGU3OWU2",
   "tracks": [
     {
       "added_at": "2023-12-21 09:50:09",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-12-21 09:50:09",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Cast Your Fate to the Wind",
-      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
-    },
-    {
-      "added_at": "2023-12-21 09:50:09",
-      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2023-12-21 09:50:09",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Cast Your Fate to the Wind",
+      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
     },
     {
       "added_at": "2023-12-21 09:50:09",
@@ -439,38 +439,6 @@
     {
       "added_at": "2023-12-21 09:50:09",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
-      },
-      "artists": [
-        {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Moon Over Cuba",
-      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
-    },
-    {
-      "added_at": "2023-12-21 09:50:09",
-      "album": {
-        "name": "Jazz At Oberlin (OJC Remaster)",
-        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
-    },
-    {
-      "added_at": "2023-12-21 09:50:09",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -491,6 +459,22 @@
     {
       "added_at": "2023-12-21 09:50:09",
       "album": {
+        "name": "Jazz At Oberlin (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+    },
+    {
+      "added_at": "2023-12-21 09:50:09",
+      "album": {
         "name": "Bob Brookmeyer & Friends",
         "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 244466,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+    },
+    {
+      "added_at": "2023-12-21 09:50:09",
+      "album": {
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Moon Over Cuba",
+      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
     },
     {
       "added_at": "2023-12-21 09:50:09",

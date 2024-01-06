@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KILY SAFARI
 
-634 songs - 1 day 5 hr 29 min
+635 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,8 @@
 | [La Fiesta](https://open.spotify.com/track/7qVud7Bjs5syXGRwGgoIz4) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [MARIA SIOKE](https://open.spotify.com/artist/758HahCuuTj7WqRyb3vbTR), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [La Fiesta](https://open.spotify.com/album/4312yRlG6ZEGL1nLObRVEM) | 3:32 | 2022-03-21 | 2022-05-06 |
 | [La Vida Loca](https://open.spotify.com/track/4KVh7P5ovX38gjRZIY8nzd) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [La Vida Loca](https://open.spotify.com/album/3W0ibdeYmMs462YZNCcUqt) | 2:26 | 2023-02-09 | 2023-06-23 |
 | [Laced Up](https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Laced Up](https://open.spotify.com/album/6JOHhPsQ1qoHgSTmlflD2q) | 3:22 | 2023-06-20 | 2023-07-14 |
-| [Lalaland](https://open.spotify.com/track/7fJhooeTwsnUs3XBMXfQ8w) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/7fA8X5QbJNtDdXD0aniB4a) | 2:58 | 2023-10-05 |  |
+| [Lalaland](https://open.spotify.com/track/0hhOdwLIBeKvP4OcIx6wXB) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/5LLDxc37RWjVKQqsoybJ4X) | 2:58 | 2023-12-21 |  |
+| [Lalaland](https://open.spotify.com/track/7fJhooeTwsnUs3XBMXfQ8w) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/7fA8X5QbJNtDdXD0aniB4a) | 2:58 | 2023-10-05 | 2024-01-06 |
 | [LAST LAUGH!](https://open.spotify.com/track/6mOtvVZfMGlwS45csISlXs) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK), [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [LAST LAUGH!](https://open.spotify.com/album/1eynf1278QDBsSAmmG042K) | 2:07 | 2022-10-27 | 2022-12-02 |
 | [LAST OF US](https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk) | [Bad1](https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb), [20th Boys](https://open.spotify.com/artist/1bxhFpPAizVxyxzeaOhZZf) | [LAST OF US](https://open.spotify.com/album/3UOeS1PgE1qamKzVf4iG51) | 3:14 | 2023-11-16 |  |
 | [Leave Me Alone](https://open.spotify.com/track/1eMevZk9dPrdy4hWdFeRXR) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Leave Me Alone](https://open.spotify.com/album/1kuECkKxX11NNa4U0u7izc) | 4:15 | 2022-07-25 | 2022-11-04 |

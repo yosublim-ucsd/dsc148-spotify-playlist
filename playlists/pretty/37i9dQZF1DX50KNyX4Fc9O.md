@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,322 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,317 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 74 | [Can't Get You Out Of My Head](https://open.spotify.com/track/15bTP9Tl5rmRpB7FelsTZP) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can't Get You Out Of My Head](https://open.spotify.com/album/7fJ1TjZABMewQqhGgu45Kg) | 3:03 |
 | 75 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 
-Snapshot ID: `MCxmZjg4YTkyMWZkNWRhMTdmYjlhZjBiMzYwMzA2ZTY5M2E4YjFmMjEy`
+Snapshot ID: `MCw3ZjFlODkwNzI2ZGYxOGQzMjliMzVhMWQxMjY3NTJkNmMxMWI5ZDEx`

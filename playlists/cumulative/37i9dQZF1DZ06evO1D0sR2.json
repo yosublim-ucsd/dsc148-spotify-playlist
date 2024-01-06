@@ -134,7 +134,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 276565,
       "name": "Awe Of You - Live",
       "url": "https://open.spotify.com/track/1iduvmXLm3RmgslVjtriGb"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 1183456,
       "name": "Don't Take Your Spirit from Me (feat. J.J Hairston)",
       "url": "https://open.spotify.com/track/5XD2YHpvwTvex4FDkC5fTC"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 285895,
       "name": "Glory Hallelujah (feat. Marc Britt, Juanita Contee & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0CWWp9H73xWHC9Jxr9HKXZ"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 443100,
       "name": "Go Tell It - Live",
       "url": "https://open.spotify.com/track/5vgL21D2JHQgHQlzmfM8cB"
@@ -1728,6 +1728,24 @@
     {
       "album": {
         "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345026,
+      "name": "You're Mighty",
+      "url": "https://open.spotify.com/track/2iu23cl3KuYbtInOzUaWef"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
         "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
       },
       "artists": [
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 345026,
       "name": "You're Mighty",
       "url": "https://open.spotify.com/track/3xqErYzXJ9EstpZNe8EhTW"

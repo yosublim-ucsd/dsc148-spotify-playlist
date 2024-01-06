@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "Every Girl",
+      "url": "https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni"
+    },
+    {
+      "album": {
         "name": "A Martyr's Reward",
         "url": "https://open.spotify.com/album/5MOODX5ZNXcbIyMLSluNbw"
       },
@@ -2734,6 +2752,28 @@
       "duration_ms": 227000,
       "name": "Gold Chain Punk (whogonbeatmyass?)",
       "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
+    },
+    {
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "MC Moose",
+          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "album": {
@@ -3296,7 +3336,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 167880,
       "name": "In The End",
       "url": "https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz"
@@ -7010,7 +7050,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 266013,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1Zjjl59MPvGqR5msmQexs3"

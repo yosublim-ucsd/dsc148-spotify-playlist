@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
 
-186 songs - 8 hr 50 min
+187 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 | 2023-03-09 |  |
 | [Meu Número \- Ao Vivo](https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 3:28 | 2022-05-20 | 2023-05-06 |
 | [Meus Vícios \- Ao Vivo](https://open.spotify.com/track/2PtpfX7sX870xeOfdTMyx2) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo In Goiânia Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4ASvXhH1cvPOV9ay3waCki) | 2:31 | 2022-10-14 | 2023-05-16 |
+| [Milionário \- Ao Vivo](https://open.spotify.com/track/2yIJ2CVZkTDftAsL9NPTw2) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Milionário \(Ao Vivo\)](https://open.spotify.com/album/1JUJ7BRigEsuKOtluLHhGO) | 2:34 | 2024-01-05 |  |
 | [Minha Cópia Atual \- Ao Vivo](https://open.spotify.com/track/4HpRywZJgzkXXYLKJ0mLiY) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 6\)](https://open.spotify.com/album/5Z5Y76DPTwvgg02i4gS6OT) | 3:03 | 2022-04-08 | 2023-02-14 |
 | [Modo Avião \- Ao Vivo](https://open.spotify.com/track/7m9Hr6qAquvk6nNFtBIlM0) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Modo Avião \(Ao Vivo\)](https://open.spotify.com/album/1DSGVugkg3B6vZsw7lcs3n) | 2:40 | 2021-12-31 | 2022-06-15 |
 | [MOLETOM](https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [MOLETOM](https://open.spotify.com/album/4As9gJpoGbUD1ZYQx9qyqK) | 3:27 | 2023-07-14 |  |
@@ -138,7 +139,7 @@
 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 | 2021-12-31 | 2023-07-29 |
 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 | 2023-02-10 |  |
 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2021-12-31 | 2022-01-08 |
-| [Oceano \- Ao Vivo](https://open.spotify.com/track/0EhGgIoOPjsqfB2ktrGgJd) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Oceano \(Ao Vivo\)](https://open.spotify.com/album/1biMVdDkmu2a2foDbME6y3) | 2:54 | 2023-12-08 |  |
+| [Oceano \- Ao Vivo](https://open.spotify.com/track/0EhGgIoOPjsqfB2ktrGgJd) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Oceano \(Ao Vivo\)](https://open.spotify.com/album/1biMVdDkmu2a2foDbME6y3) | 2:54 | 2023-12-08 | 2024-01-06 |
 | [Oficializar \- Ao Vivo](https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Oficializar \(Ao Vivo\)](https://open.spotify.com/album/2pU9UzS827vpfB5NHy7N4t) | 2:47 | 2023-09-01 | 2023-12-11 |
 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 | 2023-03-03 | 2023-09-09 |
 | [Oi Vida \- Ao Vivo](https://open.spotify.com/track/4lL0M9HzNFspnIwj2WfU6c) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Oi Vida \(Ao Vivo\)](https://open.spotify.com/album/7lxRjlrkKb1dn5kgtAY09M) | 2:12 | 2023-08-04 | 2023-11-18 |

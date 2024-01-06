@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 271284,
+  "num_followers": 271337,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzZkZWIxNWFjNjg2OGUwOGNmZDFmYWExMzdkZDI1Njg3YjMyZjZh",
+  "snapshot_id": "MCw2NzJmYjUxOTJkOTcwNTUwZmY3OWY1MjY2NDEyMmZlYzZlM2U3Y2Rj",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
-        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
       },
       "artists": [
         {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "H\u00e9ctor Filio",
+          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
         }
       ],
-      "duration_ms": 239717,
-      "name": "A mi lado (feat. Francisco Cespedes)",
-      "url": "https://open.spotify.com/track/5eubGbNorchqAX1NOFgglU"
+      "duration_ms": 201743,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Filio",
-          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 201743,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
+      "duration_ms": 239717,
+      "name": "A mi lado (feat. Francisco Cespedes)",
+      "url": "https://open.spotify.com/track/5eubGbNorchqAX1NOFgglU"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Entre Cuerdas",
+        "url": "https://open.spotify.com/album/0YHCrpRNd9EehinmSb8yoN"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Lo Mejor Que Hay en Mi Vida",
+      "url": "https://open.spotify.com/track/0J3JDxZu1tRZgFLGjhKDo0"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "De Vez en Cuando",
         "url": "https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 253190,
       "name": "De Vez en Cuando - Ac\u00fastica",
       "url": "https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Entre Cuerdas",
-        "url": "https://open.spotify.com/album/0YHCrpRNd9EehinmSb8yoN"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "Lo Mejor Que Hay en Mi Vida",
-      "url": "https://open.spotify.com/track/0J3JDxZu1tRZgFLGjhKDo0"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        }
+      ],
+      "duration_ms": 252380,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Dentro de Mi",
         "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 189787,
       "name": "Como la Nube Se Impone al Sol (feat. Pablo Milan\u00e9s)",
       "url": "https://open.spotify.com/track/3o3C8LS7yWWnsAzaUam15K"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        }
-      ],
-      "duration_ms": 252380,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
     },
     {
       "added_at": "2021-07-29 16:46:05",

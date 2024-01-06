@@ -1,12 +1,12 @@
 {
   "description": "Highlights of 2023, listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5LkbTSqXfMBjFSGi9LOGjq\u201d>Samara Joy</a> ",
-  "num_followers": 45433,
+  "num_followers": 45439,
   "original_name": "Best of EQUAL US 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWFlN2IxYjRjOGZmNjVkNTBmYmVlMzU0OWI5MGJhYzMwMGY4N2Q0",
+  "snapshot_id": "MCw1YTY1MWM5YTMyYmY4ZWRlMjQ5OWNkNDRjYzEyMDgxMWVmN2IzOTJi",
   "tracks": [
     {
       "added_at": "2024-01-02 17:49:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-02 17:49:04",
       "album": {
-        "name": "I've Loved You For So Long",
-        "url": "https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174234,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/5biKfVBoteSxCfBqrwlFEh"
-    },
-    {
-      "added_at": "2024-01-02 17:49:04",
-      "album": {
         "name": "Why Does the Earth Give Us People to Love?",
         "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 325204,
       "name": "dickhead blues",
       "url": "https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO"
+    },
+    {
+      "added_at": "2024-01-02 17:49:04",
+      "album": {
+        "name": "I've Loved You For So Long",
+        "url": "https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174234,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/5biKfVBoteSxCfBqrwlFEh"
     },
     {
       "added_at": "2024-01-02 17:49:04",

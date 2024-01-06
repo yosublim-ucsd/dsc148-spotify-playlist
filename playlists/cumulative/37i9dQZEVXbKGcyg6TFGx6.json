@@ -3921,6 +3921,28 @@
     },
     {
       "album": {
+        "name": "Big Dreams (Remix)",
+        "url": "https://open.spotify.com/album/38nyK7cdIiq8M2o8vNjp52"
+      },
+      "artists": [
+        {
+          "name": "King Moore",
+          "url": "https://open.spotify.com/artist/4PHowJ6nWX4pwbS3eYiQsv"
+        },
+        {
+          "name": "Young Dylan",
+          "url": "https://open.spotify.com/artist/3anDcxiJBxxXhrdwZqx7vl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173164,
+      "name": "Big Dreams (Remix)",
+      "url": "https://open.spotify.com/track/7j5puqIQXnX1xU9qzL0yAa"
+    },
+    {
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -8466,7 +8488,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 105222,
       "name": "Dimension Change",
       "url": "https://open.spotify.com/track/5tbE97IP6NpkgFMFyGsGjG"
@@ -13596,7 +13618,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -31388,6 +31410,28 @@
       "duration_ms": 178153,
       "name": "What\u2019s Next",
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

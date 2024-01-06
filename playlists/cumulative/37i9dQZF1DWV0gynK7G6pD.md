@@ -4,7 +4,7 @@
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi
 
-6,875 songs - 21 day 16 hr 40 min
+6,876 songs - 21 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4435,6 +4435,7 @@
 | [Rachmaninov: Rhapsody on a Theme of Paganini, Op\. 43: Variation 18 \(Andante cantabile\)](https://open.spotify.com/track/7ySsMlGpJxsm82AX1wIPRR) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O), [Joshua Weilerstein](https://open.spotify.com/artist/2Inoz6jLPqUSNqe5lyZYhw), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Rhapsody](https://open.spotify.com/album/7jxvnqfcGBH9yrlUyksTPM) | 2:56 | 2022-03-04 | 2022-03-12 |
 | [Rachmaninov: Élégie in E\-Flat Minor, Op\. 3 No\. 1](https://open.spotify.com/track/44bQTP0zTVOFDywa5GA0VM) | [Rubén Talón](https://open.spotify.com/artist/6pqBAgDXWLEjgBLcIU2fb6), [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) | [Seeking Lightness](https://open.spotify.com/album/30rfeEvRkliISeGmfZajhH) | 5:55 | 2022-10-21 | 2022-10-29 |
 | [Rachmaninov: Études\-Tableaux, Op\. 39: No\. 6 in A Minor](https://open.spotify.com/track/2qo9ZwYigHPL34h3lilNNn) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yoav Levanon](https://open.spotify.com/artist/52yX103V1TYtCoiuEHdDPO) | [Rachmaninov: Études\-Tableaux, Op\. 39: No\. 6 in A Minor](https://open.spotify.com/album/0x90LbOh9ealg9cziIoxbj) | 2:51 | 2023-12-08 | 2023-12-16 |
+| [Radetzky\-Marsch, Op\. 228](https://open.spotify.com/track/0kr4C3MMmm0fiZrjaoRZTg) | [Johann Strauss I](https://open.spotify.com/artist/4WMHJgeJCssiGW3ssUT7eb), [Christian Thielemann](https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Radetzky\-Marsch, Op\. 228](https://open.spotify.com/album/24T452hJyBMMV5TLamxeuS) | 3:21 | 2024-01-05 |  |
 | [Rain](https://open.spotify.com/track/1XI9dfDH662XYsfQsJ1fsP) | [Paul Carr](https://open.spotify.com/artist/6oWNQ0Q3JRJ88xSiqWavmk), [Chorus Angelorum](https://open.spotify.com/artist/3RdBipWe1TFk7VAs3L8YWc), [Gavin Carr](https://open.spotify.com/artist/6jK62RwVhXLRcORpo4h9MB) | [Paul Carr: I Offer You Love](https://open.spotify.com/album/4knKG7Yz4COEIvjcZfkBxL) | 4:41 | 2022-11-04 | 2022-11-12 |
 | [RAIN](https://open.spotify.com/track/60dBZ8rfQJTD3mzqrYbiKW) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [RAIN](https://open.spotify.com/album/7jN1E3kjxqjWP4xylkpBQz) | 3:44 | 2023-04-21 | 2023-04-29 |
 | [Rainbow Connection \- From "The Muppet Movie"](https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Rainbow Connection \(From "The Muppet Movie"\)](https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv) | 4:10 | 2022-08-19 | 2022-08-27 |

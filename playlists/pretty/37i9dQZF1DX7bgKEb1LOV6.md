@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > To the world, Here is NCT! Hi we are NCT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,745 likes - 64 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,781 likes - 64 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 32 | [Vroom](https://open.spotify.com/track/6oKDzt25zkGZmBhqVnNHYs) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:45 |
 | 33 | [Sweet Dream](https://open.spotify.com/track/4nTQpS5krRfyaAKHAGicaD) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:32 |
 | 34 | [Good Night](https://open.spotify.com/track/5nwpVRL7r1lHf09Nitm9d0) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:58 |
-| 35 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 |
+| 35 | [MAXIS BY RYAN JHUN Pt\. 1\-Maniac](https://open.spotify.com/track/4Q90kkPqyBv3G7ixxKWow4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN Pt\. 1\-Maniac](https://open.spotify.com/album/4NMbE48vf6THQoyiAxiOCZ) | 3:28 |
 | 36 | [90's Love](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:33 |
 | 37 | [Misfit](https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:35 |
 | 38 | [Raise The Roof](https://open.spotify.com/track/0nVB0wUKBJiIMKGagDE3NU) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:12 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 63 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 |
 | 64 | [WITHOUT YOU](https://open.spotify.com/track/78DVHbAahuQF56gOC4GnuN) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:25 |
 
-Snapshot ID: `MCxlZTEyZDVlNzI2NWM2MTVkOWE4N2RmNzg0NTA0YzVjMzM1MjMxNGZh`
+Snapshot ID: `MCxmOGQwMjAxYjMwNGIwODkwZWZkN2EyMmZjYzBjMTg0YzFkNTAxNmZh`

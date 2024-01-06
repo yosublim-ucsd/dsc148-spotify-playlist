@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Cashflow x Batuflex",
   "name": "NKVT",
   "tracks": [
     {
@@ -2288,6 +2288,28 @@
       "duration_ms": 156233,
       "name": "\u0130ntikam",
       "url": "https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP"
+    },
+    {
+      "album": {
+        "name": "\u0130stanbul",
+        "url": "https://open.spotify.com/album/2M1gxZdQbljVxyv4IUGgHA"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "\u0130stanbul",
+      "url": "https://open.spotify.com/track/5WO3fQkU2Stfv6LGzwhwFL"
     },
     {
       "album": {

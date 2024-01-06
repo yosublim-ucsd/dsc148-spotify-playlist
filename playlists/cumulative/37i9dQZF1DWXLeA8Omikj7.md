@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-887 songs - 2 day 15 hr 36 min
+888 songs - 2 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,7 @@
 | [Stairfoot Lane Bunker \- Minor Science Remix](https://open.spotify.com/track/3u8t4yJcbYFYzipDYQN59H) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Minor Science](https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi) | [Stairfoot Lane Bunker](https://open.spotify.com/album/6gSznbAWVTqqNXIJUmQtKo) | 5:40 | 2019-06-19\* | 2020-08-26 |
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
 | [Starbeam](https://open.spotify.com/track/2i7ynLHCA3ZcBaHWHT522D) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Starbeam](https://open.spotify.com/album/1ribwcOXBbRU2xXDVWLvkf) | 5:50 | 2021-11-26 | 2022-07-29 |
-| [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* |  |
+| [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* | 2024-01-06 |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2019-06-19\* | 2020-10-21 |
 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 | 2023-07-17 |  |
 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 | 2023-12-12 |  |
@@ -873,6 +873,7 @@
 | [When I Look Into Your Eyes](https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [When I Look Into Your Eyes](https://open.spotify.com/album/1JkaeIKoQe9IAJLVjOYH9Z) | 4:12 | 2021-01-17 |  |
 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 | 2021-06-10 | 2023-10-14 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2019-06-19\* | 2020-10-19 |
+| [Whirl](https://open.spotify.com/track/1GzNJTAhYDIjN1WXJlXPBM) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Wirbel](https://open.spotify.com/album/3aDnuXX0vkoXJZjYZvs69L) | 4:50 | 2023-12-21 |  |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispering Wind \(B\-Sides\)](https://open.spotify.com/track/21VSSsSwr0oTNJQtILJbdK) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 6:02 | 2019-07-25 | 2020-08-26 |
 | [White Moon Garden](https://open.spotify.com/track/4KeuCAsq7wXLssyigUnAQh) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [White Magick \- EP](https://open.spotify.com/album/1g7st4CgzxGFNZFc8dutlE) | 5:16 | 2019-06-22 | 2020-10-22 |

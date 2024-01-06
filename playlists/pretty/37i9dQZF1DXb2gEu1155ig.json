@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 73551,
+  "num_followers": 73545,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjE2NmIzZTc2NTNjYzJkZDlkYmFlZTU2OGFkYjc4NTk5NjhhMGE5",
+  "snapshot_id": "MCxhNjQ0NmE2Njc3NTE5OGJlMDBiM2NlZmQ1YTlhYjRlYWRlMGVmMDRh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:44:23",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
-      },
-      "artists": [
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -251,22 +235,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los Lideres",
-          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
-        }
-      ],
-      "duration_ms": 71893,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
+      },
+      "artists": [
+        {
+          "name": "Los Lideres",
+          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
+        }
+      ],
+      "duration_ms": 71893,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Castigo\u2026",
+        "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Llorar Llorar Llorar",
+      "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Castigo\u2026",
-        "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
       },
       "artists": [
         {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
         }
       ],
-      "duration_ms": 168320,
-      "name": "Llorar Llorar Llorar",
-      "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -407,22 +423,6 @@
       "duration_ms": 235240,
       "name": "Cari\u00f1ito Sin MI",
       "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Y Es por Ti",
-        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Amor Vendido, Vol. 4",
         "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 199807,
       "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Lo Maximo De Los Sonideros, Vol. 1",
-        "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
-      },
-      "artists": [
-        {
-          "name": "Danny Y Su Grupo",
-          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
-        }
-      ],
-      "duration_ms": 221622,
-      "name": "Cumbia De Los Patos",
-      "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Rel\u00e1mpago De Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 190480,
       "name": "Un Amor Como El M\u00edo",
       "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Lo Maximo De Los Sonideros, Vol. 1",
+        "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
+      },
+      "artists": [
+        {
+          "name": "Danny Y Su Grupo",
+          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+        }
+      ],
+      "duration_ms": 221622,
+      "name": "Cumbia De Los Patos",
+      "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -987,22 +987,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
-        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Capullo y Sorullo",
-      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1043,34 +1039,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
+        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "17 Aniversario",
-        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
-      },
-      "artists": [
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
         {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
         }
       ],
-      "duration_ms": 188943,
-      "name": "Adolescente y Bonita",
-      "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
+      "duration_ms": 250760,
+      "name": "Capullo y Sorullo",
+      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1087,6 +1071,22 @@
       "duration_ms": 165186,
       "name": "Leticia",
       "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "17 Aniversario",
+        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 188943,
+      "name": "Adolescente y Bonita",
+      "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
-      },
-      "artists": [
-        {
-          "name": "Los Abelardos",
-          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
-        }
-      ],
-      "duration_ms": 191059,
-      "name": "Por Unas Monedas",
-      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 167013,
       "name": "Cozumel",
       "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
+      },
+      "artists": [
+        {
+          "name": "Los Abelardos",
+          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
+        }
+      ],
+      "duration_ms": 191059,
+      "name": "Por Unas Monedas",
+      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Volvere",
-      "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "La Coloreteada",
         "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Volvere",
+      "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2J4Fyd4BjurZ1SQZPcQAVS"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "12 Super Exitos",
         "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2J4Fyd4BjurZ1SQZPcQAVS"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 172920,
       "name": "La feria de Cali",
       "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "La Coloreteada",
-      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 201813,
+      "name": "La Coloreteada",
+      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Cancioneros",
-        "url": "https://open.spotify.com/album/7HANWrwLu6jfqJJsPWKimY"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Retrato Hablado",
-      "url": "https://open.spotify.com/track/2sizo5xV3vWF9oDaZbwJ9s"
+      "duration_ms": 98092,
+      "name": "Quiero Amanecer",
+      "url": "https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR"
     }
   ],
   "unique_name": "Acapulco en la Azotea",

@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 574542,
+  "num_followers": 574595,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDhkNGU2ODdkZDZjZDFlYWQ5NDA5NzQ0ZDg5ZjZjZmI0NjZiOGNh",
+  "snapshot_id": "MCw5NTQwMGM3NzM0M2Y0YTczNDUyYjYxZWM1MzI3MDMxMWY0ZTUzM2Uz",
   "tracks": [
     {
       "added_at": "2023-12-06 09:41:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-12-06 09:41:58",
       "album": {
-        "name": "Senandung Hati dan Jiwa",
-        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
-      },
-      "artists": [
-        {
-          "name": "NaFF",
-          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Kenanglah Aku",
-      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
-    },
-    {
-      "added_at": "2023-12-06 09:41:58",
-      "album": {
         "name": "Kukira Kau Rumah",
         "url": "https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 206711,
       "name": "Kukira Kau Rumah",
       "url": "https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7"
+    },
+    {
+      "added_at": "2023-12-06 09:41:58",
+      "album": {
+        "name": "Senandung Hati dan Jiwa",
+        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
+      },
+      "artists": [
+        {
+          "name": "NaFF",
+          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Kenanglah Aku",
+      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
     },
     {
       "added_at": "2023-12-06 09:41:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KILY SAFARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,047 likes - 98 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,048 likes - 98 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 71 | [PTSD](https://open.spotify.com/track/1JAXID85pIHbvaFBQgjuLK) | [Raj Mahal](https://open.spotify.com/artist/7x10xDm8HzItrVOMaE6DGT), [Domba](https://open.spotify.com/artist/3CeiqSedqQQ4lJ2wYmQywz) | [Nothing Major](https://open.spotify.com/album/0fvxoWGwTLx0c4PJo9FYWa) | 1:15 |
 | 72 | [Dance the Night Away](https://open.spotify.com/track/2dBqM1ZkPnjuCqOfukM3rj) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Dance the Night Away](https://open.spotify.com/album/0tr8adZcm9SdD7gWp2E00C) | 2:09 |
 | 73 | [Anything I Want](https://open.spotify.com/track/4B9hLmAE1ln9HFWeyd5R3L) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Anything I Want](https://open.spotify.com/album/4oM14dSjci8M4412lOqNQN) | 2:12 |
-| 74 | [Lalaland](https://open.spotify.com/track/7fJhooeTwsnUs3XBMXfQ8w) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/7fA8X5QbJNtDdXD0aniB4a) | 2:58 |
+| 74 | [Lalaland](https://open.spotify.com/track/0hhOdwLIBeKvP4OcIx6wXB) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Lalaland](https://open.spotify.com/album/5LLDxc37RWjVKQqsoybJ4X) | 2:58 |
 | 75 | [HoodBars Elijah](https://open.spotify.com/track/58z8o9BPpHD3i4VneLeSvc) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL) | [HoodBars Elijah](https://open.spotify.com/album/4vcOic01WyFRFfF548DpcB) | 2:36 |
 | 76 | [Online](https://open.spotify.com/track/7cG8wmJW3TgJYpug9ovBTL) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [Online](https://open.spotify.com/album/7jZ4CWvGKtzooh3ENYubVR) | 3:51 |
 | 77 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 97 | [Off My Head](https://open.spotify.com/track/59D99ZoQ4iWh9x0lMyym5F) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats 2](https://open.spotify.com/album/1gaNq5b2XrxQq6ZEYx1SiR) | 3:20 |
 | 98 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 
-Snapshot ID: `MCxjZTIyOWM1NmFjOGM3ODQ4MzUwOTEwMTNkMzkyOTEwYmJkY2FmNTIw`
+Snapshot ID: `MCxhYWU5YWQyNzE5ZjNhYmFiMzFhNzFjOGQwZWNmMDAwN2E4YjRjMjlh`

@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 7946,
+  "num_followers": 7958,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl",
+  "snapshot_id": "MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "duration_ms": 158950,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Balsams",
         "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 158950,
-      "name": "Low Sudden",
-      "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 192559,
       "name": "Before Meaning Comes",
       "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Magic Place",
+        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cloak",
+      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Magic Place",
-        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Cloak",
-      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1047,22 +1063,6 @@
       "duration_ms": 362609,
       "name": "To All It",
       "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Spells (Special Edition)",
-        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Spells (Special Edition)",
+        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+      "duration_ms": 748623,
+      "name": "Walking in a spiral towards the house: Side D",
+      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
       },
       "artists": [
         {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
         }
       ],
-      "duration_ms": 748623,
-      "name": "Walking in a spiral towards the house: Side D",
-      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
-      },
-      "artists": [
-        {
-          "name": "Adam Wiltzie",
-          "url": "https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Bring Me The Head of Kyle Bobby Dunn",
         "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 489535,
       "name": "An Evening With Dusty",
       "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+        "name": "Collected Dust",
+        "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Marcus Fischer",
+          "url": "https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9"
         }
       ],
-      "duration_ms": 212839,
-      "name": "LUX 1.4",
-      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
+      "duration_ms": 293453,
+      "name": "Constant",
+      "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Collected Dust",
-        "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
       "artists": [
         {
-          "name": "Marcus Fischer",
-          "url": "https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 293453,
-      "name": "Constant",
-      "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-06-07 15:21:34",

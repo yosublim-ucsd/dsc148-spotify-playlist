@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,947 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,952 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 74 | [Jesusita en Chihuahua](https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los Primeros Años](https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6) | 2:11 |
 | 75 | [El balaju](https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:51 |
 | 76 | [Los Ojos de Francesca Marimba](https://open.spotify.com/track/7ofMVPa6s7hn74GlymSyXr) | [MML Latin](https://open.spotify.com/artist/16jL08iIvOjNhzRJnfDkJc), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Mauricio Huerta](https://open.spotify.com/artist/2zcc9iKtsz33S7ectcj0Qb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Danzon](https://open.spotify.com/album/6S565D3m0inBWDcogI71nQ) | 2:16 |
-| 77 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
-| 78 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH) | [Daniel Armas](https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi) | [México 2010 El Salterio](https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX) | 2:41 |
+| 77 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH) | [Daniel Armas](https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi) | [México 2010 El Salterio](https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX) | 2:41 |
+| 78 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
 | 79 | [Lindas Mexicanas](https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI) | [Velino Miguel Preza](https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 4:27 |
 | 80 | [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 |
 | 81 | [El querreque](https://open.spotify.com/track/5dTTwhrvFAFrSVEZhIgK7U) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Virgen de la Macarena](https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:51 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCw3NzA0MmY4OTA2NjcxZGE1M2Y0YTliNzU0OTA4YjI5ZGZiNjQ0MTMy`
+Snapshot ID: `MCw5OWUxNTFjN2M0ODVmMDI3NDI0ODBkMmM2MzEyMDRmN2Y0ZDZlNDFm`

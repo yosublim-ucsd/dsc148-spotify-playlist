@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 松任谷由実
 
-2,069 songs - 5 day 13 hr 30 min
+2,070 songs - 5 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Anone](https://open.spotify.com/track/4oKsfQvfCHiFkKww8vX56O) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Anone](https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi) | 6:46 | 2023-11-16 | 2023-12-06 |
 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 | 2022-05-31 | 2022-11-24 |
 | [Another Way](https://open.spotify.com/track/4E7rg3aXFK1NNHM1eRxPA6) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/6XPo8gOZ0iwNgLwFlZZ2ml) | 3:47 | 2022-09-13 | 2022-09-28 |
+| [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-04 |  |
 | [ANY DAY](https://open.spotify.com/track/5SWEws8tWvOvql08LeJD2G) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [AROMATIC](https://open.spotify.com/album/5OMqaGaCzjInevG0ji1kFU) | 3:37 | 2023-09-26 | 2023-09-28 |
 | [ANY DAY](https://open.spotify.com/track/7bgTx89SaMVK5ii4nrX8uM) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [AROMATIC](https://open.spotify.com/album/6pWUe2jfsIGEYnYj6FlBbT) | 3:37 | 2023-09-27 | 2023-10-04 |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-09-28 |  |
@@ -1428,7 +1429,7 @@
 | [ゴールデン・チャイルド～旅立ちの時～ \(feat.Sumire\)](https://open.spotify.com/track/1sMBWBrD21f3Bz66sOppgR) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn), [Sumire](https://open.spotify.com/artist/3ie7Kl4oUITfThdgrDSHFS) | [ゴールデン・チャイルド～旅立ちの時～ \(feat.Sumire\)](https://open.spotify.com/album/4yFktYesHZPktoVkG4jo0b) | 3:00 | 2023-11-28 | 2023-12-06 |
 | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/track/60TyIUjq4CyOoWUG9gaubR) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/album/73tELo06Cer78bMDnmMzDf) | 3:37 | 2022-06-02 | 2022-07-21 |
 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 | 2023-07-25 |  |
-| [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 | 2023-03-07 |  |
+| [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 | 2023-03-07 | 2024-01-06 |
 | [シガレット](https://open.spotify.com/track/0lgcczt1InYEkAaVgafnBT) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X), [xea](https://open.spotify.com/artist/2MPXNbCsA4FaU2858MfpsH) | [シガレット](https://open.spotify.com/album/1ynfZq6Rezs0iFVaNDXHMq) | 2:46 | 2023-10-19 | 2023-10-25 |
 | [シスター](https://open.spotify.com/track/3xOBKXSmG2EwNi5k1uRziK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [シスター](https://open.spotify.com/album/7BwoXwHdRIDQSvk2FNRJMd) | 3:00 | 2023-09-26 | 2023-09-28 |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
@@ -1634,7 +1635,7 @@
 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |
-| [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 |  |
+| [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 | 2024-01-06 |
 | [再愛](https://open.spotify.com/track/61YMwu4Xg1nH1d5f0YrTBC) | [Rythem](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [再愛](https://open.spotify.com/album/3BDdXgwJPJTCQTQ4krGpZZ) | 5:00 | 2023-01-26 | 2023-02-01 |
 | [冒険の書](https://open.spotify.com/track/3OUp0rUvnvPlXHzPE1pe2R) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA), [Yuaru](https://open.spotify.com/artist/0MJZFhZQwhlhY7I0fRUKRj) | [冒険の書](https://open.spotify.com/album/23OCUse0jdDipp1xxsZnuX) | 3:44 | 2023-05-09 | 2023-05-17 |
 | [凍える指先の温め方を知ってる](https://open.spotify.com/track/2A9t75q0ojqZnRiLrcCNdM) | [林青空](https://open.spotify.com/artist/1kfzM6uJoM7Mw4RtW0FFtO) | [凍える指先の温め方を知ってる](https://open.spotify.com/album/7xqDzVx1ZmV5rk8AgekUpM) | 3:40 | 2022-06-30 | 2022-07-19 |
@@ -1797,7 +1798,7 @@
 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:00 | 2023-04-05 | 2023-04-06 |
 | [愛はいつも](https://open.spotify.com/track/3jP8dzUFw0rP3QyE2AdBRC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [愛はいつも](https://open.spotify.com/album/5pgsBGk0Z5TvzsF5xU4EIp) | 4:39 | 2022-10-25 | 2022-10-27 |
 | [愛はもう](https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛はもう](https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi) | 3:08 | 2022-05-29 | 2022-08-18 |
-| [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 | 2023-08-31 | 2024-01-05 |
+| [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 | 2023-08-31 |  |
 | [愛をつかまえて](https://open.spotify.com/track/0NF5k4GYaJrr7hOJVzaVqD) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [愛をつかまえて](https://open.spotify.com/album/0yI2oGI2X12FrTCHxOBtr7) | 4:23 | 2022-12-13 | 2023-01-04 |
 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 | 2023-06-13 | 2023-06-28 |
 | [愛愛だな](https://open.spotify.com/track/0R8iqGwB3Pqm8B682EdFNo) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [愛愛だな](https://open.spotify.com/album/4nPK1HiNhDZnLL9XEGzZFJ) | 3:29 | 2022-10-11 | 2022-10-19 |

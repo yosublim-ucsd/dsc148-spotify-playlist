@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/61Z4oJ5YbH1PCXjXWzCkIK"
+      },
+      "artists": [
+        {
+          "name": "Ni'jah",
+          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160653,
+      "name": "Big World (feat. KIRBY)",
+      "url": "https://open.spotify.com/track/2MiwKPx7Cp35PsXVEhKNSQ"
+    },
+    {
+      "album": {
         "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
       },
@@ -1226,6 +1248,24 @@
       "duration_ms": 219928,
       "name": "Crazy Legs",
       "url": "https://open.spotify.com/track/3sn5ncoXCNl2DTUO17TGj5"
+    },
+    {
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207194,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
       "album": {
@@ -3288,7 +3328,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 191367,
       "name": "Mirror Maru",
       "url": "https://open.spotify.com/track/0DLgcXpJ8xUALnArVKox3k"
@@ -4164,7 +4204,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 400567,
       "name": "Prove It",
       "url": "https://open.spotify.com/track/2JhC0vPvHp5eIOKW8QQLmr"
@@ -4983,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "Pink and Orange",
+        "url": "https://open.spotify.com/album/524agqedwKwAQ4PSJ6p28F"
+      },
+      "artists": [
+        {
+          "name": "Livt",
+          "url": "https://open.spotify.com/artist/0y55D5fL0ywYdEpIQPbwJC"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208422,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7wcqafiGn5oZrBHvo9tEjS"
+    },
+    {
+      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/6YHMDqt1OI1vY0uANQs9du"
       },
@@ -5198,7 +5256,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 195466,
       "name": "The Throne",
       "url": "https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7"

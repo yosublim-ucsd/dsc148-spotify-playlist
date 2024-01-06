@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,299 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,348 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 69 | [A I O](https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3) | 2:58 |
 | 70 | [Alta Gama](https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama](https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14) | 2:42 |
 | 71 | [De Kabra A Tiguere](https://open.spotify.com/track/2tYAhcLaNAogPhIUO5ksdT) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [De Kabra A Tiguere](https://open.spotify.com/album/2sPIMpTiFft4Hkh81Qkeml) | 2:21 |
-| 72 | [DOGGY DOGGY](https://open.spotify.com/track/5CY9UF2QwwqSLZXruLrKif) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 4:08 |
+| 72 | [Doggy Doggy](https://open.spotify.com/track/5kDydFz5HSjsjAZFbj31Sp) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Doggy Doggy](https://open.spotify.com/album/39sExcZ7IdTppqyviPg2s8) | 4:08 |
 | 73 | [Paketum](https://open.spotify.com/track/6hL2ueGsHbV7SgMSwMmTcR) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:44 |
 | 74 | [Gass Pure](https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Gass Pure](https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW) | 2:17 |
 | 75 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 89 | [El Toro](https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm) | 2:40 |
 | 90 | [Mira el 30](https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mira el 30](https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D) | 2:09 |
 
-Snapshot ID: `MCxjODJjMjg4MGMwZDdmYWU5ZDlhZjc4NTBmYmYyMjUzZmRiZTBkMjIy`
+Snapshot ID: `MCxmMmVkMzZkZmFiYTdiOWJkYzZmNGQyYzViYjhiY2JmYmJlN2Y0ZGQx`

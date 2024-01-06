@@ -1,12 +1,12 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54115,
+  "num_followers": 54128,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODg3Y2MyYzE3ODQ5ZGMxNjQ4NThiMDA1OGVhMTdjYTk2OTA2YzVl",
+  "snapshot_id": "MCw1OTU0OTYwZTkwNzUyOGY0YTM4YThhN2RiZjgyNzcwNzgzYmEyYzgz",
   "tracks": [
     {
       "added_at": "2023-12-27 05:52:07",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2023-12-27 05:52:07",
       "album": {
-        "name": "more than friends",
-        "url": "https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb"
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh"
       },
       "artists": [
         {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        },
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX"
+      "duration_ms": 189931,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
     }
   ],
   "unique_name": "tired lei",

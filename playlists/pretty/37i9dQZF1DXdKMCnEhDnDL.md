@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Donnie & Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,980 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,010 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Allermeest](https://open.spotify.com/track/0feAMm6cs12Ped1uuoNKjG) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Allermeest](https://open.spotify.com/album/0MsIqJcvATIVhrnDZSlzLv) | 2:46 |
 | 100 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 
-Snapshot ID: `MCw4ODZiNzljNzRiMDIwYzI3YzYxMzMzYjU4NDI5YmNjMzFmYWI4NDcw`
+Snapshot ID: `MCxmYWNmYzEzNGVhNmJkNjVhZjQ0NWU5YjAwMjg0MzFjYWRiY2I1YmM5`

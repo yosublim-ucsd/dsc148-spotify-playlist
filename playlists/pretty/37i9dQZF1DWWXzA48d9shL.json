@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: SXMPRA",
-  "num_followers": 563226,
+  "num_followers": 563326,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzZkY2MxZDM3ZjlmMjRmZjU4MGJmOWIxODg0NzMxMzkwOTBmMzU1",
+  "snapshot_id": "MCxjNDNjZmNiN2FlYTE0MjQ4MjBlMGNiMGQ5MDczZjI5ODU3YzBkMjgy",
   "tracks": [
     {
       "added_at": "2023-12-08 15:38:28",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1"
     },
     {
+      "added_at": "2024-01-05 17:54:55",
+      "album": {
+        "name": "Hearse",
+        "url": "https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM"
+      },
+      "artists": [
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        },
+        {
+          "name": "Sect Unit",
+          "url": "https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Hearse",
+      "url": "https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD"
+    },
+    {
       "added_at": "2023-12-27 19:57:37",
       "album": {
         "name": "Long Term Effects of SUFFERING",
@@ -43,6 +63,22 @@
       "duration_ms": 127768,
       "name": "New Profile Pic",
       "url": "https://open.spotify.com/track/0oGakZG2y3wcgHDF1YWPGD"
+    },
+    {
+      "added_at": "2024-01-05 17:54:55",
+      "album": {
+        "name": "7SEAS",
+        "url": "https://open.spotify.com/album/1JHAw7Qc1LmsStN2Ryhyxy"
+      },
+      "artists": [
+        {
+          "name": "Scriptz",
+          "url": "https://open.spotify.com/artist/3xJcQ2MhRmBDpyFTR9EyGF"
+        }
+      ],
+      "duration_ms": 130379,
+      "name": "7SEAS",
+      "url": "https://open.spotify.com/track/0ufaBulOzEZr6Vs527jcky"
     },
     {
       "added_at": "2023-12-27 19:57:37",
@@ -323,6 +359,26 @@
       "duration_ms": 99971,
       "name": "INTENSIVE CARE UNIT",
       "url": "https://open.spotify.com/track/5jqh407cAc00xLMSrJ51os"
+    },
+    {
+      "added_at": "2024-01-05 17:54:55",
+      "album": {
+        "name": "EXCUSE ME??",
+        "url": "https://open.spotify.com/album/133081TGy3yKC5qRGyBQTe"
+      },
+      "artists": [
+        {
+          "name": "Notions",
+          "url": "https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC"
+        },
+        {
+          "name": "Andy Christ",
+          "url": "https://open.spotify.com/artist/7CBMPDJkT3251VCtVITNr5"
+        }
+      ],
+      "duration_ms": 122052,
+      "name": "EXCUSE ME??",
+      "url": "https://open.spotify.com/track/1uSda4N8BCsNpCSSjtUEWg"
     },
     {
       "added_at": "2023-10-16 19:26:34",

@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 131500,
       "name": "Confident strut",
       "url": "https://open.spotify.com/track/3Ck5Jt3L0UxacmAT5iqndF"
@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5"
+      },
+      "artists": [
+        {
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx"
+    },
+    {
+      "album": {
         "name": "Cozy Cabin",
         "url": "https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL"
       },
@@ -3846,6 +3864,24 @@
       "duration_ms": 110000,
       "name": "Cronian",
       "url": "https://open.spotify.com/track/670HGntW6I4aveJDhz9rW6"
+    },
+    {
+      "album": {
+        "name": "Cronian",
+        "url": "https://open.spotify.com/album/3kRD2lFooNdS3KdzGyK27F"
+      },
+      "artists": [
+        {
+          "name": "Cone & The Cones",
+          "url": "https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Cronian",
+      "url": "https://open.spotify.com/track/7oDzXhxqqTkQImJnsRtbof"
     },
     {
       "album": {
@@ -13170,7 +13206,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 126000,
       "name": "no breeze",
       "url": "https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf"

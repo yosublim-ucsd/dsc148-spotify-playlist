@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-857 songs - 1 day 9 hr 16 min
+858 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cactus Juice](https://open.spotify.com/track/7h44VW6WqLSVzSksn6vZFb) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Cactus Juice](https://open.spotify.com/album/7peF0PHihNTrIr4bqXHxRl) | 1:55 | 2023-09-22 | 2023-09-24 |
 | [Café Zimmermann](https://open.spotify.com/track/7Me1bh396LceRfiRuna7V8) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV), [Seventropic](https://open.spotify.com/artist/5RfMWlQODNTGPjALPrsGfP) | [Café Zimmermann](https://open.spotify.com/album/4t831ryNDYD4cnMyef4VfR) | 1:46 | 2022-09-30 |  |
 | [Cali Sunshine](https://open.spotify.com/track/5YwI4vVk3SHkwIVVoSwp5n) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Cali Sunshine](https://open.spotify.com/album/6AyEYNLT0JWgsjhUUqbC2i) | 1:45 | 2022-04-22 | 2023-10-13 |
+| [california](https://open.spotify.com/track/4uVEcEx7qmWuH7EkrvzWG3) | [Løwkey](https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz) | [california](https://open.spotify.com/album/7a68JtMeslLirwdqYdWgex) | 1:31 | 2024-01-05 |  |
 | [Calm The Storm](https://open.spotify.com/track/3yhi9q1nzFYJDZpJWjcrfk) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Calm The Storm](https://open.spotify.com/album/0mjduONGKyjpcWqJNuE1d1) | 2:45 | 2022-10-14 | 2022-11-24 |
 | [Calm The Storm](https://open.spotify.com/track/7yWYOJIP5fvuLFoosg4xLu) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Calm The Storm](https://open.spotify.com/album/4EipnfMK5g9MdJzxkZ8P1o) | 2:45 | 2022-11-11 | 2022-12-10 |
 | [Calypso's Groove](https://open.spotify.com/track/32CSGiAJ3IJTyIWBG1K2CC) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Calypso's Groove](https://open.spotify.com/album/1yPQjGsSWcfXbrA4qazF2U) | 2:04 | 2023-07-19 | 2023-11-24 |
@@ -767,7 +768,7 @@
 | [Time And Space](https://open.spotify.com/track/697TBmclHJQlcG2Ewlu0ln) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/6nMxipAju9t9Rp6mLZ15n3) | 2:46 | 2022-10-28 | 2022-11-24 |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-04-15 | 2022-07-22 |
 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 | 2023-01-06 |  |
-| [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 |  |
+| [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 | 2024-01-06 |
 | [Toi Story](https://open.spotify.com/track/05IHKkcyA2KJ26KazTPJCV) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Toi Story](https://open.spotify.com/album/13fmUIoJNaAzPzKaF8GcPz) | 4:00 | 2022-05-20 | 2022-09-17 |
 | [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2022-12-09 | 2023-09-22 |
 | [Touch It](https://open.spotify.com/track/2293GzJHceVDK6bJCISEmQ) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Touch It](https://open.spotify.com/album/4SN65gYWILrk3439N1zvdg) | 1:53 | 2022-06-10 | 2022-11-21 |

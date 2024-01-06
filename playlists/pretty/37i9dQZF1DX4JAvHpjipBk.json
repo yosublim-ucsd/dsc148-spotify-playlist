@@ -1,12 +1,12 @@
 {
   "description": "New music from Lewis Capaldi, Green Day, Gabby Barrett, The Game and more!",
-  "num_followers": 4194297,
+  "num_followers": 4194934,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzhkNmRlNDA3ZGE0NjUyMWU4MjU2ZWMwNzMxMGZlNDNiMTUwNjc2",
+  "snapshot_id": "MCxkZDQxYzA0YjljNmFjMGUyNmY2NjU2MTVjMmE0YmUwODNmMDFhNzdm",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -266,6 +266,14 @@
         {
           "name": "Eric Bellinger",
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "B HAM",
+          "url": "https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A"
+        },
+        {
+          "name": "Corey Cooper",
+          "url": "https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW"
         }
       ],
       "duration_ms": 162253,
@@ -965,6 +973,22 @@
       "url": "https://open.spotify.com/track/7qXikOoj2QEA7GzrT6XLqk"
     },
     {
+      "added_at": "2024-01-05 05:18:49",
+      "album": {
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
+    },
+    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "internet girl",
@@ -1655,6 +1679,22 @@
       "duration_ms": 209680,
       "name": "Finding Firsts",
       "url": "https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd"
+    },
+    {
+      "added_at": "2024-01-05 05:18:49",
+      "album": {
+        "name": "Don't Leave Me Loving You",
+        "url": "https://open.spotify.com/album/0QTUFjOPzU3hZFawaVRzNG"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "duration_ms": 187694,
+      "name": "Don\u2019t Leave Me Loving You",
+      "url": "https://open.spotify.com/track/5YTBeFxMYLEqkTtadRY0Ze"
     },
     {
       "added_at": "2024-01-05 05:00:00",

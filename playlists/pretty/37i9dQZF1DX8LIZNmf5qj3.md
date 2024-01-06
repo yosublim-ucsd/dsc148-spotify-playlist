@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Jhené Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,312 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,324 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 16 | [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 |
 | 17 | [Lately](https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:07 |
 | 18 | [Smoking In The Park \(Paradise\)](https://open.spotify.com/track/5i6L129avGeLGlfJ6bLKUN) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [P.O.V](https://open.spotify.com/album/7zj0Z1DmY9GEuMEmv32hZ7) | 3:13 |
-| 19 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
+| 19 | [La Perla](https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [B HAM](https://open.spotify.com/artist/0pfOqJLCEaTlaiAZ7P4p5A), [Corey Cooper](https://open.spotify.com/artist/5JAROdWMgMH5zJjtE4AojW) | [La Perla](https://open.spotify.com/album/6RCfYsD4uwsvyR3NBI80WM) | 2:42 |
 | 20 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
 | 21 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 |
 | 22 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Only One](https://open.spotify.com/track/6LBJHRRjxmvgG6p0jFYEdJ) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [Only One](https://open.spotify.com/album/25mBuCyLdfYl3j7wIfCw7O) | 3:17 |
 | 50 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 |
 
-Snapshot ID: `MCwwYzc1MDJiYmE5MzM0N2RlMWNmODRiNjJmZjA0NDkyYmFmNDEwM2Jj`
+Snapshot ID: `MCwzOWQyYzBhZjVkMjI5MzYwNjcwYmViMWRhYzcxMTc4MTgzMGY5ZDVm`

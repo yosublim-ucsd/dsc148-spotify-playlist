@@ -2,7 +2,7 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan
+> A new shade of Country\. Cover: Drew Holcomb & The Neighbors
 
 525 songs - 1 day 8 hr 22 min
 

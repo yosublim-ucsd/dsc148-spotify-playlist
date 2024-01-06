@@ -1,12 +1,12 @@
 {
   "description": "All the dance tracks that make you run fast and lift heavy!",
-  "num_followers": 6955746,
+  "num_followers": 6955895,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzU5YTcxM2VkYzllYzYzMWY1MzYzNmYxZDM1YTA0YjAzOTAzNTMy",
+  "snapshot_id": "MCxiMmQxMWY1MDhhYmFlN2Y5NDk5NDE5YzM4YjZmOWIwNzc2OTZiY2Vj",
   "tracks": [
     {
       "added_at": "2024-01-04 00:21:56",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        }
-      ],
-      "duration_ms": 156818,
-      "name": "greedy - cass\u00f6 remix",
-      "url": "https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 189257,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        }
+      ],
+      "duration_ms": 156818,
+      "name": "greedy - cass\u00f6 remix",
+      "url": "https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1427,6 +1427,34 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
+        "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
+      },
+      "artists": [
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Dunc\u00e1n",
+          "url": "https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/3t5YWHjVCU9mBSPqa3Z4cV"
+        }
+      ],
+      "duration_ms": 160758,
+      "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
+      "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Now U Do",
         "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
       },
@@ -1463,34 +1491,6 @@
       "duration_ms": 200625,
       "name": "Love Is A Drug",
       "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
-        "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
-      },
-      "artists": [
-        {
-          "name": "Coopex",
-          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Dunc\u00e1n",
-          "url": "https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD"
-        },
-        {
-          "name": "Nito-Onna",
-          "url": "https://open.spotify.com/artist/3t5YWHjVCU9mBSPqa3Z4cV"
-        }
-      ],
-      "duration_ms": 160758,
-      "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
-      "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
     },
     {
       "added_at": "2023-12-21 23:00:00",

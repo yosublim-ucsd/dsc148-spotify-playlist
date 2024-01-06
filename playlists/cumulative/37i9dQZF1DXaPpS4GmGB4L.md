@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-188 songs - 10 hr 52 min
+189 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Smokestack Lightning](https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh) | 3:58 | 2023-07-14 |  |
 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 | 2022-10-10 |  |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-07-01 |  |
+| [Sounds Like The Road](https://open.spotify.com/track/3Q2fXEwlK6x4nNPlGAZuzn) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN) | 4:10 | 2023-11-24 |  |
 | [Sounds Like The Road](https://open.spotify.com/track/3sMTG1l0htXEgzf7vaQEOY) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 4:10 | 2022-04-08 | 2023-12-24 |
 | [Statesboro Blues](https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Statesboro Blues](https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU) | 3:59 | 2023-08-18 |  |
 | [Steppin' Out \- Mono](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 | 2021-12-20 |  |
@@ -172,7 +173,7 @@
 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 | 2022-05-27 |  |
 | [The Bait In The Snare](https://open.spotify.com/track/2jk8ZBsS18w67UjQO8u3qK) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The Bait In The Snare](https://open.spotify.com/album/5JV5PJBe0MqEdiwLDbxN4H) | 3:00 | 2023-11-24 |  |
 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 | 2021-12-20 |  |
-| [The Boss](https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Deluxe Edition](https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh) | 4:26 | 2021-12-20 |  |
+| [The Boss](https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Deluxe Edition](https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh) | 4:26 | 2021-12-20 | 2024-01-06 |
 | [The Wrong Number](https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 2:50 | 2021-12-20 |  |
 | [They Call Me Mud](https://open.spotify.com/track/4RA6mNzd1GmecXAlQaZ6GK) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [They Call Me Mud](https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP) | 4:00 | 2023-08-18 |  |
 | [Time to Get Movin'](https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2) | 3:37 | 2022-11-17 |  |

@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: DDG
 
-332 songs - 15 hr 28 min
+334 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [bitch im joe biden](https://open.spotify.com/track/14hW7QNB7jEQYQVcdN79Xu) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [bitch im joe biden](https://open.spotify.com/album/1Kqk8PBnJOv7FgfCer68nH) | 1:48 | 2022-06-03 | 2022-06-25 |
 | [BITM](https://open.spotify.com/track/0TWdAfjArizwFkY4C4XFeI) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [BITM](https://open.spotify.com/album/24FLJJNZv5OCpsgCIP7vZt) | 3:09 | 2022-06-03 | 2023-02-18 |
 | [Blast Off](https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Blast Off](https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM) | 1:45 | 2023-04-07 |  |
+| [Blick \(feat\. NLE Choppa\) \- Remix](https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Blick \(feat\. NLE Choppa\) \[Remix\]](https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc) | 3:08 | 2024-01-05 |  |
 | [Blues \(feat\. PG RA, Reck Issuez & Enphamus\)](https://open.spotify.com/track/6Tk0VjqUdnsMKsAxpeXcIr) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [PG RA](https://open.spotify.com/artist/2XKgiReHuCyDJW9gUudAk1), [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Reck Issuez](https://open.spotify.com/artist/2HJS06q6GFLhvPXsvGBiGI) | [Blues \(feat\. PG RA, Reck Issuez & Enphamus\)](https://open.spotify.com/album/5GjyoEaBpBvLg45oVs3Rnw) | 3:32 | 2023-12-08 |  |
 | [BOGUARD \(feat\. DJ Drama\)](https://open.spotify.com/track/1pmNE3j4zeDG3iPZeZyL4s) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [BOGUARD \(feat\. DJ Drama\)](https://open.spotify.com/album/7eX4cRyCJ4sgeRxNeSRUFN) | 2:19 | 2022-06-03 | 2022-06-25 |
 | [BOOGIE](https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION III](https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0) | 3:13 | 2023-02-03 |  |
@@ -108,6 +109,7 @@
 | [El Doggy \(feat\. Ovi & Randy\) \- Perreo](https://open.spotify.com/track/2HpFUVAWXnE9PbMTXaxtIT) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [El Doggy \(feat\. Ovi & Randy\) \[Perreo\]](https://open.spotify.com/album/2S5Py3y97OSaYRs8Fzldv9) | 3:00 | 2022-06-03 | 2023-02-18 |
 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 | 2022-06-03 | 2023-02-18 |
 | [Enemy](https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Enemy](https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp) | 2:24 | 2023-01-27 |  |
+| [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2024-01-05 |  |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2022-06-03 | 2022-10-01 |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2022-10-14 |  |
 | [Exposed](https://open.spotify.com/track/5QiJRSbS55oKO55hWaF8tQ) | [JMB Juvie](https://open.spotify.com/artist/25zUbJzU1WGRTN5Y0ajRzd) | [Exposed](https://open.spotify.com/album/0NCaM5SOtDJg7ZxfS9aO32) | 3:18 | 2022-12-16 | 2023-04-22 |

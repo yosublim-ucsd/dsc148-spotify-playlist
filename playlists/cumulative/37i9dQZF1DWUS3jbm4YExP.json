@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 338251,
       "name": "Akihi",
       "url": "https://open.spotify.com/track/585G4ngYqOUkHfRNyLzsd1"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 443989,
       "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
       "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
@@ -1330,6 +1330,32 @@
       "duration_ms": 219400,
       "name": "Bessa",
       "url": "https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A"
+    },
+    {
+      "album": {
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Gilbert K",
+          "url": "https://open.spotify.com/artist/4806BUBQra8PgZMWXpYDO9"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393367,
+      "name": "Better Days (Kumba)",
+      "url": "https://open.spotify.com/track/40CXXNs2PIe82JadEWTNPZ"
     },
     {
       "album": {
@@ -4441,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Guajirando",
+        "url": "https://open.spotify.com/album/18wajZarjucF8FNEExQdGY"
+      },
+      "artists": [
+        {
+          "name": "Mito y Comadre",
+          "url": "https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238236,
+      "name": "Guajirando",
+      "url": "https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx"
+    },
+    {
+      "album": {
         "name": "Gueta (feat. Nitai Hershkovits, Nomok, Amir Bresler & Sefi Zisling)",
         "url": "https://open.spotify.com/album/2USulCoijgTECfEEoWJ2NO"
       },
@@ -7072,6 +7116,24 @@
       "duration_ms": 231353,
       "name": "Mande Moin On Lajan, Pa Mande Moin Za Fe An Moin",
       "url": "https://open.spotify.com/track/69HiuYUNtxJoxcPzYMTwI4"
+    },
+    {
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "album": {
@@ -9852,7 +9914,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
@@ -11784,7 +11846,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
@@ -11936,6 +11998,28 @@
       "duration_ms": 202938,
       "name": "Watch me Dance",
       "url": "https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl"
+    },
+    {
+      "album": {
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304334,
+      "name": "Water of Life",
+      "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
     },
     {
       "album": {

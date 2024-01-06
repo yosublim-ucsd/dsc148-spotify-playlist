@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Cody Johnson is taking over to celebrate the release of his new album \"Leather\"!",
-  "num_followers": 249595,
+  "num_followers": 249659,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTk4YmNiNGRjYjc5ZTYwN2E2MjZhYjY3Y2JjY2E4ODBjMDcxYThi",
+  "snapshot_id": "MCxlNDQzNGVhYzIwMDlkOTg5ZjRhMmZkMWNmYTllMThmNjE2MTc3N2Iz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Hell of a Year",
-      "url": "https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS"
+      "duration_ms": 346333,
+      "name": "Broken Window Serenade",
+      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Broken Window Serenade",
-      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
+      "duration_ms": 232653,
+      "name": "Hell of a Year",
+      "url": "https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "One I Want",
+      "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "After the Fire",
         "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 234240,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "One I Want",
-      "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
-      },
-      "artists": [
-        {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Wicked Twisted Road",
         "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 205760,
       "name": "Wicked Twisted Road",
       "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
+      },
+      "artists": [
+        {
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
     },
     {
       "added_at": "2023-11-03 04:00:00",

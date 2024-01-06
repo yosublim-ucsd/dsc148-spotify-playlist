@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeri Mua y Uzielito Mix en portada
 
-429 songs - 21 hr 28 min
+430 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Chakalona](https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM) | [De la Rosa Mx](https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo), [Flowker Slick](https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [Chakalona](https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi) | 2:48 | 2023-12-01 |  |
 | [CHANEL REAL](https://open.spotify.com/track/4YE774jIKvocYDSB7Jwa5W) | [Ray Menace](https://open.spotify.com/artist/6sZ33pbSr5zOnfMK1jGqld), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK) | [Chanel](https://open.spotify.com/album/6mZNaNVmSCyWS5Ja8ONC8U) | 2:47 | 2023-07-28 |  |
 | [CHELA VENETA](https://open.spotify.com/track/5sL6dXdOThCLWGeC1BBskr) | [Neron Delta](https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO), [Maiki Perreo](https://open.spotify.com/artist/4St8cPWIPfLl6jk9xF1pEo), [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf), [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr), [Sxbastixn bae](https://open.spotify.com/artist/3Un5VqOO4ezNm67zeXRL8Q) | [CHELA VENETA](https://open.spotify.com/album/3Oe0RjJsBpmOKTlJ4XGLbp) | 3:00 | 2023-04-07 | 2023-05-20 |
+| [Chokalo](https://open.spotify.com/track/0kB3My7vy5P05AGpa69aim) | [SLIM METRA](https://open.spotify.com/artist/7FbciV3RGIC8Gnf52qrgms) | [Chokalo](https://open.spotify.com/album/1jU52LjRRkOLwmEL2Q9Td9) | 2:19 | 2024-01-05 |  |
 | [Chupón](https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj) | [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Chupón](https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ) | 3:21 | 2023-10-13 |  |
 | [Coca](https://open.spotify.com/track/2hLAVhXhe5O6rPyHfUfH3C) | [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Coca](https://open.spotify.com/album/2nUNuWgE7XdFNocY3KG9N4) | 1:39 | 2023-06-30 | 2023-10-14 |
 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 | 2022-01-07 | 2023-06-03 |
@@ -135,7 +136,7 @@
 | [Estoy Pa' Mí](https://open.spotify.com/track/2WxIPUgz4yDxT77VsVO22r) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Estoy Pa' Mí](https://open.spotify.com/album/0LQosTfMs1wZqSDWvZ2E9M) | 2:39 | 2023-04-28 | 2023-05-20 |
 | [Está cabron](https://open.spotify.com/track/6I08cF09s0NQ434DInqdrH) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [Naity OG](https://open.spotify.com/artist/1D47r3MM6EJjF5wXg4bgrq) | [Está cabron](https://open.spotify.com/album/6d9qf1y6IcXFSTyaNYTAr6) | 3:32 | 2023-04-07 | 2023-04-15 |
 | [Explicaciones](https://open.spotify.com/track/7HVSa4it1ejFjtOEytQ7Zk) | [Kerox](https://open.spotify.com/artist/2Aps4lMllN6Ka9nwm47pcc) | [Explicaciones](https://open.spotify.com/album/53zrqyTLPG6SvnF0vQSa4h) | 3:00 | 2023-06-02 | 2023-09-16 |
-| [Facetime](https://open.spotify.com/track/5HX6YJCZMSkeQJtruOZCKr) | [FVBIIAN](https://open.spotify.com/artist/3QkNp8MdNMNnDqMVDnbN3p), [Kid Moonsta](https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy) | [Facetime](https://open.spotify.com/album/4TxX08y5TK3lYVDi41jYF9) | 2:37 | 2023-08-04 |  |
+| [Facetime](https://open.spotify.com/track/5HX6YJCZMSkeQJtruOZCKr) | [FVBIIAN](https://open.spotify.com/artist/3QkNp8MdNMNnDqMVDnbN3p), [Kid Moonsta](https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy) | [Facetime](https://open.spotify.com/album/4TxX08y5TK3lYVDi41jYF9) | 2:37 | 2023-08-04 | 2024-01-06 |
 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 | 2022-03-02 | 2022-10-22 |
 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 | 2023-09-22 |  |
 | [FERNET](https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [FERNET](https://open.spotify.com/album/0UbxWnBpJKoUj4jmSFwUnc) | 3:12 | 2022-06-17 | 2023-06-10 |

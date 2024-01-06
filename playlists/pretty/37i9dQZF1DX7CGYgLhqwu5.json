@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375196,
+  "num_followers": 375226,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNiMDU4MWE0MGY5ZTI4YzMwODA1OWRiYmQ1NTliOWUzNzU3NDA4",
+  "snapshot_id": "MCw2NjBhMmYyZjU0MWYxZmRiMGQ5OTA4MDlhMzMzNDA5MmVlYmNlOWVl",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "At Folsom Prison",
-        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 235733,
       "name": "Big Iron",
       "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Mama Tried/ Pride In What I Am",
-        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 134453,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Mama Tried/ Pride In What I Am",
+        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 134453,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 238733,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "At San Quentin",
         "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 233813,
       "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
       "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
-      },
-      "artists": [
-        {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
@@ -543,26 +559,6 @@
       "duration_ms": 102400,
       "name": "Dang Me",
       "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "RCA Country Legends",
         "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 141466,
       "name": "Please Help Me, I'm Falling",
       "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 168821,
+      "name": "Swinging Doors - Re-Recorded",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Walk On By",
         "url": "https://open.spotify.com/album/24YlBDIE5J8hoUX5AToRG8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 144200,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Folk-Country",
-        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Stop the World (And Let Me Off)",
-      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "A Tender Look At Love",
         "url": "https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 156960,
       "name": "Little Green Apples - Single Version",
       "url": "https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Folk-Country",
+        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Stop the World (And Let Me Off)",
+      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
-        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Devil Woman",
-      "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Country Heart: 24 Favorite Songs",
         "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 138000,
       "name": "Walk Through This World With Me",
       "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
+        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Devil Woman",
+      "url": "https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1491,8 +1491,8 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
       },
       "artists": [
         {
@@ -1500,9 +1500,9 @@
           "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Wings Of A Dove",
-      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
+      "duration_ms": 152800,
+      "name": "Timber I'm Falling",
+      "url": "https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX"
     },
     {
       "added_at": "2023-11-21 21:06:39",

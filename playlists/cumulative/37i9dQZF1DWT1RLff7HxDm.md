@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-150 songs - 15 hr 10 min
+151 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Down For Love \- Live](https://open.spotify.com/track/6OQ3GvlaMOJTCPNi1mYKwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/2SQiZ96Kv4cTmd7jNjmmxU) | 4:29 | 2020-11-27 | 2022-07-21 |
 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 | 2020-10-30 | 2023-07-19 |
 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 | 2022-04-22 |  |
-| [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 | 2020-10-30 |  |
+| [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 | 2020-10-30 | 2024-01-06 |
 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 | 2020-10-30 |  |
 | [Feeling Good \- Live](https://open.spotify.com/track/3315kMG6PdeNdwKMGxNTxn) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live at the Roxy](https://open.spotify.com/album/4H8vrtg99Qxjz7kwlC9yqw) | 3:52 | 2020-10-30 |  |
 | [Feeling Good \- Live](https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live At The Roxy](https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd) | 3:52 | 2020-10-30 | 2022-07-29 |
@@ -77,6 +77,7 @@
 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 6:53 | 2021-06-11 | 2023-07-19 |
 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/5vjFiCBjqqVV2CJj8fJYJt) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Little Wing \(Live at LOCKN' / 2019\)](https://open.spotify.com/album/03rUt9AiKYNGCOQ9zA0g4k) | 6:53 | 2021-06-11 | 2022-07-29 |
 | [Lonesome Whistle Blues \(Live\)](https://open.spotify.com/track/75QEITVgnbtUomK27erkds) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:21 | 2020-10-30 |  |
+| [Long Distance Woman \- Live\-Bonus Track](https://open.spotify.com/track/26RmrLz1hYNT6JUY0fsQn5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London \(Expanded Edition\)](https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7) | 6:56 | 2024-01-05 |  |
 | [Mad As A Hatter \(Live In Concert\)](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 | 2021-09-17 | 2023-03-06 |
 | [Mad As A Hatter \- Live in Concert](https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 5:12 | 2021-09-17 |  |
 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2020-10-30 |  |

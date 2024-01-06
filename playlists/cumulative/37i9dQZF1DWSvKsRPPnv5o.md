@@ -2,9 +2,9 @@
 
 ### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Kalan.FrFr
+> Holdin' it down for the westside\. Cover: The Game & Big Hit
 
-640 songs - 1 day 5 hr 52 min
+641 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-04-22 | 2022-08-20 |
 | [Ain't It A Flex](https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Ain't It A Flex](https://open.spotify.com/album/4Bsj7aknXbMq9W4zjYdNl0) | 2:10 | 2022-01-28 | 2022-04-02 |
 | [Ain't Like That](https://open.spotify.com/track/5sm3g5UwuDnzKN91T5elip) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [The Military](https://open.spotify.com/album/0moLVF5RdK9o2PGKxjhiZ0) | 4:07 | 2023-02-10 | 2023-04-09 |
-| [Aint The Regulars](https://open.spotify.com/track/2bFPBrijd9qGaNefdCUvDb) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Aint The Regulars](https://open.spotify.com/album/0V6HZvkZGRXGxw8QPgEwUN) | 2:19 | 2023-12-15 |  |
+| [Aint The Regulars](https://open.spotify.com/track/2bFPBrijd9qGaNefdCUvDb) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Aint The Regulars](https://open.spotify.com/album/0V6HZvkZGRXGxw8QPgEwUN) | 2:19 | 2023-12-15 | 2024-01-06 |
 | [AIN’T NOTHIN](https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [NOT HARD 2 UNDERSTAND](https://open.spotify.com/album/1YE3OeReW3UQjBvW3L2eYw) | 3:22 | 2023-12-08 |  |
 | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/track/6McVbBFuyOF532MX7Mc1zm) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/album/5OMKyOOGz3VVJKIzLs1XFP) | 2:27 | 2023-10-27 | 2023-11-04 |
 | [All Blue](https://open.spotify.com/track/17mVb5scsMo19AmV1r5rNr) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [All Blue](https://open.spotify.com/album/6HE5aKHcsorSzReD3VCFWq) | 2:28 | 2022-07-22 | 2022-09-10 |
@@ -457,6 +457,7 @@
 | [Outside \(feat\. 03 Greedo\)](https://open.spotify.com/track/1dYo3EOe6Rw3cTT2OlZIF4) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Outside \(feat\. 03 Greedo\)](https://open.spotify.com/album/7fLgwDgP507n9e93wagr3k) | 3:31 | 2023-08-11 | 2023-10-14 |
 | [OUTTA LINE](https://open.spotify.com/track/2HghsZnVNsZhUeVl6VlbS8) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OUTTA LINE](https://open.spotify.com/album/2rI0mfDQtPc34umvL8AEuL) | 2:43 | 2022-06-17 | 2022-09-10 |
 | [Oyster](https://open.spotify.com/track/6O3yWlCDGmKN3bqoJeBalh) | [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Oyster](https://open.spotify.com/album/2JZ9ttbIRzvhC3smBaUqFV) | 2:03 | 2023-08-18 | 2023-09-30 |
+| [P Fiction](https://open.spotify.com/track/3xLdrEayToxw9iPP45dl5t) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Paisley Dreams](https://open.spotify.com/album/5U8WARPHV0d1VlCBVD50zS) | 3:25 | 2024-01-05 |  |
 | [Pacific Coast Highway](https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [You Take the Credit, We'll Take the Check](https://open.spotify.com/album/6ZlKCpsFjC1uQToTdwcIkc) | 1:57 | 2022-08-05 | 2022-09-17 |
 | [Paid Dues](https://open.spotify.com/track/61CNosIjvr8t5mR8O7azpf) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Paid Dues](https://open.spotify.com/album/5iyyfACISd90IZxjwaD17N) | 2:41 | 2023-04-14 | 2023-05-13 |
 | [Party Roccin](https://open.spotify.com/track/3CHvCHtu3dIFVns6yK2Jl7) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Party Roccin](https://open.spotify.com/album/0fjOjmZkqlmU5vppIb9OYa) | 3:54 | 2021-11-12 | 2022-02-19 |

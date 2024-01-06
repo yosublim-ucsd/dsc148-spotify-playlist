@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: TATYANA
 
-624 songs - 1 day 19 hr 43 min
+625 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [Miroir Miroir](https://open.spotify.com/track/1kJwO4j2LdHy5T6i6mqC58) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Miroir Miroir](https://open.spotify.com/album/10oEaifUVgy4XR1DjgC2kO) | 3:32 | 2023-09-07 | 2023-10-28 |
 | [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-19 | 2023-11-17 |
 | [Mirror \- Christian Löffler Remix](https://open.spotify.com/track/5dwuKtaVqHaTL9L3E5XIzE) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Mirror \(Christian Löffler Remix\)](https://open.spotify.com/album/1ViMEfq5OEBe8ggSSu95IJ) | 3:35 | 2022-12-15 | 2023-02-10 |
-| [Mirrors](https://open.spotify.com/track/66c9EmPAVDQpzYkuyzRx1W) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/1aIKBiopPzB5YP5tkQ2KHd) | 3:41 | 2024-01-04 |  |
+| [Mirrors](https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4) | 3:41 | 2024-01-04 |  |
+| [Mirrors](https://open.spotify.com/track/66c9EmPAVDQpzYkuyzRx1W) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/1aIKBiopPzB5YP5tkQ2KHd) | 3:41 | 2024-01-04 | 2024-01-06 |
 | [Miura](https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza) | [Metro Area](https://open.spotify.com/artist/3KTzs16kNylBR78QZSkiyx) | [Metro Area \(15th Anniversary Edition\)](https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG) | 6:44 | 2022-12-30 | 2023-01-02 |
 | [Moments](https://open.spotify.com/track/6ExEbMM3BpqiChkdZcoWiG) | [Caravãna Sun](https://open.spotify.com/artist/7F4dzBK58Tn0o3MBZWxUr3) | [Moments](https://open.spotify.com/album/5SZB5SONupAqDsIU3IUQpl) | 3:20 | 2023-06-01 | 2023-07-21 |
 | [Monsoon](https://open.spotify.com/track/2mJYqrE4YIJxNAA5bGYOay) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw), [Joel Miles](https://open.spotify.com/artist/6rdwSiFsCT89qffpb3Q4hR) | [Monsoon / Just a Feeling](https://open.spotify.com/album/6fP7ehQYOXlGjbuLoHTl1c) | 2:46 | 2022-12-15 | 2023-01-20 |

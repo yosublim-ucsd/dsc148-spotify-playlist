@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-399 songs - 1 day 4 hr 19 min
+401 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Better Days Ahead](https://open.spotify.com/track/6CqeUptmJGIeNdUp12wNOB) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:51 | 2021-02-05 | 2022-03-17 |
 | [Beyond Forever](https://open.spotify.com/track/0jvBqqyD6vQ4qbc1YyDDAy) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [ELEVATE](https://open.spotify.com/album/11KKKkOWkA985ntArrJTbF) | 4:57 | 2020-10-30 | 2021-12-30 |
 | [Beyond the Atmosphere](https://open.spotify.com/track/6PyyspWLOYhZDoCRXV1iY4) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5) | [Beyond the Atmosphere](https://open.spotify.com/album/71EbRlW1QmnNOpBnT9OMy4) | 4:24 | 2020-10-30 | 2022-01-17 |
-| [Big Bounce \- Radio Edit](https://open.spotify.com/track/65dlj118kna1m12fW40VYE) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Big Bounce \(Radio Edit\)](https://open.spotify.com/album/2mgYJZ25KAcK71giR7cV7s) | 3:38 | 2023-05-12 |  |
+| [Big Bounce \- Radio Edit](https://open.spotify.com/track/65dlj118kna1m12fW40VYE) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Big Bounce \(Radio Edit\)](https://open.spotify.com/album/2mgYJZ25KAcK71giR7cV7s) | 3:38 | 2023-05-12 | 2024-01-06 |
 | [BITTERSWEET](https://open.spotify.com/track/052InjXqxERVP2cn518qpm) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Blue Moon](https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15) | 4:04 | 2020-10-30 | 2022-03-18 |
 | [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 | 2020-10-30 | 2022-03-10 |
 | [Black Eden](https://open.spotify.com/track/6PPngXfYjNrITbLSllbBhD) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Sir Tim](https://open.spotify.com/artist/1ZVSRE09PJilA3Z7JnUwVR) | [Kalignous](https://open.spotify.com/album/6LG3XGg7O9YV9o9u8RDgpx) | 3:28 | 2023-08-11 |  |
@@ -147,7 +147,7 @@
 | [Galaxy](https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba) | [Zach Sanders](https://open.spotify.com/artist/0jSvsAskhfvKwEzWQ07wCn) | [Galaxy](https://open.spotify.com/album/1p3tbkM2DoGdDVqUgelhef) | 3:17 | 2020-10-30 | 2022-03-15 |
 | [Gift to the World](https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Gift to the World](https://open.spotify.com/album/0AiFnIPpeIMFWpCBZJmX8y) | 4:04 | 2021-06-04 | 2022-07-29 |
 | [Give Me Your Love](https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7) | [Mark Allen Felton](https://open.spotify.com/artist/3WnIsv9TaH1unkErOs83GK) | [Give Me Your Love](https://open.spotify.com/album/76rdABxCKq6lEAVTWvjU3n) | 3:52 | 2022-02-25 | 2023-06-17 |
-| [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 | 2022-05-20 |  |
+| [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 | 2022-05-20 | 2024-01-06 |
 | [Groove Factor](https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:14 | 2023-04-28 |  |
 | [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 | 2023-07-31 |
 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-09-30 |  |
@@ -273,6 +273,7 @@
 | [Planet Smooth](https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z) | [Dean James](https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu) | [GroovySax](https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3) | 4:11 | 2021-08-20 | 2022-09-17 |
 | [Play the Groove](https://open.spotify.com/track/63wbDskogH4H0hjk3jvR3r) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Play the Groove](https://open.spotify.com/album/0iVAQAJOgbwXHQSXnx50jq) | 4:21 | 2020-10-30 | 2022-03-18 |
 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 | 2023-08-25 |  |
+| [Pocket Change](https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Pocket Change](https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx) | 4:03 | 2024-01-05 |  |
 | [Poolside](https://open.spotify.com/track/6VaD7LbQO6OekSsynIgmrd) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 5:14 | 2022-02-07 | 2023-04-09 |
 | [Prime Time](https://open.spotify.com/track/3B9f8Piyib9RZsl4ikNhjK) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Prime Time](https://open.spotify.com/album/4xJ1NsoqjtwRuubt32onWm) | 4:00 | 2021-10-01 | 2022-07-29 |
 | [Protest Injustice](https://open.spotify.com/track/1aREJJkEL35o73R4uw5w0z) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Protest Injustice](https://open.spotify.com/album/4DK0GKLXoPHbUTuq3AsWvX) | 3:39 | 2022-05-13 | 2023-04-15 |
@@ -297,6 +298,7 @@
 | [Set It Off](https://open.spotify.com/track/6Ztnz8b2q0huMn9QO1S6K7) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Cocktails & Jazz](https://open.spotify.com/album/32p5LY4nR9YHUDVnsEkXqT) | 3:58 | 2021-04-09 | 2022-03-07 |
 | [Set Sail](https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Set Sail](https://open.spotify.com/album/32WepNq3Z0hU5Ku7jJqu7u) | 3:29 | 2021-08-13 | 2022-09-17 |
 | [Shake It Off](https://open.spotify.com/track/0XvTGAT6FGTb7zGTtBBH6Y) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Evolution](https://open.spotify.com/album/0JSndWAAAsz0G6Nfb0indM) | 3:50 | 2021-04-30 | 2022-03-18 |
+| [She's the One](https://open.spotify.com/track/7boFERPF09XcIqpT3PnYAt) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [She's the One](https://open.spotify.com/album/5d3BymfR4DxduPx2cCCMYl) | 4:18 | 2024-01-05 |  |
 | [Shine a Light](https://open.spotify.com/track/5tL6TAf1qxRZu5wfMCGQhQ) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Shine a Light](https://open.spotify.com/album/3B3k8AASfqJTK7TXlJkhTT) | 6:46 | 2023-02-10 | 2023-04-15 |
 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 | 2022-01-21 | 2023-03-25 |
 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 | 2023-09-29 |  |

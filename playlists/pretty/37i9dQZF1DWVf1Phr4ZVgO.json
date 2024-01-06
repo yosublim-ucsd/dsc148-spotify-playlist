@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1049753,
+  "num_followers": 1049959,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzIwNjUxOWVjOTEyNTZmNjgwZjdkMjFkZDA5NmI0NjA2MTY5OWIx",
+  "snapshot_id": "MCwxZjU3YTM2ZDQ2NTU5MTgwZTJjNjJmNzY0YzBiZGM4N2NhOTRhZTI4",
   "tracks": [
     {
       "added_at": "2023-12-28 08:21:39",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "We Are In Love",
-        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "We Are In Love",
-      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 213333,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "We Are In Love",
+        "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "We Are In Love",
+      "url": "https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
-      },
-      "artists": [
-        {
-          "name": "Buddy Greco",
-          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "My Kind Of Girl",
-      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
         "name": "Moonlight Serenade",
         "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 229986,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
+      },
+      "artists": [
+        {
+          "name": "Buddy Greco",
+          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
+        }
+      ],
+      "duration_ms": 160773,
+      "name": "My Kind Of Girl",
+      "url": "https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "Manilow Sings Sinatra",
-        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 132466,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "Manilow Sings Sinatra",
+        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 132466,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q"
     },
     {
       "added_at": "2023-12-28 08:21:39",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-28 08:21:39",
       "album": {
-        "name": "Manilow Sings Sinatra",
-        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "You Make Me Feel So Young",
-      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
-    },
-    {
-      "added_at": "2023-12-28 08:21:39",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 275576,
       "name": "Luck Be A Lady",
       "url": "https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1"
+    },
+    {
+      "added_at": "2023-12-28 08:21:39",
+      "album": {
+        "name": "Manilow Sings Sinatra",
+        "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "You Make Me Feel So Young",
+      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
     },
     {
       "added_at": "2023-12-28 08:21:39",

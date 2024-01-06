@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-746 songs - 1 day 19 hr 19 min
+747 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-08-04 | 2022-08-13 |
 | [Again](https://open.spotify.com/track/6k9TZ3XhsNV9tFv706sqG1) | [Joe Hertler & The Rainbow Seekers](https://open.spotify.com/artist/2bqcjvd6ETkqubaQnx3OtS) | [Again](https://open.spotify.com/album/5R1GZGuNbidvH4kDRAQmfm) | 3:37 | 2023-05-12 | 2023-08-05 |
 | [Ahead Of Myself](https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP) | 2:54 | 2022-04-08 | 2022-04-18 |
+| [Ain't She](https://open.spotify.com/track/5jSjOdVDA4pL4geykH3riL) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Ain't She](https://open.spotify.com/album/12fYeAlRe8VerekcXcHZvy) | 2:51 | 2024-01-05 |  |
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2022-11-04 | 2023-08-26 |
 | [All Good](https://open.spotify.com/track/32pVxiyqfsKKoZMEyF9WDn) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [All Good](https://open.spotify.com/album/7riCFI1z2nb9zmHGOnIpqb) | 2:32 | 2021-08-04 | 2022-09-03 |
 | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG) | 3:34 | 2023-01-13 | 2023-08-26 |
@@ -404,7 +405,7 @@
 | [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-02 | 2023-11-22 |
 | [Lily](https://open.spotify.com/track/70CCOxFTtRj6yfAt0dXzGx) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/0AhEyJgOMDYFaC5cyEJOGa) | 3:24 | 2023-06-02 |  |
 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/5C2tIXmumirF4juJNWGGP9) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:26 | 2021-08-04 | 2022-07-29 |
-| [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 | 2023-09-22 |  |
+| [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 | 2023-09-22 | 2024-01-06 |
 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 | 2023-03-31 | 2023-06-03 |
 | [Live With That](https://open.spotify.com/track/3ykgadmcNGjfAa9x5M7Qg0) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Live With That](https://open.spotify.com/album/52zFk3BR0f8isPwx0V4ou4) | 3:30 | 2023-03-31 | 2023-09-30 |
 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 | 2023-06-20 |

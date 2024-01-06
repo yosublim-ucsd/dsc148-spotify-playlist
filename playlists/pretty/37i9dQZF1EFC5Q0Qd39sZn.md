@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,326 likes - 503 songs - 1 day 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,331 likes - 503 songs - 1 day 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 12 | [Ti Amo](https://open.spotify.com/track/0gAbf0NL9no1Urk1Wj8Uui) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [E' nell' aria…ti amo](https://open.spotify.com/album/4mtA5ClPItnUF8yfg5uygI) | 4:05 |
 | 13 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 |
 | 14 | [I Was Here](https://open.spotify.com/track/0gdzXKkOMuajNI0UJ1ki9t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe) | 3:59 |
-| 15 | [Pretend](https://open.spotify.com/track/3pJVN3mFHTpNgmOHR7je3p) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Que Quiénes Somos \(Japan Edition\)](https://open.spotify.com/album/2jDT9YZn8juzCugiUjpopd) | 3:20 |
+| 15 | [Pretend](https://open.spotify.com/track/437P36748raU6f8jCkcFXZ) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Pretend \(Official Video\)](https://open.spotify.com/album/7MMTHzb4ZDAqXhXGNUuWOJ) | 3:32 |
 | 16 | [Why Did You Do That?](https://open.spotify.com/track/1sv0BhPPnrUgQ6dziZlmuM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:04 |
 | 17 | [Could I Have This Kiss Forever](https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:55 |
 | 18 | [Too Lost In You](https://open.spotify.com/track/0tRQ7UZtDQtKUkFFRtyTyM) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Three](https://open.spotify.com/album/2hBj2SLHPGubIkbgNE2p8T) | 3:57 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 20 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
 | 21 | [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 |
 | 22 | [For You I Will](https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:54 |
-| 23 | [Lonely Is The Night](https://open.spotify.com/track/7zVB6SE1nYVzBrQJfsRTWf) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lonely Is The Night](https://open.spotify.com/album/4ubPiANEbOFDcSMkBcBMuS) | 4:02 |
+| 23 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
 | 24 | [Not Strong Enough](https://open.spotify.com/track/19THgiXrY9qs0fn8jF6GZz) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Brent Smith](https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR) | [7th Symphony](https://open.spotify.com/album/1VTljEPs2EIO6jxm4eQ6de) | 3:38 |
 | 25 | [Just Like Jesse James](https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:05 |
 | 26 | [Regresa a Mí](https://open.spotify.com/track/7DnVaNbvKcwgqd9rmau4DZ) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Il Divo](https://open.spotify.com/album/5RniHBJbI6NamU4XPfZRwQ) | 4:40 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 56 | [I Learned from the Best](https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:19 |
 | 57 | [But I Do Love You](https://open.spotify.com/track/7f5Yo7nWDgydP4tTewGCBR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:21 |
 | 58 | [Save Up All Your Tears](https://open.spotify.com/track/6PlV2oZkDVq0dCDyDZqoTw) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 3:58 |
-| 59 | [Bed of Nails](https://open.spotify.com/track/0TUAVtHG24HhzxKhlMMqPV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Bed of Nails \(Video\)](https://open.spotify.com/album/4hM0ypxI8WBsmWV3iOB0uM) | 4:18 |
+| 59 | [Bed of Nails](https://open.spotify.com/track/5XeT9fYCeg1jYithrEni7v) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:19 |
 | 60 | [Free \- From Disney's "The One And Only Ivan"](https://open.spotify.com/track/14Sr5vbW1kBUuMCOBf8Oru) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Free \(From Disney's "The One And Only Ivan"\)](https://open.spotify.com/album/5hDTfO5ce0O7PiSbyLlsmT) | 3:48 |
 | 61 | [Io sì \(Seen\) \[From The Life Ahead \(La vita davanti a sé\)\]](https://open.spotify.com/track/7FnHZ5YmsCi6Gdm3fo3De0) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
 | 62 | [Grateful](https://open.spotify.com/track/1S9FTWLifoGLCaAuUW64r2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Beyond the Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV) | 4:04 |
@@ -512,4 +512,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 502 | [I want it to be me](https://open.spotify.com/track/02AL6ZhgaPtegJ1ZsGUB1O) | [Kyle Grant](https://open.spotify.com/artist/0AQwmvhVn1UuoGOG5DOynX) | [When Dreams Go Out To Play](https://open.spotify.com/album/7fohMuB9oEyVTzjenU9xvY) | 3:53 |
 | 503 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
 
-Snapshot ID: `Mjg0MDcxOTAsMDAwMDAwMDAwYmUzOTM0ZGNiN2NjOGViY2Y4N2E3ODY2NjI5MThmNw==`
+Snapshot ID: `Mjg0MDg0NTAsMDAwMDAwMDAwMmMxMjg5Mjg4MmEwNGQyZGIxZDdjODE5Mzk5NzA3ZQ==`

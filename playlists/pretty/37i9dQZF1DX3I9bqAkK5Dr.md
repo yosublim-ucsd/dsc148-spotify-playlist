@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Jammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,579 likes - 76 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,586 likes - 76 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 34 | [Love Pill](https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Love Pill](https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub) | 2:40 |
 | 35 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 |
 | 36 | [Bullettu Bandi](https://open.spotify.com/track/4oBhE31sIakxf8bSPHuRT1) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Bullettu Bandi](https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn) | 4:42 |
-| 37 | [Vennela](https://open.spotify.com/track/4HBt90cOQlUJvMC2eBFHCV) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vennela](https://open.spotify.com/album/4DQjhzGpFMaoL5MEj9aqEK) | 3:12 |
+| 37 | [Vennela](https://open.spotify.com/track/1cG4qecBZ4qZvBIYeJUyOz) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vennela](https://open.spotify.com/album/2sERDvNOMkmpSyIHTTtMYX) | 3:12 |
 | 38 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 |
 | 39 | [Saagave Manasa](https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Saagave Manasa](https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw) | 4:27 |
 | 40 | [Pogachure](https://open.spotify.com/track/0pBh8kUlaRDWFxl8E88ozl) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [Pogachure](https://open.spotify.com/album/1C5OW4HkbAZWLvYhFpctzd) | 4:04 |
 | 41 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 |
-| 42 | [Oota Neeru](https://open.spotify.com/track/1qHFXTlWexjlCZhcHSJX8e) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/6neziU9771kT7qum5sg6as) | 5:25 |
+| 42 | [Oota Neeru](https://open.spotify.com/track/1eod9PjVVcM8RmypcGANNm) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/5f61tdGpIcitAfRG1b28bG) | 5:25 |
 | 43 | [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 |
-| 44 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 |
+| 44 | [Ramaya](https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/51ZV12M5Rwx88kZPCksKEs) | 3:35 |
 | 45 | [Vellakala Nannodilesi](https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl) | [Kaushal Jha](https://open.spotify.com/artist/2V64YsR5g08RiV1A0QdhJZ) | [Vellakala Nannodilesi](https://open.spotify.com/album/5tGRfbxjBAFQMK6FNT0AC9) | 4:23 |
 | 46 | [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 |
 | 47 | [Kshaminchu](https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kshaminchu](https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz) | 2:19 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 75 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 76 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCxkZmRjMTNlZTA5MmQxMTBjZGMzZWI5NjgwNDMzZTAyYmI2YmUxNTEy`
+Snapshot ID: `MCxiNGVmYWRmZjI0ZTI5NDAwY2QxNGQyNGMyNDkzZGMyM2U3OWRkODY5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Bhaskar and Alok",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ti\u00ebsto x FAST BOY",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -669,6 +669,32 @@
     },
     {
       "album": {
+        "name": "ALARMA! (Onur Atli Hyper Mix)",
+        "url": "https://open.spotify.com/album/734kYQf3SB4HG0yxtUALTY"
+      },
+      "artists": [
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        },
+        {
+          "name": "Onur Atli",
+          "url": "https://open.spotify.com/artist/1IRl8IBX8ghUZ30O62AsG0"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136228,
+      "name": "ALARMA! (Onur Atli Hyper Mix)",
+      "url": "https://open.spotify.com/track/5Ftf7wFHkFeW6lrtHddkCL"
+    },
+    {
+      "album": {
         "name": "Alice in Wonderland",
         "url": "https://open.spotify.com/album/5Kc07WZPMZ7bzruagu1Oxg"
       },
@@ -758,6 +784,28 @@
       "duration_ms": 149318,
       "name": "All For One",
       "url": "https://open.spotify.com/track/6uCXc2ut1vAGgQG0qcRhbv"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146974,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
     },
     {
       "album": {
@@ -1235,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201048,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT"
+    },
+    {
+      "album": {
         "name": "Anywhere's Home",
         "url": "https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3"
       },
@@ -1450,7 +1516,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 139354,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4HJhLHwIqtSxNDJ8FpZ0PB"
@@ -3001,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4mHNM8y1YILeova9UUP9b2"
+      },
+      "artists": [
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6Qb2N7m4ZTvthTrTsI99qM"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 Del Mar",
         "url": "https://open.spotify.com/album/4lwXF6u716TTBpWWN8uzut"
       },
@@ -3394,7 +3478,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 138613,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/0l67h4r2D4mXd7bUe9AG3W"
@@ -3552,6 +3636,24 @@
       "duration_ms": 61714,
       "name": "Chant",
       "url": "https://open.spotify.com/track/2V9cBKkc5JvtlQ59i8gB1j"
+    },
+    {
+      "album": {
+        "name": "Cheri Cheri Lady",
+        "url": "https://open.spotify.com/album/6Ac00kZahMad0jo3MJIffH"
+      },
+      "artists": [
+        {
+          "name": "THNDERZ",
+          "url": "https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131830,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/5y8vRm4njsp6CJDDrSIqFw"
     },
     {
       "album": {
@@ -4212,6 +4314,36 @@
       "duration_ms": 267217,
       "name": "Craving You",
       "url": "https://open.spotify.com/track/5BDXw3ozJ1yXQpM2VKYMDk"
+    },
+    {
+      "album": {
+        "name": "Crazy (ASHER SWISSA Remix)",
+        "url": "https://open.spotify.com/album/1Ti2kmVkPkjYtZMsQXYFiA"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Crazy (ASHER SWISSA Remix)",
+      "url": "https://open.spotify.com/track/3xGFvawrOKoit7eNW6FUJN"
     },
     {
       "album": {
@@ -5492,7 +5624,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 167111,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/7eNnsJH1wW6vf7rkqss0dM"
@@ -6390,6 +6522,28 @@
       "duration_ms": 196190,
       "name": "Fade Away (feat. Jaxn Faw)",
       "url": "https://open.spotify.com/track/73gq75n2ofg1yJCQyvWea7"
+    },
+    {
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/2h7InYG0fvKPS6mhg3FejV"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139862,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/0mZNmGCeTuWYf9qjpuZT9G"
     },
     {
       "album": {
@@ -7624,6 +7778,32 @@
       "duration_ms": 152727,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
+    },
+    {
+      "album": {
+        "name": "Fugazi (LAWRENT Remix)",
+        "url": "https://open.spotify.com/album/5qVmzfrjxrTtJaTcIyYg7K"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139818,
+      "name": "Fugazi - LAWRENT Remix",
+      "url": "https://open.spotify.com/track/6PEDXWBUR1mTmOyJ9jCDtP"
     },
     {
       "album": {
@@ -10194,7 +10374,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 137571,
       "name": "Infinity (Khira Li Remix)",
       "url": "https://open.spotify.com/track/2EjyjGey5iDm1OTlCBuuSD"
@@ -10594,7 +10774,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 189878,
       "name": "Jiggy",
       "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
@@ -13185,6 +13365,32 @@
     },
     {
       "album": {
+        "name": "Macarena",
+        "url": "https://open.spotify.com/album/7lvLBUSBMVhPjkxf5pNTNk"
+      },
+      "artists": [
+        {
+          "name": "Ale Basciano",
+          "url": "https://open.spotify.com/artist/33Qz6dWUMmGaMRgLNUEWr9"
+        },
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BIONT",
+          "url": "https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131123,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/2KXtLayfxTNdLuJUH2s3Lj"
+    },
+    {
+      "album": {
         "name": "Mad Swagga (feat. Coppa)",
         "url": "https://open.spotify.com/album/5hiXE4IwnuU7GywvkKCjXA"
       },
@@ -13889,6 +14095,32 @@
     },
     {
       "album": {
+        "name": "Mirror Mirror (Showtek 360 Blue Edit)",
+        "url": "https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187132,
+      "name": "Mirror Mirror (Showtek 360 Blue Edit)",
+      "url": "https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT"
+    },
+    {
+      "album": {
         "name": "Miss Me To Death",
         "url": "https://open.spotify.com/album/1hv3oGxS5Nh5uNv9ydpHAs"
       },
@@ -14208,7 +14440,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 134545,
       "name": "Move It (with Luciana) [Sam Noton, Alex Mueller, Retrika Remix]",
       "url": "https://open.spotify.com/track/2d4a2pdV2O2aWv20g4LZgd"
@@ -15190,7 +15422,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 155476,
       "name": "Nice & Chill (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/0YpGZ3doNPRq9mMj4kgUZB"
@@ -15878,6 +16110,24 @@
       "duration_ms": 216000,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7Ap8x9Wljva0J0ypsEmEVo"
+    },
+    {
+      "album": {
+        "name": "Off Switch",
+        "url": "https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172158,
+      "name": "Off Switch",
+      "url": "https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM"
     },
     {
       "album": {
@@ -18956,7 +19206,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 111111,
       "name": "Senta Phonk",
       "url": "https://open.spotify.com/track/4Cp8lWn34Mjro7Z3YuxDSL"
@@ -23006,6 +23256,28 @@
       "duration_ms": 144461,
       "name": "Unicum",
       "url": "https://open.spotify.com/track/5slTw97UkUthu9CLjC5Zii"
+    },
+    {
+      "album": {
+        "name": "Uninvited (feat. Yasmin Jane)",
+        "url": "https://open.spotify.com/album/6mZFSLJZy80MFcMRRw3nB4"
+      },
+      "artists": [
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        },
+        {
+          "name": "Yasmin Jane",
+          "url": "https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Uninvited (feat. Yasmin Jane)",
+      "url": "https://open.spotify.com/track/5VFd0TVXh4OH3fOwjs0JGi"
     },
     {
       "album": {

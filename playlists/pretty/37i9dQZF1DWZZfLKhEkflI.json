@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 68128,
+  "num_followers": 68158,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWM2ZmE4NjY5NWM1YWEzYTYyYjZkYjUxNGUxOGJiZDY0MmYwNzFk",
+  "snapshot_id": "MCxiZjUzOGUzMWZkZGJjYTU5NmM3NjkzNGMwODJmYzM1NmRhOTEyMjQ2",
   "tracks": [
     {
       "added_at": "2023-12-21 09:36:34",
@@ -347,8 +347,8 @@
     {
       "added_at": "2023-12-21 09:36:34",
       "album": {
-        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 358440,
-      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
+      "duration_ms": 385573,
+      "name": "Lester Left Town - Remastered 2005",
+      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
     },
     {
       "added_at": "2023-12-21 09:36:34",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-12-21 09:36:34",
       "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 385573,
-      "name": "Lester Left Town - Remastered 2005",
-      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
+      "duration_ms": 358440,
+      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
     },
     {
       "added_at": "2023-12-21 09:36:34",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-12-21 09:36:34",
       "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 381640,
+      "name": "Hush - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
+    },
+    {
+      "added_at": "2023-12-21 09:36:34",
+      "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 530840,
       "name": "Blues Up And Down",
       "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
-    },
-    {
-      "added_at": "2023-12-21 09:36:34",
-      "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 381640,
-      "name": "Hush - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
     },
     {
       "added_at": "2023-12-21 09:36:34",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-12-21 09:36:34",
       "album": {
-        "name": "Shades Of Redd (Remastered)",
-        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
+        "name": "Our Thing",
+        "url": "https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd"
       },
       "artists": [
         {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 303600,
-      "name": "Melanie - Digital Remaster/2007",
-      "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
+      "duration_ms": 379786,
+      "name": "Back Road - Rudy Van Gelder, 2000 Remaster",
+      "url": "https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz"
     },
     {
       "added_at": "2023-12-21 09:36:34",
@@ -1019,22 +1019,6 @@
       "duration_ms": 741106,
       "name": "Society Red - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
       "url": "https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy"
-    },
-    {
-      "added_at": "2023-12-21 09:36:34",
-      "album": {
-        "name": "Our Thing",
-        "url": "https://open.spotify.com/album/6NMyU9AYokycLD4cY2BzGd"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 379786,
-      "name": "Back Road - Rudy Van Gelder, 2000 Remaster",
-      "url": "https://open.spotify.com/track/6ZjpsZ5mmMmM7rMqK4nOLz"
     },
     {
       "added_at": "2023-12-21 09:36:34",
@@ -1067,6 +1051,22 @@
       "duration_ms": 294893,
       "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
+    },
+    {
+      "added_at": "2023-12-21 09:36:34",
+      "album": {
+        "name": "Shades Of Redd (Remastered)",
+        "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Melanie - Digital Remaster/2007",
+      "url": "https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9"
     },
     {
       "added_at": "2023-12-21 09:36:34",

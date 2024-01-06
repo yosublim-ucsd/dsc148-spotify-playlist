@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Youth Lagoon
 
-6,332 songs - 15 day 9 hr 50 min
+6,333 songs - 15 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5050,7 +5050,8 @@
 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/2e72zB3gtp4EdW6vfaHfPl) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Spiders \(Kidsmoke\)](https://open.spotify.com/album/0BuCSFl6l2ej1kx6d4QggV) | 8:37 | 2019-11-15 | 2020-01-24 |
 | [SPILL](https://open.spotify.com/track/2KGG4wCYyILicxRazWpFTK) | [STACY OUTRAGEOUS](https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL) | [SPILL](https://open.spotify.com/album/5b6XhNME9lNAQiT2NrZzJU) | 2:20 | 2023-05-26 | 2023-06-24 |
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-15 | 2022-04-29 |
-| [Spinning](https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Spinning](https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv) | 3:34 | 2023-12-08 |  |
+| [Spinning](https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Spinning](https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv) | 3:34 | 2023-12-08 | 2024-01-06 |
+| [Spinning](https://open.spotify.com/track/6MTxftPAssBVTyGFJ4KB1l) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:34 | 2023-12-08 |  |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-03-06 | 2021-04-24 |
 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 | 2022-07-01 | 2022-07-30 |
 | [Spirals](https://open.spotify.com/track/21XK3S7N0Jyx9IJLG1tF6D) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Spirals](https://open.spotify.com/album/3jatKNCm41BJlB7y27emjF) | 4:55 | 2022-05-20 | 2022-07-09 |

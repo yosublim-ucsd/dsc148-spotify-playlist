@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: TATYANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,110 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,125 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 3 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
 | 4 | [Right Here](https://open.spotify.com/track/3O9m7ajjMbigoXLwrzZvpt) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Right Here](https://open.spotify.com/album/0C75HbE7TLJVRHytSga0fQ) | 4:10 |
 | 5 | [Stay](https://open.spotify.com/track/169m17LngQCxaxWdbVSVNL) | [Say Yes Dog](https://open.spotify.com/artist/039HWymb5EJiSHhtlJctsi) | [Stay](https://open.spotify.com/album/4sYGgEKQIpp5NSZMG4Qv5u) | 3:37 |
-| 6 | [Mirrors](https://open.spotify.com/track/66c9EmPAVDQpzYkuyzRx1W) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/1aIKBiopPzB5YP5tkQ2KHd) | 3:41 |
+| 6 | [Mirrors](https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4) | 3:41 |
 | 7 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
 | 8 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 |
 | 9 | [Children](https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Children](https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR) | 4:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 |
 | 75 | [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 |
 
-Snapshot ID: `MCwzN2U3ZDI0Yjk0YmNhYjcwM2NiZjc3ODVkNDZlZDAzMmVhNzY5OWEz`
+Snapshot ID: `MCw1MWZiZTlkZDg2NWY5NGMzNzgxNWJkMDJmMWQ0ZTk2ODY1OGJmNzM4`

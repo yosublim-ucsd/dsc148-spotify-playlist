@@ -4,10 +4,11 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs
 
-67 songs - 3 hr 41 min
+68 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [25 to Life](https://open.spotify.com/track/4Qy7iFOMMiyRJVNUtQ629P) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [25 to Life](https://open.spotify.com/album/1Bdp0nV1GvqiY6069YxD8Y) | 2:58 | 2024-01-05 |  |
 | [27 Club](https://open.spotify.com/track/0Ikbwd2FModLCQrZGJlRUI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:43 | 2023-11-03 |  |
 | [5 Leaf Clover](https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:31 | 2023-11-03 |  |
 | [A Little Devil](https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [A Little Devil / Tiny Wooden Box](https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls) | 3:51 | 2023-12-08 |  |
@@ -47,7 +48,7 @@
 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 | 2023-11-03 |  |
 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 | 2023-11-03 | 2023-12-09 |
 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-11-03 |  |
-| [Last Time](https://open.spotify.com/track/7tAK6Y4CnO4nbm6FST7foC) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Last Time](https://open.spotify.com/album/4ErYvpED07CIeWI6QOn36k) | 2:45 | 2023-11-03 |  |
+| [Last Time](https://open.spotify.com/track/7tAK6Y4CnO4nbm6FST7foC) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Last Time](https://open.spotify.com/album/4ErYvpED07CIeWI6QOn36k) | 2:45 | 2023-11-03 | 2024-01-06 |
 | [Little Bit Crazy](https://open.spotify.com/track/0mxbf0VhKWQEJP7EOreW7S) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Little Bit Crazy](https://open.spotify.com/album/5ylhtzNNV3OjgFkG1ooE7a) | 4:46 | 2023-11-03 |  |
 | [No Can Do](https://open.spotify.com/track/77b70swv6ONiPN2gZJ0D3M) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [No Can Do](https://open.spotify.com/album/5vMlCwWcxWKttxCSRMjpyJ) | 3:02 | 2023-11-03 |  |
 | [On The Water \(feat\. Dalton Dover\)](https://open.spotify.com/track/4aeY1MkxBFvmjHKP8XOvF9) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA), [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [On The Water \(feat\. Dalton Dover\)](https://open.spotify.com/album/5oossVe8apXhxWromaz3XY) | 2:58 | 2023-11-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 127072,
+  "num_followers": 127108,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNmYmE3MmJlNDE1MDk2NjdmZjg5YzEwYzVmNDdhOGI1NjZmZmFh",
+  "snapshot_id": "MCwwMGIzZWJiZmMzOTc2NTk2MjU3MmJlNzc1NDhkY2VmZjgzNDQ0ODky",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "neverfade",
         "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 179857,
       "name": "neverfade",
       "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Hands High",
         "url": "https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 223346,
       "name": "Hands High",
       "url": "https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Canyon Worship 2021",
-        "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
-      },
-      "artists": [
-        {
-          "name": "Canyon Worship",
-          "url": "https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh"
-        },
-        {
-          "name": "Madison Russell",
-          "url": "https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld"
-        }
-      ],
-      "duration_ms": 208204,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "It's Coming",
         "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
       },
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
+        "name": "Canyon Worship 2021",
+        "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
       },
       "artists": [
         {
-          "name": "Holly Starr",
-          "url": "https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7"
+          "name": "Canyon Worship",
+          "url": "https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh"
+        },
+        {
+          "name": "Madison Russell",
+          "url": "https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld"
         }
       ],
-      "duration_ms": 200350,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
+      "duration_ms": 208204,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1099,6 +1083,22 @@
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
+      },
+      "artists": [
+        {
+          "name": "Holly Starr",
+          "url": "https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7"
+        }
+      ],
+      "duration_ms": 200350,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 227500,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Glory (Live)",
-        "url": "https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
       "artists": [
         {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
-        },
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Never Let You Go - Live",
-      "url": "https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB"
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
     }
   ],
   "unique_name": "Hits UP",

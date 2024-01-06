@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 195444,
+  "num_followers": 195527,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjY4ZTY2Y2YxMGM1YWM2NzQyNzEzM2IxNGNhNGMwNGIwMGMyNmU2",
+  "snapshot_id": "MCwyYzA4Y2ZmZjBkYTE3NzZjNjg0NWQ3YTdlYTg0YTJkODU0NGMwYWYx",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -715,22 +715,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Muy Nuestro",
-        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/0E9KgSm12LLUUZBXN7oEty"
       },
       "artists": [
         {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
         }
       ],
-      "duration_ms": 296146,
-      "name": "El Mochuelo",
-      "url": "https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j"
+      "duration_ms": 286960,
+      "name": "Mi Muchacho",
+      "url": "https://open.spotify.com/track/1A8Fko18JWELjgXtGHaL11"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -755,22 +755,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "El Mundo",
-        "url": "https://open.spotify.com/album/0E9KgSm12LLUUZBXN7oEty"
+        "name": "Muy Nuestro",
+        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
         },
         {
-          "name": "Colacho Mendoza",
-          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
         }
       ],
-      "duration_ms": 286960,
-      "name": "Mi Muchacho",
-      "url": "https://open.spotify.com/track/1A8Fko18JWELjgXtGHaL11"
+      "duration_ms": 296146,
+      "name": "El Mochuelo",
+      "url": "https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -815,18 +815,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "De Cach\u00e9",
-        "url": "https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs"
+        "name": "Cantando",
+        "url": "https://open.spotify.com/album/4Quphj8pT97jUc6T1A03Op"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 264720,
-      "name": "Sombra Perdida",
-      "url": "https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z"
+      "duration_ms": 277400,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/5hgzN4qFBsZzTMj4hnaBbg"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -863,6 +867,22 @@
       "duration_ms": 259413,
       "name": "Acompa\u00f1ame",
       "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "De Cach\u00e9",
+        "url": "https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Sombra Perdida",
+      "url": "https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -915,26 +935,6 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Cantando",
-        "url": "https://open.spotify.com/album/4Quphj8pT97jUc6T1A03Op"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/5hgzN4qFBsZzTMj4hnaBbg"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Zuleta",
+          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
+        }
+      ],
+      "duration_ms": 299733,
+      "name": "Mi Hermano Y Yo",
+      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Festival Vallenato",
         "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
       "artists": [
         {
-          "name": "Los Hermanos Zuleta",
-          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 299733,
-      "name": "Mi Hermano Y Yo",
-      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
+      "duration_ms": 241297,
+      "name": "Ceniza Fria",
+      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1043,22 +1059,6 @@
       "duration_ms": 259880,
       "name": "Adios Amor",
       "url": "https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 257696,
-      "name": "Se Le Moja la Canoa",
-      "url": "https://open.spotify.com/track/1R7xRGu2YdVc5HZyhXeUFv"
     },
     {
       "added_at": "2023-02-07 01:31:56",

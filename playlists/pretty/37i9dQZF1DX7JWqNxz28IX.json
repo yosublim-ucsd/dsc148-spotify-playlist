@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43508,
+  "num_followers": 43511,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDQzMjczMDY3MmMzZThlYjQ2YTE0Njc1NzUxZWFlMWQ4NzE4NDFj",
+  "snapshot_id": "MCw4YzY3YTAyMzZjZWNjODg3YTA4MDI4NmZiYWVlZmE4NjJmMDBlM2E0",
   "tracks": [
     {
       "added_at": "2023-12-06 17:08:54",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "ALESSIA",
+        "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "Polmoni",
         "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 171641,
       "name": "Dentro di Te",
       "url": "https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "ALESSIA",
-        "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
-      },
-      "artists": [
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Lacrime di sale",
         "url": "https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 195683,
       "name": "Lacrime di sale",
       "url": "https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Hai fatto tardi",
+        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 172923,
+      "name": "Hai fatto tardi",
+      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1043,22 +1047,34 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1095,22 +1111,6 @@
       "duration_ms": 133658,
       "name": "SOGNI",
       "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Semprerosa",
         "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 172216,
-      "name": "Empatia",
-      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1215,6 +1199,22 @@
       "duration_ms": 116933,
       "name": "(SEMBRA BELLO)",
       "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 172216,
+      "name": "Empatia",
+      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "ONIRO",
-        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
-      },
-      "artists": [
-        {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
-        },
-        {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "DOVE SEI",
-      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "ONIRO",
+        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+      },
+      "artists": [
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "DOVE SEI",
+      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Febbre a febbraio",
         "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Marie 3 (Principessa Paranoia)",
-        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Marie 3 - Principessa Paranoia",
-      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "poster",
         "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 169795,
       "name": "poster",
       "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Marie 3 (Principessa Paranoia)",
+        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Marie 3 - Principessa Paranoia",
+      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "oggi ho pianto",
-        "url": "https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M"
-      },
-      "artists": [
-        {
-          "name": "outcast.",
-          "url": "https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9"
-        }
-      ],
-      "duration_ms": 132231,
-      "name": "oggi ho pianto",
-      "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Primo Amore",
         "url": "https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 213818,
       "name": "Palude 4",
       "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "oggi ho pianto",
+        "url": "https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M"
+      },
+      "artists": [
+        {
+          "name": "outcast.",
+          "url": "https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9"
+        }
+      ],
+      "duration_ms": 132231,
+      "name": "oggi ho pianto",
+      "url": "https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C"
     },
     {
       "added_at": "2023-12-06 17:08:54",

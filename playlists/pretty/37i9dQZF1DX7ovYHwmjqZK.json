@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 207325,
+  "num_followers": 207431,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzkwMGIyN2JhNmY2NGUxYjBlZWMwMDhiNjgzZDRiOGFmNmVlMTQy",
+  "snapshot_id": "MCxiZjYwODU2M2MyYWE2Y2Y0OGQ1OTg1NTdmY2VjYTcwMmMwMmY2Y2Rh",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Happy Madness",
-        "url": "https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ"
-      },
-      "artists": [
-        {
-          "name": "Delicatessen",
-          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
-        }
-      ],
-      "duration_ms": 265861,
-      "name": "Ing\u00eanuo",
-      "url": "https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Inso\u0302nia",
         "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196179,
       "name": "Bela Moc\u0327a",
       "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Happy Madness",
+        "url": "https://open.spotify.com/album/4ATSdXBELcnSW957onlnTJ"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen",
+          "url": "https://open.spotify.com/artist/402BCt05RMtfellwy880r9"
+        }
+      ],
+      "duration_ms": 265861,
+      "name": "Ing\u00eanuo",
+      "url": "https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Fub\u00e1 Mimoso",
-        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
-      },
-      "artists": [
-        {
-          "name": "Seu Elias",
-          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Tantas Coisas",
-      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
-        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
+        "name": "Fub\u00e1 Mimoso",
+        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Seu Elias",
+          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
         }
       ],
-      "duration_ms": 194576,
-      "name": "Maria e o Samba",
-      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
+      "duration_ms": 160458,
+      "name": "Tantas Coisas",
+      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -751,6 +735,22 @@
       "duration_ms": 204394,
       "name": "Cl\u00e1udia",
       "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
+        "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 194576,
+      "name": "Maria e o Samba",
+      "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "O Estrangeiro",
+        "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
+      },
+      "artists": [
+        {
+          "name": "V\u00edtor Guima",
+          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Por A\u00ed",
+      "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Al\u00e9m da Bossa",
         "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 225040,
       "name": "Al\u00e9m da Bossa",
       "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "O Estrangeiro",
-        "url": "https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d"
-      },
-      "artists": [
-        {
-          "name": "V\u00edtor Guima",
-          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Por A\u00ed",
-      "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Joao",
-        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Eu Sambo Mesmo",
-      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "O Melhor Carinho",
         "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Joao",
+        "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Selfie",
         "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
       },
@@ -1051,6 +1051,34 @@
       "duration_ms": 275370,
       "name": "Perto do Tom",
       "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Borges",
+          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
+        },
+        {
+          "name": "Mauricio Tizumba",
+          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
+        },
+        {
+          "name": "Josi Lopes",
+          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
+        },
+        {
+          "name": "Play",
+          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
+        }
+      ],
+      "duration_ms": 332026,
+      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
+      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1095,34 +1123,6 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-        "url": "https://open.spotify.com/album/1i8zHkjkGJtHvM1JXIdnoW"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Borges",
-          "url": "https://open.spotify.com/artist/6tjPo68UcQbiMU9J7iFzkU"
-        },
-        {
-          "name": "Mauricio Tizumba",
-          "url": "https://open.spotify.com/artist/3J82S5lA72sAhB4KhbvPMX"
-        },
-        {
-          "name": "Josi Lopes",
-          "url": "https://open.spotify.com/artist/3isa3rO7iljHMNOeEF4n1q"
-        },
-        {
-          "name": "Play",
-          "url": "https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP"
-        }
-      ],
-      "duration_ms": 332026,
-      "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
-      "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Bossa Got the Blues",
-        "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
       },
       "artists": [
         {
-          "name": "Bossacucanova",
-          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
         }
       ],
-      "duration_ms": 180665,
-      "name": "Bossa Got The Blues",
-      "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Media\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
+        "name": "Bossa Got the Blues",
+        "url": "https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i"
       },
       "artists": [
         {
-          "name": "Bossa Brothers",
-          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
+          "name": "Bossacucanova",
+          "url": "https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 151109,
-      "name": "Media\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
+      "duration_ms": 180665,
+      "name": "Bossa Got The Blues",
+      "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
+        "name": "Media\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
       "artists": [
         {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
+          "name": "Bossa Brothers",
+          "url": "https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc"
         }
       ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
+      "duration_ms": 151109,
+      "name": "Media\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1331,34 +1331,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "O Anel - Ala\u00edde Costa Canta Jos\u00e9 Miguel Wisnik",
-        "url": "https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy"
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Miguel Wisnik",
-          "url": "https://open.spotify.com/artist/4yazl771ZuBfsAKt6wyCbV"
-        },
-        {
-          "name": "Jos\u00e9 Miguel Wisnik",
-          "url": "https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni"
-        },
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        },
-        {
-          "name": "S\u00e9rgio Reze",
-          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
-        },
-        {
-          "name": "Zeca Assump\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF"
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
         }
       ],
-      "duration_ms": 254413,
-      "name": "Saudade da Saudade",
-      "url": "https://open.spotify.com/track/70ig40aEN4esNMLSOAQWlR"
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1391,18 +1375,34 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+        "name": "O Anel - Ala\u00edde Costa Canta Jos\u00e9 Miguel Wisnik",
+        "url": "https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy"
       },
       "artists": [
         {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+          "name": "Z\u00e9 Miguel Wisnik",
+          "url": "https://open.spotify.com/artist/4yazl771ZuBfsAKt6wyCbV"
+        },
+        {
+          "name": "Jos\u00e9 Miguel Wisnik",
+          "url": "https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni"
+        },
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        },
+        {
+          "name": "S\u00e9rgio Reze",
+          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
+        },
+        {
+          "name": "Zeca Assump\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+      "duration_ms": 254413,
+      "name": "Saudade da Saudade",
+      "url": "https://open.spotify.com/track/70ig40aEN4esNMLSOAQWlR"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1587,46 +1587,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "A Banca do Distinto",
-        "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
-      },
-      "artists": [
-        {
-          "name": "Walker Lahmann",
-          "url": "https://open.spotify.com/artist/6n4Y9KIPs6AwSlQFZCbz6R"
-        },
-        {
-          "name": "Elias J\u00f3",
-          "url": "https://open.spotify.com/artist/2fIx5rLrOMvwKnxaTEKz8D"
-        },
-        {
-          "name": "Vando Lucena",
-          "url": "https://open.spotify.com/artist/6b0UwUQQ1rh3OlKPtkpe69"
-        }
-      ],
-      "duration_ms": 152338,
-      "name": "A Banca do Distinto",
-      "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Vida C\u00f3digo",
-        "url": "https://open.spotify.com/album/4pCNLcYtZ7g9KU3LMtVpBk"
-      },
-      "artists": [
-        {
-          "name": "Tigan\u00e1 Santana",
-          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Meios",
-      "url": "https://open.spotify.com/track/1h9pUIVYwc0Hjp9ZEMisy1"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Garoto - Wanderson Lopez Ensemble (Ao Vivo)",
         "url": "https://open.spotify.com/album/56Qvs3eXRYJhbZhXBZSWJT"
       },
@@ -1675,6 +1635,46 @@
       "duration_ms": 209983,
       "name": "Garoto - Ao Vivo",
       "url": "https://open.spotify.com/track/6O2l61ZGgLo2X4jk37L62k"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "A Banca do Distinto",
+        "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
+      },
+      "artists": [
+        {
+          "name": "Walker Lahmann",
+          "url": "https://open.spotify.com/artist/6n4Y9KIPs6AwSlQFZCbz6R"
+        },
+        {
+          "name": "Elias J\u00f3",
+          "url": "https://open.spotify.com/artist/2fIx5rLrOMvwKnxaTEKz8D"
+        },
+        {
+          "name": "Vando Lucena",
+          "url": "https://open.spotify.com/artist/6b0UwUQQ1rh3OlKPtkpe69"
+        }
+      ],
+      "duration_ms": 152338,
+      "name": "A Banca do Distinto",
+      "url": "https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Vida C\u00f3digo",
+        "url": "https://open.spotify.com/album/4pCNLcYtZ7g9KU3LMtVpBk"
+      },
+      "artists": [
+        {
+          "name": "Tigan\u00e1 Santana",
+          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Meios",
+      "url": "https://open.spotify.com/track/1h9pUIVYwc0Hjp9ZEMisy1"
     },
     {
       "added_at": "2023-11-24 08:43:33",

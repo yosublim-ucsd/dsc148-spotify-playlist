@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-366 songs - 21 hr 36 min
+367 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Feeling Of Love \(feat\. DāM\-FunK\)](https://open.spotify.com/track/2B4A0vo8Wsu6SZtHx8Qs3I) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Feeling Of Love](https://open.spotify.com/album/3i2ckvhQzgKThpoiERkG8e) | 4:25 | 2022-02-11 | 2022-07-29 |
 | [Feels This Good](https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [Feels This Good](https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v) | 2:12 | 2023-03-17 |  |
 | [Firebrand](https://open.spotify.com/track/6zOr5n0BW3av1yYCAx3rgQ) | [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu), [Nathan King](https://open.spotify.com/artist/641lw2Fn5GzaI6RLYRE7X5) | [Human Synths](https://open.spotify.com/album/5c3NrFU57zDZ7rjQQZ7OD4) | 3:56 | 2022-11-11 | 2023-03-18 |
+| [Fixations](https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE) | [Fixations](https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t) | 3:13 | 2024-01-05 |  |
 | [Floatin'](https://open.spotify.com/track/3pskfPInvz8nsloyEzUnFL) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Floatin'](https://open.spotify.com/album/6Na5fZHOLE34XND8URABMC) | 3:08 | 2020-11-20 | 2022-04-09 |
 | [Fly Like An Eagle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Fly Like an Eagle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2FRv54YdknVaD2A2B3reLU) | 2:58 | 2022-07-01 | 2023-05-27 |
 | [Follow The Light](https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Follow The Light](https://open.spotify.com/album/3gSUJYYXpZfYi94w9XOHNv) | 4:04 | 2021-08-28 | 2022-08-13 |
@@ -244,7 +245,7 @@
 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 | 2023-08-04 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-05-21 | 2022-01-29 |
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2022-12-03 |
-| [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 |  |
+| [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 | 2024-01-06 |
 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 | 2023-08-25 |  |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [ooeeooeeoo](https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [ooeeooeeoo](https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl) | 4:14 | 2021-07-30 | 2022-08-27 |

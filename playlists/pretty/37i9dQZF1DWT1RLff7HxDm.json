@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 167456,
+  "num_followers": 167490,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDI2YTc2NTkyNmYwZGJlZDgyYWE3OTEwNjk1MTU0MThhOWUwZTQy",
+  "snapshot_id": "MCxjNmU2MTc3OTI0MzBhMmZmZTYyNGMyZDJjOGQwNmZkOTFiMWUyY2Jm",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Live In London (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 416462,
+      "name": "Long Distance Woman - Live-Bonus Track",
+      "url": "https://open.spotify.com/track/26RmrLz1hYNT6JUY0fsQn5"
+    },
+    {
       "added_at": "2023-07-18 13:02:38",
       "album": {
         "name": "The Definitive 24 Nights (Live)",
@@ -163,22 +179,6 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Empty Promises (Live)",
-        "url": "https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 469445,
-      "name": "Empty Promises - Live",
-      "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
     },
     {
       "added_at": "2023-02-03 05:01:00",

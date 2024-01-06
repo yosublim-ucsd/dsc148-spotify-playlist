@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: MY DEMON\(마이데몬\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-785 songs - 1 day 23 hr 36 min
+786 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [The Secret Garden](https://open.spotify.com/track/2ykHau3Xffgjhm9zmKBILS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Call It Love, Part 1 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3mLDrNtCsnapPkEqexs2pz) | 3:16 | 2023-02-24 | 2023-07-18 |
 | [The sun is in my eyes](https://open.spotify.com/track/5C3Zfrnprz4lyeaTsqN9wF) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Musical <Midnight Sun> Original Soundtrack](https://open.spotify.com/album/3u7PM56bqY9B3cfokdrJLO) | 3:14 | 2022-05-03 | 2022-07-05 |
 | [The Veiled Path](https://open.spotify.com/track/2iu5E0I9RYnCC2Qn3ouZ33) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5U0cliOy1dfUWkJKP4JsHv) | 3:28 | 2021-12-19 | 2022-04-13 |
+| [The way to lose you \(Korean Ver.\)](https://open.spotify.com/track/551Lg3Jo8w4aP0gBmgf3qQ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 | 2024-01-05 |  |
 | [There For You](https://open.spotify.com/track/4D3Wo2n0MuTT0DL0zKFGFI) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0FVboRKTx9X0g0ywM3GlbY) | 3:40 | 2021-12-24 | 2022-04-13 |
 | [Thirsty for Love](https://open.spotify.com/track/5QnpMpYEE2LSFegbHFbkYd) | [건지](https://open.spotify.com/artist/79xtZ56bsMOQwiTe5Ob1jD) | [Red Balloon OST Part.6](https://open.spotify.com/album/5tKkrid72hWtqtor3nQWL6) | 3:47 | 2023-02-24 | 2023-07-18 |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-04 | 2022-11-04 |

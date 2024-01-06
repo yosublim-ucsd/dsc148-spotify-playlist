@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-435 songs - 1 day 6 hr 8 min
+436 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All I Hear Is Birds \- Focus Rework](https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Matt Robertson](https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax) | [All I Hear Is Birds \(Focus Rework\)](https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ) | 4:08 | 2023-10-06 |  |
 | [All in Circles](https://open.spotify.com/track/3ilpuRkfis9IFCVgj28CyH) | [Shida Shahabi](https://open.spotify.com/artist/72kYzyvgJS9izgSp2ttqdm) | [Shifts](https://open.spotify.com/album/0FLDcvEabxPZdEUrkVsDLf) | 3:56 | 2021-02-06 | 2021-02-12 |
 | [All the Way Round \- Edit](https://open.spotify.com/track/68Cz5sfSKx1ugwoxJzLIHh) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [All the Way Round](https://open.spotify.com/album/5bQ65flJGJ4mhQG9cYWzri) | 4:30 | 2020-10-20\* | 2022-07-26 |
+| [All We Can't See \- Piano Version](https://open.spotify.com/track/6XaPhn8iq2ij8G6lDgRhQU) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See \(Piano Version\)](https://open.spotify.com/album/6FQAJXWN0sJOBrSJhVRott) | 1:58 | 2024-01-05 |  |
 | [Always With You](https://open.spotify.com/track/0dw2EEX075EVNNQGyUxdz0) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Diamond Note](https://open.spotify.com/artist/0x4uyhukabmnOqixAWsICd) | [Always With You](https://open.spotify.com/album/6yWYaXO5FfwY1NMjC7bRYI) | 3:36 | 2020-10-21 | 2022-04-20 |
 | [And Forever](https://open.spotify.com/track/0VPeDCfOBec0ww3maU0sYP) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [And Forever](https://open.spotify.com/album/0arph3k7LxpQjMmPMkwv6E) | 3:17 | 2020-10-20\* | 2021-01-15 |
 | [Approach / Dream](https://open.spotify.com/track/56nGVBISGy79Y3a4sCOZDg) | [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1) | [Angels of the Universe](https://open.spotify.com/album/4wxQFiQ2AblWOXazUDPo1P) | 3:07 | 2020-12-04 | 2020-12-11 |
@@ -429,7 +430,7 @@
 | [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-07-22 | 2022-07-30 |
 | [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 |  |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
-| [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 |  |
+| [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 | 2024-01-06 |
 | [Wholeness and the Implicate Order](https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Wholeness and the Implicate Order](https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d) | 5:46 | 2020-10-21 | 2022-07-16 |
 | [Winter's Fall](https://open.spotify.com/track/3mFQNmkVxLga6LyX3s8fI0) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [Austerlitz](https://open.spotify.com/album/7tWjb5AIZier6MusEf5Oz3) | 5:09 | 2020-10-21 | 2021-01-15 |
 | [Woven Song](https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song](https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA) | 3:10 | 2020-10-20\* |  |

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-982 songs - 2 day 3 hr 45 min
+983 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [So Fucked Up](https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss) | [Aspen King](https://open.spotify.com/artist/1tJuVa4e8TF5YrJhwHBZaE), [44stance](https://open.spotify.com/artist/412wG46pUp52x0jvVZ0epQ) | [So Fucked Up](https://open.spotify.com/album/1tYINWoPffLlj9dTGEJio5) | 3:24 | 2022-03-04 | 2022-04-02 |
 | [SO HIGH](https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [CIRCUIT DREAMS](https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P) | 3:24 | 2023-10-19 |  |
 | [Sober](https://open.spotify.com/track/3PYHVvoFONHRTWiDeRk0dK) | [scsc](https://open.spotify.com/artist/76EtZST05YbVzXkUsMHhbS) | [Sober](https://open.spotify.com/album/2xAQ6N5SfAUdzJX0RDsKyP) | 3:50 | 2022-05-06 | 2022-06-04 |
+| [SOCADÃO](https://open.spotify.com/track/4O5aR203HU1jp0z2o4ndID) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SOCADÃO](https://open.spotify.com/album/6C2CXWT4GTpFoGI2qFNCFv) | 1:36 | 2024-01-05 |  |
 | [Sold My Soul](https://open.spotify.com/track/4oyQFA7BnwLUPFFk8ptNOa) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Sold My Soul](https://open.spotify.com/album/3zGrGTP0vCSqIErxuyp6sJ) | 3:28 | 2023-08-16 |  |
 | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo) | 5:58 | 2023-12-21 |  |
 | [Solstice](https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Solstice](https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX) | 5:03 | 2023-04-08 | 2023-08-26 |

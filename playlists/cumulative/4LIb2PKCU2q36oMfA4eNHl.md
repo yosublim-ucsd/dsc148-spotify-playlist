@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-42 songs - 2 hr 47 min
+43 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Silhouette](https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:35 | 2023-12-08 |  |
 | [Snow Day](https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Snow Day](https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g) | 3:28 | 2023-12-08 | 2023-12-16 |
 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 | 2023-12-08 |  |
-| [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2023-12-08 |  |
+| [summer & emails \(no longer a sadness\)](https://open.spotify.com/track/0p03R0WRlCjPp5rENeC4GM) | [Joshua](https://open.spotify.com/artist/6WY4GlbTKrZnzoaIyKdyDr), [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [2.23](https://open.spotify.com/album/3cVo98Ytv09Iu5PIwnla5O) | 1:06 | 2024-01-05 |  |
+| [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2023-12-08 | 2024-01-06 |
 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 | 2023-12-15 |  |
 | [To Where Dreams Are](https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu) | [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:06 | 2023-12-08 |  |
 | [Wide Awake](https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:03 | 2023-12-08 |  |

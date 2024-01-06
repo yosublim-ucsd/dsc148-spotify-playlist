@@ -138,6 +138,24 @@
     {
       "album": {
         "name": "5 in the Morning",
+        "url": "https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169596,
+      "name": "5 in the Morning",
+      "url": "https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU"
+    },
+    {
+      "album": {
+        "name": "5 in the Morning",
         "url": "https://open.spotify.com/album/6QgppLgKjQ512u7ikrWrZN"
       },
       "artists": [
@@ -148,7 +166,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 172680,
       "name": "5 in the Morning",
       "url": "https://open.spotify.com/track/2oXUwwZIr64b9N01EXTKcN"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/0A5qqtFMG1qrNQEcjvr1A2"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 207916,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/1a4MQADIxoyUd2SToNb0aR"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 216635,
       "name": "Drop That Kitty (feat. Charli XCX & Tinashe)",
       "url": "https://open.spotify.com/track/0Bi1amRigSOIzLc21hOH6p"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 218051,
       "name": "Drop That Kitty (feat. Charli XCX & Tinashe)",
       "url": "https://open.spotify.com/track/28GInriDPv71uIkNmlxqGN"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 187893,
       "name": "Drum",
       "url": "https://open.spotify.com/track/2Kp3IIDOY0LgATlHaXoO4O"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 201834,
       "name": "Drum",
       "url": "https://open.spotify.com/track/21jo2av2TyjLl9e57qVuWI"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 201576,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/6ZrvTFsAuDvdgDe763QJFU"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 200687,
       "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
       "url": "https://open.spotify.com/track/1K9yH9EpJsH2kXWX4ozH68"
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 247622,
       "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
       "url": "https://open.spotify.com/track/5WDxdmnhXAFl7HkmGFhkT3"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 145840,
       "name": "Used to Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 177177,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/3CtQt5w0GdlJT5cSjBUhNF"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "What I Like",
       "url": "https://open.spotify.com/track/5ot3q8KR1vzq471WAtCNSU"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 183701,
       "name": "What I Like",
       "url": "https://open.spotify.com/track/4YHSCPGN9Xxd6nAGq2hwFJ"
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 203133,
       "name": "White Mercedes",
       "url": "https://open.spotify.com/track/7fOFeVSyL18q7RiU6cnhiM"
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 214440,
       "name": "White Mercedes",
       "url": "https://open.spotify.com/track/62FCjlfTfQyuOcXGWxVqDj"
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 195320,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/6SDL8459MUpkQ4BElyV1a4"

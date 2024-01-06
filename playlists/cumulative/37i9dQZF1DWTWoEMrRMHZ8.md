@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Marisa Monte
 
-610 songs - 1 day 12 hr 3 min
+611 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,8 @@
 | [Romaria](https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Romaria](https://open.spotify.com/album/5teLxHpmV0NIhOwOSpM1qE) | 3:53 | 2023-10-13 |  |
 | [Rosa Camaleão](https://open.spotify.com/track/21BP4WnSXtGLKjaePYeh8F) | [Rosa Camaleão](https://open.spotify.com/artist/6bjavZT6mu9fVAusWws0r8) | [Rosa Camaleão](https://open.spotify.com/album/4kjJCmtTYACtEVrYR3lSZu) | 3:20 | 2022-06-17 | 2022-07-16 |
 | [Rotação](https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Acústico](https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U) | 3:30 | 2021-12-24 | 2023-09-02 |
-| [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-10-06 |  |
+| [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-10-06 | 2024-01-06 |
+| [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 | 2023-11-24 |  |
 | [Sai da Frente Brasil](https://open.spotify.com/track/1uOh4NuXZA75PrAAMTBKuM) | [Aldir Blanc](https://open.spotify.com/artist/2vxB3dcYKpHO5eQfYetGxT), [Maurício Tapajós](https://open.spotify.com/artist/4mBPkPqppI7pJxjm5GD1wT) | [Aldir Blanc & Maurício Tapajós \- Volume 01](https://open.spotify.com/album/0VoJfur828abUpqUkPPep2) | 4:34 | 2022-05-10 | 2022-06-04 |
 | [Samba Bom Demais](https://open.spotify.com/track/5Rm9x0gnxcn4WtG9cDZUs9) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcia Tauil](https://open.spotify.com/artist/7Aa0vo5yjKHzmo7ClxhHNX), [Rildo Hora](https://open.spotify.com/artist/1k8zzgBXqFh30NWvus8cAl) | [Samba Bom Demais](https://open.spotify.com/album/4uR1TGvczcg7ZLnaDPl8sU) | 3:27 | 2023-07-07 | 2023-09-02 |
 | [Samba De Uma Nota Só](https://open.spotify.com/track/6j1lMk13h5XXJ12aFKS94T) | [Áurea Martins](https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh), [João Senise](https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb) | [Samba De Uma Nota Só](https://open.spotify.com/album/5UJysUQRZYDAXoSYRS6tIB) | 3:29 | 2023-11-03 | 2023-11-25 |

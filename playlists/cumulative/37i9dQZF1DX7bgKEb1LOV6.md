@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-191 songs - 11 hr 8 min
+192 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Make A Wish \(Birthday Song\) \- English Version](https://open.spotify.com/track/1iPmAMVMqoT2ZromLzo305) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:49 | 2021-12-16 | 2023-05-03 |
 | [Make Your Day](https://open.spotify.com/track/0daAodHPqFFWMb28BBSvkV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round – The 2nd Album Repackage](https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee) | 3:35 | 2021-12-16 | 2022-07-29 |
 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 | 2021-12-16 |  |
-| [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2023-05-02 |  |
+| [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2023-05-02 | 2024-01-06 |
+| [MAXIS BY RYAN JHUN Pt\. 1\-Maniac](https://open.spotify.com/track/4Q90kkPqyBv3G7ixxKWow4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN Pt\. 1\-Maniac](https://open.spotify.com/album/4NMbE48vf6THQoyiAxiOCZ) | 3:28 | 2023-06-05 |  |
 | [Miracle](https://open.spotify.com/track/4LR6C06jdnEKfJLwqJ0WoT) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Miracle](https://open.spotify.com/track/6zjJo0D4AsE9ZcogcfA687) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 | 2021-12-16 | 2023-05-03 |
 | [Misfit](https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:35 | 2021-12-16 |  |

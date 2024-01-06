@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-175 songs - 10 hr 52 min
+176 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 | 2022-05-25 |  |
 | [Feelin' Blue](https://open.spotify.com/track/2SNmU4PqvXbqyOdh8HEnUP) | [Del Rio Ramblers](https://open.spotify.com/artist/6jLMFfYQjxVXQgrlYhI7pI) | [Go Away Hound Dog](https://open.spotify.com/album/17joEUj4DSbaTt5xWRV0jP) | 2:28 | 2022-07-08 | 2022-07-25 |
 | [Feelin' Blue](https://open.spotify.com/track/1QMo3fXF53HQFinomEYAHX) | [Shaun Horton's Del Rio Ramblers](https://open.spotify.com/artist/0chn4uz177ClEt71qGG9Nl) | [Go Away Hound Dog](https://open.spotify.com/album/1wakGicpDlN2r6Gu3pNMZ3) | 2:28 | 2023-01-13 | 2023-02-22 |
+| [First McDonell's on the Moon](https://open.spotify.com/track/2UGUwgFhyoNVGkO2Fnyome) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [Hair On Fire](https://open.spotify.com/album/50eRb4S7gHNJpNIqQGfZYK) | 3:51 | 2023-11-24 |  |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-05-25 | 2023-12-25 |
 | [Fussin' and Fightin' \(Blues\)](https://open.spotify.com/track/479M29eunSUcosQ608slSc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:00 | 2022-06-14 |  |
 | [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 | 2023-12-20 |
@@ -69,7 +70,7 @@
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2023-09-22 |  |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-05-25 | 2023-11-04 |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-05-25 |  |
-| [Got to Go Back Home](https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Got to Go Back Home](https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR) | 3:54 | 2022-05-25 |  |
+| [Got to Go Back Home](https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Got to Go Back Home](https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR) | 3:54 | 2022-05-25 | 2024-01-06 |
 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-25 |  |
 | [Guitar Man \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:05 | 2022-07-08 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2022-05-25 |  |

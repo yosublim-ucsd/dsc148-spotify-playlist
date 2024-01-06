@@ -4,11 +4,12 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyjão, Silva
 
-536 songs - 1 day 2 hr 35 min
+537 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Contatinhos](https://open.spotify.com/track/5jJMRcf2rPRQufITrQ7aY9) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Erupçando](https://open.spotify.com/album/2KTq5TxqwAkFzVJoeZRwc0) | 2:33 | 2023-11-10 |  |
+| [31](https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [31](https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C) | 4:11 | 2024-01-05 |  |
 | [48K Apresenta \#1: Ex\-Amor](https://open.spotify.com/track/0S9vWGG4Ywb93Krl6do2QD) | [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI), [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [48K Apresenta \#1: Ex\-Amor](https://open.spotify.com/album/08RqGivsIeiXzUq2yhAOF7) | 4:04 | 2022-05-13 | 2022-10-11 |
 | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/track/5UvrBOUdaADTBCV63v9cqD) | [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/album/4oTmatehS94y8mIDCHACbx) | 2:43 | 2022-05-13 | 2022-10-11 |
 | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13) | 3:27 | 2023-12-01 |  |
@@ -390,7 +391,7 @@
 | [Quintal](https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0) | 2:55 | 2022-11-16 | 2023-01-28 |
 | [Quintal](https://open.spotify.com/track/7fgqc1U6SvDVcyWjcVeFd2) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:55 | 2023-01-27 | 2023-05-27 |
 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 | 2022-12-09 | 2023-07-01 |
-| [Rara Flor](https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Rara Flor](https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc) | 2:21 | 2023-12-01 |  |
+| [Rara Flor](https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Rara Flor](https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc) | 2:21 | 2023-12-01 | 2024-01-06 |
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 |  |
 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-10 | 2023-03-25 |
 | [Resolvi Seguir](https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Resolvi Seguir](https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU) | 2:41 | 2023-04-14 | 2023-08-26 |

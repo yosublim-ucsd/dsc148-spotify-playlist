@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 18638,
+  "num_followers": 18700,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI0MmVhNDNjZDgwMWEzYzVjODgzODVlOGFiY2JmNWI3ZmM3Mjgx",
+  "snapshot_id": "MCwwYjI1NWU4NTRkOGI5NGQ3YjE0NGM1MjM1YjhhOTk4Y2YxOGZkOGE1",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Grinning Cat",
-        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "I Imagine",
-      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 172026,
       "name": "Corsair",
       "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Grinning Cat",
+        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "I Imagine",
+      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -415,6 +415,22 @@
       "duration_ms": 182720,
       "name": "The Six Million Dollar Sandwich",
       "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Opalescent",
-        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Opalescent",
-      "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 270680,
       "name": "Wind and Snow",
       "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Opalescent",
+        "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Opalescent",
+      "url": "https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -539,22 +555,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Sherbet Head",
-      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 457146,
       "name": "Requiem for Dying Mothers, Pt. 2",
       "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -631,6 +615,22 @@
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 410933,
       "name": "Warmed By the Drift",
       "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Ba Ba Ti Ki Di Do",
-        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ba Ba",
-      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "dedication",
         "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Ba Ba Ti Ki Di Do",
+        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ba Ba",
+      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1243,38 +1243,6 @@
       "duration_ms": 387293,
       "name": "Thunderbird Road",
       "url": "https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 378693,
-      "name": "Btwn You + Me",
-      "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 357866,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1299,6 +1267,38 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 378693,
+      "name": "Btwn You + Me",
+      "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Variations: A Movement In Chrome Primitive",
         "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 558800,
       "name": "Variation IV",
       "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Chessa",
-        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
-      },
-      "artists": [
-        {
-          "name": "Shuttle358",
-          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "chessa",
-      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1351,6 +1335,22 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Chessa",
+        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "chessa",
+      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "The Equatorial Stars",
+        "url": "https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 303266,
+      "name": "Tarazed",
+      "url": "https://open.spotify.com/track/3QT8QhEEPubbhfHZxFPZHa"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 351980,
       "name": "Aparaquasynthe (Remastered)",
       "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "The Equatorial Stars",
-        "url": "https://open.spotify.com/album/25us3iSYDeZ7DjV458Uems"
-      },
-      "artists": [
-        {
-          "name": "Robert Fripp",
-          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 303266,
-      "name": "Tarazed",
-      "url": "https://open.spotify.com/track/3QT8QhEEPubbhfHZxFPZHa"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Arves\u00f8lv",
-      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 378840,
       "name": "Welk",
       "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Arves\u00f8lv",
+      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Steel Wound",
-        "url": "https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0"
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
       "artists": [
         {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Swarm",
-      "url": "https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2"
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     }
   ],
   "unique_name": "Ambient 2000s",

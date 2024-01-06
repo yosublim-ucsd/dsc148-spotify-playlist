@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: SV Squad
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,559 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,621 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 |
 | 50 | [Ikot](https://open.spotify.com/track/0rd6noFWDqPWWcCFasvkLR) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [Ikot](https://open.spotify.com/album/573S9oVOjislJJVL3lEIoQ) | 3:32 |
 
-Snapshot ID: `MCxlOTZkNjJkOTdkMjMwZTY5OTdjN2ZjZDcxN2NhOTZkYzYwMGYxYTE4`
+Snapshot ID: `MCwxNjQ1ZDA4MmI3ZDY5NjNmZTM5NGIzMjU4OWJkY2U2MDc1ODI1M2Y2`

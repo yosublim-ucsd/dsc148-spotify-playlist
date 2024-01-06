@@ -2127,6 +2127,28 @@
     },
     {
       "album": {
+        "name": "Hep Cat Boogie (Lounge Version)",
+        "url": "https://open.spotify.com/album/4h3VdYq6ARCmzbdcffIOR9"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170637,
+      "name": "Hep Cat Boogie - Lounge Version",
+      "url": "https://open.spotify.com/track/1d8Yqf3t0eWYFapcQFhDtB"
+    },
+    {
+      "album": {
         "name": "Kitty Litter",
         "url": "https://open.spotify.com/album/50DkyzkH89wI4F96r1YqBN"
       },

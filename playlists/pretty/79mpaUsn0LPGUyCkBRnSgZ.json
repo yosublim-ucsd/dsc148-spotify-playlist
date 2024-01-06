@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTE4MCw4NWE1YThkMmNiNGFhYzVkMzM0N2NjYmNmOTAxOTExNmI1ZGRiNGFk",
+  "snapshot_id": "MTE4NCw2OWQzMTFmMDU5NzM5MDdmYjg3M2IxMWRhODYzYjRhMzlhYjY0MjE0",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -2515,22 +2515,6 @@
       "duration_ms": 168466,
       "name": "Everybody Up",
       "url": "https://open.spotify.com/track/2aQM2qQ09QdBv0OUC6SbaV"
-    },
-    {
-      "added_at": "2023-03-31 05:13:16",
-      "album": {
-        "name": "Dreaming of David",
-        "url": "https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz"
     },
     {
       "added_at": "2023-04-10 05:44:25",
@@ -5065,22 +5049,6 @@
       "url": "https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r"
     },
     {
-      "added_at": "2024-01-01 09:33:56",
-      "album": {
-        "name": "B-Room (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YfNZx0s2EdfINsSoxqDe8"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/1Zjjl59MPvGqR5msmQexs3"
-    },
-    {
       "added_at": "2024-01-01 09:54:45",
       "album": {
         "name": "Glockoma 2",
@@ -5487,6 +5455,42 @@
       "duration_ms": 132917,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el"
+    },
+    {
+      "added_at": "2024-01-05 09:50:21",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "MC Moose",
+          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+    },
+    {
+      "added_at": "2024-01-05 15:34:25",
+      "album": {
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Every Girl",
+      "url": "https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni"
     }
   ],
   "unique_name": "Zacklog",

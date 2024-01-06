@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Nicki Minaj",
+  "description": "That's that big energy. Cover: Amaarae",
   "name": "Bounce",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 146896,
       "name": "FEELING GOOD",
       "url": "https://open.spotify.com/track/1ST96l3wUQSwGgtQu6lzsx"
@@ -1688,6 +1688,24 @@
       "duration_ms": 162648,
       "name": "HOOD RAT SHIT",
       "url": "https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf"
+    },
+    {
+      "album": {
+        "name": "Dancehall Riddim: Rush",
+        "url": "https://open.spotify.com/album/0fLKkhsA6XpMtCoW5QZyOA"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Hotta",
+      "url": "https://open.spotify.com/track/5nRbUg6RP7LjGx9gDAxPOO"
     },
     {
       "album": {
@@ -3386,10 +3404,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7cHNUQEtCX6y7xPnNtV1Rl"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125884,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2tbM222PBUYPSSlRJpjkBa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 143784,
+  "num_followers": 143798,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzc1M2Q1ZjMxN2YxZjZmYzRjNTA1ZDUwNGM0ZWE4ZjAxOGI3ZDhi",
+  "snapshot_id": "MCxhZDkxYzA3ZGZmZTkyYjAwMzUwMmVjNWZkNDExN2ZiNWFiYmMzMjIw",
   "tracks": [
     {
       "added_at": "2023-12-06 15:29:48",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Reckless Tongue",
-        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
-      },
-      "artists": [
-        {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
-        }
-      ],
-      "duration_ms": 178795,
-      "name": "Reckless Tongue",
-      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 203133,
       "name": "I've Been Bored",
       "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Reckless Tongue",
+        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
+      },
+      "artists": [
+        {
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+        }
+      ],
+      "duration_ms": 178795,
+      "name": "Reckless Tongue",
+      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Neon Brother",
+      "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "Troublegum",
         "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+        "name": "Ideas Above Our Station",
+        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 235826,
-      "name": "Neon Brother",
-      "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
+      "duration_ms": 186280,
+      "name": "I'll Find You",
+      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1035,22 +1051,6 @@
       "duration_ms": 219080,
       "name": "Holy",
       "url": "https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Ideas Above Our Station",
-        "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "I'll Find You",
-      "url": "https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Get Found",
+      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "Dance on the Blacktop",
         "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 229080,
       "name": "The Stone",
       "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Gb City",
-        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Get Found",
-      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6JE92lOONx7GauCCIsKX3s"
-      },
-      "artists": [
-        {
-          "name": "Sly Withers",
-          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1wBy0okEa7TIBWizzo5acb"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6JE92lOONx7GauCCIsKX3s"
+      },
+      "artists": [
+        {
+          "name": "Sly Withers",
+          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1wBy0okEa7TIBWizzo5acb"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "The Difference In Good And Bad Dreams",
-        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
-      },
-      "artists": [
-        {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Damp",
-      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 201933,
       "name": "57",
       "url": "https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "The Difference In Good And Bad Dreams",
+        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+      },
+      "artists": [
+        {
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Damp",
+      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
-      },
-      "artists": [
-        {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Under Exit Lights",
         "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "They Liked You Better When You Were Dead",
-        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
       },
       "artists": [
         {
-          "name": "Fightstar",
-          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Palahniuk's Laughter",
-      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -1723,6 +1707,22 @@
       "duration_ms": 166101,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "They Liked You Better When You Were Dead",
+        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+      },
+      "artists": [
+        {
+          "name": "Fightstar",
+          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "Palahniuk's Laughter",
+      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+        "name": "Blackened Sky",
+        "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
       "artists": [
         {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 227738,
-      "name": "Anything Near Conviction",
-      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
+      "duration_ms": 263080,
+      "name": "Justboy",
+      "url": "https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Blackened Sky",
-        "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 263080,
-      "name": "Justboy",
-      "url": "https://open.spotify.com/track/4jXUGaLSe8hb7QplSTl6HK"
+      "duration_ms": 227738,
+      "name": "Anything Near Conviction",
+      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Cosmonauts",
-      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Frogstomp (Remastered)",
         "url": "https://open.spotify.com/album/3l75Nxo6DRRabGNvWt5uay"
       },
@@ -2163,34 +2147,18 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Soundtrack to a Headrush",
-        "url": "https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J"
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
       "artists": [
         {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 228093,
-      "name": "The Hey Man!",
-      "url": "https://open.spotify.com/track/568HEr3Q5meKXKHE5s38f4"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Threes",
-        "url": "https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP"
-      },
-      "artists": [
-        {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "Taking Back Control",
-      "url": "https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK"
+      "duration_ms": 248981,
+      "name": "Cosmonauts",
+      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2211,6 +2179,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Soundtrack to a Headrush",
+        "url": "https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "The Hey Man!",
+      "url": "https://open.spotify.com/track/568HEr3Q5meKXKHE5s38f4"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "Pushing the Senses",
         "url": "https://open.spotify.com/album/7mFJM4nlo4oaPYaUMJhSWv"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 207946,
       "name": "Pushing the Senses",
       "url": "https://open.spotify.com/track/6Oe1au5eJ5bGTw74L7rRbm"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Threes",
+        "url": "https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP"
+      },
+      "artists": [
+        {
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "Taking Back Control",
+      "url": "https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "El Cielo",
-        "url": "https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc"
-      },
-      "artists": [
-        {
-          "name": "Dredg",
-          "url": "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
-        }
-      ],
-      "duration_ms": 314853,
-      "name": "Same Ol' Road",
-      "url": "https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 218288,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "El Cielo",
+        "url": "https://open.spotify.com/album/4xzzmQZfCz1keTBkIgQZFc"
+      },
+      "artists": [
+        {
+          "name": "Dredg",
+          "url": "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+        }
+      ],
+      "duration_ms": 314853,
+      "name": "Same Ol' Road",
+      "url": "https://open.spotify.com/track/71p7rnfNo2gjDdKsQ9Sz9A"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2291,38 +2291,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Soundtrack to a Headrush",
-        "url": "https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Make Tonight",
-      "url": "https://open.spotify.com/track/63iO8MvYbHlGJXi6bAtTcs"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
-        "name": "Regular Urban Survivors",
-        "url": "https://open.spotify.com/album/2doePSnN8F3dTh7CTsjGfR"
-      },
-      "artists": [
-        {
-          "name": "Terrorvision",
-          "url": "https://open.spotify.com/artist/3jNwnthjUjHYvjyvRGfWuQ"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Perseverance",
-      "url": "https://open.spotify.com/track/7HZRHiaVhqY6h2cGf13WIk"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Major/Minor (Deluxe Version)",
         "url": "https://open.spotify.com/album/6aVHBh6GI51UpxeTFMCs07"
       },
@@ -2339,6 +2307,22 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
+        "name": "Soundtrack to a Headrush",
+        "url": "https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Make Tonight",
+      "url": "https://open.spotify.com/track/63iO8MvYbHlGJXi6bAtTcs"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
         "name": "All These Countless Nights (Reworked - Deluxe Version)",
         "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 258453,
       "name": "Cassiopeia - Bonus Track",
       "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Regular Urban Survivors",
+        "url": "https://open.spotify.com/album/2doePSnN8F3dTh7CTsjGfR"
+      },
+      "artists": [
+        {
+          "name": "Terrorvision",
+          "url": "https://open.spotify.com/artist/3jNwnthjUjHYvjyvRGfWuQ"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/7HZRHiaVhqY6h2cGf13WIk"
     },
     {
       "added_at": "2023-12-06 15:29:48",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-12-06 15:29:48",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
-      },
-      "artists": [
-        {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
-    },
-    {
-      "added_at": "2023-12-06 15:29:48",
-      "album": {
         "name": "Open Book",
         "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 191657,
       "name": "Always",
       "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
+    },
+    {
+      "added_at": "2023-12-06 15:29:48",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

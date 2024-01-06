@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Undisputed Anthems from professional party starters\. Cover: Chase & Status
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,497 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,525 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 64 | [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 |
 | 65 | [In My Head \(feat\. Shayan\)](https://open.spotify.com/track/41ftjwBKEn5vjMslWMA195) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [In My Head \(feat\. Shayan\)](https://open.spotify.com/album/0mV5yjkvo3rjFGMhduzsIh) | 2:50 |
 | 66 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 67 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
-| 68 | [Rude Boy](https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt) | [Rude Boy](https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl) | 2:31 |
+| 67 | [Rude Boy](https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt) | [Rude Boy](https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl) | 2:31 |
+| 68 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 69 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
 | 70 | [Every Little Thing](https://open.spotify.com/track/2ovlaCF5IsApzvIpa5k64l) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Every Little Thing](https://open.spotify.com/album/3mWwqrqWfnmSRKTxtvSfDI) | 2:38 |
 | 71 | [Balling](https://open.spotify.com/track/2fHWxn8NyuJJ9c8ZkjWXZq) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Balling](https://open.spotify.com/album/1l6wrvsYeH8wiXDEVVeoEv) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Feels Darker \(Feel It\)](https://open.spotify.com/track/4BbBV9dK1kMqD7gGypB5WO) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Feels Darker \(Feel It\)](https://open.spotify.com/album/4CM6i2MQ9dm8kIjk0wh55g) | 3:23 |
 | 80 | [Torta](https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Torta](https://open.spotify.com/album/4vtE1c1L7oaeg5s4kiciN8) | 2:24 |
 
-Snapshot ID: `MCw1NDRjOTVkZThhNTA4YjNmMjNkYWRiMmQyMGRjYWQ0ZDM1NTk4Mjk0`
+Snapshot ID: `MCw1MDM4OGM5ZjFjODViYzhiNmJlNGEyNGJlN2YzODhiYzExMTAwZDk3`

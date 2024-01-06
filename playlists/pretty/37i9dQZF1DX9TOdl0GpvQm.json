@@ -1,12 +1,12 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 136926,
+  "num_followers": 137013,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTEzM2M3NDFjODA0MTI3ZDcxZGY2ZGFhMzA5ZDBkOTU4ZjgxNGY3",
+  "snapshot_id": "MCw1YTQzYjI5MzFlMzRkNjBmNjAwZmNhMzA4YzI2M2ViNzQ3YzU0ZTE5",
   "tracks": [
     {
       "added_at": "2023-12-20 05:17:07",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
-      "added_at": "2022-09-03 03:46:33",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Music from Patch Cord Productions",
@@ -747,6 +731,22 @@
       "duration_ms": 133056,
       "name": "Baroque No. 2",
       "url": "https://open.spotify.com/track/6jhnZe6kcc1rKijKuCOnKs"
+    },
+    {
+      "added_at": "2022-09-03 03:46:33",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-08-22 21:35:06",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/1jmfCG7E5dzJgzwhZ0ISyR"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
-      },
-      "artists": [
-        {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
-    },
-    {
       "added_at": "2021-12-09 02:42:43",
       "album": {
         "name": "Good Time Original Motion Picture Soundtrack",
@@ -811,6 +795,22 @@
       "duration_ms": 313424,
       "name": "Leaving The Park",
       "url": "https://open.spotify.com/track/4svWhqInElR6EybNv6UKRT"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
-        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
-      },
-      "artists": [
-        {
-          "name": "Throbbing Gristle",
-          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Hamburger Lady - Remastered",
-      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "In Fabric OST",
         "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 254624,
       "name": "Mannequin Metric",
       "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
+        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
+      },
+      "artists": [
+        {
+          "name": "Throbbing Gristle",
+          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Hamburger Lady - Remastered",
+      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -947,6 +947,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Garden Of Delete",
+        "url": "https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 234938,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
         "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 271853,
       "name": "the be colony",
       "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Garden Of Delete",
-        "url": "https://open.spotify.com/album/0B0pnJCB4ECF12VNo49p6g"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 234938,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/0acBwRDpjauwpGXKSg5wCD"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "How Much Time it is Between You and Me?",
-        "url": "https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 256112,
-      "name": "Memories of Grass",
-      "url": "https://open.spotify.com/track/0TpPYzoSRxHVIAk6I9W6wp"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "When",
         "url": "https://open.spotify.com/album/6Jd8jPjZp7sUxwmNa0R3de"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 240666,
       "name": "My Beautiful White Dog",
       "url": "https://open.spotify.com/track/2GuZ0I1IToF2FTiXhfaRc6"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "How Much Time it is Between You and Me?",
+        "url": "https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 256112,
+      "name": "Memories of Grass",
+      "url": "https://open.spotify.com/track/0TpPYzoSRxHVIAk6I9W6wp"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1189,24 +1189,20 @@
       "url": "https://open.spotify.com/track/6vY0R1nmvSk58Ftvj163PQ"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2022-09-26 22:17:41",
       "album": {
-        "name": "The Power (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ii8EDJc135TrI3uwSPbUk"
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
       },
       "artists": [
         {
-          "name": "Gazelle Twin",
-          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
-        },
-        {
-          "name": "Max de Wardener",
-          "url": "https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 96597,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3"
+      "duration_ms": 244693,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1229,20 +1225,24 @@
       "url": "https://open.spotify.com/track/6LiXFb3anc7SqGmyu7D8N1"
     },
     {
-      "added_at": "2022-09-26 22:17:41",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "In Free Fall",
-        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+        "name": "The Power (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ii8EDJc135TrI3uwSPbUk"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Gazelle Twin",
+          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
+        },
+        {
+          "name": "Max de Wardener",
+          "url": "https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG"
         }
       ],
-      "duration_ms": 244693,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
+      "duration_ms": 96597,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Last Panthers",
-        "url": "https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 195269,
-      "name": "Strangled To Death In A Public Toilet",
-      "url": "https://open.spotify.com/track/656AfjtJiPra3BmDJihzbA"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "The Elektrik Karousel",
         "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Last Panthers",
+        "url": "https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 195269,
+      "name": "Strangled To Death In A Public Toilet",
+      "url": "https://open.spotify.com/track/656AfjtJiPra3BmDJihzbA"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "S\u00e9ance at Hobs Lane",
-        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
       "artists": [
         {
-          "name": "Mount Vernon Arts Lab",
-          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
         }
       ],
-      "duration_ms": 193346,
-      "name": "The Black Drop",
-      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
+      "duration_ms": 255693,
+      "name": "Thistledown",
+      "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"
     }
   ],
   "unique_name": "Hauntology",

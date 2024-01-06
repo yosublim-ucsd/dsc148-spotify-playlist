@@ -4,7 +4,7 @@
 
 > Hit the road to the soundtrack of these seventies classics.
 
-293 songs - 20 hr 11 min
+294 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Annie's Song](https://open.spotify.com/track/0pIrZLoXAuTfnMGjhVNxe3) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The Essential John Denver](https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5) | 3:00 | 2021-02-10 | 2022-06-10 |
 | [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 | 2021-02-10 |  |
 | [Baby Love](https://open.spotify.com/track/0hyZgl8tHThlycPEVwBpax) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Another Mother Further](https://open.spotify.com/album/6OQBoCdyg4yk67bIVgZqnF) | 4:22 | 2021-02-10 | 2022-04-16 |
+| [Bad, Bad Leroy Brown](https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt) | 2:59 | 2021-02-10 |  |
 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/14nBn3kUcfhDnGyKRUrVHr) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life And Times](https://open.spotify.com/album/1W8lksoNXJHs8RjWsDEdpk) | 3:01 | 2021-02-10 | 2022-07-29 |
 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 3:02 | 2021-02-10 | 2023-11-04 |
 | [Badlands](https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:02 | 2021-02-10 | 2023-07-13 |
@@ -121,7 +122,7 @@
 | [It's A Heartache](https://open.spotify.com/track/2kBAG8J7THPwTlXEm7GHG2) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [It's A Heartache](https://open.spotify.com/album/1b1PIS0LzGy9bTsqn8XNya) | 3:28 | 2021-02-10 | 2022-04-21 |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2021-02-10 |  |
 | [Jane](https://open.spotify.com/track/0fFtudFYi0ZJwGQEZEh6PU) | [Jefferson Starship](https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF) | [Freedom At Point Zero](https://open.spotify.com/album/1TevhdyoQn4fEa90Gcql1j) | 4:12 | 2021-02-10 | 2022-04-20 |
-| [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 | 2021-02-10 |  |
+| [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 | 2021-02-10 | 2024-01-06 |
 | [Jet \- Remastered 2010](https://open.spotify.com/track/13VWHWIIVckG3bHq6oduFJ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/5WDwQd1NNzitecaWN7BoUB) | 4:08 | 2021-02-10 | 2022-07-28 |
 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 | 2021-02-10 | 2023-12-30 |
 | [Jet Airliner](https://open.spotify.com/track/5ovGB9J0P010phJRAw8sdY) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/62FOZoDIbiDFw4VYOiOj04) | 3:35 | 2021-02-10 | 2022-04-20 |

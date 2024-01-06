@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-201 songs - 8 hr 51 min
+203 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Feel Invisible](https://open.spotify.com/track/4788vVadOEMH5pSoX6ZnEk) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Feel Invisible](https://open.spotify.com/album/2Lv35h237ZtcHaBvY3GL8c) | 2:43 | 2023-11-22 | 2023-12-30 |
 | [Feelings](https://open.spotify.com/track/13Avv9lg39BbEhyeSmC3J9) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9) | [Feelings](https://open.spotify.com/album/2NIxKRTWylL6YQaRsuOXfy) | 2:20 | 2023-12-04 |  |
 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 | 2023-09-22 |  |
+| [Flowers](https://open.spotify.com/track/76STLPfFzQgvGnLtIlEoLP) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Flowers](https://open.spotify.com/album/1eyHgzBpAmJeJkzsjaEwvT) | 3:09 | 2024-01-05 |  |
 | [Fly](https://open.spotify.com/track/5Lwdx5gUegew9hbycRnjSw) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Fly](https://open.spotify.com/album/3pTP6gdMWrJBOPwFZEr5Sa) | 3:00 | 2023-10-27 |  |
 | [Forgot About Me](https://open.spotify.com/track/0oDVOmiqG6Ztkslpbaf3xa) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Forgot About Me](https://open.spotify.com/album/2DdHPdwBqOH9rf2460wECH) | 1:38 | 2023-09-22 |  |
 | [Free](https://open.spotify.com/track/2Shm6zYtlexG45xAu1oxg8) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Free](https://open.spotify.com/album/4mcIn2gp1KgL09URHYYrE8) | 2:03 | 2023-10-13 |  |
@@ -167,6 +168,7 @@
 | [Smooth Operator](https://open.spotify.com/track/0EnilVWwRs0G4VeijF8c4O) | [Beachlife](https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF) | [Smooth Operator](https://open.spotify.com/album/4kvcwzM0CsmqnYGgkGX7HM) | 3:12 | 2023-10-07 |  |
 | [Smooth Operator](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Smooth Operator](https://open.spotify.com/album/0yv0ZcxUJ5wUxRXYpL21Gk) | 3:06 | 2023-12-12 |  |
 | [So Long](https://open.spotify.com/track/2MgAhjcBonrPzFM7hmjvz5) | [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [lunne.](https://open.spotify.com/artist/5goXrxWAAzbAiWUsDkm8mk) | [So Long](https://open.spotify.com/album/0kMygFJabOWCx0ELzJRHAa) | 2:13 | 2023-10-24 |  |
+| [Someone Else's Love](https://open.spotify.com/track/7185SlFIvEKtNH8A8OcWLz) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [DAV5](https://open.spotify.com/artist/47dPr2uiIrwKz4ALQ6ejWG) | [Someone Else’s Love](https://open.spotify.com/album/4t1fOSQ2fIx31fhb6sjKlX) | 2:34 | 2024-01-05 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/3TKa8yERndZnBgC9NmtVld) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Somewhere Only We Know](https://open.spotify.com/album/2rmTvGRyqQK3BpTXUWZjFc) | 2:50 | 2023-09-22 |  |
 | [Sound of Your Summer \- SUPER\-Hi Remix](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr) | [Quarry](https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Sound of Your Summer](https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti) | 3:08 | 2023-09-22 |  |
 | [Still Standing](https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Still Standing](https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY) | 2:15 | 2024-01-04 |  |

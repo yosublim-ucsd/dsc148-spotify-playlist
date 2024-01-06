@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Love Ya",
+        "url": "https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w"
+    },
+    {
+      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 187102,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"

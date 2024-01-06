@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292189,
+  "num_followers": 292178,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDVmN2VmYTgyOTRlNWExYjkwYzU4NTc4OWFmZjUyNTBkYTg5NTY5",
+  "snapshot_id": "MCwwYzJlZDQ1MjY1MDRiM2NlOTllNDg3NDkxNWYwNDE5OWJlYjE3MmUy",
   "tracks": [
     {
       "added_at": "2023-12-15 11:18:05",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Eu T\u00f4 Bem",
-        "url": "https://open.spotify.com/album/0UB56UeSf0wPQBPUjvL896"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "Eu T\u00f4 Bem",
-      "url": "https://open.spotify.com/track/2xk8j9SCiaFehFgxoFVEAW"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -407,22 +391,42 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Novo Mil\u00eanio",
-        "url": "https://open.spotify.com/album/41BCGuGIMZZQcA2shyDSSh"
+        "name": "Eu T\u00f4 Bem",
+        "url": "https://open.spotify.com/album/0UB56UeSf0wPQBPUjvL896"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Elan R\u00fabio",
-          "url": "https://open.spotify.com/artist/2tJcPeSQc6AJIdaMf7saZc"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 176190,
-      "name": "Novo Mil\u00eanio",
-      "url": "https://open.spotify.com/track/6Cym5xlyHMCunqKL3zAyVK"
+      "duration_ms": 154615,
+      "name": "Eu T\u00f4 Bem",
+      "url": "https://open.spotify.com/track/2xk8j9SCiaFehFgxoFVEAW"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 182003,
+      "name": "N\u00e3o Demora",
+      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -451,26 +455,22 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "N\u00e3o Demora",
-        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
+        "name": "Novo Mil\u00eanio",
+        "url": "https://open.spotify.com/album/41BCGuGIMZZQcA2shyDSSh"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         },
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Elan R\u00fabio",
+          "url": "https://open.spotify.com/artist/2tJcPeSQc6AJIdaMf7saZc"
         }
       ],
-      "duration_ms": 182003,
-      "name": "N\u00e3o Demora",
-      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
+      "duration_ms": 176190,
+      "name": "Novo Mil\u00eanio",
+      "url": "https://open.spotify.com/track/6Cym5xlyHMCunqKL3zAyVK"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -515,6 +515,26 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
+        "name": "Tudo \u00c9 Pra Sempre Agora",
+        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
+        }
+      ],
+      "duration_ms": 185328,
+      "name": "Tudo \u00c9 Pra Sempre Agora",
+      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
         "name": "Pensamento",
         "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 139200,
       "name": "Pensamento",
       "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
-        "name": "Tudo \u00c9 Pra Sempre Agora",
-        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Luiza De Alexandre",
-          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
-        }
-      ],
-      "duration_ms": 185328,
-      "name": "Tudo \u00c9 Pra Sempre Agora",
-      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/2hQCBlSmSzix8XhwW3Pvpp"
+      },
+      "artists": [
+        {
+          "name": "Trilho El\u00e9trico",
+          "url": "https://open.spotify.com/artist/6SGMJnDLcVz0yz7nt25l5g"
+        },
+        {
+          "name": "Toni Garrido",
+          "url": "https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL"
+        }
+      ],
+      "duration_ms": 231009,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/6Hybh8fGT56gt4519e8RCy"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/2hQCBlSmSzix8XhwW3Pvpp"
-      },
-      "artists": [
-        {
-          "name": "Trilho El\u00e9trico",
-          "url": "https://open.spotify.com/artist/6SGMJnDLcVz0yz7nt25l5g"
-        },
-        {
-          "name": "Toni Garrido",
-          "url": "https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL"
-        }
-      ],
-      "duration_ms": 231009,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/6Hybh8fGT56gt4519e8RCy"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Amor que vem e vai",
-        "url": "https://open.spotify.com/album/1npfnNdXSspeEQpYhIe8RO"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Mc Maha",
-          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Amor que vem e vai",
-      "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "n\u00e3o d\u00e1 certo",
         "url": "https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq"
       },
@@ -1335,8 +1311,32 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+        "name": "Amor que vem e vai",
+        "url": "https://open.spotify.com/album/1npfnNdXSspeEQpYhIe8RO"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Mc Maha",
+          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Amor que vem e vai",
+      "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
       "artists": [
         {
@@ -1344,13 +1344,13 @@
           "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
       "artists": [
         {
@@ -1468,13 +1468,13 @@
           "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         }
       ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2023-12-15 11:18:05",

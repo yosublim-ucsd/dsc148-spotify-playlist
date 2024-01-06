@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,417 songs - 3 day 1 hr 49 min
+1,418 songs - 3 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Himmelen Og Helvete](https://open.spotify.com/track/2xV8E6JUiSTAgrFra3b762) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Enten Går Det Bra...](https://open.spotify.com/album/3hWNz4z3mOcjj3JMbNFNRx) | 2:52 | 2022-02-26 | 2022-03-13 |
 | [History](https://open.spotify.com/track/4xX4zOMh1krABkrzuOyF2u) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [History](https://open.spotify.com/album/2XOLERtBwcmk76QKo44ojz) | 2:44 | 2021-05-09 | 2021-05-10 |
 | [Hjemme for meg](https://open.spotify.com/track/7JTcRjQ2dXXuCWCBWQdrvF) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hjemme for meg](https://open.spotify.com/album/719up99DviL8hUvJIUNbxk) | 2:22 | 2023-11-11 | 2023-12-31 |
+| [HJEMMESLAY](https://open.spotify.com/track/1E4KY1yKSCnYpAguixncQZ) | [EIGHT](https://open.spotify.com/artist/189SU7GvkTPNe95eyblBpz), [PHUNK](https://open.spotify.com/artist/6lwGFUhh49s5W0amMSTPqW) | [HJEMMESLAY](https://open.spotify.com/album/7LSibvrLepHxzCLmid9N6U) | 3:26 | 2024-01-05 |  |
 | [Hjerteknuser](https://open.spotify.com/track/3RAHhTC61TZLoQ7I6FfgdN) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Violeta Violeta Volume I](https://open.spotify.com/album/32wGzwMnSvQjp5PmjGEPtz) | 3:20 | 2023-10-13 | 2023-11-18 |
 | [Hjerteknuser](https://open.spotify.com/track/77F3wu9VD3TgxXjHCq8A7W) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Violeta Violeta Volume 1](https://open.spotify.com/album/7kxHh6YvSb0kaW3Mj1Csaw) | 3:20 | 2022-08-29 | 2022-11-29 |
 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 | 2022-08-29 | 2022-10-02 |
@@ -1366,7 +1367,7 @@
 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 | 2023-03-30 | 2023-04-15 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn) | 3:09 | 2021-12-05 | 2021-12-06 |
 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2022-06-04 | 2022-06-10 |
-| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-22 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-22 | 2024-01-06 |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2023-05-15 | 2023-05-18 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-10-10 |
 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 | 2022-05-14 | 2022-05-16 |

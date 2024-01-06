@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Jessi Uribe
 
-197 songs - 10 hr 8 min
+198 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 | 2022-08-12 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/3x0cDerFLCgNxTsUWtjoAi) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [El Rey del Chupe](https://open.spotify.com/album/7jDZkDqmE1QNWEvcrxXwwm) | 2:28 | 2022-08-12 |  |
 | [Sobreviviré](https://open.spotify.com/track/0er9eZxOsGP652IMsKCVil) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Sobreviviré](https://open.spotify.com/album/5J4Phy8c2UDxTQ1kB4ThgN) | 3:56 | 2023-11-10 |  |
-| [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 | 2022-08-12 |  |
+| [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 | 2022-08-12 | 2024-01-06 |
+| [Soltero Feliz](https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB) | 3:51 | 2023-12-01 |  |
 | [Te Extraño](https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Te Extraño](https://open.spotify.com/album/1pdxfcoAl2QOW3WOC1R8zd) | 3:03 | 2022-08-12 |  |
 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 | 2023-12-01 |  |
 | [Te Hice Llorar](https://open.spotify.com/track/1LUT39TVX4LAIHZLbxAVDt) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Hice Llorar](https://open.spotify.com/album/7H2htZEeJCoOPc3LjQK55o) | 3:34 | 2022-08-12 | 2022-09-17 |

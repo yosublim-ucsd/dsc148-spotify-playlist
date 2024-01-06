@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Old Doll",
+        "url": "https://open.spotify.com/album/6k2iT9zmaXLZ1YDCwxRGzz"
+      },
+      "artists": [
+        {
+          "name": "Bluerra-sai",
+          "url": "https://open.spotify.com/artist/3WciAVM3DxjIWwV3aSugVa"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99474,
+      "name": "Old Doll",
+      "url": "https://open.spotify.com/track/4QT4B0CphCD72sGSpEWqSC"
+    },
+    {
+      "album": {
         "name": "What We Do For Others",
         "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
       },

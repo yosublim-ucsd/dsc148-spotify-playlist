@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 33188,
+  "num_followers": 33196,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDM5Y2NiOGM5NGVjMDMxMDJkMDA5MWZmZDU1ZThiMTFkOGE2YjAx",
+  "snapshot_id": "MCwzNGMwZjVkMzI3MDE0YWE1ZjliMmU1YjgwMDQyMjNhOTBhZmJiNDRj",
   "tracks": [
     {
       "added_at": "2024-01-03 10:22:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
-        "url": "https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
-      "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
         "name": "Giraffenaffen Winterlieder",
         "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 185840,
       "name": "Rudolf, das kleine Rentier",
       "url": "https://open.spotify.com/track/5yW31PRWyrTGn5vnU8HBGy"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+        "url": "https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Der M\u00f6hrennasen-Dieb (Das kleine Kaninchen)",
+      "url": "https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Kr\u00e4mer",
-          "url": "https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "Pingpong im Dezember",
-      "url": "https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
         "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
         "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 237826,
       "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
       "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kr\u00e4mer",
+          "url": "https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq"
+        }
+      ],
+      "duration_ms": 156573,
+      "name": "Pingpong im Dezember",
+      "url": "https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO"
     },
     {
       "added_at": "2024-01-03 10:22:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-01-03 10:22:00",
       "album": {
+        "name": "Giraffenaffen Winterlieder",
+        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Catterfeld",
+          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Winter Wunderland",
+      "url": "https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv"
+    },
+    {
+      "added_at": "2024-01-03 10:22:00",
+      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 281440,
       "name": "Gute Zeit",
       "url": "https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g"
-    },
-    {
-      "added_at": "2024-01-03 10:22:00",
-      "album": {
-        "name": "Giraffenaffen Winterlieder",
-        "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Catterfeld",
-          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Winter Wunderland",
-      "url": "https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv"
     },
     {
       "added_at": "2024-01-03 10:22:00",

@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 400440,
+  "num_followers": 400537,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGVhZWE1M2YwYTQ4YWFhNDhlOTM1NjQzNzZkOTVkN2ExOTM2Y2Jm",
+  "snapshot_id": "MCw1NWU5YmExNjIzMWZjYzdiY2FmNmU1YmIwMjg2NGVmNDFiM2UyNGYx",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
+        "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 210364,
+      "name": "Grito de Jubilo",
+      "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "De La a a La Z",
         "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
-        "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 210364,
-      "name": "Grito de Jubilo",
-      "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1079,22 +1095,6 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
-        }
-      ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/5g3M3W1QqI4YYTFLjjnSfa"
       },
@@ -1199,8 +1183,24 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Fragmentos del Cielo",
-        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 212806,
-      "name": "Mi Roca",
-      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
+      "duration_ms": 240704,
+      "name": "Pintas el Aire",
+      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
     },
     {
       "added_at": "2021-05-21 19:19:27",

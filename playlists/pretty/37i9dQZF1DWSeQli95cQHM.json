@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10766,
+  "num_followers": 10769,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzViODdjOGQ3M2IzMzk0MjRlYjQzM2Q3NGVjYzJjMDJiNGZlYjc5",
+  "snapshot_id": "MCw1Njk1NDRmODdlNzBkYmVmOTA0MWM1ZTQ0MGJlMjg0MDU0MjViNmYw",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Movimento Paralelo, Vol.1",
+        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
+      },
+      "artists": [
+        {
+          "name": "Guillerrrmo",
+          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
+        }
+      ],
+      "duration_ms": 248062,
+      "name": "Sarrafando Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Kengaral Eletrohits, Vol. 2",
         "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Geleia de Morango",
-        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 349250,
-      "name": "Geleia de Morango",
-      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Charme",
         "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
       },
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Movimento Paralelo, Vol.1",
-        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
+        "name": "Geleia de Morango",
+        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
       },
       "artists": [
         {
-          "name": "Guillerrrmo",
-          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
         }
       ],
-      "duration_ms": 248062,
-      "name": "Sarrafando Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
+      "duration_ms": 349250,
+      "name": "Geleia de Morango",
+      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Keyboard Cats EP",
+        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mussi",
+          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
+        }
+      ],
+      "duration_ms": 369924,
+      "name": "Keyboard Cats",
+      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Kin Sharuba",
         "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
@@ -747,6 +763,26 @@
       "duration_ms": 469695,
       "name": "Kin Sharuba",
       "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+      },
+      "artists": [
+        {
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -779,42 +815,6 @@
       "duration_ms": 487073,
       "name": "Maelstro\u0308m",
       "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
-      },
-      "artists": [
-        {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Keyboard Cats EP",
-        "url": "https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t"
-      },
-      "artists": [
-        {
-          "name": "Amanda Mussi",
-          "url": "https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ"
-        }
-      ],
-      "duration_ms": 369924,
-      "name": "Keyboard Cats",
-      "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Bajolo Vol. I",
+        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
+      },
+      "artists": [
+        {
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
+        }
+      ],
+      "duration_ms": 384480,
+      "name": "Vou Pra Longe (Floatin')",
+      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "V.Acina, Vol.1",
         "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 357128,
       "name": "Dance n' Casa",
       "url": "https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Bajolo Vol. I",
-        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
-      },
-      "artists": [
-        {
-          "name": "Carrot Green",
-          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
-        }
-      ],
-      "duration_ms": 384480,
-      "name": "Vou Pra Longe (Floatin')",
-      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
     }
   ],
   "unique_name": "Front BR",

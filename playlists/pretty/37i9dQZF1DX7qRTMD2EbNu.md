@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM?si=e\_R9TELjSLSY\-IeNENn\_Dw"> O'Kenneth</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,138 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,168 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 59 | [Pa! \(feat\. Thywill & City Boy\)](https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:33 |
 | 60 | [Tell 'Em To Shut Up](https://open.spotify.com/track/1M65D5LXMUNiMXka5Hf2oB) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 2:48 |
 
-Snapshot ID: `MCxiYzA5OTQyZjJmZWIyMmY3YjZjYmUxYTI4Yzk3ZTIxZGRhNDg0N2Fj`
+Snapshot ID: `MCw4NGE2ZDlmNmZlMWJkZDA4MjZiOThhYzgxM2UxOGIyNjVlMDUzOGIx`

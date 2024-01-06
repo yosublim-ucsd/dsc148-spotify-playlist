@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: SXMPRA
 
-562 songs - 22 hr 12 min
+565 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2021-09-17 | 2022-06-04 |
 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-29 | 2023-10-25 |
 | [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 | 2023-08-29 |  |
+| [7SEAS](https://open.spotify.com/track/0ufaBulOzEZr6Vs527jcky) | [Scriptz](https://open.spotify.com/artist/3xJcQ2MhRmBDpyFTR9EyGF) | [7SEAS](https://open.spotify.com/album/1JHAw7Qc1LmsStN2Ryhyxy) | 2:10 | 2024-01-05 |  |
 | [7th Grade](https://open.spotify.com/track/2FMo7qMVZuzkTC0RNvetqU) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [7th Grade](https://open.spotify.com/album/0zWDfSw6Zc1N238MhXOvAN) | 2:26 | 2022-12-09 | 2023-03-25 |
 | [8 O 8](https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95) | 3:22 | 2022-09-23 | 2022-10-19 |
 | [8 O 8](https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt) | 3:22 | 2022-09-23 | 2023-06-03 |
@@ -174,6 +175,7 @@
 | [Egodeath](https://open.spotify.com/track/3vsRpvrj5brhZoSQlYl70W) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [Egodeath](https://open.spotify.com/album/2i4chmHEc3ywTGukggYdu2) | 2:01 | 2021-09-17 | 2022-05-11 |
 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-06-10 | 2023-03-04 |
 | [evil empire](https://open.spotify.com/track/6weOGG6GFGbrn8WMTDPvEb) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [evil empire](https://open.spotify.com/album/3i65EWq4NvINtKrOikdSI5) | 1:54 | 2021-09-17 | 2023-01-12 |
+| [EXCUSE ME??](https://open.spotify.com/track/1uSda4N8BCsNpCSSjtUEWg) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC), [Andy Christ](https://open.spotify.com/artist/7CBMPDJkT3251VCtVITNr5) | [EXCUSE ME??](https://open.spotify.com/album/133081TGy3yKC5qRGyBQTe) | 2:02 | 2024-01-05 |  |
 | [EYE SPY](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [EYE SPY](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 | 2022-10-28 | 2023-12-30 |
 | [EZTUNE](https://open.spotify.com/track/6j9sEQFfUWvb48uPSzEsR9) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [EZTUNE](https://open.spotify.com/album/1JgLLCUVQ2LMrcyzAiYA06) | 1:54 | 2023-03-17 | 2023-08-05 |
 | [FAKE](https://open.spotify.com/track/3hmu0jyxSShogL95NOZcLS) | [OMINVS](https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd) | [FAKE](https://open.spotify.com/album/6gIhwhg2qlvjWZjaYVaQjb) | 1:28 | 2022-06-28 | 2023-01-07 |
@@ -233,6 +235,7 @@
 | [HAHA](https://open.spotify.com/track/18Gcl5bxdd8bpBhWOj1rCR) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [HAHA](https://open.spotify.com/album/5TWFIHtoGLtCd8dT4WLbhJ) | 2:40 | 2021-12-21 | 2022-04-21 |
 | [harmful](https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [harmful](https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg) | 2:03 | 2023-12-08 |  |
 | [HEADF1RST](https://open.spotify.com/track/0fLfkuOaS2oVukMM92ksLz) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [HEADF1RST](https://open.spotify.com/album/1nePUQDAvEU6uO7Uh14wsX) | 2:00 | 2022-11-18 | 2023-03-09 |
+| [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 | 2024-01-05 |  |
 | [HEARTSTOPPER](https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/4twfTWkuCk9FLlRE4JaXjd) | 2:13 | 2022-10-28 | 2022-12-07 |
 | [Heat Signature](https://open.spotify.com/track/1GssCptrx184Jcnki9ynvb) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Heat Signature](https://open.spotify.com/album/2RovCyMajVvGr1rhHOp1cz) | 2:00 | 2022-05-27 | 2022-07-27 |
 | [HEDGE FUND](https://open.spotify.com/track/5adVmNmGk5RGKaAHcH0aVz) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P), [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [HEDGE FUND](https://open.spotify.com/album/2LI7BrYd3iwCZcvoLrhMjf) | 2:30 | 2023-05-05 | 2023-07-29 |

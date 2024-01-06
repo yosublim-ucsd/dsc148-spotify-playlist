@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,832 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,891 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 62 | [Screamin'](https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:36 |
 | 63 | [Little Johnny Lee](https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 6:33 |
 | 64 | [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 |
-| 65 | [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 |
-| 66 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
+| 65 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 |
+| 66 | [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 |
 | 67 | [Boogie Albert](https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h) | [Room To Move 1969 \- 1974](https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL) | 2:13 |
 | 68 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 |
 | 69 | [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 71 | [Midnight In Memphis](https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps) | [Curtis Baker & The Bravehearts](https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR) | [Midnight In Memphis](https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60) | 3:07 |
 | 72 | [The Clock Strikes Twelve](https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 2:57 |
 | 73 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 |
-| 74 | [Hey Jose](https://open.spotify.com/track/6QuQyoaQ8Yrv70au1VNTkg) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 5:11 |
-| 75 | [Gaslighter's Ball](https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Gaslighter's Ball](https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo) | 3:10 |
+| 74 | [Gaslighter's Ball](https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Gaslighter's Ball](https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo) | 3:10 |
+| 75 | [Hey Jose](https://open.spotify.com/track/6QuQyoaQ8Yrv70au1VNTkg) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 5:11 |
 | 76 | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Stay High \[Feat\. Cory Henry\]](https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X) | 3:13 |
 | 77 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 |
 | 78 | [Dockside Boogie](https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:40 |
 | 79 | [Little Walter's Boogie](https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Sun Records Originals: Easy](https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e) | 2:33 |
 | 80 | [The Supernatural](https://open.spotify.com/track/4r4fq97cNvnRw7TmN6AaPr) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Truly English Blues Rock Band](https://open.spotify.com/album/4G5jNn7Xlh9eOC1ZyCJYDS) | 2:53 |
 
-Snapshot ID: `MCxmYTdiMmZkYTI5ZjYxM2JjMjY4NzVkYTFiMDRhZWQ1ZDRiODJjZjk2`
+Snapshot ID: `MCxlNTNkYTI2MmZjNGRiZWYzODlhZWUzZWJiMTgxNDUzYzUyZWIxZDBm`

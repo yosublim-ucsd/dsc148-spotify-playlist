@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 99671,
+  "num_followers": 99712,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzUzNjUyODczMDhkNzE0NTU4OWE2ZGQxZjY5OWRjYTQxMjU2ZTFk",
+  "snapshot_id": "MCxiZTY2OWU3NjJkNjEzY2ViYWNmYmQ0Y2I3NzM2MTZmNmY5OTVmOTc5",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Aye",
@@ -319,6 +303,22 @@
       "duration_ms": 289493,
       "name": "Agolo",
       "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
     },
     {
       "added_at": "2019-06-28 16:54:51",

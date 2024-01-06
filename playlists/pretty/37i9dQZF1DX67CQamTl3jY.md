@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第66回グラミー賞</a>\(2024年\)にノミネートされた注目作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,763 likes - 88 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,778 likes - 88 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 87 | [But Not for Me](https://open.spotify.com/track/5pWeSDpfDqhsgqMTl9nLJm) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Alive at the Village Vanguard](https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf) | 9:32 |
 | 88 | [Tight](https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Tight](https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X) | 1:55 |
 
-Snapshot ID: `MCxiNzcyMjE3MTI2MjdmNGQ0MDIxZjI5ZTA2NTU3ODNhOTA2N2FjOWM2`
+Snapshot ID: `MCw1Yzk2MjEwNWMxMTgwM2EwYzk0MDAwNzFlMzQzOWU5MzJjMzg5Y2Uz`

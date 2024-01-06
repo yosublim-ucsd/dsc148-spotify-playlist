@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 33208,
+  "num_followers": 33241,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTE4NGNlZGI0YmY5NGU1ZmJiZDM2Yjk3NzY4MDlkYzg2OWZhMDQx",
+  "snapshot_id": "MCwxMWE0ZWY4ZWViYWE3MTNlYmNjZGUzMjdmYjYwMDdhNzk1N2YyZDA1",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1839,58 +1839,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "All The Way Up",
-        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "All The Way Up (K)",
-      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209633,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
-      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "K-TOWN",
-        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 123280,
-      "name": "K-TOWN",
-      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "WORLDWIDE",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1915,6 +1863,58 @@
       "duration_ms": 258109,
       "name": "MOMMAE (Feat. Crush, Simon Dominic & Honey Cocaine) - Remix",
       "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209633,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
+      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "All The Way Up (K)",
+      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "K-TOWN",
+        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 123280,
+      "name": "K-TOWN",
+      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
       },
@@ -2195,26 +2215,6 @@
       "duration_ms": 235364,
       "name": "REBORN",
       "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2023-11-27 14:05:19",

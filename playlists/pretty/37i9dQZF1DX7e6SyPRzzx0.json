@@ -1,12 +1,12 @@
 {
   "description": "Open that sh*t up! ",
-  "num_followers": 49072,
+  "num_followers": 49192,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQxOTZkYjkxOWJjZGFmOTdhOTY5NTVlNTdmNjhmODcxOWMyNjE0",
+  "snapshot_id": "MCwzNGUzMzJmOTNiZmIyMWIwMzliMWRjNTIwYzgyODdmNmFlMmUzNWQ0",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -95,6 +95,30 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "added_at": "2024-01-05 16:31:42",
+      "album": {
+        "name": "SONY (Mixtape)",
+        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130136,
+      "name": "RICK OWENS (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -827,22 +851,6 @@
       "duration_ms": 192114,
       "name": "off the leash! (feat. yvngxchris and Luisss)",
       "url": "https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "on dat shit",
-        "url": "https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE"
-      },
-      "artists": [
-        {
-          "name": "Highway",
-          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
-        }
-      ],
-      "duration_ms": 178496,
-      "name": "on dat shit",
-      "url": "https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h"
     },
     {
       "added_at": "2023-12-01 03:00:00",

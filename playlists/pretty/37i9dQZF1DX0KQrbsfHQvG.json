@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 191413,
+  "num_followers": 191464,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWExMmQ5YjMwMDk5MDFlOGIyZjdiZTlhZjZlY2Y5MGNkZTJkZWE4",
+  "snapshot_id": "MCxiZmQ3MTU1MjczNjJiNGFmZjg3MTk1YTc5NzBiZWRmYmExMmIxMjQ4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 316717,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "This Is War",
         "url": "https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 326983,
       "name": "This Is War",
       "url": "https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 193371,
-      "name": "Machine Gun (F**k The NRA)",
-      "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
       },
@@ -627,18 +611,34 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 141620,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
+      "duration_ms": 193371,
+      "name": "Machine Gun (F**k The NRA)",
+      "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Prayers for the Damned",
+        "url": "https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Prayers for the Damned",
-        "url": "https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk"
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
       "artists": [
         {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 233586,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh"
+      "duration_ms": 141620,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "War Music",
-        "url": "https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "REV001",
-      "url": "https://open.spotify.com/track/7xiTkM9ZWc0QY5uypWTVkL"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "digging for windows",
         "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211253,
       "name": "digging for windows",
       "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "War Music",
+        "url": "https://open.spotify.com/album/06Pm2i8LurTQYVoVv0JUEQ"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "REV001",
+      "url": "https://open.spotify.com/track/7xiTkM9ZWc0QY5uypWTVkL"
     },
     {
       "added_at": "2023-06-23 04:01:00",

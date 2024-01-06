@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 326212,
+  "num_followers": 326303,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDY0ZTk5MjI2OWI0NGI5NDkyMGMyYTViMGM5MTk3Njc5NGY0MDk1",
+  "snapshot_id": "MCxmOTIzYmE3OTkzNTY0OGQ3Y2ZiMjY5NjlhMWZmNmY2M2M3ZTJlMGRi",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-01-03 16:33:08",
       "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -433,20 +433,20 @@
       "url": "https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp"
     },
     {
-      "added_at": "2024-01-03 16:33:08",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2023-12-01 00:01:00",

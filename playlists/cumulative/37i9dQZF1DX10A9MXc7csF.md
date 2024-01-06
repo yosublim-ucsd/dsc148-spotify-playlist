@@ -2,7 +2,7 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: ERRE & Dariell Cano
+> The new school of Música Mexicana\. Cover: Daniel Garcia
 
 644 songs - 1 day 9 hr 22 min
 

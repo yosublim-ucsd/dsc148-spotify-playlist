@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6733,
+  "num_followers": 6734,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmNkYTE1MDk0OGE5NDE3YzNmODVkZmIxMWRhZTAyNzFhYmYwN2I0",
+  "snapshot_id": "MCxkOTU4YzRiZDcyZDVlMWUzNGQyZWNkZWRmYzZmMTQyNmIyODVkNmNh",
   "tracks": [
     {
       "added_at": "2023-12-06 20:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Your Love Is Gold",
         "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 166842,
       "name": "Your Love Is Gold",
       "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 176508,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Is It Me?",
-        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Is It Me?",
-      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Mil Pedazos",
         "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
       },
@@ -839,24 +823,24 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "NISSAN",
-        "url": "https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK"
+        "name": "Is It Me?",
+        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
       },
       "artists": [
         {
-          "name": "Harlay",
-          "url": "https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus"
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
         }
       ],
-      "duration_ms": 116680,
-      "name": "NISSAN",
-      "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
+      "duration_ms": 161064,
+      "name": "Is It Me?",
+      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
     },
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "XO clubeteado / NOS SOLTAMOS chiliado",
-        "url": "https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho"
+        "name": "XO clubeteado",
+        "url": "https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq"
       },
       "artists": [
         {
@@ -870,7 +854,23 @@
       ],
       "duration_ms": 154630,
       "name": "XO clubeteado",
-      "url": "https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB"
+      "url": "https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "NISSAN",
+        "url": "https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK"
+      },
+      "artists": [
+        {
+          "name": "Harlay",
+          "url": "https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus"
+        }
+      ],
+      "duration_ms": 116680,
+      "name": "NISSAN",
+      "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
     },
     {
       "added_at": "2023-12-06 20:00:00",
